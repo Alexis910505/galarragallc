@@ -1,6 +1,48 @@
-# Galarraga LLC - Sitio Web
+# Galarraga LLC
 
-Sitio web corporativo para Galarraga LLC, una empresa especializada en servicios de salud y bienestar.
+Sitio web profesional para la clínica de la Dra. Yolanda A. Galarraga Ramirez MD PA.
+
+## 🌐 Sitio en producción
+
+[https://alexis910505.github.io/galarragallc/](https://alexis910505.github.io/galarragallc/)
+
+## 🚀 ¿Cómo ver el sitio en línea?
+
+Simplemente visita la URL anterior desde cualquier navegador.
+
+## 🛠️ Desarrollo local
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Alexis910505/galarragallc.git
+   cd galarragallc
+   ```
+2. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+3. Inicia el servidor de desarrollo:
+   ```bash
+   npm start
+   ```
+4. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+
+## 📦 Despliegue en GitHub Pages
+
+1. Asegúrate de tener configurado el campo `homepage` en `package.json`:
+   ```json
+   "homepage": "https://alexis910505.github.io/galarragallc"
+   ```
+2. Ejecuta:
+   ```bash
+   npm run deploy
+   ```
+
+Esto generará el build y lo publicará automáticamente en GitHub Pages.
+
+---
+
+Desarrollado por Centralized Code LLC.
 
 ## Características
 
