@@ -1,70 +1,125 @@
-# Getting Started with Create React App
+# Galarraga LLC - Sitio Web
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sitio web corporativo para Galarraga LLC, una empresa especializada en servicios de salud y bienestar.
 
-## Available Scripts
+## Características
 
-In the project directory, you can run:
+- Diseño moderno y responsivo
+- Soporte para múltiples idiomas (Español e Inglés)
+- Secciones principales:
+  - Hero con llamada a la acción
+  - Servicios ofrecidos
+  - Cómo ayudamos
+  - Testimonios
+  - Acerca de nosotros
+  - Formulario de contacto
+  - Suscripción a newsletter
+  - Footer con información de contacto
 
-### `npm start`
+## Tecnologías Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- CSS moderno con variables personalizadas
+- Diseño responsivo
+- Optimizado para SEO
+- Compatible con todos los navegadores modernos
+- Desplegado con GitHub Pages
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Requisitos Previos
 
-### `npm test`
+- Node.js (versión 14 o superior)
+- npm o yarn
+- Cuenta de GitHub
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Instalación
 
-### `npm run build`
+1. Clonar el repositorio:
+```bash
+git clone [URL_DEL_REPOSITORIO]
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Instalar dependencias:
+```bash
+npm install
+# o
+yarn install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Iniciar el servidor de desarrollo:
+```bash
+npm start
+# o
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Despliegue con GitHub Pages
 
-### `npm run eject`
+1. Agregar la dependencia `gh-pages` al proyecto:
+```bash
+npm install --save-dev gh-pages
+# o
+yarn add --dev gh-pages
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Agregar los siguientes scripts en el `package.json`:
+```json
+{
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Configurar el repositorio:
+   - Ir a Settings > Pages
+   - En "Source", seleccionar la rama `gh-pages`
+   - Guardar la configuración
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Desplegar el sitio:
+```bash
+npm run deploy
+# o
+yarn deploy
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+El sitio estará disponible en: `https://[tu-usuario].github.io/[nombre-del-repo]`
 
-## Learn More
+## Estructura del Proyecto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+src/
+  ├── components/     # Componentes React
+  ├── translations/   # Archivos de traducción
+  ├── assets/        # Imágenes y recursos
+  ├── App.js         # Componente principal
+  ├── App.css        # Estilos globales
+  └── index.js       # Punto de entrada
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Características de Diseño
 
-### Code Splitting
+- Paleta de colores personalizada con variables CSS
+- Diseño responsivo para todos los dispositivos
+- Animaciones suaves y transiciones
+- Tipografía optimizada para legibilidad
+- Iconos modernos y consistentes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contribución
 
-### Analyzing the Bundle Size
+1. Fork el proyecto
+2. Crear una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abrir un Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contacto
 
-### Making a Progressive Web App
+Para más información sobre el proyecto, por favor contactar a través de:
+- Email: [EMAIL]
+- Teléfono: [TELÉFONO]
+- Sitio web: [URL]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Licencia
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto es privado y propiedad de Galarraga LLC. Todos los derechos reservados.
