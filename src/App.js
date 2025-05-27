@@ -360,7 +360,7 @@ function AppContent() {
           </div>
           <div className="about-image">
             <img 
-              src="images/thumbnail.jpeg" 
+              src="/images/thumbnail.jpeg" 
               alt="Yolanda A. Galarraga Ramirez MD" 
               className="about-thumbnail"
             />
