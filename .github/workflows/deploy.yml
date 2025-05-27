@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -34,4 +35,7 @@ jobs:
           github_token: ${{ secrets.GALARRAGA_TOKEN }}
           publish_dir: ./build
           publish_branch: gh-pages
-          force_orphan: true 
+          force_orphan: true
+          commit_message: "Deploy: Actualización automática desde main"
+          enable_jekyll: false
+          cname: alexis910505.github.io 
