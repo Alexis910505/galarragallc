@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/galarragallc/static/css/main.31137402.css",
+    "main.js": "/galarragallc/static/js/main.4a47adf6.js",
+    "static/js/453.480050d0.chunk.js": "/galarragallc/static/js/453.480050d0.chunk.js",
+    "static/media/hero_image.jpg": "/galarragallc/static/media/hero_image.83965dc78d280b9cee35.jpg",
+    "index.html": "/galarragallc/index.html",
+    "main.31137402.css.map": "/galarragallc/static/css/main.31137402.css.map",
+    "main.4a47adf6.js.map": "/galarragallc/static/js/main.4a47adf6.js.map",
+    "453.480050d0.chunk.js.map": "/galarragallc/static/js/453.480050d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31137402.css",
+    "static/js/main.4a47adf6.js"
+  ]
+}
