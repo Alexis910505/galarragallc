@@ -44,6 +44,8 @@ Esto generará el build y lo publicará automáticamente en GitHub Pages.
 
 Desarrollado por Centralized Code LLC.
 
+> Última actualización: Despliegue automático configurado con GitHub Actions
+
 ## Características
 
 - Diseño moderno y responsivo
