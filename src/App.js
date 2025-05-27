@@ -1,5 +1,4 @@
 import './App.css';
-import heroImage from './images/hero_image.jpg';
 import { useState, useEffect, useRef } from 'react';
 import { LanguageProvider, useLanguage } from './LanguageContext';
 
@@ -134,7 +133,7 @@ function AppContent() {
       <div 
         className={`app-bar ${!isHeroVisible ? 'visible' : ''}`}
         style={{ 
-          backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${heroImage})`,
+          backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(/images/hero_image.jpg)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
@@ -171,7 +170,7 @@ function AppContent() {
       </div>
 
       {/* Hero Section */}
-      <section ref={heroRef} className="hero" style={{ backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${heroImage})` }}>
+      <section ref={heroRef} className="hero" style={{ backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(/images/hero_image.jpg)` }}>
         <div className="language-toggle-container hero-language-toggle">
           <LanguageToggle />
         </div>
@@ -361,7 +360,7 @@ function AppContent() {
           </div>
           <div className="about-image">
             <img 
-              src="/images/thumbnail.jpeg" 
+              src="images/thumbnail.jpeg" 
               alt="Yolanda A. Galarraga Ramirez MD" 
               className="about-thumbnail"
             />
