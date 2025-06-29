@@ -49,4 +49,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build # La carpeta que contiene tu build
-          branch: gh-pages # La rama a la que se desplegará 
+          branch: gh-pages # La rama a la que se desplegará
+          token: ${{ secrets.GITHUB_TOKEN }} 
