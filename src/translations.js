@@ -133,6 +133,7 @@ export const translations = {
     },
     // Footer
     footer: {
+      title: "Yolanda A. Galarraga Ramirez MD PA",
       description: "Yolanda A. Galarraga Ramirez MD PA está comprometida a brindar la más alta calidad en atención pediátrica en un ambiente cómodo y profesional.",
       quickLinks: "Enlaces Rápidos",
       services: "Servicios",
@@ -141,7 +142,31 @@ export const translations = {
       howWeHelp: "Cómo Ayudamos",
       followUs: "Síguenos",
       rights: "Todos los derechos reservados",
-      developedBy: "Desarrollado por Centralized Code LLC"
+      copyright: "Copyright © 2024 Yolanda A. Galarraga Ramirez MD PA - Todos los derechos reservados",
+      developedBy: "Desarrollado por Centralized Code LLC",
+      contactInfo: "Información de contacto y horarios de atención",
+      servicesList: {
+        generalMedicine: "Pediatría General",
+        preventiveMedicine: "Medicina Preventiva",
+        emergencyMedicine: "Urgencias Pediátricas",
+        certifications: "Certificaciones"
+      }
+    },
+    // Certifications Section
+    certifications: {
+      badge: "Certificaciones",
+      title: "Acreditaciones y Reconocimientos",
+      description: "Nuestra clínica cuenta con prestigiosas acreditaciones que garantizan los más altos estándares de calidad y atención centrada en el paciente.",
+      note: "Estas acreditaciones son reconocimientos de excelencia que demuestran nuestro compromiso con la calidad, seguridad y atención integral en el cuidado pediátrico.",
+      links: {
+        aaahc: "¿Qué es AAAHC?",
+        pcmh: "¿Qué es PCMH?"
+      },
+      badges: {
+        accredited: "Acreditado",
+        recognized: "Reconocido",
+        verified: "✓ Verificado"
+      }
     },
     // Nueva sección de suscripción
     subscribe: {
@@ -6502,6 +6527,7 @@ export const translations = {
     },
     // Footer
     footer: {
+      title: "Yolanda A. Galarraga Ramirez MD PA",
       description: "Yolanda A. Galarraga Ramirez MD PA is committed to providing the highest quality pediatric care in a comfortable and professional environment.",
       quickLinks: "Quick Links",
       services: "Services",
@@ -6510,7 +6536,31 @@ export const translations = {
       howWeHelp: "How We Help",
       followUs: "Follow Us",
       rights: "All rights reserved",
-      developedBy: "Developed by Centralized Code LLC"
+      copyright: "Copyright © 2024 Yolanda A. Galarraga Ramirez MD PA - All Rights Reserved.",
+      developedBy: "Powered by Centralized Code LLC",
+      contactInfo: "Contact information and office hours",
+      servicesList: {
+        generalMedicine: "General Pediatrics",
+        preventiveMedicine: "Preventive Medicine",
+        emergencyMedicine: "Pediatric Emergency",
+        certifications: "Certifications"
+      }
+    },
+    // Certifications Section
+    certifications: {
+      badge: "Certifications",
+      title: "Accreditations and Recognitions",
+      description: "Our clinic holds prestigious accreditations that guarantee the highest standards of quality and patient-centered care.",
+      note: "These accreditations are excellence recognitions that demonstrate our commitment to quality, safety, and comprehensive care in pediatric medicine.",
+      links: {
+        aaahc: "What is AAAHC?",
+        pcmh: "What is PCMH?"
+      },
+      badges: {
+        accredited: "Accredited",
+        recognized: "Recognized",
+        verified: "✓ Verified"
+      }
     },
     // New subscription section
     subscribe: {

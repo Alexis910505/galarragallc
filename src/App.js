@@ -2,6 +2,7 @@ import './App.css';
 import { useState, useEffect, useRef } from 'react';
 import { LanguageProvider, useLanguage } from './LanguageContext';
 import FeaturedTopics from './components/FeaturedTopics';
+import Certifications from './components/Certifications';
 
 // Componente para el botón de cambio de idioma
 function LanguageToggle() {
@@ -269,6 +270,9 @@ function AppContent() {
         handleAccordionClick={handleAccordionClick}
       />
 
+      {/* Certifications Section */}
+      <Certifications />
+
       {/* Subscribe Section */}
       <section className="subscribe">
         <div className="subscribe-container">
@@ -457,6 +461,7 @@ function AppContent() {
               <li>{t('footer.servicesList.generalMedicine')}</li>
               <li>{t('footer.servicesList.preventiveMedicine')}</li>
               <li>{t('footer.servicesList.emergencyMedicine')}</li>
+              <li><a href="#certificaciones" style={{ color: 'inherit', textDecoration: 'none' }}>{t('footer.servicesList.certifications')}</a></li>
             </ul>
           </div>
           <div className="footer-section">
@@ -465,7 +470,10 @@ function AppContent() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 {t('footer.copyright')}</p>
+          <div className="footer-bottom-content">
+            <p className="copyright-text">{t('footer.copyright')}</p>
+            <p className="powered-by">{t('footer.developedBy')}</p>
+          </div>
         </div>
       </footer>
     </div>
