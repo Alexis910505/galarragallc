@@ -155,15 +155,29 @@ export const translations = {
     // Certifications Section
     certifications: {
       badge: "Certificaciones",
-      title: "Acreditaciones y Reconocimientos",
-      description: "Nuestra clínica cuenta con prestigiosas acreditaciones que garantizan los más altos estándares de calidad y atención centrada en el paciente.",
-      note: "Estas acreditaciones son reconocimientos de excelencia que demuestran nuestro compromiso con la calidad, seguridad y atención integral en el cuidado pediátrico.",
+      title: "Certificaciones y Reconocimientos",
+      description: "Nuestra clínica cuenta con prestigiosas certificaciones que garantizan los más altos estándares de calidad y atención centrada en el paciente.",
+      note: "Estas certificaciones son reconocimientos de excelencia que demuestran nuestro compromiso con la calidad, seguridad y atención integral en el cuidado pediátrico.",
+      certifiedAsPcmhByAaahc: "Certificada como PCMH por AAAHC",
+      pcmhCertified: "PCMH por AAAHC",
+      aaahcFullName: "Asociación de Acreditación para la Atención Ambulatoria de la Salud (AAAHC)",
+      certificationDescription: "El modelo PCMH (Patient-Centered Medical Home) es un enfoque revolucionario en la atención médica que transforma la forma en que se organiza y brinda la atención primaria. Nuestra clínica ha sido certificada por AAAHC como PCMH, lo que significa que ofrecemos:",
+      featuresTitle: "¿Qué significa esta certificación?",
+      linksTitle: "Más información:",
+      features: [
+        "Atención integral y coordinada centrada en el paciente",
+        "Acceso mejorado y comunicación continua",
+        "Gestión proactiva de la salud y prevención",
+        "Coordinación efectiva entre especialistas",
+        "Tecnología avanzada para seguimiento continuo"
+      ],
       links: {
         aaahc: "¿Qué es AAAHC?",
         pcmh: "¿Qué es PCMH?"
       },
       badges: {
         accredited: "Acreditado",
+        certified: "Certificado",
         recognized: "Reconocido",
         verified: "✓ Verificado"
       }
@@ -6549,15 +6563,29 @@ export const translations = {
     // Certifications Section
     certifications: {
       badge: "Certifications",
-      title: "Accreditations and Recognitions",
-      description: "Our clinic holds prestigious accreditations that guarantee the highest standards of quality and patient-centered care.",
-      note: "These accreditations are excellence recognitions that demonstrate our commitment to quality, safety, and comprehensive care in pediatric medicine.",
+      title: "Certifications and Recognitions",
+      description: "Our clinic holds prestigious certifications that guarantee the highest standards of quality and patient-centered care.",
+      note: "These certifications are excellence recognitions that demonstrate our commitment to quality, safety, and comprehensive care in pediatric medicine.",
+      certifiedAsPcmhByAaahc: "Certified as a PCMH by AAAHC",
+      pcmhCertified: "PCMH by AAAHC",
+      aaahcFullName: "Accreditation Association for Ambulatory Health Care (AAAHC)",
+      certificationDescription: "The PCMH (Patient-Centered Medical Home) model is a revolutionary approach to healthcare that transforms how primary care is organized and delivered. Our clinic has been certified by AAAHC as PCMH, which means we offer:",
+      featuresTitle: "What does this certification mean?",
+      linksTitle: "More information:",
+      features: [
+        "Comprehensive and coordinated patient-centered care",
+        "Enhanced access and continuous communication",
+        "Proactive health management and prevention",
+        "Effective coordination between specialists",
+        "Advanced technology for continuous monitoring"
+      ],
       links: {
         aaahc: "What is AAAHC?",
         pcmh: "What is PCMH?"
       },
       badges: {
         accredited: "Accredited",
+        certified: "Certified",
         recognized: "Recognized",
         verified: "✓ Verified"
       }
