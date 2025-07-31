@@ -4,52 +4,35 @@ import { useLanguage } from '../LanguageContext';
 const Certifications = () => {
   const { t } = useLanguage();
 
-  const certifications = [
-    {
-      id: 1,
-      title: "AAAHC Accreditation",
-      institution: "Accreditation Association for Ambulatory Health Care",
-      year: "2023",
-      badgeType: "accreditation",
-      description: "Certificación AAAHC que garantiza los más altos estándares de calidad y seguridad en atención médica ambulatoria. Esta acreditación demuestra nuestro compromiso con la excelencia en el cuidado pediátrico.",
-      officialLink: "https://www.aaahc.org/",
-      linkText: t('certifications.links.aaahc')
-    },
-    {
-      id: 2,
-      title: "PCMH Recognition",
-      institution: "National Committee for Quality Assurance (NCQA)",
-      year: "2023",
-      badgeType: "recognition",
-      description: "Reconocimiento PCMH (Patient-Centered Medical Home) que certifica nuestro modelo de atención integral centrado en el paciente y su familia, garantizando coordinación de cuidados y seguimiento continuo.",
-      officialLink: "https://www.ncqa.org/programs/health-care-providers-practices/patient-centered-medical-home-pcmh/",
-      linkText: t('certifications.links.pcmh')
-    }
-  ];
+  const certification = {
+    id: 1,
+    title: t('certifications.certifiedAsPcmhByAaahc'),
+    institution: t('certifications.aaahcFullName'),
+    year: "2023",
+    description: t('certifications.certificationDescription'),
+    features: t('certifications.features'),
+          links: [
+        {
+          url: "https://www.aaahc.org/",
+          text: t('certifications.links.aaahc')
+        },
+        {
+          url: "https://www.aaahc.org/certification/primary-care/",
+          text: t('certifications.links.pcmh')
+        }
+      ]
+  };
 
-  const renderBadge = (badgeType) => {
-    if (badgeType === 'accreditation') {
-      return (
-        <div className="certification-badge-container accreditation-badge">
-          <div className="badge-icon">🏆</div>
-          <div className="badge-text">
-            <div className="badge-title">{t('certifications.badges.accredited')}</div>
-            <div className="badge-subtitle">AAAHC</div>
-          </div>
+  const renderBadge = () => {
+    return (
+      <div className="certification-badge-container combined-badge">
+        <div className="badge-icon">🏆</div>
+        <div className="badge-text">
+          <div className="badge-title">{t('certifications.badges.certified')}</div>
+          <div className="badge-subtitle">{t('certifications.pcmhCertified')}</div>
         </div>
-      );
-    } else if (badgeType === 'recognition') {
-      return (
-        <div className="certification-badge-container recognition-badge">
-          <div className="badge-icon">🏠</div>
-          <div className="badge-text">
-            <div className="badge-title">{t('certifications.badges.recognized')}</div>
-            <div className="badge-subtitle">PCMH</div>
-          </div>
-        </div>
-      );
-    }
-    return null;
+      </div>
+    );
   };
 
   return (
@@ -61,32 +44,55 @@ const Certifications = () => {
       </div>
       
       <div className="certifications-grid">
-        {certifications.map((cert) => (
-          <div key={cert.id} className="certification-card">
+        <div className="certification-card enhanced-card">
+          <div className="certification-header">
             <div className="certification-icon">
-              {renderBadge(cert.badgeType)}
-            </div>
-            <div className="certification-content">
-              <h3 className="certification-title">{cert.title}</h3>
-              <p className="certification-institution">{cert.institution}</p>
-              <p className="certification-year">{cert.year}</p>
-              <p className="certification-description">{cert.description}</p>
-              <div className="certification-link">
-                <a 
-                  href={cert.officialLink} 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="official-link"
-                >
-                  {cert.linkText} →
-                </a>
-              </div>
+              {renderBadge()}
             </div>
             <div className="certification-badge">
               <span className="verified-badge">{t('certifications.badges.verified')}</span>
             </div>
           </div>
-        ))}
+          
+          <div className="certification-content">
+            <h3 className="certification-title">{certification.title}</h3>
+            <p className="certification-institution">{certification.institution}</p>
+            <p className="certification-year">{certification.year}</p>
+            
+            <div className="certification-description-section">
+              <p className="certification-description">{certification.description}</p>
+              
+              <div className="certification-features">
+                <h4 className="features-title">{t('certifications.featuresTitle')}</h4>
+                <ul className="features-list">
+                  {certification.features.map((feature, index) => (
+                    <li key={index} className="feature-item">
+                      <span className="feature-icon">✓</span>
+                      {feature}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+            
+            <div className="certification-links">
+              <h4 className="links-title">{t('certifications.linksTitle')}</h4>
+              <div className="links-container">
+                {certification.links.map((link, index) => (
+                  <a 
+                    key={index}
+                    href={link.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="official-link"
+                  >
+                    {link.text} →
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <div className="certifications-footer">
