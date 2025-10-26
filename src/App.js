@@ -3,6 +3,8 @@ import { useState, useEffect, useRef } from 'react';
 import { LanguageProvider, useLanguage } from './LanguageContext';
 import FeaturedTopics from './components/FeaturedTopics';
 import Certifications from './components/Certifications';
+import AttachedInfographic from './components/AttachedInfographic';
+import SubtopicDialog from './components/SubtopicDialog';
 
 // Componente para el botón de cambio de idioma
 function LanguageToggle() {
@@ -26,6 +28,10 @@ function AppContent() {
   const [activeCategory, setActiveCategory] = useState('parents');
   const [selectedTopic, setSelectedTopic] = useState(null);
   const [expandedAccordion, setExpandedAccordion] = useState(null);
+  const [selectedSubtopic, setSelectedSubtopic] = useState(null);
+  const [isSubtopicDialogOpen, setIsSubtopicDialogOpen] = useState(false);
+  
+
   const heroRef = useRef(null);
   const servicesRef = useRef(null);
   const contactRef = useRef(null);
@@ -268,10 +274,25 @@ function AppContent() {
         setSelectedTopic={setSelectedTopic}
         expandedAccordion={expandedAccordion}
         handleAccordionClick={handleAccordionClick}
+        selectedSubtopic={selectedSubtopic}
+        setSelectedSubtopic={setSelectedSubtopic}
+        isSubtopicDialogOpen={isSubtopicDialogOpen}
+        setIsSubtopicDialogOpen={setIsSubtopicDialogOpen}
       />
+
+                        {/* Subtopic Dialog - Renderizado fuera del App para evitar blur */}
+                  <SubtopicDialog
+                    isOpen={isSubtopicDialogOpen}
+                    onClose={() => setIsSubtopicDialogOpen(false)}
+                    subtopic={selectedSubtopic}
+                  />
+
 
       {/* Certifications Section */}
       <Certifications />
+
+      {/* Attached Infographic Section */}
+      <AttachedInfographic />
 
       {/* Subscribe Section */}
       <section className="subscribe">

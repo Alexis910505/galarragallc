@@ -182,6 +182,35 @@ export const translations = {
         verified: "✓ Verificado"
       }
     },
+    // Infographic Section
+    infographic: {
+      badge: "Infografías Adjuntas",
+      title: "Recursos Educativos en PDF",
+      description: "Descarga nuestras infografías educativas diseñadas especialmente para padres y cuidadores. Estos recursos contienen información valiosa sobre el cuidado infantil y el desarrollo de tu hijo.",
+      note: "Toca cualquier imagen para descargar el PDF",
+      actions: {
+        preview: "Vista Previa",
+        download: "Descargar"
+      },
+      files: {
+        leadScreening: {
+          title: "Detección de Plomo",
+          description: "Información sobre detección de plomo"
+        },
+        patientsBill: {
+          title: "Carta de Derechos del Paciente",
+          description: "Derechos y responsabilidades del paciente"
+        },
+        vipPcmh: {
+          title: "VIP PCMH",
+          description: "Información sobre VIP PCMH"
+        },
+        patientMedicalHome: {
+          title: "Hogar Médico del Paciente",
+          description: "¿Qué es un hogar médico para pacientes?"
+        }
+      }
+    },
     // Nueva sección de suscripción
     subscribe: {
       badge: "Mantente Informado",
@@ -212,169 +241,431 @@ export const translations = {
               subtopics: [
                 {
                   title: "Lesiones",
-                  items: [
-                    "Aftas",
-                    "Conmociones cerebrales: Lo que los maestros necesitan saber",
-                    "Cuándo y dónde pedir ayuda médica",
-                    "Cómo se curan los huesos rotos",
-                    "Cómo tomar la temperatura axilar",
-                    "Cómo tomar la temperatura oral",
-                    "Cómo tomar la temperatura rectal",
-                    "Cómo tomarle la temperatura a su hijo",
-                    "Cómo tratar la fiebre",
-                    "Desmayos",
-                    "Dolor abdominal funcional",
-                    "Dolores de cabeza",
-                    "Dolores de crecimiento",
-                    "Fiebre",
-                    "Fisioterapia",
-                    "Fractura ósea",
-                    "Fracturas en rodete",
-                    "Fracturas en tallo verde",
-                    "Fracturas por estrés",
-                    "Férulas",
-                    "Inflamación",
-                    "Ir a la sala de emergencias",
-                    "La enfermedad de Osgood-Schlatter",
-                    "Migrañas",
-                    "Qué hacer con las astillas clavadas",
-                    "Terapia ocupacional"
-                  ]
+                  items: {
+                    "Aftas": {
+                      description: "¿Qué son las aftas? Las aftas son pequeñas llagas que aparecen en la cara interna de los labios o las mejillas, la base de las encías y debajo o encima de la lengua. Las aftas son distintas a los herpes labiales (ampollas febriles), que están causados por un virus y que suelen aparecer fuera de la boca, alrededor de los labios, en las mejillas, la barbilla o dentro de los orificios nasales. Los herpes labiales se pueden contagiar, pero las aftas, no. ¿Cuál es la causa de las aftas? Nadie sabe exactamente qué es lo que causa las aftas. Se cree que hay muchos factores que exponen a las personas a un mayor riesgo de presentar aftas. La dieta puede desempeñar un papel. Parece ser que las personas con dietas pobres en ácido fólico, vitamina B12 y hierro tienen aftas más a menudo, así como las personas con alergias alimentarias. Las heridas en la boca (como morderse el interior del labio y cepillarse los dientes con demasiada fuerza lesionando la delicada membrana que cubre el interior de la boca) también parecen facilitar la aparición de aftas. El lauril sulfato de sodio (LSS), un ingrediente de muchas pastas de dientes y enjuagues bucales, se ha asociado a la aparición de aftas, y a veces las aftas pueden ser un signo de un problema en el sistema inmunitario. Hasta el estrés emocional puede ser un factor implicado en la aparición de aftas. En un estudio, se constató que los estudiantes universitarios tienen más aftas durante los períodos estresantes, como la época de exámenes. ¿Quién puede tener aftas? Aproximadamente 1 de cada 5 personas tienen aftas en la boca, lo que puede convertir en un pequeño suplicio las conductas de comer, beber y cepillarse los dientes. Los adolescentes y los jóvenes que están en torno a los veinte años de edad son quienes las presentan más a menudo, y a las mujeres les afecta el doble de veces que a los hombres. Algunas niñas, chicas y mujeres comprueban que les salen más aftas al principio de sus períodos menstruales. Aunque las aftas no son contagiosas, la tendencia a tener brotes de aftas se puede dar por familias. ¿Cuáles son los signos y los síntomas de las aftas? Las aftas suelen aparecer en forma de pupas o heridas redondas y abiertas, de color blanco o amarillento y provistas de un halo rojo a su alrededor. La mayoría son pequeñas (¼ de pulgada o 6 milímetros) y superficiales, pero a veces pueden ser de mayor tamaño y más profundas. Las aftas suelen salir de una en una, pero a veces aparecen formando racimos o grupos pequeños. A veces, se siente un hormigueo o una quemazón en un área de la boca justo antes de que te aparezca un afta. Las aftas se suelen curar en unas dos semanas. Mientras se están curando, las aftas pueden doler bastante, aunque los peores días suelen ser los 3 o los 4 primeros. A no ser que sea muy grande o muy profunda, las aftas se suelen curar sin dejar cicatriz. ¿Cómo se diagnostican las aftas? Las aftas son bastante frecuentes, pero eso no significa que se deban ignorar. Si su hijo tiene aftas que le duran más de dos semanas o no puede comer ni beber por el dolor que le provocan, llame a su médico. Llámelo también si les salen aftas más de dos o tres veces al año. Generalmente, no hace falta hacer ninguna prueba para diagnosticar las aftas, ya que los médicos las puede identificar solo basándose en los antecedentes médicos del paciente y en una exploración física. Si su hijo tiene muchas aftas o estas son graves, es posible que su médico le quiera hacer pruebas para evaluar posibles deficiencias nutricionales (que se pueden corregir con cambios en la dieta y/o suplementos vitamínicos), problemas en el sistema inmunitario y alergias alimentarias o de otro tipo. ¿Cómo se tratan las aftas? La mayoría de las aftas se curan por si solas en un período que va de pocos días hasta un par de semanas. Si duelen, le puede dar a su hijo un medicamento contra el dolor (o analgésico) de venta libre, como el ibuprofeno o el paracetamol. Si un afta no mejora al cabo de un par de semanas o si a su hijo le siguen volviendo o aparecer nuevas aftas, visiten al médico o al dentista de su hijo. Es posible que le recete un medicamento tópico (que se aplica en la piel) o un enjuague bucal especial para ayudar a que se le curaren las aftas. Con relación a los medicamentos que se deben aplicar directamente sobre el afta, primero seque el área con un pañuelito de papel. Utilice un hisopo (o bastoncillo de algodón) para aplicar una pequeña cantidad del medicamento sobre el afta y asegúrese de que su hijo no come ni bebe durante por lo menos 30 minutos para que la saliva no arrastre el medicamento. ¿Cómo puedo ayudar a mi hijo a encontrarse mejor? Para ayudar a que las aftas le duelan menos y evitar que vuelvan a aparecer, anime a su hijo a: evitar los alimentos de textura áspera, como las patatas fritas industriales y los frutos secos, que pueden irritar las encías y otros tejidos delicados de la boca, cepillarse los dientes y enjuagarse la boca con dentífricos y enjuagues que no contengan lauril sulfato de sodio, usar solo cepillos de dientes con cerdas blandas y tener cuidado de no cepillárselos con demasiada fuerza, evitar todos aquellos alimentos a los que sea alérgico, evitar los alimentos picantes, salados, especiados y ácidos (como el limón y el tomate), que pueden irritar las llagas y otras heridas de la boca."
+                    },
+                    "Conmociones cerebrales: Lo que los maestros necesitan saber": {
+                      description: "¿Qué deben saber los maestros sobre las conmociones cerebrales?<br>Una conmoción cerebral es una lesión que afecta el funcionamiento del cerebro y puede causar síntomas, como dolor de cabeza, mareos y confusión.<br><br>La mayoría de los niños que sufren una conmoción cerebral regresan a la escuela en menos de una semana. Es posible que continúen con síntomas y necesiten ayuda y apoyo especial al regresar. Esta información le permitirá familiarizarse con los síntomas y los desafíos que un estudiante puede tener, además de comprender cómo ayudarlo.<br><br>¿Qué síntomas de una conmoción cerebral pueden presentarse?<br>Los profesionales de la salud permiten que los niños que sufrieron una conmoción cerebral regresen a la escuela una vez que sean capaces de tolerar los síntomas durante 30 a 45 minutos (la duración aproximada de una clase).<br><br>Es probable que los estudiantes que se están recuperando de una conmoción tengan los siguientes síntomas:<br><br>• dolores de cabeza<br>• visión borrosa<br>• cansancio<br>• problemas para concentrarse o recordar las cosas<br>• sensibilidad a la luz<br>• tristeza o irritabilidad<br><br>Tal vez necesiten lo siguiente:<br><br>• un horario reducido en el centro de estudios<br>• menos clases<br>• tiempo adicional para hacer las tareas escolares, los deberes, los trabajos y los exámenes<br>• recibir clases particulares o de apoyo<br>• recibir apuntes o guías de estudio de parte de la escuela<br>• descansar<br>• evitar aquellas actividades que requieran concentración, como los exámenes y otros tipos de pruebas<br>• ponerse al día con el trabajo escolar durante las vacaciones<br>• llevar gafas de sol por su sensibilidad a la luz<br><br>Los estudiantes que continúen con síntomas de una conmoción cerebral o cuyos síntomas empeoren tal vez necesiten un plan formalizado como los siguientes:<br><br>• plan 504 o IEP para asegurarse de que reciban los servicios que necesitan<br>• un protocolo RTI (de respuesta a la intervención) para tener la seguridad de que están mejorando según lo esperable<br><br>¿Qué pueden hacer los maestros si un estudiante presenta síntomas de una conmoción cerebral?<br>Si los síntomas de un estudiante son leves, anímelo a permanecer durante un período completo de clase (de 30 a 45 minutos). Puede apoyar la cabeza en el escritorio durante unos minutos.<br><br>El estudiante debe ver al enfermero en los siguientes casos:<br><br>• si los síntomas duran más de 30 a 45 minutos<br>• si tiene nuevos síntomas o sus síntomas empeoren<br>• si no puede soportar los síntomas<br><br>Si los síntomas de un estudiante no parecen mejorar después de 2 semanas, hable con el personal de enfermería de la escuela. El personal de enfermería podrá hablar con los padres del estudiante para que hagan revisar a su hijo por un médico. Si es necesario, la escuela puede sumar más apoyo.<br><br>¿Qué más debería saber?<br>Que un estudiante pueda ir a la escuela después de haber sufrido una conmoción cerebral no quiere decir, necesariamente, que tenga permitido practicar deportes, hacer educación física u otras actividades que podrían causarle una nueva lesión en la cabeza. Los estudiantes deben respetar las recomendaciones de su médico sobre no practicar deportes ni hacer otras actividades hasta tanto el profesional lo considere necesario.<br><br>Los estudiantes que sufran una lesión en la cabeza mientras están en la escuela deben ser atendidos inmediatamente por el personal de enfermería.<br><br>Cada estudiante se recupera de manera diferente después de una conmoción cerebral. Necesitan el apoyo y la contención de su familia, amigos y maestros para recuperarse y retomar gradualmente las actividades que disfrutaban antes de la conmoción cerebral."
+                    },
+                    "Cuándo y dónde pedir ayuda médica": {
+                      description: ""
+                    },
+                    "Cómo se curan los huesos rotos": {
+                      description: ""
+                    },
+                    "Cómo tomar la temperatura axilar": {
+                      description: ""
+                    },
+                    "Cómo tomar la temperatura oral": {
+                      description: ""
+                    },
+                    "Cómo tomar la temperatura rectal": {
+                      description: ""
+                    },
+                    "Cómo tomarle la temperatura a su hijo": {
+                      description: ""
+                    },
+                    "Cómo tratar la fiebre": {
+                      description: ""
+                    },
+                    "Desmayos": {
+                      description: ""
+                    },
+                    "Dolor abdominal funcional": {
+                      description: ""
+                    },
+                    "Dolores de cabeza": {
+                      description: ""
+                    },
+                    "Dolores de crecimiento": {
+                      description: ""
+                    },
+                    "Fiebre": {
+                      description: ""
+                    },
+                    "Fisioterapia": {
+                      description: ""
+                    },
+                    "Fractura ósea": {
+                      description: ""
+                    },
+                    "Fracturas en rodete": {
+                      description: ""
+                    },
+                    "Fracturas en tallo verde": {
+                      description: ""
+                    },
+                    "Fracturas por estrés": {
+                      description: ""
+                    },
+                    "Férulas": {
+                      description: ""
+                    },
+                    "Inflamación": {
+                      description: ""
+                    },
+                    "Ir a la sala de emergencias": {
+                      description: ""
+                    },
+                    "La enfermedad de Osgood-Schlatter": {
+                      description: ""
+                    },
+                    "Migrañas": {
+                      description: ""
+                    },
+                    "Qué hacer con las astillas clavadas": {
+                      description: ""
+                    },
+                    "Terapia ocupacional": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "El cuerpo humano",
-                  items: [
-                    "Aparato reproductor femenino",
-                    "Aparato reproductor masculino",
-                    "Aspectos básicos del cuerpo",
-                    "Bazo",
-                    "Breve resumen: Cómo funcionan los oídos",
-                    "Corazón y aparato circulatorio",
-                    "El oído",
-                    "Enzimas",
-                    "Grupos sanguíneos",
-                    "Huesos, músculos y articulaciones",
-                    "Metabolismo",
-                    "Ojos",
-                    "Pelo",
-                    "Piel",
-                    "Piel, pelo y uñas: La capa protectora del cuerpo",
-                    "Riñones y vías urinarias",
-                    "Sangre",
-                    "Sistema endocrino",
-                    "Sistema inmunitario",
-                    "Sistema linfático",
-                    "Sistema nervioso",
-                    "Sistema nervioso central: Cerebro (encéfalo) y médula espinal",
-                    "Sistema nervioso periférico",
-                    "Uñas",
-                    "¿Qué es el colágeno?"
-                  ]
+                  items: {
+                    "Aparato reproductor femenino": {
+                      description: ""
+                    },
+                    "Aparato reproductor masculino": {
+                      description: ""
+                    },
+                    "Aspectos básicos del cuerpo": {
+                      description: ""
+                    },
+                    "Bazo": {
+                      description: ""
+                    },
+                    "Breve resumen: Cómo funcionan los oídos": {
+                      description: ""
+                    },
+                    "Corazón y aparato circulatorio": {
+                      description: ""
+                    },
+                    "El oído": {
+                      description: ""
+                    },
+                    "Enzimas": {
+                      description: ""
+                    },
+                    "Grupos sanguíneos": {
+                      description: ""
+                    },
+                    "Huesos, músculos y articulaciones": {
+                      description: ""
+                    },
+                    "Metabolismo": {
+                      description: ""
+                    },
+                    "Ojos": {
+                      description: ""
+                    },
+                    "Pelo": {
+                      description: ""
+                    },
+                    "Piel": {
+                      description: ""
+                    },
+                    "Piel, pelo y uñas: La capa protectora del cuerpo": {
+                      description: ""
+                    },
+                    "Riñones y vías urinarias": {
+                      description: ""
+                    },
+                    "Sangre": {
+                      description: ""
+                    },
+                    "Sistema endocrino": {
+                      description: ""
+                    },
+                    "Sistema inmunitario": {
+                      description: ""
+                    },
+                    "Sistema linfático": {
+                      description: ""
+                    },
+                    "Sistema nervioso": {
+                      description: ""
+                    },
+                    "Sistema nervioso central: Cerebro (encéfalo) y médula espinal": {
+                      description: ""
+                    },
+                    "Sistema nervioso periférico": {
+                      description: ""
+                    },
+                    "Uñas": {
+                      description: ""
+                    },
+                    "¿Qué es el colágeno?": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "El cuerpo del niño",
-                  items: [
-                    "Cartílagos de crecimiento",
-                    "Boca y dientes",
-                    "Colesterol",
-                    "Cómo manejar las náuseas",
-                    "Gráficas de crecimiento",
-                    "Hemangiomas: La historia de Suzanne",
-                    "La voz de su hijo está cambiando",
-                    "Las vacunas de su hijo: Vacuna contra el rotavirus",
-                    "Las vacunas de su hijo: Vacuna contra la hepatitis B",
-                    "Manchas de nacimiento",
-                    "Nutrición y ejercicio físico",
-                    "Queratosis pilaris",
-                    "Sobrepeso y obesidad",
-                    "¿Está bien que mi hijo use productos para cuidarse la piel?",
-                    "Índice de masa corporal (IMC)"
-                  ]
+                  items: {
+                    "Cartílagos de crecimiento": {
+                      description: ""
+                    },
+                    "Boca y dientes": {
+                      description: ""
+                    },
+                    "Colesterol": {
+                      description: ""
+                    },
+                    "Cómo manejar las náuseas": {
+                      description: ""
+                    },
+                    "Gráficas de crecimiento": {
+                      description: ""
+                    },
+                    "Hemangiomas: La historia de Suzanne": {
+                      description: ""
+                    },
+                    "La voz de su hijo está cambiando": {
+                      description: ""
+                    },
+                    "Las vacunas de su hijo: Vacuna contra el rotavirus": {
+                      description: ""
+                    },
+                    "Las vacunas de su hijo: Vacuna contra la hepatitis B": {
+                      description: ""
+                    },
+                    "Manchas de nacimiento": {
+                      description: ""
+                    },
+                    "Nutrición y ejercicio físico": {
+                      description: ""
+                    },
+                    "Queratosis pilaris": {
+                      description: ""
+                    },
+                    "Sobrepeso y obesidad": {
+                      description: ""
+                    },
+                    "¿Está bien que mi hijo use productos para cuidarse la piel?": {
+                      description: ""
+                    },
+                    "Índice de masa corporal (IMC)": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "La nariz, garganta y oídos del niño",
-                  items: [
-                    "Abrasiones corneales",
-                    "Ambliopía",
-                    "Breve resumen: Obstrucción del conducto lagrimal",
-                    "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda",
-                    "Cirugía para abrir un conducto lagrimal obstruido",
-                    "Cómo abordar las lesiones oculares",
-                    "Estrabismo",
-                    "Hemorragia subconjuntival",
-                    "Hipermetropía",
-                    "La vista de su hijo",
-                    "Miopía",
-                    "Ojos morados",
-                    "Pruebas de audición",
-                    "Qué hacer ante la cera de los oídos",
-                    "Trastorno del espectro de la neuropatía auditiva",
-                    "Trastornos temporomandibulares",
-                    "¿Cómo puede mi hijo ver un eclipse solar de manera segura?"
-                  ]
+                  items: {
+                    "Abrasiones corneales": {
+                      description: ""
+                    },
+                    "Ambliopía": {
+                      description: ""
+                    },
+                    "Breve resumen: Obstrucción del conducto lagrimal": {
+                      description: ""
+                    },
+                    "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda": {
+                      description: ""
+                    },
+                    "Cirugía para abrir un conducto lagrimal obstruido": {
+                      description: ""
+                    },
+                    "Cómo abordar las lesiones oculares": {
+                      description: ""
+                    },
+                    "Estrabismo": {
+                      description: ""
+                    },
+                    "Hemorragia subconjuntival": {
+                      description: ""
+                    },
+                    "Hipermetropía": {
+                      description: ""
+                    },
+                    "La vista de su hijo": {
+                      description: ""
+                    },
+                    "Miopía": {
+                      description: ""
+                    },
+                    "Ojos morados": {
+                      description: ""
+                    },
+                    "Pruebas de audición": {
+                      description: ""
+                    },
+                    "Qué hacer ante la cera de los oídos": {
+                      description: ""
+                    },
+                    "Trastorno del espectro de la neuropatía auditiva": {
+                      description: ""
+                    },
+                    "Trastornos temporomandibulares": {
+                      description: ""
+                    },
+                    "¿Cómo puede mi hijo ver un eclipse solar de manera segura?": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "Niños enfermos",
-                  items: [
-                    "Breve resumen: Punción lumbar",
-                    "Convulsiones febriles",
-                    "Cómo tomarle el pulso a su hijo",
-                    "Cómo tratar el dolor al orinar",
-                    "Cómo tratar el estreñimiento",
-                    "Cómo tratar la tos",
-                    "Cómo tratar los vómitos",
-                    "Electrocardiograma (ECG)",
-                    "Electroencefalograma",
-                    "Electromiograma (EMG)",
-                    "Estreñimiento",
-                    "Fibrosis quística: análisis de cloruro en el sudor",
-                    "Lavarse las manos: Por qué es tan importante",
-                    "Prueba estreptocócica: Cultivo de exudado faríngeo",
-                    "Síndrome de fatiga crónica",
-                    "Tos",
-                    "¿Es un resfriado, una gripe, un virus respiratorio sincitial o COVID-19?",
-                    "¿Mi hijo está demasiado enfermo como para ir a la escuela?"
-                  ]
+                  items: {
+                    "Breve resumen: Punción lumbar": {
+                      description: ""
+                    },
+                    "Convulsiones febriles": {
+                      description: ""
+                    },
+                    "Cómo tomarle el pulso a su hijo": {
+                      description: ""
+                    },
+                    "Cómo tratar el dolor al orinar": {
+                      description: ""
+                    },
+                    "Cómo tratar el estreñimiento": {
+                      description: ""
+                    },
+                    "Cómo tratar la tos": {
+                      description: ""
+                    },
+                    "Cómo tratar los vómitos": {
+                      description: ""
+                    },
+                    "Electrocardiograma (ECG)": {
+                      description: ""
+                    },
+                    "Electroencefalograma": {
+                      description: ""
+                    },
+                    "Electromiograma (EMG)": {
+                      description: ""
+                    },
+                    "Estreñimiento": {
+                      description: ""
+                    },
+                    "Fibrosis quística: análisis de cloruro en el sudor": {
+                      description: ""
+                    },
+                    "Lavarse las manos: Por qué es tan importante": {
+                      description: ""
+                    },
+                    "Prueba estreptocócica: Cultivo de exudado faríngeo": {
+                      description: ""
+                    },
+                    "Síndrome de fatiga crónica": {
+                      description: ""
+                    },
+                    "Tos": {
+                      description: ""
+                    },
+                    "¿Es un resfriado, una gripe, un virus respiratorio sincitial o COVID-19?": {
+                      description: ""
+                    },
+                    "¿Mi hijo está demasiado enfermo como para ir a la escuela?": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "El sueño del niño",
-                  items: [
-                    "10 maneras de ayudar a su hijo a dormir mejor",
-                    "Apnea obstructiva del sueño",
-                    "Ayudar a su hijo pequeño a dormir",
-                    "Bruxismo (apretar y rechinar de dientes)",
-                    "Compartir la cama con su bebé",
-                    "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente",
-                    "El sueño y los recién nacidos",
-                    "El sueño y su hijo de 1 a 2 años",
-                    "El sueño y su hijo de 1 a 3 meses",
-                    "El sueño y su hijo de 4 a 7 meses",
-                    "El sueño y su hijo de 8 a 12 meses",
-                    "El sueño y su hijo de preescolar",
-                    "El sueño y su hijo en edad adolescente",
-                    "Los niños y el sueño",
-                    "Mojar la cama (Enuresis)",
-                    "Pesadillas",
-                    "Preguntas más frecuentes sobre la lactancia materna: El sueño suyo y el de su bebé",
-                    "Sonambulismo",
-                    "Suplementos de melatonina",
-                    "Síndrome de cabeza plana (plagiocefalia posicional)",
-                    "Terrores nocturnos",
-                    "Trastorno de retraso de la fase de sueño-vigilia en los adolescentes",
-                    "¿Cómo puedo estar seguro de que mi bebé sigue acostado boca arriba mientras duerme?"
-                  ]
+                  items: {
+                    "10 maneras de ayudar a su hijo a dormir mejor": {
+                      description: ""
+                    },
+                    "Apnea obstructiva del sueño": {
+                      description: ""
+                    },
+                    "Ayudar a su hijo pequeño a dormir": {
+                      description: ""
+                    },
+                    "Bruxismo (apretar y rechinar de dientes)": {
+                      description: ""
+                    },
+                    "Compartir la cama con su bebé": {
+                      description: ""
+                    },
+                    "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente": {
+                      description: ""
+                    },
+                    "El sueño y los recién nacidos": {
+                      description: ""
+                    },
+                    "El sueño y su hijo de 1 a 2 años": {
+                      description: ""
+                    },
+                    "El sueño y su hijo de 1 a 3 meses": {
+                      description: ""
+                    },
+                    "El sueño y su hijo de 4 a 7 meses": {
+                      description: ""
+                    },
+                    "El sueño y su hijo de 8 a 12 meses": {
+                      description: ""
+                    },
+                    "El sueño y su hijo de preescolar": {
+                      description: ""
+                    },
+                    "El sueño y su hijo en edad adolescente": {
+                      description: ""
+                    },
+                    "Los niños y el sueño": {
+                      description: ""
+                    },
+                    "Mojar la cama (Enuresis)": {
+                      description: ""
+                    },
+                    "Pesadillas": {
+                      description: ""
+                    },
+                    "Preguntas más frecuentes sobre la lactancia materna: El sueño suyo y el de su bebé": {
+                      description: ""
+                    },
+                    "Sonambulismo": {
+                      description: ""
+                    },
+                    "Suplementos de melatonina": {
+                      description: ""
+                    },
+                    "Síndrome de cabeza plana (plagiocefalia posicional)": {
+                      description: ""
+                    },
+                    "Terrores nocturnos": {
+                      description: ""
+                    },
+                    "Trastorno de retraso de la fase de sueño-vigilia en los adolescentes": {
+                      description: ""
+                    },
+                    "¿Cómo puedo estar seguro de que mi bebé sigue acostado boca arriba mientras duerme?": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "Los dientes del niño",
-                  items: [
-                    "Aparatos de ortodoncia (brackets)",
-                    "Bruxismo (apretar y rechinar de dientes)",
-                    "Flúor",
-                    "La dentición en los niños",
-                    "Lengua anclada (anquiloglosia)",
-                    "Mantener la dentadura de su hijo sana",
-                    "Trastornos temporomandibulares"
-                  ]
+                  items: {
+                    "Aparatos de ortodoncia (brackets)": {
+                      description: ""
+                    },
+                    "Bruxismo (apretar y rechinar de dientes)": {
+                      description: ""
+                    },
+                    "Flúor": {
+                      description: ""
+                    },
+                    "La dentición en los niños": {
+                      description: ""
+                    },
+                    "Lengua anclada (anquiloglosia)": {
+                      description: ""
+                    },
+                    "Mantener la dentadura de su hijo sana": {
+                      description: ""
+                    },
+                    "Trastornos temporomandibulares": {
+                      description: ""
+                    }
+                  }
                 }
               ]
             },
@@ -681,415 +972,358 @@ export const translations = {
               ]
               },
               infections: {
-                title: "Infecciones",
-                description: "De vez en cuando, todos los niños se enferman. Cuando su hijo no se sienta bien, usted querrá saber cómo reconocer síntomas, cómo ayudar y cuándo llamar al médico. Obtenga toda la información que necesita sobre las infecciones más comunes y las no tan comunes.",
+                title: 'Infecciones',
+                description:
+                  'De vez en cuando, todos los niños se enferman. Cuando tu hijo no se siente bien, querrás saber cómo reconocer los síntomas, cómo ayudar y cuándo llamar al médico. Obtén toda la información que necesitas sobre las infecciones más comunes y no tan comunes.',
               subtopics: [
                 {
-                    title: "Infecciones y tratamientos",
+                    title: 'Infecciones respiratorias',
                   items: [
-                      "Abscesos periamigdalinos",
-                      "Abscesos retrofaríngeos",
-                      "Adenovirus",
-                      "Amigdalitis",
-                      "Antibióticos",
-                      "Babesiosis",
-                      "Botulismo del lactante",
-                      "Bronquiolitis",
-                      "Bronquitis",
-                      "Celulitis",
-                      "Citomegalovirus",
-                      "Clamidia",
-                      "Combatir gérmenes",
-                      "Comprensión del COVID-19",
-                      "Conjuntivitis",
-                      "Coronavirus (COVID-19) y el síndrome inflamatorio multisistémico en niños",
-                      "Coronavirus (COVID-19): Comprender la vacuna contra el COVID-19",
-                      "Coronavirus (COVID-19): Cómo proteger a los bebés",
-                      "Coronavirus (COVID-19): Distanciamiento social con los niños",
-                      "Coronavirus (COVID-19): Prepararse para la cuarentena",
-                      "Coronavirus (COVID-19): Respuestas a sus preguntas",
-                      "Coronavirus (COVID-19): Usar una mascarilla ayuda a protegerse de las infecciones",
-                      "Coronavirus (COVID-19): USTED puede frenar el contagio",
-                      "Coronavirus (COVID-19): ¿Cómo hablar con su hijo sobre este virus?",
-                      "COVID-19",
-                      "COVID-19: Cuidados en el hogar y precauciones",
-                      "COVID-19: Cómo aislarse en el hogar",
-                      "COVID-19: Disfrutar de las fiestas y las reuniones de una manera segura",
-                      "COVID-19: Hacerse la prueba",
-                      "COVID-19: Los niños y las mascarillas",
-                      "COVID-19: Preguntas más frecuentes relacionadas con el embarazo",
-                      "COVID-19: Preguntas y respuestas sobre las vacunas",
-                      "COVID-19: Prueba de anticuerpos",
-                      "COVID-19: Pruebas virales",
-                      "COVID-19: Qué hacer si su hijo está enfermo",
-                      "COVID-19: ¿Qué significa la cuarentena y el aislamiento?",
-                      "COVID-19: ¿Qué son las variantes?",
-                      "Crup",
-                    "Cuándo y dónde pedir ayuda médica",
-                    "Cómo tomar la temperatura axilar",
-                    "Cómo tomar la temperatura oral",
-                    "Cómo tomar la temperatura rectal",
-                    "Cómo tomarle la temperatura a su hijo",
-                      "Difteria",
-                      "El peligro de abusar de los antibióticos",
-                      "Encefalitis",
-                      "Enfermedad de chicunguña",
-                      "Enfermedad de Lyme",
-                      "Enfermedad de mano, pie y boca",
-                      "Enfermedad por arañazo de gato",
-                      "Enfermedad por el virus Powassan",
-                      "Enfermedad por Haemophilus influenzae tipo b (Hib)",
-                      "Enfermedades transmitidas por mosquitos",
-                      "Escarlatina",
-                      "Extracción de garrapatas: Guía paso a paso",
-                      "Faringoamigdalitis estreptocócica",
-                    "Fiebre",
-                      "Fiebre del dengue",
-                      "Fiebre maculosa de las montañas Rocosas",
-                      "Gastroenteritis (gripe estomacal) en niños y adolescentes",
-                      "Gonorrea",
-                      "Gripe (influenza)",
-                      "Gripe aviar",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Hablar con sus hijos acerca de las enfermedades de transmisión sexual",
-                      "Helicobacter pylori",
-                      "Hepatitis",
-                      "Hepatitis A",
-                      "Hepatitis B",
-                      "Hepatitis C",
-                      "Herpes genital",
-                      "Herpes labial",
-                      "Herpes zóster (culebrilla)",
-                      "Impétigo",
-                      "Infecciones del oído medio",
-                      "Infecciones del tracto urinario",
-                      "Infecciones del tracto urinario y afecciones relacionadas",
-                      "Infecciones por Campylobacter",
-                      "Infecciones por E. coli: Diarrea",
-                      "Infecciones por el virus de coxsackie",
-                      "Infecciones por enterovirus",
-                      "Infecciones por estafilococo",
-                      "Infecciones por estreptococos del grupo A",
-                      "Infecciones por Salmonella",
-                      "Infecciones por Shigella (shigelosis)",
-                      "Infecciones transmitidas por las mascotas",
-                      "Infecciones vaginales por hongos",
-                      "Infección por Listeria",
-                      "Inflamación",
-                      "Intoxicaciones alimentarias",
-                      "La vacuna contra el COVID-19 (Centro de temas relacionados con la vacuna contra el COVID-19)",
-                      "La viruela",
-                      "Meningitis",
-                      "Mononucleosis",
-                      "Neumonía errante en niños: Signos, diagnóstico y tratamiento",
-                      "Neutropenia",
-                      "Norovirus",
-                      "Osteomielitis",
-                      "Otitis externa (oído de nadador u otitis del nadador)",
-                      "PANDAS y PANS",
-                      "Paperas",
-                      "Parechovirus",
-                      "Poliomielitis",
-                      "Primeros auxilios: Varicela",
-                      "Profilaxis preexposición (PrEP)",
-                      "Pruebas de COVID-19: ¿Cuál es mejor?",
-                      "Quinta enfermedad",
-                      "Qué hacer ante un resfriado",
-                      "Rabia",
-                      "Resfriados",
-                      "Roséola",
-                      "Rotavirus",
-                      "Rubéola",
-                      "Sarampión",
-                      "Sarampión: Lo que necesita saber",
-                      "SARM",
-                      "Septicemia",
-                      "Sinovitis tóxica",
-                      "Sinusitis",
-                      "Sífilis",
-                      "Síndrome de Reye",
-                      "Síndrome de shock tóxico",
-                      "Tos ferina (pertussis o tos convulsa)",
-                      "Tuberculosis en niños y adolescentes",
-                      "Tétanos",
-                      "Uso seguro de los repelentes de insectos",
-                      "Vacunas contra el COVID-19 para niños de 6 meses a 5 años",
-                      "Vacunas de refuerzo",
-                      "Varicela",
-                      "Verrugas",
-                      "Verrugas genitales (HPV)",
-                      "Viruela del mono",
-                      "Virus de la inmunodeficiencia humana (VIH) y el SIDA",
-                      "Virus del Nilo occidental",
-                      "Virus del Zika",
-                      "Virus respiratorio sincitial",
-                      "Yersiniosis",
-                      "¿Cuándo es contagiosa una enfermedad?",
-                      "¿Es seguro que amamante a mi bebé si tengo COVID-19?",
-                      "¿Es un resfriado, una gripe, un virus respiratorio sincitial o COVID-19?",
-                      "¿Pueden los niños recibir la vacuna contra el COVID-19 junto con la vacuna contra la gripe?",
-                      "¿Qué es la inmunidad de rebaño?",
-                      "Ébola"
-                    ]
+                      {
+                        title: 'Resfriados',
+                        description:
+                          'Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas. No responden a los antibióticos.',
+                      },
+                      {
+                        title: 'Gripe (influenza)',
+                        description:
+                          'La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas. Los antivirales pueden acortar la duración.',
+                      },
+                      {
+                        title: 'Bronquitis',
+                        description:
+                          'La bronquitis es la inflamación de los bronquios, generalmente causada por virus. Los síntomas incluyen tos, producción de moco y sibilancias. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas.',
+                      },
+                      {
+                        title: 'Bronquiolitis',
+                        description:
+                          'La bronquiolitis es una infección viral de las vías respiratorias pequeñas, común en bebés. Los síntomas incluyen tos, sibilancias y dificultad para respirar. La mayoría de los casos son leves y se resuelven solos. El tratamiento es de apoyo.',
+                      },
+                      {
+                        title: 'Neumonía ambulante en niños',
+                        description:
+                          'La neumonía ambulante es una forma leve de neumonía causada por bacterias o virus. Los síntomas incluyen tos, fiebre y fatiga. El diagnóstico puede requerir radiografía de tórax. El tratamiento incluye antibióticos si es bacteriana.',
+                      },
+                      {
+                        title: 'Sinusitis',
+                        description:
+                          'La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos.',
+                      },
+                      {
+                        title: 'Crup',
+                        description:
+                          'El crup es una infección viral que causa inflamación de las vías respiratorias superiores. Los síntomas incluyen tos perruna, estridor y dificultad para respirar. Es más común en niños de 6 meses a 3 años. El tratamiento incluye humidificación y medicamentos.',
+                      },
+                      {
+                        title: 'Virus sincitial respiratorio',
+                        description:
+                          'El virus sincitial respiratorio es una causa común de infecciones respiratorias en niños. Los síntomas incluyen tos, congestión nasal y fiebre. En bebés puede causar bronquiolitis. El tratamiento es de apoyo. La prevención incluye buena higiene.',
+                      },
+                    ],
                   },
                   {
-                    title: "Repaso de la gripe e influenza",
+                    title: 'Infecciones de oído, nariz y garganta',
                     items: [
-                      "Bronquitis",
-                      "Consejos para tratar la gripe",
-                      "Cómo administrar paracetamol con seguridad",
-                      "Cómo tomar la temperatura rectal",
-                      "Cómo tratar la tos",
-                      "Gripe (Centro de temas relacionados con la gripe)",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Infecciones por enterovirus",
-                      "Qué hacer ante un resfriado",
-                      "Resfriados",
-                      "Tos",
-                      "¿Cuándo es contagiosa una enfermedad?",
-                      "¿Demasiado tarde para ponerse la vacuna antigripal?",
-                      "¿Es un resfriado, una gripe, un virus respiratorio sincitial o COVID-19?",
-                      "¿Quién debe ponerse la vacuna antigripal?"
-                    ]
+                      {
+                        title: 'Infecciones del oído medio',
+                        description:
+                          'Las infecciones del oído medio son comunes en niños. Los síntomas incluyen dolor de oído, fiebre e irritabilidad. La mayoría se resuelven solas. El tratamiento puede incluir antibióticos si es necesario. La prevención incluye vacunación y evitar la exposición al humo.',
+                      },
+                      {
+                        title: 'Otitis externa (oído de nadador)',
+                        description:
+                          'La otitis externa es la infección del canal auditivo externo. Es común en nadadores. Los síntomas incluyen dolor de oído, picazón y secreción. El tratamiento incluye gotas antibióticas para el oído. La prevención incluye mantener los oídos secos.',
+                      },
+                      {
+                        title: 'Amigdalitis',
+                        description:
+                          'La amigdalitis es la inflamación de las amígdalas, generalmente causada por virus o bacterias. Los síntomas incluyen dolor de garganta, dificultad para tragar, fiebre y mal aliento. El tratamiento depende de la causa y puede incluir antibióticos.',
+                      },
+                      {
+                        title: 'Faringoamigdalitis estreptocócica',
+                        description:
+                          'La faringoamigdalitis estreptocócica es causada por bacterias estreptocócicas. Los síntomas incluyen dolor de garganta, fiebre y dificultad para tragar. El diagnóstico requiere prueba rápida o cultivo. El tratamiento con antibióticos previene complicaciones.',
+                      },
+                      {
+                        title: 'Abscesos periamigdalinos',
+                        description:
+                          'Los abscesos periamigdalinos son infecciones bacterianas que se forman alrededor de las amígdalas. Causan dolor de garganta severo, dificultad para tragar y fiebre. Requieren tratamiento médico inmediato, generalmente con antibióticos y posiblemente drenaje quirúrgico.',
+                      },
+                      {
+                        title: 'Abscesos retrofaríngeos',
+                        description:
+                          'Los abscesos retrofaríngeos son infecciones bacterianas en la parte posterior de la garganta. Son más comunes en niños pequeños y pueden causar dolor de garganta, dificultad para tragar y fiebre. Requieren atención médica inmediata y tratamiento con antibióticos.',
+                      },
+                      {
+                        title: 'Conjuntivitis',
+                        description:
+                          'La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa.',
+                      },
+                    ],
                   },
                   {
-                    title: "Infecciones comunes de la infancia",
+                    title: 'Infecciones gastrointestinales',
                     items: [
-                      "Bronquitis",
-                      "Conjuntivitis",
-                      "Cómo tomar la temperatura axilar",
-                      "Cómo tomar la temperatura oral",
-                      "Cómo tomarle la temperatura a su hijo",
-                      "Diarrea",
-                      "Fiebre",
-                      "Herpes labial",
-                      "Infecciones del oído medio",
-                      "Infecciones del tracto urinario",
-                      "Infecciones por enterovirus",
-                      "Mononucleosis",
-                      "Piojos",
-                      "Qué hacer ante un resfriado",
-                      "Resfriados",
-                      "Varicela",
-                      "¿Es un resfriado, una gripe, un virus respiratorio sincitial o COVID-19?"
-                    ]
+                      {
+                        title: 'Gastroenteritis (gripe estomacal)',
+                        description:
+                          'La gastroenteritis es la inflamación del estómago e intestinos. Causa diarrea, vómitos y dolor abdominal. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda. La mayoría de los casos son virales.',
+                      },
+                      {
+                        title: 'Rotavirus',
+                        description:
+                          'El rotavirus es una causa común de gastroenteritis viral en niños. Los síntomas incluyen diarrea severa, vómitos y fiebre. La deshidratación es la principal complicación. La vacunación previene la enfermedad. El tratamiento incluye rehidratación oral.',
+                      },
+                      {
+                        title: 'Norovirus',
+                        description:
+                          'El norovirus es una causa común de gastroenteritis viral. Los síntomas incluyen náuseas, vómitos y diarrea. Es muy contagioso. El tratamiento incluye hidratación y descanso. La prevención incluye buena higiene de manos.',
+                      },
+                      {
+                        title: 'Infecciones por Salmonella',
+                        description:
+                          'Las infecciones por Salmonella son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves. El tratamiento incluye hidratación y descanso.',
+                      },
+                      {
+                        title: 'Infecciones por E. coli',
+                        description:
+                          'Las infecciones por E. coli pueden causar diarrea severa y complicaciones renales. Se transmiten a través de alimentos o agua contaminados. Los síntomas incluyen diarrea acuosa, dolor abdominal y fiebre. El tratamiento incluye hidratación y descanso.',
+                      },
+                      {
+                        title: 'Infecciones por Campylobacter',
+                        description:
+                          'Las infecciones por Campylobacter son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves y se resuelven solos. El tratamiento incluye hidratación y descanso.',
+                      },
+                      {
+                        title: 'Intoxicación alimentaria',
+                        description:
+                          'La intoxicación alimentaria es causada por bacterias, virus o toxinas en alimentos contaminados. Los síntomas incluyen náuseas, vómitos, diarrea y fiebre. La mayoría de los casos son leves y se resuelven solos. La prevención incluye buena higiene alimentaria.',
+                      },
+                    ],
                   },
                   {
-                    title: "Infecciones de oído",
+                    title: 'Infecciones de la piel',
                     items: [
-                      "Cirugía de colocación de tubos en el oído (timpanostomía)",
-                      "Cómo ponerle a su hijo gotas para los oídos",
-                      "El oído",
-                      "Infecciones del oído medio",
-                      "Otitis externa (oído de nadador u otitis del nadador)",
-                      "¿Puedo prevenir las infecciones de oído cuando mi hijo nada?"
-                    ]
+                      {
+                        title: 'Impetigo',
+                        description:
+                          'El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación.',
+                      },
+                      {
+                        title: 'Celulitis',
+                        description:
+                          'La celulitis es una infección bacteriana de la piel y tejidos subyacentes. Los síntomas incluyen enrojecimiento, hinchazón, calor y dolor. Requiere tratamiento con antibióticos. La celulitis facial requiere atención médica inmediata.',
+                      },
+                      {
+                        title: 'Verrugas',
+                        description:
+                          'Las verrugas son crecimientos de la piel causados por el virus del papiloma humano. Son comunes en niños. La mayoría desaparecen solas. El tratamiento puede incluir medicamentos tópicos o procedimientos médicos. La prevención incluye buena higiene.',
+                      },
+                      {
+                        title: 'Herpes labial',
+                        description:
+                          'El herpes labial es causado por el virus del herpes simple. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol.',
+                      },
+                      {
+                        title: 'MRSA',
+                        description:
+                          'El MRSA es una cepa de estafilococo resistente a muchos antibióticos. Puede causar infecciones de la piel y tejidos blandos. El tratamiento requiere antibióticos específicos. La prevención incluye buena higiene y evitar contacto con heridas infectadas.',
+                      },
+                    ],
                   },
                   {
-                    title: "Infecciones oculares",
+                    title: 'Enfermedades virales comunes',
                     items: [
-                      "Breve resumen: Obstrucción del conducto lagrimal (Masajes en el conducto lagrimal)",
-                      "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda",
-                      "Conjuntivitis",
-                      "Orzuelos"
-                    ]
+                      {
+                        title: 'Varicela',
+                        description:
+                          'La varicela es una enfermedad viral muy contagiosa que causa erupción ampollosa. Es más común en niños. Los síntomas incluyen fiebre, picazón y ampollas. La vacunación previene la enfermedad. El tratamiento incluye alivio de síntomas.',
+                      },
+                      {
+                        title: 'Sarampión',
+                        description:
+                          'El sarampión es una enfermedad viral muy contagiosa. Los síntomas incluyen fiebre alta, erupción característica y tos. Puede causar complicaciones serias. La vacunación previene la enfermedad. El tratamiento es de apoyo.',
+                      },
+                      {
+                        title: 'Paperas',
+                        description:
+                          'Las paperas son causadas por un virus que afecta las glándulas salivales. Los síntomas incluyen hinchazón de las mejillas y fiebre. La vacunación previene la enfermedad. Las complicaciones pueden incluir meningitis y orquitis. El tratamiento es de apoyo.',
+                      },
+                      {
+                        title: 'Rubéola',
+                        description:
+                          'La rubéola es una enfermedad viral que causa erupción y fiebre leve. Es especialmente peligrosa para mujeres embarazadas ya que puede causar defectos de nacimiento. La vacunación previene la enfermedad. El tratamiento es de apoyo.',
+                      },
+                      {
+                        title: 'Enfermedad de manos, pies y boca',
+                        description:
+                          'La enfermedad de manos, pies y boca es una infección viral común en niños. Causa llagas en la boca y erupción en manos y pies. Es muy contagiosa. El tratamiento es de apoyo. La mayoría de los casos son leves y se resuelven solos.',
+                      },
+                      {
+                        title: 'Roséola',
+                        description:
+                          'La roséola es una enfermedad viral común en niños menores de 2 años. Causa fiebre alta seguida de erupción rosada. Generalmente es leve y se resuelve sola. El tratamiento incluye medicamentos para la fiebre y descanso.',
+                      },
+                      {
+                        title: 'Quinta enfermedad',
+                        description:
+                          'La quinta enfermedad es causada por el parvovirus B19. Causa erupción característica en las mejillas y luego en el cuerpo. Es más común en niños de 5-15 años. El tratamiento es de apoyo. La mayoría de los casos son leves.',
+                      },
+                    ],
                   },
                   {
-                    title: "Infecciones micóticas (tiña, hongos, etc.)",
+                    title: 'COVID-19 y coronavirus',
                     items: [
-                      "Combatir gérmenes",
-                      "Dermatitis del pañal",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Infecciones transmitidas por las mascotas",
-                      "Muguet (candidiasis oral)",
-                      "Neumonía por pneumocystis",
-                      "Pie de atleta",
-                      "Qué hacer ante la tiña",
-                      "Tinea versicolor",
-                      "Tiña",
-                      "Tiña inguinal",
-                      "Vaginitis infantil"
-                    ]
+                      {
+                        title: 'Entendiendo el COVID-19',
+                        description:
+                          'El COVID-19 es una enfermedad respiratoria causada por el coronavirus SARS-CoV-2. Los síntomas en niños suelen ser leves e incluyen fiebre, tos y fatiga. La prevención incluye vacunación, uso de mascarillas y distanciamiento social. La mayoría de los niños se recuperan completamente.',
+                      },
+                      {
+                        title: 'COVID-19: Cuidados en casa',
+                        description:
+                          'Si tu hijo tiene COVID-19, manténlo aislado en casa. Monitorea los síntomas, mantén buena hidratación y descanso. Usa mascarillas en casa y desinfecta superficies. Consulta a un médico si los síntomas empeoran.',
+                      },
+                      {
+                        title: 'COVID-19: Vacunación',
+                        description:
+                          'Las vacunas COVID-19 son seguras y efectivas para niños. Ayudan a prevenir enfermedades graves y hospitalizaciones. Los efectos secundarios son generalmente leves. La vacunación es la mejor protección contra el COVID-19.',
+                      },
+                      {
+                        title: 'COVID-19: Prevención',
+                        description:
+                          'La prevención del COVID-19 incluye vacunación, uso de mascarillas, distanciamiento social y buena higiene de manos. Enseña estas medidas a los niños de manera apropiada para su edad. La prevención protege a toda la familia.',
+                      },
+                      {
+                        title: 'COVID-19: Pruebas y diagnóstico',
+                        description:
+                          'Las pruebas de COVID-19 ayudan a diagnosticar la enfermedad. Hay diferentes tipos de pruebas. Consulta con tu médico sobre cuál es la más apropiada. Las pruebas rápidas dan resultados en minutos.',
+                      },
+                    ],
                   },
                   {
-                    title: "Inmunizaciones",
+                    title: 'Prevención y tratamiento',
                     items: [
-                      "Calendario de vacunación: Plan de vacunación por edades",
-                      "COVID-19: Preguntas y respuestas sobre las vacunas",
-                      "Las vacunas de su hijo",
-                      "Las vacunas de su hijo: el sarampión, las paperas y la rubéola (triple vírica)",
-                      "Las vacunas de su hijo: vacuna antigripal",
-                      "Las vacunas de su hijo: Vacuna contra el rotavirus",
-                      "Las vacunas de su hijo: Vacuna contra el virus del papiloma humano (VPH)",
-                      "Las vacunas de su hijo: Vacuna contra la hepatitis A (HepA)",
-                      "Las vacunas de su hijo: Vacuna contra la hepatitis B",
-                      "Las vacunas de su hijo: Vacuna de la varicela",
-                      "Las vacunas de su hijo: Vacunas antineumocócicas",
-                      "Las vacunas de su hijo: Vacunas contra el meningococo",
-                      "Las vacunas de su hijo: vacunas contra la difteria, el tétanos y la tos ferina (DTPa, Tdap)",
-                      "Preguntas frecuentes sobre las vacunas",
-                      "Vacuna contra la Hib para niños",
-                      "Vacunas antipoliomielíticas (VPI, VPO) para niños",
-                      "Vacunas de refuerzo",
-                      "Vacunas y antibióticos: ¿Una combinación segura?",
-                      "Vacunas y la enfermedad inflamatoria intestinal",
-                      "¿Demasiado tarde para ponerse la vacuna antigripal?",
-                      "¿Necesita vacunarse mi hijo antes de viajar al extranjero?",
-                      "¿Quién debe ponerse la vacuna antigripal?",
-                      "¿Qué es la inmunidad de rebaño?"
-                    ]
+                      {
+                        title: 'Luchando contra los gérmenes',
+                        description:
+                          'Los gérmenes incluyen bacterias, virus, hongos y parásitos que pueden causar enfermedades. Enseña a los niños a lavarse las manos frecuentemente, especialmente antes de comer y después de usar el baño. La higiene adecuada es la mejor defensa contra las infecciones.',
+                      },
+                      {
+                        title: 'Antibióticos',
+                        description:
+                          'Los antibióticos son medicamentos que combaten las infecciones bacterianas. Solo deben usarse cuando sea necesario y según las indicaciones del médico. El uso excesivo puede causar resistencia bacteriana. Siempre completa el tratamiento prescrito.',
+                      },
+                      {
+                        title: 'El peligro del abuso de antibióticos',
+                        description:
+                          'El uso excesivo de antibióticos puede causar resistencia bacteriana. Los antibióticos solo tratan infecciones bacterianas, no virales. Usa antibióticos solo cuando los prescriba un médico. Siempre completa el tratamiento completo.',
+                      },
+                      {
+                        title: 'Vacunas de refuerzo',
+                        description:
+                          'Las vacunas de refuerzo ayudan a mantener la inmunidad contra las enfermedades. Son importantes para prevenir brotes. Sigue el calendario de vacunación recomendado. Las vacunas de refuerzo son seguras y efectivas.',
+                      },
+                      {
+                        title: 'Cuándo y dónde buscar ayuda médica',
+                        description:
+                          'Sabe cuándo buscar atención médica para tu hijo. Las señales de advertencia incluyen fiebre alta, dificultad para respirar, deshidratación y cambios en el comportamiento. En caso de emergencia, llama al 911 o ve a la sala de emergencias.',
+                      },
+                      {
+                        title: 'Cómo tomar la temperatura de tu hijo',
+                        description:
+                          'Elegir el método correcto para tomar la temperatura depende de la edad del niño. Para bebés menores de 3 meses, usa temperatura rectal. Para niños mayores, la oral o axilar son apropiadas. Usa termómetros digitales para mayor precisión.',
+                      },
+                      {
+                        title: 'Fiebre',
+                        description:
+                          'La fiebre es una señal de que el cuerpo está luchando contra una infección. En niños, la fiebre generalmente no es peligrosa. Monitorea otros síntomas. Usa medicamentos para reducir la fiebre si el niño está incómodo. Consulta a un médico si persiste.',
+                      },
+                    ],
                   },
                   {
-                    title: "Pulmones e infecciones respiratorias",
+                    title: 'Otras infecciones',
                     items: [
-                      "Adenovirus",
-                      "Bronquiolitis",
-                      "Bronquitis",
-                      "Crup",
-                      "Difteria",
-                      "Dolor torácico en niños y adolescentes",
-                      "Escarlatina",
-                      "Faringoamigdalitis estreptocócica",
-                      "Gripe (influenza)",
-                      "Meningitis",
-                      "Neumonía",
-                      "Neumonía errante en niños: Signos, diagnóstico y tratamiento",
-                      "Neumonía por pneumocystis",
-                      "Sarampión",
-                      "Sarampión: Lo que necesita saber",
-                      "Sinusitis",
-                      "Tos ferina (pertussis o tos convulsa)",
-                      "Tuberculosis en niños y adolescentes",
-                      "Virus respiratorio sincitial"
-                    ]
+                      {
+                        title: 'Gérmenes: bacterias, virus, hongos y protozoos',
+                        description:
+                          'Los gérmenes son microorganismos que pueden causar enfermedades. Las bacterias son organismos unicelulares que pueden tratarse con antibióticos. Los virus requieren células huésped y no responden a los antibióticos. Los hongos y protozoos también pueden causar infecciones.',
+                      },
+                      {
+                        title:
+                          'Hablando con tus hijos sobre enfermedades de transmisión sexual',
+                        description:
+                          'La educación sexual es importante para prevenir enfermedades de transmisión sexual. Habla con tus hijos de manera apropiada para su edad. Enfócate en la prevención, el respeto y la toma de decisiones informadas. Usa recursos educativos apropiados.',
+                      },
+                      {
+                        title: 'Helicobacter pylori',
+                        description:
+                          'El Helicobacter pylori es una bacteria que puede causar úlceras estomacales y gastritis. Los síntomas incluyen dolor abdominal, náuseas y pérdida de apetito. El diagnóstico requiere pruebas específicas. El tratamiento incluye antibióticos y medicamentos reductores de ácido.',
+                      },
+                      {
+                        title: 'Hepatitis',
+                        description:
+                          'La hepatitis es la inflamación del hígado. Puede ser causada por virus, medicamentos o toxinas. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. El tratamiento depende de la causa. La vacunación previene algunos tipos.',
+                      },
+                      {
+                        title: 'Hepatitis A',
+                        description:
+                          'La hepatitis A es una infección viral del hígado transmitida a través de alimentos o agua contaminados. Los síntomas incluyen fatiga, náuseas y coloración amarillenta. La vacunación previene la enfermedad. La mayoría de las personas se recuperan completamente.',
+                      },
+                      {
+                        title: 'Hepatitis B',
+                        description:
+                          'La hepatitis B es una infección viral del hígado que puede ser aguda o crónica. Se transmite a través del contacto con sangre o fluidos corporales. La vacunación previene la enfermedad. El tratamiento incluye medicamentos antivirales para casos crónicos.',
+                      },
+                      {
+                        title: 'Hepatitis C',
+                        description:
+                          'La hepatitis C es una infección viral del hígado que puede volverse crónica. Se transmite principalmente a través del contacto con sangre. Los síntomas pueden ser leves inicialmente. El tratamiento incluye medicamentos antivirales. No hay vacuna disponible.',
+                      },
+                      {
+                        title: 'Herpes genital',
+                        description:
+                          'El herpes genital es una enfermedad de transmisión sexual causada por virus del herpes. Puede causar llagas dolorosas en el área genital. El tratamiento incluye medicamentos antivirales. La prevención incluye uso de protección y educación sexual.',
+                      },
+                      {
+                        title: 'Herpes labial',
+                        description:
+                          'El herpes labial es causado por el virus del herpes simple. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol.',
+                      },
+                      {
+                        title: 'Herpes zóster (culebrilla)',
+                        description:
+                          'El herpes zóster es causado por la reactivación del virus de la varicela. Causa erupción dolorosa y ampollas. Es más común en adultos mayores pero puede ocurrir en niños. El tratamiento incluye medicamentos antivirales y analgésicos.',
+                      },
+                      {
+                        title: 'Impetigo',
+                        description:
+                          'El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación.',
+                      },
+                      {
+                        title: 'Infecciones del oído medio',
+                        description:
+                          'Las infecciones del oído medio son comunes en niños. Los síntomas incluyen dolor de oído, fiebre e irritabilidad. La mayoría se resuelven solas. El tratamiento puede incluir antibióticos si es necesario. La prevención incluye vacunación y evitar la exposición al humo.',
+                      },
+                      {
+                        title: 'Infecciones del tracto urinario',
+                        description:
+                          'Las infecciones del tracto urinario son causadas por bacterias. Los síntomas incluyen dolor al orinar, urgencia frecuente y fiebre. El diagnóstico requiere análisis de orina. El tratamiento incluye antibióticos. La prevención incluye buena higiene.',
+                      },
+                      {
+                        title:
+                          'Infecciones del tracto urinario y condiciones relacionadas',
+                        description:
+                          'Las infecciones del tracto urinario pueden afectar diferentes partes del sistema urinario. Las complicaciones pueden incluir daño renal. El diagnóstico temprano es importante. El tratamiento incluye antibióticos apropiados. La prevención incluye buena hidratación.',
+                      },
+                      {
+                        title: 'Infecciones por Campylobacter',
+                        description:
+                          'Las infecciones por Campylobacter son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves y se resuelven solos. El tratamiento incluye hidratación y descanso.',
+                      },
+                    ],
                   },
-                  {
-                    title: "Estudios clínicos",
-                    items: [
-                      "Análisis de heces",
-                      "Análisis de orina",
-                      "Análisis de sangre: Hemograma completo",
-                      "Cultivo de sangre",
-                      "Hacerse un análisis de orina",
-                      "Prueba estreptocócica: Cultivo de exudado faríngeo",
-                      "Pruebas de química sanguínea básica"
-                    ]
-                  },
-                  {
-                    title: "Infecciones parasitarias (gusanos, piojos, etc.)",
-                    items: [
-                      "Amebiasis",
-                      "Ascariasis",
-                      "Chinches",
-                      "Combatir gérmenes",
-                      "Cómo combatir los piojos",
-                      "Enfermedades transmitidas por mosquitos",
-                      "Giardiasis",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Infecciones por oxiuros",
-                      "Infecciones transmitidas por las mascotas",
-                      "Ladillas",
-                      "Malaria",
-                      "Picaduras de coloradilla",
-                      "Piojos",
-                      "Toxocariasis",
-                      "Toxoplasmosis",
-                      "Tricomoniasis",
-                      "Uso seguro de los repelentes de insectos",
-                      "Virus del Zika"
-                    ]
-                  },
-                  {
-                    title: "Enfermedades de la piel",
-                    items: [
-                      "Abscesos en la piel",
-                      "Acantosis pigmentaria",
-                      "Caspa",
-                      "Celulitis",
-                      "Costra láctea (dermatitis seborreica) en los bebés",
-                      "Curación y cuidado de las heridas",
-                      "Eccema (dermatitis atópica)",
-                      "Enfermedad de mano, pie y boca",
-                      "Eritema multiforme",
-                      "Escarlatina",
-                      "Fiebre maculosa de las montañas Rocosas",
-                      "Herpes genital",
-                      "Herpes labial",
-                      "Impétigo",
-                      "Infecciones por estreptococos del grupo A",
-                      "Infecciones transmitidas por las mascotas",
-                      "Inflamación",
-                      "Molusco contagioso",
-                      "Muguet (candidiasis oral)",
-                      "Paroniquia",
-                      "Pitiriasis rosada",
-                      "Quinta enfermedad",
-                      "Quiste pilonidal",
-                      "Qué hacer ante la tiña",
-                      "Qué hacer ante una erupción cutánea",
-                      "Roséola",
-                      "Rubéola",
-                      "Sarampión",
-                      "Sarampión: Lo que necesita saber",
-                      "Sarna",
-                      "Sarpullido por calor (miliaria)",
-                      "Síndrome de shock tóxico",
-                      "Tinea versicolor",
-                      "Urticaria",
-                      "Vaginitis infantil",
-                      "Varicela",
-                      "Verrugas",
-                      "Vitíligo"
-                    ]
-                  },
-                  {
-                    title: "Afecciones del sistema reproductor",
-                    items: [
-                      "Breve resumen: Tratamiento de los quistes pilonidales",
-                      "Clamidia",
-                      "Combatir gérmenes",
-                      "Enfermedad inflamatoria pélvica",
-                      "Enfermedades de trasmisión sexual",
-                      "Gonorrea",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Hablar con sus hijos acerca de las enfermedades de transmisión sexual",
-                      "Herpes genital",
-                      "Ladillas",
-                      "Profilaxis preexposición (PrEP)",
-                      "Sífilis",
-                      "Tricomoniasis",
-                      "Verrugas genitales (HPV)",
-                      "Virus de la inmunodeficiencia humana (VIH) y el SIDA"
-                    ]
-                  },
-                  {
-                    title: "Infecciones del aparato digestivo",
-                    items: [
-                      "Ascariasis",
-                      "Combatir gérmenes",
-                      "Cólera",
-                      "Diarrea",
-                      "Dolores abdominales",
-                      "Fiebre del dengue",
-                      "Fiebre tifoidea",
-                      "Gastroenteritis (gripe estomacal) en niños y adolescentes",
-                      "Giardiasis",
-                      "Gérmenes: bacterias, virus, hongos y protozoos",
-                      "Helicobacter pylori",
-                      "Infecciones por Campylobacter",
-                      "Infecciones por oxiuros",
-                      "Infecciones por Salmonella",
-                      "Infecciones por Shigella (shigelosis)",
-                      "Intoxicaciones alimentarias",
-                      "La apendicitis en niños y adolescentes",
-                      "Lombriz solitaria",
-                      "Norovirus",
-                      "Rotavirus",
-                      "Tratar la apendicitis: Comparación de la operación con el tratamiento antibiótico",
-                      "Yersiniosis"
-                    ]
-                  }
-                ]
+                ],
               },
               diseasesConditions: {
                 title: "Enfermedades y Trastornos",
@@ -5607,158 +5841,524 @@ export const translations = {
                 {
                   title: "Infecciones bacterianas y virales",
                   items: [
-                    "Abscesos",
-                    "Abscesos periamigdalinos",
-                    "Amigdalitis",
-                    "Celulitis",
-                    "Combatir gérmenes",
-                    "Conjuntivitis",
-                    "Cólera",
-                    "Diarrea",
-                    "Encefalitis",
-                    "Enfermedad de Lyme",
-                    "Faringoamigdalitis estreptocócica",
-                    "Fiebre del dengue",
-                    "Fiebre maculosa de las montañas Rocosas",
-                    "Gripe",
-                    "Hepatitis A",
-                    "Hepatitis B",
-                    "Hepatitis C",
-                    "Herpes labial (VHS-1): síntomas, causas y prevención",
-                    "Impétigo",
-                    "Infecciones del tracto urinario",
-                    "Infecciones por E. coli: Diarrea",
-                    "Intoxicaciones alimentarias",
-                    "La salmonelosis",
-                    "Meningitis",
-                    "Molusco contagioso",
-                    "Neumonía",
-                    "Obtención de un exudado faríngeo (video)",
-                    "Osteomielitis",
-                    "Otitis externa (oído de nadador u otitis del nadador)",
-                    "Plántale cara al resfriado",
-                    "Profilaxis preexposición (PrEP)",
-                    "Qué hacer si contraes la gripe",
-                    "SARM",
-                    "Sinusitis",
-                    "Síndrome de shock tóxico",
-                    "Tétanos",
-                    "Vaginosis bacteriana",
-                    "Verrugas",
-                    "Viruela",
-                    "¿Cuál es la diferencia entre infeccioso y contagioso?",
-                    "¿Cómo puedo prevenir la enfermedad de Lyme?",
-                    "¿Durante cuánto tiempo es contagiosa la mononucleosis?"
+                    {
+                      title: "Abscesos",
+                      description: "Los abscesos son acumulaciones de pus causadas por infecciones bacterianas. Pueden aparecer en cualquier parte del cuerpo. Los síntomas incluyen dolor, hinchazón, enrojecimiento y calor en el área afectada. El tratamiento puede incluir drenaje quirúrgico y antibióticos."
+                    },
+                    {
+                      title: "Abscesos periamigdalinos",
+                      description: "Los abscesos periamigdalinos son infecciones bacterianas que se forman alrededor de las amígdalas. Causan dolor intenso de garganta, dificultad para tragar y fiebre. Requieren tratamiento médico inmediato, generalmente con antibióticos y posiblemente drenaje quirúrgico."
+                    },
+                    {
+                      title: "Amigdalitis",
+                      description: "La amigdalitis es la inflamación de las amígdalas, generalmente causada por virus o bacterias. Los síntomas incluyen dolor de garganta, dificultad para tragar, fiebre y mal aliento. El tratamiento depende de la causa y puede incluir antibióticos."
+                    },
+                    {
+                      title: "Celulitis",
+                      description: "La celulitis es una infección bacteriana de la piel y tejidos subyacentes. Los síntomas incluyen enrojecimiento, hinchazón, calor y dolor. Requiere tratamiento con antibióticos. La celulitis facial requiere atención médica inmediata."
+                    },
+                    {
+                      title: "Combatir gérmenes",
+                      description: "La prevención de infecciones incluye lavado frecuente de manos, evitar contacto con personas enfermas, mantener vacunas al día y practicar buena higiene personal. Los gérmenes se propagan fácilmente en entornos escolares y comunitarios."
+                    },
+                    {
+                      title: "Conjuntivitis",
+                      description: "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+                    },
+                    {
+                      title: "Cólera",
+                      description: "El cólera es una infección bacteriana intestinal causada por agua o alimentos contaminados. Los síntomas incluyen diarrea acuosa severa, vómitos y deshidratación rápida. Requiere tratamiento médico inmediato con rehidratación y antibióticos."
+                    },
+                    {
+                      title: "Diarrea",
+                      description: "La diarrea es un síntoma común de infecciones gastrointestinales. Puede ser causada por virus, bacterias o parásitos. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda."
+                    },
+                    {
+                      title: "Encefalitis",
+                      description: "La encefalitis es la inflamación del cerebro, generalmente causada por virus. Los síntomas incluyen fiebre, dolor de cabeza, confusión y convulsiones. Es una emergencia médica que requiere hospitalización y tratamiento inmediato."
+                    },
+                    {
+                      title: "Enfermedad de Lyme",
+                      description: "La enfermedad de Lyme es causada por bacterias transmitidas por garrapatas. Los síntomas incluyen erupción característica, fiebre, fatiga y dolor articular. El diagnóstico temprano y tratamiento con antibióticos es crucial para prevenir complicaciones."
+                    },
+                    {
+                      title: "Faringoamigdalitis estreptocócica",
+                      description: "La faringoamigdalitis estreptocócica es causada por bacterias estreptocócicas. Los síntomas incluyen dolor de garganta, fiebre y dificultad para tragar. El diagnóstico requiere prueba rápida o cultivo. El tratamiento con antibióticos previene complicaciones."
+                    },
+                    {
+                      title: "Fiebre del dengue",
+                      description: "El dengue es una enfermedad viral transmitida por mosquitos. Los síntomas incluyen fiebre alta, dolor de cabeza severo, dolor muscular y articular. En casos graves puede causar hemorragias. No hay tratamiento específico, solo de apoyo."
+                    },
+                    {
+                      title: "Fiebre maculosa de las montañas Rocosas",
+                      description: "La fiebre maculosa es causada por bacterias transmitidas por garrapatas. Los síntomas incluyen fiebre, dolor de cabeza y erupción característica. El diagnóstico temprano y tratamiento con antibióticos es crucial para prevenir complicaciones graves."
+                    },
+                    {
+                      title: "Gripe",
+                      description: "La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+                    },
+                    {
+                      title: "Hepatitis A",
+                      description: "La hepatitis A es una infección viral del hígado transmitida por alimentos o agua contaminados. Los síntomas incluyen fiebre, fatiga, náuseas y coloración amarillenta de la piel. La vacunación previene la enfermedad. El tratamiento es de apoyo."
+                    },
+                    {
+                      title: "Hepatitis B",
+                      description: "La hepatitis B es una infección viral del hígado transmitida por contacto con sangre o fluidos corporales. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. La vacunación previene la enfermedad. El tratamiento puede incluir medicamentos antivirales."
+                    },
+                    {
+                      title: "Hepatitis C",
+                      description: "La hepatitis C es una infección viral del hígado transmitida por contacto con sangre infectada. A menudo no causa síntomas hasta que el daño hepático es avanzado. El tratamiento incluye medicamentos antivirales. No hay vacuna disponible."
+                    },
+                    {
+                      title: "Herpes labial (VHS-1): síntomas, causas y prevención",
+                      description: "El herpes labial es causado por el virus del herpes simple tipo 1. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+                    },
+                    {
+                      title: "Impétigo",
+                      description: "El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación."
+                    },
+                    {
+                      title: "Infecciones del tracto urinario",
+                      description: "Las infecciones del tracto urinario son causadas por bacterias que entran en la vejiga o riñones. Los síntomas incluyen dolor al orinar, urgencia frecuente y dolor abdominal. El tratamiento incluye antibióticos. La prevención incluye buena higiene personal."
+                    },
+                    {
+                      title: "Infecciones por E. coli: Diarrea",
+                      description: "Las infecciones por E. coli pueden causar diarrea severa y complicaciones renales. Se transmiten a través de alimentos o agua contaminados. Los síntomas incluyen diarrea acuosa, dolor abdominal y fiebre. El tratamiento incluye hidratación y descanso."
+                    },
+                    {
+                      title: "Intoxicaciones alimentarias",
+                      description: "La intoxicación alimentaria es causada por bacterias, virus o toxinas en alimentos contaminados. Los síntomas incluyen náuseas, vómitos, diarrea y fiebre. La mayoría de los casos son leves y se resuelven solos. La prevención incluye buena higiene alimentaria."
+                    },
+                    {
+                      title: "La salmonelosis",
+                      description: "La salmonelosis es causada por bacterias Salmonella encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves. El tratamiento incluye hidratación y descanso."
+                    },
+                    {
+                      title: "Meningitis",
+                      description: "La meningitis es la inflamación de las membranas que cubren el cerebro y médula espinal. Puede ser causada por virus o bacterias. Los síntomas incluyen fiebre, dolor de cabeza severo y rigidez del cuello. Es una emergencia médica que requiere tratamiento inmediato."
+                    },
+                    {
+                      title: "Molusco contagioso",
+                      description: "El molusco contagioso es una infección viral de la piel que causa pequeñas protuberancias redondas. Es común en niños y se propaga por contacto directo. La mayoría de los casos se resuelven solos. El tratamiento puede incluir procedimientos médicos para remover las lesiones."
+                    },
+                    {
+                      title: "Neumonía",
+                      description: "La neumonía es una infección de los pulmones causada por bacterias, virus u hongos. Los síntomas incluyen tos, fiebre, dificultad para respirar y dolor en el pecho. El tratamiento depende de la causa y puede incluir antibióticos."
+                    },
+                    {
+                      title: "Obtención de un exudado faríngeo (video)",
+                      description: "El exudado faríngeo es una prueba para diagnosticar infecciones de garganta como faringoamigdalitis estreptocócica. Se frota un hisopo en la parte posterior de la garganta para recolectar muestras. Los resultados están disponibles en minutos o días."
+                    },
+                    {
+                      title: "Osteomielitis",
+                      description: "La osteomielitis es una infección del hueso, generalmente causada por bacterias. Los síntomas incluyen dolor óseo, fiebre e hinchazón. Requiere tratamiento con antibióticos intravenosos y posiblemente cirugía. El diagnóstico temprano es crucial."
+                    },
+                    {
+                      title: "Otitis externa (oído de nadador u otitis del nadador)",
+                      description: "La otitis externa es la infección del canal auditivo externo. Es común en nadadores. Los síntomas incluyen dolor de oído, picazón y secreción. El tratamiento incluye gotas antibióticas para el oído. La prevención incluye mantener los oídos secos."
+                    },
+                    {
+                      title: "Plántale cara al resfriado",
+                      description: "Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas. No responden a los antibióticos."
+                    },
+                    {
+                      title: "Profilaxis preexposición (PrEP)",
+                      description: "La PrEP es un medicamento preventivo para personas en alto riesgo de contraer VIH. Se toma diariamente o antes y después de la exposición. Es altamente efectiva cuando se usa correctamente. Requiere receta médica y seguimiento regular."
+                    },
+                    {
+                      title: "Qué hacer si contraes la gripe",
+                      description: "Si contraes la gripe, descansa mucho, mantén buena hidratación y toma medicamentos para aliviar los síntomas. Evita contacto con otras personas para prevenir la propagación. Consulta a un médico si los síntomas son graves o persisten."
+                    },
+                    {
+                      title: "SARM",
+                      description: "El SARM es una cepa de estafilococo resistente a muchos antibióticos. Puede causar infecciones de la piel y tejidos blandos. El tratamiento requiere antibióticos específicos. La prevención incluye buena higiene y evitar contacto con heridas infectadas."
+                    },
+                    {
+                      title: "Sinusitis",
+                      description: "La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos."
+                    },
+                    {
+                      title: "Síndrome de shock tóxico",
+                      description: "El síndrome de shock tóxico es una complicación rara pero grave de infecciones bacterianas. Los síntomas incluyen fiebre alta, erupción, presión arterial baja y fallo orgánico. Requiere tratamiento médico inmediato con antibióticos y cuidados intensivos."
+                    },
+                    {
+                      title: "Tétanos",
+                      description: "El tétanos es causado por bacterias que entran en heridas profundas. Los síntomas incluyen espasmos musculares severos y rigidez. La vacunación previene la enfermedad. El tratamiento incluye antitoxina, antibióticos y cuidados intensivos."
+                    },
+                    {
+                      title: "Vaginosis bacteriana",
+                      description: "La vaginosis bacteriana es un desequilibrio en las bacterias vaginales normales. Los síntomas incluyen secreción anormal y olor desagradable. El tratamiento incluye antibióticos. La prevención incluye buena higiene personal y evitar duchas vaginales."
+                    },
+                    {
+                      title: "Verrugas",
+                      description: "Las verrugas son crecimientos de la piel causados por el virus del papiloma humano. Son comunes en adolescentes. La mayoría desaparecen solas. El tratamiento puede incluir medicamentos tópicos o procedimientos médicos. La prevención incluye buena higiene."
+                    },
+                    {
+                      title: "Viruela",
+                      description: "La viruela es una enfermedad viral altamente contagiosa que ha sido erradicada globalmente. Los síntomas incluyen fiebre alta y erupción característica. La vacunación masiva fue crucial para su erradicación. No hay casos naturales desde 1977."
+                    },
+                    {
+                      title: "¿Cuál es la diferencia entre infeccioso y contagioso?",
+                      description: "Infeccioso se refiere a la capacidad de causar infección, mientras que contagioso se refiere a la capacidad de propagarse de persona a persona. Una enfermedad puede ser infecciosa pero no contagiosa, o viceversa."
+                    },
+                    {
+                      title: "¿Cómo puedo prevenir la enfermedad de Lyme?",
+                      description: "Para prevenir la enfermedad de Lyme, use repelente de insectos, use ropa protectora en áreas boscosas, revise su cuerpo después de estar al aire libre, y mantenga su jardín libre de hojas y maleza donde las garrapatas pueden vivir."
+                    },
+                    {
+                      title: "¿Durante cuánto tiempo es contagiosa la mononucleosis?",
+                      description: "La mononucleosis es contagiosa durante varias semanas, incluso después de que los síntomas desaparezcan. El virus puede permanecer en la saliva por meses. La prevención incluye evitar compartir bebidas y utensilios con personas infectadas."
+                    }
                   ]
                 },
                 {
                   title: "Gripe e influenza",
                   items: [
-                    "5 consejos para hacer frente a las inyecciones",
-                    "Cinco formas de combatir la gripe",
-                    "Estoy embarazada. ¿Debo darme la vacuna antigripal?",
-                    "Gripe",
-                    "Gripe (Centro de temas relacionados con la gripe)",
-                    "Gérmenes: bacterias, virus, hongos y protozoos",
-                    "Plántale cara al resfriado",
-                    "Qué hacer si contraes la gripe",
-                    "Sinusitis",
-                    "Vacuna antigripal",
-                    "¿Cuándo puedo volver a la escuela si tengo gripe?"
+                    {
+                      title: "5 consejos para hacer frente a las inyecciones",
+                      description: "Para hacer frente a las inyecciones, respire profundamente, distráigase con música o conversación, use técnicas de relajación, mantenga la calma y recuerde que es por su salud. Las inyecciones son breves y los beneficios superan la incomodidad momentánea."
+                    },
+                    {
+                      title: "Cinco formas de combatir la gripe",
+                      description: "Para combatir la gripe: descanse mucho, mantenga buena hidratación, tome medicamentos para aliviar síntomas, evite contacto con otras personas y consulte al médico si los síntomas son graves. La prevención incluye vacunación anual y buena higiene."
+                    },
+                    {
+                      title: "Estoy embarazada. ¿Debo darme la vacuna antigripal?",
+                      description: "Sí, las mujeres embarazadas deben vacunarse contra la gripe. La vacuna es segura durante el embarazo y protege tanto a la madre como al bebé. Las mujeres embarazadas tienen mayor riesgo de complicaciones graves por la gripe."
+                    },
+                    {
+                      title: "Gripe",
+                      description: "La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+                    },
+                    {
+                      title: "Gripe (Centro de temas relacionados con la gripe)",
+                      description: "El centro de temas relacionados con la gripe proporciona información completa sobre prevención, síntomas, tratamiento y complicaciones de la gripe. Incluye recursos para diferentes grupos de edad y condiciones médicas."
+                    },
+                    {
+                      title: "Gérmenes: bacterias, virus, hongos y protozoos",
+                      description: "Los gérmenes son microorganismos que pueden causar enfermedades. Las bacterias son organismos unicelulares, los virus son partículas infecciosas, los hongos son organismos multicelulares y los protozoos son parásitos unicelulares. Cada tipo requiere diferentes tratamientos."
+                    },
+                    {
+                      title: "Plántale cara al resfriado",
+                      description: "Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+                    },
+                    {
+                      title: "Qué hacer si contraes la gripe",
+                      description: "Si contraes la gripe, descansa mucho, mantén buena hidratación y toma medicamentos para aliviar los síntomas. Evita contacto con otras personas para prevenir la propagación. Consulta a un médico si los síntomas son graves o persisten."
+                    },
+                    {
+                      title: "Sinusitis",
+                      description: "La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos."
+                    },
+                    {
+                      title: "Vacuna antigripal",
+                      description: "La vacuna antigripal es la mejor protección contra la gripe. Se recomienda anualmente para todas las personas mayores de 6 meses. La vacuna reduce el riesgo de enfermedad, hospitalización y complicaciones graves. Los efectos secundarios son generalmente leves."
+                    },
+                    {
+                      title: "¿Cuándo puedo volver a la escuela si tengo gripe?",
+                      description: "Puede volver a la escuela 24 horas después de que la fiebre desaparezca sin medicamentos. Es importante estar completamente recuperado para evitar contagiar a otros y permitir que el cuerpo se recupere completamente."
+                    }
                   ]
                 },
                 {
                   title: "Infecciones comunes",
                   items: [
-                    "Adenoides y adenoidectomías",
-                    "Amigdalectomía",
-                    "Amigdalitis",
-                    "Cinco formas de combatir la gripe",
-                    "Conjuntivitis",
-                    "Gripe",
-                    "Herpes labial (VHS-1): síntomas, causas y prevención",
-                    "Infecciones del tracto urinario",
-                    "Mononucleosis",
-                    "Piojos",
-                    "Plántale cara al resfriado",
-                    "Qué hacer si contraes la gripe",
-                    "Sinusitis",
-                    "Uñas encarnadas",
-                    "¿Cuál es la diferencia entre infeccioso y contagioso?",
-                    "¿Durante cuánto tiempo es contagiosa la mononucleosis?"
+                    {
+                      title: "Adenoides y adenoidectomías",
+                      description: "Las adenoides son tejido linfático en la parte posterior de la nariz. La adenoidectomía es la extirpación quirúrgica de las adenoides agrandadas. Se realiza cuando causan problemas respiratorios o infecciones recurrentes. La recuperación es generalmente rápida."
+                    },
+                    {
+                      title: "Amigdalectomía",
+                      description: "La amigdalectomía es la extirpación quirúrgica de las amígdalas. Se realiza cuando causan infecciones recurrentes o problemas respiratorios. Es un procedimiento común en niños. La recuperación incluye dieta blanda y analgésicos."
+                    },
+                    {
+                      title: "Amigdalitis",
+                      description: "La amigdalitis es la inflamación de las amígdalas, generalmente causada por virus o bacterias. Los síntomas incluyen dolor de garganta, dificultad para tragar, fiebre y mal aliento. El tratamiento depende de la causa y puede incluir antibióticos."
+                    },
+                    {
+                      title: "Cinco formas de combatir la gripe",
+                      description: "Para combatir la gripe: descanse mucho, mantenga buena hidratación, tome medicamentos para aliviar síntomas, evite contacto con otras personas y consulte al médico si los síntomas son graves. La prevención incluye vacunación anual y buena higiene."
+                    },
+                    {
+                      title: "Conjuntivitis",
+                      description: "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+                    },
+                    {
+                      title: "Gripe",
+                      description: "La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+                    },
+                    {
+                      title: "Herpes labial (VHS-1): síntomas, causas y prevención",
+                      description: "El herpes labial es causado por el virus del herpes simple tipo 1. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+                    },
+                    {
+                      title: "Infecciones del tracto urinario",
+                      description: "Las infecciones del tracto urinario son causadas por bacterias que entran en la vejiga o riñones. Los síntomas incluyen dolor al orinar, urgencia frecuente y dolor abdominal. El tratamiento incluye antibióticos. La prevención incluye buena higiene personal."
+                    },
+                    {
+                      title: "Mononucleosis",
+                      description: "La mononucleosis es causada por el virus de Epstein-Barr. Los síntomas incluyen fiebre, dolor de garganta, fatiga extrema e inflamación de los ganglios linfáticos. Es común en adolescentes y adultos jóvenes. El tratamiento es de apoyo y descanso."
+                    },
+                    {
+                      title: "Piojos",
+                      description: "Los piojos son parásitos que viven en el cuero cabelludo. Causan picazón intensa y son muy contagiosos. El tratamiento incluye champús medicados y eliminación manual de liendres. La prevención incluye evitar compartir peines y sombreros."
+                    },
+                    {
+                      title: "Plántale cara al resfriado",
+                      description: "Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+                    },
+                    {
+                      title: "Qué hacer si contraes la gripe",
+                      description: "Si contraes la gripe, descansa mucho, mantén buena hidratación y toma medicamentos para aliviar los síntomas. Evita contacto con otras personas para prevenir la propagación. Consulta a un médico si los síntomas son graves o persisten."
+                    },
+                    {
+                      title: "Sinusitis",
+                      description: "La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos."
+                    },
+                    {
+                      title: "Uñas encarnadas",
+                      description: "Las uñas encarnadas ocurren cuando el borde de la uña crece hacia la piel circundante. Causan dolor, enrojecimiento e hinchazón. El tratamiento incluye remojar en agua tibia, usar calzado cómodo y posiblemente cirugía menor."
+                    },
+                    {
+                      title: "¿Cuál es la diferencia entre infeccioso y contagioso?",
+                      description: "Infeccioso se refiere a la capacidad de causar infección, mientras que contagioso se refiere a la capacidad de propagarse de persona a persona. Una enfermedad puede ser infecciosa pero no contagiosa, o viceversa."
+                    },
+                    {
+                      title: "¿Durante cuánto tiempo es contagiosa la mononucleosis?",
+                      description: "La mononucleosis es contagiosa durante varias semanas, incluso después de que los síntomas desaparezcan. El virus puede permanecer en la saliva por meses. La prevención incluye evitar compartir bebidas y utensilios con personas infectadas."
+                    }
                   ]
                 },
                 {
                   title: "Infecciones micóticas",
                   items: [
-                    "Abscesos",
-                    "Combatir gérmenes",
-                    "Infecciones vaginales por hongos",
-                    "Pie de atleta",
-                    "Pitiriasis versicolor",
-                    "Tiña",
-                    "Tiña inguinal",
-                    "¿Cuál es la diferencia entre infeccioso y contagioso?",
-                    "¿Se puede contraer una infección por hongos después de mantener relaciones sexuales?"
+                    {
+                      title: "Abscesos",
+                      description: "Los abscesos son acumulaciones de pus causadas por infecciones bacterianas o fúngicas. Pueden aparecer en cualquier parte del cuerpo. Los síntomas incluyen dolor, hinchazón, enrojecimiento y calor en el área afectada. El tratamiento puede incluir drenaje quirúrgico y medicamentos."
+                    },
+                    {
+                      title: "Combatir gérmenes",
+                      description: "La prevención de infecciones incluye lavado frecuente de manos, evitar contacto con personas enfermas, mantener vacunas al día y practicar buena higiene personal. Los gérmenes se propagan fácilmente en entornos escolares y comunitarios."
+                    },
+                    {
+                      title: "Infecciones vaginales por hongos",
+                      description: "Las infecciones vaginales por hongos son causadas por el hongo Candida. Los síntomas incluyen picazón, ardor, secreción blanca y dolor al orinar. El tratamiento incluye medicamentos antifúngicos. La prevención incluye buena higiene y evitar duchas vaginales."
+                    },
+                    {
+                      title: "Pie de atleta",
+                      description: "El pie de atleta es una infección fúngica de la piel entre los dedos de los pies. Los síntomas incluyen picazón, ardor, descamación y mal olor. El tratamiento incluye medicamentos antifúngicos tópicos. La prevención incluye mantener los pies secos y usar calzado transpirable."
+                    },
+                    {
+                      title: "Pitiriasis versicolor",
+                      description: "La pitiriasis versicolor es una infección fúngica de la piel que causa manchas claras u oscuras. Es común en adolescentes y adultos jóvenes. El tratamiento incluye champús medicados y medicamentos antifúngicos. La prevención incluye buena higiene personal."
+                    },
+                    {
+                      title: "Tiña",
+                      description: "La tiña es una infección fúngica de la piel que causa erupciones circulares rojas. Es muy contagiosa y se propaga por contacto directo. El tratamiento incluye medicamentos antifúngicos tópicos u orales. La prevención incluye buena higiene y evitar contacto con personas infectadas."
+                    },
+                    {
+                      title: "Tiña inguinal",
+                      description: "La tiña inguinal es una infección fúngica en el área de la ingle. Los síntomas incluyen picazón, enrojecimiento y descamación. Es común en adolescentes y adultos jóvenes. El tratamiento incluye medicamentos antifúngicos tópicos. La prevención incluye mantener el área seca y limpia."
+                    },
+                    {
+                      title: "¿Cuál es la diferencia entre infeccioso y contagioso?",
+                      description: "Infeccioso se refiere a la capacidad de causar infección, mientras que contagioso se refiere a la capacidad de propagarse de persona a persona. Una enfermedad puede ser infecciosa pero no contagiosa, o viceversa."
+                    },
+                    {
+                      title: "¿Se puede contraer una infección por hongos después de mantener relaciones sexuales?",
+                      description: "Sí, las infecciones por hongos pueden transmitirse durante las relaciones sexuales, especialmente si hay contacto con áreas infectadas. La prevención incluye buena higiene personal y usar protección. El tratamiento incluye medicamentos antifúngicos."
+                    }
                   ]
                 },
                 {
                   title: "Infecciones intestinales y estomacales",
                   items: [
-                    "Diarrea",
-                    "Dolores abdominales",
-                    "Infecciones por E. coli: Diarrea",
-                    "Intoxicaciones alimentarias",
-                    "La salmonelosis",
-                    "¿Cuál es la diferencia entre infeccioso y contagioso?"
+                    {
+                      title: "Diarrea",
+                      description: "La diarrea es un síntoma común de infecciones gastrointestinales. Puede ser causada por virus, bacterias o parásitos. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda. Consulte al médico si persiste más de 48 horas."
+                    },
+                    {
+                      title: "Dolores abdominales",
+                      description: "Los dolores abdominales pueden ser causados por infecciones gastrointestinales, intoxicación alimentaria o inflamación. Los síntomas incluyen calambres, náuseas y malestar general. El tratamiento depende de la causa. Consulte al médico si el dolor es severo o persistente."
+                    },
+                    {
+                      title: "Infecciones por E. coli: Diarrea",
+                      description: "Las infecciones por E. coli pueden causar diarrea severa y complicaciones renales. Se transmiten a través de alimentos o agua contaminados. Los síntomas incluyen diarrea acuosa, dolor abdominal y fiebre. El tratamiento incluye hidratación y descanso."
+                    },
+                    {
+                      title: "Intoxicaciones alimentarias",
+                      description: "La intoxicación alimentaria es causada por bacterias, virus o toxinas en alimentos contaminados. Los síntomas incluyen náuseas, vómitos, diarrea y fiebre. La mayoría de los casos son leves y se resuelven solos. La prevención incluye buena higiene alimentaria."
+                    },
+                    {
+                      title: "La salmonelosis",
+                      description: "La salmonelosis es causada por bacterias Salmonella encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves. El tratamiento incluye hidratación y descanso. La prevención incluye cocinar bien los alimentos."
+                    },
+                    {
+                      title: "¿Cuál es la diferencia entre infeccioso y contagioso?",
+                      description: "Infeccioso se refiere a la capacidad de causar infección, mientras que contagioso se refiere a la capacidad de propagarse de persona a persona. Una enfermedad puede ser infecciosa pero no contagiosa, o viceversa."
+                    }
                   ]
                 },
                 {
                   title: "Infecciones cutáneas y erupciones",
                   items: [
-                    "Abscesos",
-                    "Celulitis",
-                    "Chinches",
-                    "Eccema",
-                    "Enfermedad de Lyme",
-                    "Fiebre maculosa de las montañas Rocosas",
-                    "Herpes labial (VHS-1): síntomas, causas y prevención",
-                    "Impétigo",
-                    "Molusco contagioso",
-                    "Pie de atleta",
-                    "Piojos",
-                    "Pitiriasis versicolor",
-                    "Síndrome de shock tóxico",
-                    "Tiña",
-                    "Tiña inguinal",
-                    "Viruela",
-                    "¿Cuál es la diferencia entre infeccioso y contagioso?",
-                    "¿Cómo puedo prevenir la enfermedad de Lyme?"
+                    {
+                      title: "Abscesos",
+                      description: "Los abscesos son acumulaciones de pus causadas por infecciones bacterianas. Pueden aparecer en cualquier parte del cuerpo. Los síntomas incluyen dolor, hinchazón, enrojecimiento y calor en el área afectada. El tratamiento puede incluir drenaje quirúrgico y antibióticos."
+                    },
+                    {
+                      title: "Celulitis",
+                      description: "La celulitis es una infección bacteriana de la piel y tejidos subyacentes. Los síntomas incluyen enrojecimiento, hinchazón, calor y dolor. Requiere tratamiento con antibióticos. La celulitis facial requiere atención médica inmediata."
+                    },
+                    {
+                      title: "Chinches",
+                      description: "Las chinches son parásitos que se alimentan de sangre humana. Causan picazón intensa y ronchas rojas. Se propagan fácilmente en hogares y hoteles. El tratamiento incluye exterminación profesional y limpieza exhaustiva. La prevención incluye inspeccionar habitaciones de hotel."
+                    },
+                    {
+                      title: "Eccema",
+                      description: "El eccema es una condición inflamatoria de la piel que causa picazón, enrojecimiento y descamación. No es infeccioso pero puede infectarse secundariamente. El tratamiento incluye hidratantes, corticosteroides tópicos y evitar irritantes. La prevención incluye mantener la piel hidratada."
+                    },
+                    {
+                      title: "Enfermedad de Lyme",
+                      description: "La enfermedad de Lyme es causada por bacterias transmitidas por garrapatas. Los síntomas incluyen erupción característica, fiebre, fatiga y dolor articular. El diagnóstico temprano y tratamiento con antibióticos es crucial para prevenir complicaciones."
+                    },
+                    {
+                      title: "Fiebre maculosa de las montañas Rocosas",
+                      description: "La fiebre maculosa es causada por bacterias transmitidas por garrapatas. Los síntomas incluyen fiebre, dolor de cabeza y erupción característica. El diagnóstico temprano y tratamiento con antibióticos es crucial para prevenir complicaciones graves."
+                    },
+                    {
+                      title: "Herpes labial (VHS-1): síntomas, causas y prevención",
+                      description: "El herpes labial es causado por el virus del herpes simple tipo 1. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+                    },
+                    {
+                      title: "Impétigo",
+                      description: "El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación."
+                    },
+                    {
+                      title: "Molusco contagioso",
+                      description: "El molusco contagioso es una infección viral de la piel que causa pequeñas protuberancias redondas. Es común en niños y se propaga por contacto directo. La mayoría de los casos se resuelven solos. El tratamiento puede incluir procedimientos médicos para remover las lesiones."
+                    },
+                    {
+                      title: "Pie de atleta",
+                      description: "El pie de atleta es una infección fúngica de la piel entre los dedos de los pies. Los síntomas incluyen picazón, ardor, descamación y mal olor. El tratamiento incluye medicamentos antifúngicos tópicos. La prevención incluye mantener los pies secos y usar calzado transpirable."
+                    },
+                    {
+                      title: "Piojos",
+                      description: "Los piojos son parásitos que viven en el cuero cabelludo. Causan picazón intensa y son muy contagiosos. El tratamiento incluye champús medicados y eliminación manual de liendres. La prevención incluye evitar compartir peines y sombreros."
+                    },
+                    {
+                      title: "Pitiriasis versicolor",
+                      description: "La pitiriasis versicolor es una infección fúngica de la piel que causa manchas claras u oscuras. Es común en adolescentes y adultos jóvenes. El tratamiento incluye champús medicados y medicamentos antifúngicos. La prevención incluye buena higiene personal."
+                    },
+                    {
+                      title: "Síndrome de shock tóxico",
+                      description: "El síndrome de shock tóxico es una complicación rara pero grave de infecciones bacterianas. Los síntomas incluyen fiebre alta, erupción, presión arterial baja y fallo orgánico. Requiere tratamiento médico inmediato con antibióticos y cuidados intensivos."
+                    },
+                    {
+                      title: "Tiña",
+                      description: "La tiña es una infección fúngica de la piel que causa erupciones circulares rojas. Es muy contagiosa y se propaga por contacto directo. El tratamiento incluye medicamentos antifúngicos tópicos u orales. La prevención incluye buena higiene y evitar contacto con personas infectadas."
+                    },
+                    {
+                      title: "Tiña inguinal",
+                      description: "La tiña inguinal es una infección fúngica en el área de la ingle. Los síntomas incluyen picazón, enrojecimiento y descamación. Es común en adolescentes y adultos jóvenes. El tratamiento incluye medicamentos antifúngicos tópicos. La prevención incluye mantener el área seca y limpia."
+                    },
+                    {
+                      title: "Viruela",
+                      description: "La viruela es una enfermedad viral altamente contagiosa que ha sido erradicada globalmente. Los síntomas incluyen fiebre alta y erupción característica. La vacunación masiva fue crucial para su erradicación. No hay casos naturales desde 1977."
+                    },
+                    {
+                      title: "¿Cuál es la diferencia entre infeccioso y contagioso?",
+                      description: "Infeccioso se refiere a la capacidad de causar infección, mientras que contagioso se refiere a la capacidad de propagarse de persona a persona. Una enfermedad puede ser infecciosa pero no contagiosa, o viceversa."
+                    },
+                    {
+                      title: "¿Cómo puedo prevenir la enfermedad de Lyme?",
+                      description: "Para prevenir la enfermedad de Lyme, use repelente de insectos, use ropa protectora en áreas boscosas, revise su cuerpo después de estar al aire libre, y mantenga su jardín libre de hojas y maleza donde las garrapatas pueden vivir."
+                    }
                   ]
                 },
                 {
                   title: "Enfermedades de transmisión sexual",
                   items: [
-                    "Clamidia",
-                    "Combatir gérmenes",
-                    "Cómo hacerse la prueba del VIH",
-                    "Enfermedad inflamatoria pélvica",
-                    "Enfermedades de transmisión sexual",
-                    "Gonorrea",
-                    "Hablar con tu pareja sobre las enfermedades de transmisión sexual",
-                    "Hepatitis",
-                    "Hepatitis B",
-                    "Herpes genital",
-                    "Ladillas",
-                    "Profilaxis preexposición (PrEP)",
-                    "Vacuna contra el virus del papiloma humano (VPH)",
-                    "Vaginosis bacteriana",
-                    "Verrugas genitales (VPH)",
-                    "Virus de la inmunodeficiencia humana (VIH) y el SIDA",
-                    "¿Cómo se contrae el SIDA?",
-                    "¿Pueden causar una infección la digitación o el sexo oral?",
-                    "¿Puedes contraer un herpes genital a partir de un herpes labial?",
-                    "¿Puedo tener verrugas genitales aunque ya me haya puesto todas las vacunas?"
+                    {
+                      title: "Clamidia",
+                      description: "La clamidia es una infección bacteriana de transmisión sexual común. A menudo no causa síntomas, pero puede causar dolor al orinar, secreción anormal y dolor pélvico. El tratamiento incluye antibióticos. La prevención incluye usar condones y hacerse pruebas regulares."
+                    },
+                    {
+                      title: "Combatir gérmenes",
+                      description: "La prevención de infecciones incluye lavado frecuente de manos, evitar contacto con personas enfermas, mantener vacunas al día y practicar buena higiene personal. Los gérmenes se propagan fácilmente en entornos escolares y comunitarios."
+                    },
+                    {
+                      title: "Cómo hacerse la prueba del VIH",
+                      description: "Las pruebas del VIH están disponibles en clínicas, hospitales y centros de salud. Las pruebas rápidas dan resultados en minutos. Es importante hacerse la prueba regularmente si se tiene actividad sexual. El diagnóstico temprano permite mejor tratamiento."
+                    },
+                    {
+                      title: "Enfermedad inflamatoria pélvica",
+                      description: "La enfermedad inflamatoria pélvica es una infección de los órganos reproductivos femeninos. Los síntomas incluyen dolor pélvico, fiebre y secreción anormal. Requiere tratamiento inmediato con antibióticos para prevenir complicaciones como infertilidad."
+                    },
+                    {
+                      title: "Enfermedades de transmisión sexual",
+                      description: "Las enfermedades de transmisión sexual son infecciones que se transmiten durante el contacto sexual. Incluyen clamidia, gonorrea, herpes y VIH. La prevención incluye usar condones, hacerse pruebas regulares y limitar el número de parejas sexuales."
+                    },
+                    {
+                      title: "Gonorrea",
+                      description: "La gonorrea es una infección bacteriana de transmisión sexual. Los síntomas incluyen dolor al orinar, secreción anormal y dolor pélvico. El tratamiento incluye antibióticos. La gonorrea no tratada puede causar complicaciones graves como infertilidad."
+                    },
+                    {
+                      title: "Hablar con tu pareja sobre las enfermedades de transmisión sexual",
+                      description: "Es importante tener conversaciones abiertas sobre salud sexual con las parejas. Discuta historial sexual, pruebas de ETS y métodos de prevención. La comunicación honesta protege la salud de ambos. Busque orientación médica si es necesario."
+                    },
+                    {
+                      title: "Hepatitis",
+                      description: "La hepatitis es la inflamación del hígado causada por virus, alcohol o medicamentos. Los tipos A, B y C son los más comunes. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. El tratamiento depende del tipo y causa."
+                    },
+                    {
+                      title: "Hepatitis B",
+                      description: "La hepatitis B es una infección viral del hígado transmitida por contacto con sangre o fluidos corporales. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. La vacunación previene la enfermedad. El tratamiento puede incluir medicamentos antivirales."
+                    },
+                    {
+                      title: "Herpes genital",
+                      description: "El herpes genital es causado por el virus del herpes simple tipo 2. Causa llagas dolorosas en el área genital. Es muy contagioso durante los brotes. El tratamiento incluye medicamentos antivirales. La prevención incluye usar condones y evitar contacto durante brotes."
+                    },
+                    {
+                      title: "Ladillas",
+                      description: "Las ladillas son parásitos que viven en el vello púbico. Causan picazón intensa y son muy contagiosas. Se transmiten durante el contacto sexual. El tratamiento incluye medicamentos tópicos y eliminación manual. La prevención incluye buena higiene personal."
+                    },
+                    {
+                      title: "Profilaxis preexposición (PrEP)",
+                      description: "La PrEP es un medicamento preventivo para personas en alto riesgo de contraer VIH. Se toma diariamente o antes y después de la exposición. Es altamente efectiva cuando se usa correctamente. Requiere receta médica y seguimiento regular."
+                    },
+                    {
+                      title: "Vacuna contra el virus del papiloma humano (VPH)",
+                      description: "La vacuna contra el VPH previene infecciones por virus del papiloma humano que pueden causar verrugas genitales y cáncer. Se recomienda para adolescentes y adultos jóvenes. La vacuna es segura y efectiva. Protege contra múltiples cepas del virus."
+                    },
+                    {
+                      title: "Vaginosis bacteriana",
+                      description: "La vaginosis bacteriana es un desequilibrio en las bacterias vaginales normales. Los síntomas incluyen secreción anormal y olor desagradable. El tratamiento incluye antibióticos. La prevención incluye buena higiene personal y evitar duchas vaginales."
+                    },
+                    {
+                      title: "Verrugas genitales (VPH)",
+                      description: "Las verrugas genitales son causadas por el virus del papiloma humano. Aparecen como pequeñas protuberancias en el área genital. El tratamiento incluye medicamentos tópicos o procedimientos médicos. La vacuna contra el VPH previene la infección."
+                    },
+                    {
+                      title: "Virus de la inmunodeficiencia humana (VIH) y el SIDA",
+                      description: "El VIH es un virus que ataca el sistema inmunológico. El SIDA es la etapa avanzada de la infección por VIH. Los síntomas incluyen fatiga, pérdida de peso y infecciones oportunistas. El tratamiento incluye medicamentos antirretrovirales. La prevención incluye usar condones y evitar compartir agujas."
+                    },
+                    {
+                      title: "¿Cómo se contrae el SIDA?",
+                      description: "El SIDA se contrae a través de la infección por VIH, que se transmite por contacto sexual sin protección, compartir agujas contaminadas, o de madre a hijo durante el embarazo o parto. No se transmite por contacto casual. El uso de condones y pruebas regulares previenen la transmisión."
+                    },
+                    {
+                      title: "¿Pueden causar una infección la digitación o el sexo oral?",
+                      description: "Sí, tanto la digitación como el sexo oral pueden transmitir infecciones de transmisión sexual. Las bacterias y virus pueden transmitirse a través de pequeñas heridas o membranas mucosas. La prevención incluye usar protección y buena higiene personal."
+                    },
+                    {
+                      title: "¿Puedes contraer un herpes genital a partir de un herpes labial?",
+                      description: "Sí, es posible contraer herpes genital a partir de herpes labial durante el sexo oral. Ambos son causados por virus del herpes simple, aunque generalmente el tipo 1 causa herpes labial y el tipo 2 herpes genital. La prevención incluye evitar contacto durante brotes activos."
+                    },
+                    {
+                      title: "¿Puedo tener verrugas genitales aunque ya me haya puesto todas las vacunas?",
+                      description: "La vacuna contra el VPH protege contra las cepas más comunes del virus, pero no contra todas. Es posible contraer verrugas genitales por cepas no cubiertas por la vacuna. La vacuna sigue siendo la mejor protección disponible. Consulte a su médico sobre opciones de tratamiento."
+                    }
                   ]
                 }
               ]
@@ -6590,6 +7190,35 @@ export const translations = {
         verified: "✓ Verified"
       }
     },
+    // Infographic Section
+    infographic: {
+      badge: "Attached Infographics",
+      title: "Educational PDF Resources",
+      description: "Download our educational infographics designed especially for parents and caregivers. These resources contain valuable information about child care and your child's development.",
+      note: "Tap any image to download the PDF",
+      actions: {
+        preview: "Preview",
+        download: "Download"
+      },
+      files: {
+        leadScreening: {
+          title: "Lead Screening",
+          description: "Information about lead screening"
+        },
+        patientsBill: {
+          title: "Patients Bill of Rights",
+          description: "Patient rights and responsibilities"
+        },
+        vipPcmh: {
+          title: "VIP PCMH",
+          description: "VIP PCMH information"
+        },
+        patientMedicalHome: {
+          title: "What is a Patient Medical Home",
+          description: "What is a Patient Medical Home?"
+        }
+      }
+    },
     // New subscription section
     subscribe: {
       badge: "Stay Updated",
@@ -6620,34 +7249,86 @@ export const translations = {
               subtopics: [
                 {
                   title: "Injuries",
-                  items: [
-                    "Canker sores",
-                    "Concussions: What teachers need to know",
-                    "When and where to seek medical help",
-                    "How broken bones heal",
-                    "How to take axillary temperature",
-                    "How to take oral temperature",
-                    "How to take rectal temperature",
-                    "How to take your child's temperature",
-                    "How to treat fever",
-                    "Fainting",
-                    "Functional abdominal pain",
-                    "Headaches",
-                    "Growing pains",
-                    "Fever",
-                    "Physical therapy",
-                    "Bone fracture",
-                    "Torus fractures",
-                    "Greenstick fractures",
-                    "Stress fractures",
-                    "Splints",
-                    "Inflammation",
-                    "Going to the emergency room",
-                    "Osgood-Schlatter disease",
-                    "Migraines",
-                    "What to do with embedded splinters",
-                    "Occupational therapy"
-                  ]
+                  items: {
+                    "Canker sores": {
+                      description: "¿What are canker sores?\nCanker sores are small sores that appear on the inside of the lips or cheeks, at the base of the gums, and under or on the tongue. Canker sores are different from cold sores (fever blisters), which are caused by a virus and usually appear outside the mouth, around the lips, on the cheeks, chin, or inside the nostrils. Cold sores can be contagious, but canker sores are not.\n\n¿What causes canker sores?\nNo one knows exactly what causes canker sores. It is believed that many factors put people at greater risk of developing canker sores. Diet may play a role. It seems that people with diets poor in folic acid, vitamin B12, and iron get canker sores more often, as do people with food allergies. Mouth injuries (such as biting the inside of the lip and brushing teeth too hard, injuring the delicate membrane that covers the inside of the mouth) also seem to facilitate the appearance of canker sores. Sodium lauryl sulfate (SLS), an ingredient in many toothpastes and mouthwashes, has been associated with the appearance of canker sores, and sometimes canker sores can be a sign of a problem with the immune system. Even emotional stress can be a factor involved in the appearance of canker sores. In one study, it was found that college students get more canker sores during stressful periods, such as exam time.\n\n¿Who can get canker sores?\nApproximately 1 in 5 people have canker sores in their mouth, which can make eating, drinking, and brushing teeth a bit of an ordeal. Teenagers and young people around twenty years of age are the ones who get them most often, and women are affected twice as often as men. Some girls, young women, and women find that they get more canker sores at the beginning of their menstrual periods. Although canker sores are not contagious, the tendency to have canker sore outbreaks can run in families.\n\n¿What are the signs and symptoms of canker sores?\nCanker sores usually appear as round, open sores or wounds, white or yellowish in color with a red halo around them. Most are small (¼ inch or 6 millimeters) and superficial, but sometimes they can be larger and deeper. Canker sores usually appear one at a time, but sometimes they appear in clusters or small groups. Sometimes, a tingling or burning sensation is felt in an area of the mouth just before a canker sore appears. Canker sores usually heal within about two weeks. While they are healing, canker sores can hurt quite a bit, although the worst days are usually the first 3 or 4. Unless it is very large or very deep, canker sores usually heal without leaving a scar.\n\n¿How are canker sores diagnosed?\nCanker sores are quite common, but that doesn't mean they should be ignored. If your child has canker sores that last more than two weeks or cannot eat or drink due to the pain they cause, call your doctor. Also call if they get canker sores more than two or three times a year. Generally, no tests are needed to diagnose canker sores, as doctors can identify them just based on the patient's medical history and a physical examination. If your child has many canker sores or they are severe, your doctor may want to do tests to evaluate possible nutritional deficiencies (which can be corrected with dietary changes and/or vitamin supplements), problems with the immune system, and food or other allergies.\n\n¿How are canker sores treated?\nMost canker sores heal on their own within a period ranging from a few days to a couple of weeks. If they hurt, you can give your child an over-the-counter pain medication (or analgesic), such as ibuprofen or acetaminophen. If a canker sore doesn't improve after a couple of weeks or if your child keeps getting new canker sores, visit your child's doctor or dentist. They may prescribe a topical medication (applied to the skin) or a special mouthwash to help heal the canker sores.\n\nRegarding medications that should be applied directly to the canker sore, first dry the area with a tissue. Use a cotton swab to apply a small amount of the medication to the canker sore and make sure your child doesn't eat or drink for at least 30 minutes so that saliva doesn't wash away the medication.\n\n¿How can I help my child feel better?\nTo help canker sores hurt less and prevent them from coming back, encourage your child to: avoid rough-textured foods, such as industrial potato chips and nuts, which can irritate the gums and other delicate tissues of the mouth, brush teeth and rinse mouth with toothpastes and mouthwashes that don't contain sodium lauryl sulfate, use only soft-bristled toothbrushes and be careful not to brush too hard, avoid all foods to which they are allergic, avoid spicy, salty, seasoned, and acidic foods (such as lemon and tomato), which can irritate sores and other mouth wounds."
+                    },
+                    "Concussions: What Teachers Need to Know": {
+                      description: "¿What should teachers know about concussions?<br>A concussion is an injury that affects brain function and can cause symptoms such as headache, dizziness, and confusion.<br><br>Most children who suffer a concussion return to school within a week. They may continue to have symptoms and need special help and support when they return. This information will help you become familiar with the symptoms and challenges a student may have, as well as understand how to help them.<br><br>¿What concussion symptoms may occur?<br>Healthcare professionals allow children who have suffered a concussion to return to school once they are able to tolerate symptoms for 30 to 45 minutes (the approximate duration of a class).<br><br>Students who are recovering from a concussion are likely to have the following symptoms:<br><br>• headaches<br>• blurred vision<br>• tiredness<br>• problems concentrating or remembering things<br>• light sensitivity<br>• sadness or irritability<br><br>They may need the following:<br><br>• reduced schedule at the study center<br>• fewer classes<br>• extra time to complete school assignments, homework, projects, and exams<br>• receive tutoring or support classes<br>• receive notes or study guides from the school<br>• rest<br>• avoid activities that require concentration, such as exams and other types of tests<br>• catch up on schoolwork during vacations<br>• wear sunglasses due to light sensitivity<br><br>Students who continue to have concussion symptoms or whose symptoms worsen may need a formalized plan such as:<br><br>• 504 plan or IEP to ensure they receive the services they need<br>• an RTI (response to intervention) protocol to ensure they are improving as expected<br><br>¿What can teachers do if a student shows concussion symptoms?<br>If a student's symptoms are mild, encourage them to stay for a full class period (30 to 45 minutes). They can rest their head on the desk for a few minutes.<br><br>The student should see the nurse in the following cases:<br><br>• if symptoms last more than 30 to 45 minutes<br>• if they have new symptoms or their symptoms worsen<br>• if they cannot tolerate the symptoms<br><br>If a student's symptoms don't seem to improve after 2 weeks, talk to the school nursing staff. The nursing staff can talk to the student's parents to have their child checked by a doctor. If necessary, the school can add more support.<br><br>¿What else should I know?<br>That a student can go to school after suffering a concussion doesn't necessarily mean they are allowed to play sports, do physical education, or other activities that could cause a new head injury. Students must respect their doctor's recommendations about not playing sports or doing other activities until the professional considers it necessary.<br><br>Students who suffer a head injury while at school should be attended to immediately by nursing staff.<br><br>Each student recovers differently after a concussion. They need the support and containment of their family, friends, and teachers to recover and gradually resume the activities they enjoyed before the concussion."
+                    },
+                    "When and where to seek medical help": {
+                      description: ""
+                    },
+                    "How broken bones heal": {
+                      description: ""
+                    },
+                    "How to take axillary temperature": {
+                      description: ""
+                    },
+                    "How to take oral temperature": {
+                      description: ""
+                    },
+                    "How to take rectal temperature": {
+                      description: ""
+                    },
+                    "How to take your child's temperature": {
+                      description: ""
+                    },
+                    "How to treat fever": {
+                      description: ""
+                    },
+                    "Fainting": {
+                      description: ""
+                    },
+                    "Functional abdominal pain": {
+                      description: ""
+                    },
+                    "Headaches": {
+                      description: ""
+                    },
+                    "Growing pains": {
+                      description: ""
+                    },
+                    "Fever": {
+                      description: ""
+                    },
+                    "Physical therapy": {
+                      description: ""
+                    },
+                    "Bone fracture": {
+                      description: ""
+                    },
+                    "Torus fractures": {
+                      description: ""
+                    },
+                    "Greenstick fractures": {
+                      description: ""
+                    },
+                    "Stress fractures": {
+                      description: ""
+                    },
+                    "Splints": {
+                      description: ""
+                    },
+                    "Inflammation": {
+                      description: ""
+                    },
+                    "Going to the emergency room": {
+                      description: ""
+                    },
+                    "Osgood-Schlatter disease": {
+                      description: ""
+                    },
+                    "Migraines": {
+                      description: ""
+                    },
+                    "What to do with embedded splinters": {
+                      description: ""
+                    },
+                    "Occupational therapy": {
+                      description: ""
+                    }
+                  }
                 },
                 {
                   title: "The human body",
@@ -7089,414 +7770,356 @@ export const translations = {
               ]
             },
             infections: {
-              title: "Infections",
-              description: "From time to time, all children get sick. When your child doesn't feel well, you'll want to know how to recognize symptoms, how to help, and when to call the doctor. Get all the information you need about the most common and not-so-common infections.",
+              title: 'Infections',
+              description:
+                "From time to time, all children get sick. When your child doesn't feel well, you'll want to know how to recognize symptoms, how to help, and when to call the doctor. Get all the information you need about the most common and not-so-common infections.",
               subtopics: [
                 {
-                  title: "Infections and treatments",
+                  title: 'Respiratory infections',
                   items: [
-                    "Peritonsillar abscesses",
-                    "Retropharyngeal abscesses",
-                    "Adenovirus",
-                    "Tonsillitis",
-                    "Antibiotics",
-                    "Babesiosis",
-                    "Infant botulism",
-                    "Bronchiolitis",
-                    "Bronchitis",
-                    "Cellulitis",
-                    "Cytomegalovirus",
-                    "Chlamydia",
-                    "Fighting germs",
-                    "Understanding COVID-19",
-                    "Conjunctivitis",
-                    "Coronavirus (COVID-19) and multisystem inflammatory syndrome in children",
-                    "Coronavirus (COVID-19): Understanding the COVID-19 vaccine",
-                    "Coronavirus (COVID-19): How to protect babies",
-                    "Coronavirus (COVID-19): Social distancing with children",
-                    "Coronavirus (COVID-19): Preparing for quarantine",
-                    "Coronavirus (COVID-19): Answers to your questions",
-                    "Coronavirus (COVID-19): Using a mask helps protect against infections",
-                    "Coronavirus (COVID-19): YOU can stop the spread",
-                    "Coronavirus (COVID-19): How to talk to your child about this virus?",
-                    "COVID-19",
-                    "COVID-19: Home care and precautions",
-                    "COVID-19: How to isolate at home",
-                    "COVID-19: Enjoying holidays and gatherings safely",
-                    "COVID-19: Getting tested",
-                    "COVID-19: Children and masks",
-                    "COVID-19: Frequently asked questions related to pregnancy",
-                    "COVID-19: Questions and answers about vaccines",
-                    "COVID-19: Antibody test",
-                    "COVID-19: Viral tests",
-                    "COVID-19: What to do if your child is sick",
-                    "COVID-19: What does quarantine and isolation mean?",
-                    "COVID-19: What are variants?",
-                    "Croup",
-                    "When and where to seek medical help",
-                    "How to take axillary temperature",
-                    "How to take oral temperature",
-                    "How to take rectal temperature",
-                    "How to take your child's temperature",
-                    "Diphtheria",
-                    "The danger of antibiotic abuse",
-                    "Encephalitis",
-                    "Chikungunya disease",
-                    "Lyme disease",
-                    "Hand, foot and mouth disease",
-                    "Cat scratch disease",
-                    "Powassan virus disease",
-                    "Haemophilus influenzae type b (Hib) disease",
-                    "Mosquito-borne diseases",
-                    "Scarlet fever",
-                    "Tick removal: Step-by-step guide",
-                    "Streptococcal pharyngotonsillitis",
-                    "Fever",
-                    "Dengue fever",
-                    "Rocky Mountain spotted fever",
-                    "Gastroenteritis (stomach flu) in children and adolescents",
-                    "Gonorrhea",
-                    "Flu (influenza)",
-                    "Bird flu",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Talking to your children about sexually transmitted diseases",
-                    "Helicobacter pylori",
-                    "Hepatitis",
-                    "Hepatitis A",
-                    "Hepatitis B",
-                    "Hepatitis C",
-                    "Genital herpes",
-                    "Cold sores",
-                    "Shingles (herpes zoster)",
-                    "Impetigo",
-                    "Middle ear infections",
-                    "Urinary tract infections",
-                    "Urinary tract infections and related conditions",
-                    "Campylobacter infections",
-                    "E. coli infections: Diarrhea",
-                    "Coxsackie virus infections",
-                    "Enterovirus infections",
-                    "Staphylococcus infections",
-                    "Group A streptococcal infections",
-                    "Salmonella infections",
-                    "Shigella infections (shigellosis)",
-                    "Pet-transmitted infections",
-                    "Vaginal yeast infections",
-                    "Listeria infection",
-                    "Inflammation",
-                    "Food poisoning",
-                    "The COVID-19 vaccine (Center for COVID-19 vaccine-related topics)",
-                    "Smallpox",
-                    "Meningitis",
-                    "Mononucleosis",
-                    "Walking pneumonia in children: Signs, diagnosis and treatment",
-                    "Neutropenia",
-                    "Norovirus",
-                    "Osteomyelitis",
-                    "External otitis (swimmer's ear)",
-                    "PANDAS and PANS",
-                    "Mumps",
-                    "Parechovirus",
-                    "Polio",
-                    "First aid: Chickenpox",
-                    "Pre-exposure prophylaxis (PrEP)",
-                    "COVID-19 tests: Which is better?",
-                    "Fifth disease",
-                    "What to do about a cold",
-                    "Rabies",
-                    "Colds",
-                    "Roseola",
-                    "Rotavirus",
-                    "Rubella",
-                    "Measles",
-                    "Measles: What you need to know",
-                    "MRSA",
-                    "Sepsis",
-                    "Toxic synovitis",
-                    "Sinusitis",
-                    "Syphilis",
-                    "Reye syndrome",
-                    "Toxic shock syndrome",
-                    "Whooping cough (pertussis)",
-                    "Tuberculosis in children and adolescents",
-                    "Tetanus",
-                    "Safe use of insect repellents",
-                    "COVID-19 vaccines for children 6 months to 5 years",
-                    "Booster vaccines",
-                    "Chickenpox",
-                    "Warts",
-                    "Genital warts (HPV)",
-                    "Monkeypox",
-                    "Human immunodeficiency virus (HIV) and AIDS",
-                    "West Nile virus",
-                    "Zika virus",
-                    "Respiratory syncytial virus",
-                    "Yersiniosis",
-                    "When is a disease contagious?",
-                    "Is it safe to breastfeed my baby if I have COVID-19?",
-                    "Is it a cold, flu, respiratory syncytial virus or COVID-19?",
-                    "Can children receive the COVID-19 vaccine along with the flu vaccine?",
-                    "What is herd immunity?",
-                    "Ebola"
+                    {
+                      title: 'Colds',
+                      description:
+                        'Colds are common viral infections of the upper respiratory tract. Symptoms include nasal congestion, sneezing, sore throat, and cough. Treatment includes rest, hydration, and medications to relieve symptoms. They do not respond to antibiotics.',
+                    },
+                    {
+                      title: 'Flu (influenza)',
+                      description:
+                        'The flu is a viral respiratory infection. Symptoms include fever, cough, sore throat, and fatigue. Annual vaccination prevents the disease. Treatment includes rest, hydration, and medications to relieve symptoms. Antivirals can shorten duration.',
+                    },
+                    {
+                      title: 'Bronchitis',
+                      description:
+                        'Bronchitis is inflammation of the bronchi, usually caused by viruses. Symptoms include cough, mucus production, and wheezing. Treatment includes rest, hydration, and medications to relieve symptoms.',
+                    },
+                    {
+                      title: 'Bronchiolitis',
+                      description:
+                        'Bronchiolitis is a viral infection of the small airways, common in babies. Symptoms include cough, wheezing, and difficulty breathing. Most cases are mild and resolve on their own. Treatment is supportive.',
+                    },
+                    {
+                      title: 'Walking pneumonia in children',
+                      description:
+                        'Walking pneumonia is a mild form of pneumonia caused by bacteria or viruses. Symptoms include cough, fever, and fatigue. Diagnosis may require chest X-ray. Treatment includes antibiotics if bacterial.',
+                    },
+                    {
+                      title: 'Sinusitis',
+                      description:
+                        'Sinusitis is inflammation of the sinuses. Symptoms include nasal congestion, facial pain, and headache. It can be acute or chronic. Treatment includes decongestants, nasal irrigation, and possibly antibiotics.',
+                    },
+                    {
+                      title: 'Croup',
+                      description:
+                        "Croup is a viral infection that causes inflammation of the upper airways. Symptoms include barking cough, stridor, and difficulty breathing. It's more common in children 6 months to 3 years. Treatment includes humidification and medications.",
+                    },
+                    {
+                      title: 'Respiratory syncytial virus',
+                      description:
+                        'Respiratory syncytial virus is a common cause of respiratory infections in children. Symptoms include cough, nasal congestion, and fever. In babies it can cause bronchiolitis. Treatment is supportive. Prevention includes good hygiene.',
+                    },
                   ]
                 },
                 {
-                  title: "Flu and influenza review",
+                  title: 'Ear, nose and throat infections',
                   items: [
-                    "Bronchitis",
-                    "Tips for treating the flu",
-                    "How to safely administer acetaminophen",
-                    "How to take rectal temperature",
-                    "How to treat cough",
-                    "Flu (Center for flu-related topics)",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Enterovirus infections",
-                    "What to do about a cold",
-                    "Colds",
-                    "Cough",
-                    "When is a disease contagious?",
-                    "Too late to get the flu shot?",
-                    "Is it a cold, flu, respiratory syncytial virus or COVID-19?",
-                    "Who should get the flu shot?"
+                    {
+                      title: 'Middle ear infections',
+                      description:
+                        'Middle ear infections are common in children. Symptoms include ear pain, fever, and irritability. Most resolve on their own. Treatment may include antibiotics if necessary. Prevention includes vaccination and avoiding smoke exposure.',
+                    },
+                    {
+                      title: "External otitis (swimmer's ear)",
+                      description:
+                        "External otitis is infection of the external ear canal. It's common in swimmers. Symptoms include ear pain, itching, and discharge. Treatment includes antibiotic ear drops. Prevention includes keeping ears dry.",
+                    },
+                    {
+                      title: 'Tonsillitis',
+                      description:
+                        'Tonsillitis is inflammation of the tonsils, usually caused by viruses or bacteria. Symptoms include sore throat, difficulty swallowing, fever, and bad breath. Treatment depends on the cause and may include antibiotics.',
+                    },
+                    {
+                      title: 'Streptococcal pharyngotonsillitis',
+                      description:
+                        'Streptococcal pharyngotonsillitis is caused by streptococcal bacteria. Symptoms include sore throat, fever, and difficulty swallowing. Diagnosis requires rapid test or culture. Treatment with antibiotics prevents complications.',
+                    },
+                    {
+                      title: 'Peritonsillar abscesses',
+                      description:
+                        'Peritonsillar abscesses are bacterial infections that form around the tonsils. They cause severe sore throat, difficulty swallowing, and fever. They require immediate medical treatment, usually with antibiotics and possibly surgical drainage.',
+                    },
+                    {
+                      title: 'Retropharyngeal abscesses',
+                      description:
+                        "Retropharyngeal abscesses are bacterial infections in the back of the throat. They're more common in young children and can cause sore throat, difficulty swallowing, and fever. They require immediate medical attention and treatment with antibiotics.",
+                    },
+                    {
+                      title: 'Conjunctivitis',
+                      description:
+                        'Conjunctivitis is inflammation of the membrane covering the eye. It can be caused by viruses, bacteria, or allergies. Symptoms include redness, itching, and discharge. Treatment depends on the cause. Viral conjunctivitis is very contagious.',
+                    },
                   ]
                 },
                 {
-                  title: "Common childhood infections",
+                  title: 'Gastrointestinal infections',
                   items: [
-                    "Bronchitis",
-                    "Conjunctivitis",
-                    "How to take axillary temperature",
-                    "How to take oral temperature",
-                    "How to take your child's temperature",
-                    "Diarrhea",
-                    "Fever",
-                    "Cold sores",
-                    "Middle ear infections",
-                    "Urinary tract infections",
-                    "Enterovirus infections",
-                    "Mononucleosis",
-                    "Lice",
-                    "What to do about a cold",
-                    "Colds",
-                    "Chickenpox",
-                    "Is it a cold, flu, respiratory syncytial virus or COVID-19?"
+                    {
+                      title: 'Gastroenteritis (stomach flu)',
+                      description:
+                        'Gastroenteritis is inflammation of the stomach and intestines. It causes diarrhea, vomiting, and abdominal pain. Dehydration is the main complication. Treatment includes oral rehydration and bland diet. Most cases are viral.',
+                    },
+                    {
+                      title: 'Rotavirus',
+                      description:
+                        'Rotavirus is a common cause of viral gastroenteritis in children. Symptoms include severe diarrhea, vomiting, and fever. Dehydration is the main complication. Vaccination prevents the disease. Treatment includes oral rehydration.',
+                    },
+                    {
+                      title: 'Norovirus',
+                      description:
+                        "Norovirus is a common cause of viral gastroenteritis. Symptoms include nausea, vomiting, and diarrhea. It's very contagious. Treatment includes hydration and rest. Prevention includes good hand hygiene.",
+                    },
+                    {
+                      title: 'Salmonella infections',
+                      description:
+                        'Salmonella infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild. Treatment includes hydration and rest.',
+                    },
+                    {
+                      title: 'E. coli infections',
+                      description:
+                        "E. coli infections can cause severe diarrhea and kidney complications. They're transmitted through contaminated food or water. Symptoms include watery diarrhea, abdominal pain, and fever. Treatment includes hydration and rest.",
+                    },
+                    {
+                      title: 'Campylobacter infections',
+                      description:
+                        'Campylobacter infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild and resolve on their own. Treatment includes hydration and rest.',
+                    },
+                    {
+                      title: 'Food poisoning',
+                      description:
+                        'Food poisoning is caused by bacteria, viruses, or toxins in contaminated food. Symptoms include nausea, vomiting, diarrhea, and fever. Most cases are mild and resolve on their own. Prevention includes good food hygiene.',
+                    },
                   ]
                 },
                 {
-                  title: "Ear infections",
+                  title: 'Skin infections',
                   items: [
-                    "Ear tube placement surgery (tympanostomy)",
-                    "How to put ear drops in your child",
-                    "The ear",
-                    "Middle ear infections",
-                    "External otitis (swimmer's ear)",
-                    "Can I prevent ear infections when my child swims?"
+                    {
+                      title: 'Impetigo',
+                      description:
+                        "Impetigo is a very contagious bacterial skin infection. It causes red sores that turn into scabs. It's common in children. Treatment includes topical or oral antibiotics. Good hygiene prevents spread.",
+                    },
+                    {
+                      title: 'Cellulitis',
+                      description:
+                        'Cellulitis is a bacterial infection of the skin and underlying tissues. Symptoms include redness, swelling, heat, and pain. It requires treatment with antibiotics. Facial cellulitis requires immediate medical attention.',
+                    },
+                    {
+                      title: 'Warts',
+                      description:
+                        "Warts are skin growths caused by human papillomavirus. They're common in children. Most disappear on their own. Treatment may include topical medications or medical procedures. Prevention includes good hygiene.",
+                    },
+                    {
+                      title: 'Cold sores',
+                      description:
+                        "Cold sores are caused by herpes simplex virus. They cause painful sores around the mouth. They're very contagious. Treatment includes topical or oral antiviral medications. Outbreaks can be triggered by stress or sun exposure.",
+                    },
+                    {
+                      title: 'MRSA',
+                      description:
+                        'MRSA is a strain of staphylococcus resistant to many antibiotics. It can cause skin and soft tissue infections. Treatment requires specific antibiotics. Prevention includes good hygiene and avoiding contact with infected wounds.',
+                    },
                   ]
                 },
                 {
-                  title: "Eye infections",
+                  title: 'Common viral diseases',
                   items: [
-                    "Brief summary: Tear duct obstruction (Tear duct massage)",
-                    "Brief summary: Treatment of tear duct obstructions with a probe",
-                    "Conjunctivitis",
-                    "Styes"
+                    {
+                      title: 'Chickenpox',
+                      description:
+                        "Chickenpox is a very contagious viral disease that causes blistering rash. It's more common in children. Symptoms include fever, itching, and blisters. Vaccination prevents the disease. Treatment includes symptom relief.",
+                    },
+                    {
+                      title: 'Measles',
+                      description:
+                        'Measles is a very contagious viral disease. Symptoms include high fever, characteristic rash, and cough. It can cause serious complications. Vaccination prevents the disease. Treatment is supportive.',
+                    },
+                    {
+                      title: 'Mumps',
+                      description:
+                        'Mumps is caused by a virus that affects the salivary glands. Symptoms include cheek swelling and fever. Vaccination prevents the disease. Complications can include meningitis and orchitis. Treatment is supportive.',
+                    },
+                    {
+                      title: 'Rubella',
+                      description:
+                        "Rubella is a viral disease that causes rash and mild fever. It's especially dangerous for pregnant women as it can cause birth defects. Vaccination prevents the disease. Treatment is supportive.",
+                    },
+                    {
+                      title: 'Hand, foot and mouth disease',
+                      description:
+                        "Hand, foot and mouth disease is a common viral infection in children. It causes mouth sores and rash on hands and feet. It's very contagious. Treatment is supportive. Most cases are mild and resolve on their own.",
+                    },
+                    {
+                      title: 'Roseola',
+                      description:
+                        "Roseola is a common viral disease in children under 2 years. It causes high fever followed by pink rash. It's generally mild and resolves on its own. Treatment includes fever medications and rest.",
+                    },
+                    {
+                      title: 'Fifth disease',
+                      description:
+                        "Fifth disease is caused by parvovirus B19. It causes characteristic rash on cheeks and then on the body. It's more common in children 5-15 years. Treatment is supportive. Most cases are mild.",
+                    },
                   ]
                 },
                 {
-                  title: "Fungal infections (ringworm, fungi, etc.)",
+                  title: 'COVID-19 and coronavirus',
                   items: [
-                    "Fighting germs",
-                    "Diaper rash",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Pet-transmitted infections",
-                    "Thrush (oral candidiasis)",
-                    "Pneumocystis pneumonia",
-                    "Athlete's foot",
-                    "What to do about ringworm",
-                    "Tinea versicolor",
-                    "Ringworm",
-                    "Jock itch",
-                    "Infantile vaginitis"
+                    {
+                      title: 'Understanding COVID-19',
+                      description:
+                        'COVID-19 is a respiratory disease caused by SARS-CoV-2 coronavirus. Symptoms in children are usually mild and include fever, cough, and fatigue. Prevention includes vaccination, mask use, and social distancing. Most children recover completely.',
+                    },
+                    {
+                      title: 'COVID-19: Home care',
+                      description:
+                        'If your child has COVID-19, keep them isolated at home. Monitor symptoms, maintain good hydration and rest. Use masks at home and disinfect surfaces. Consult a doctor if symptoms worsen.',
+                    },
+                    {
+                      title: 'COVID-19: Vaccination',
+                      description:
+                        'COVID-19 vaccines are safe and effective for children. They help prevent serious illness and hospitalizations. Side effects are generally mild. Vaccination is the best protection against COVID-19.',
+                    },
+                    {
+                      title: 'COVID-19: Prevention',
+                      description:
+                        'COVID-19 prevention includes vaccination, mask use, social distancing, and good hand hygiene. Teach children these measures in an age-appropriate way. Prevention protects the entire family.',
+                    },
+                    {
+                      title: 'COVID-19: Testing and diagnosis',
+                      description:
+                        'COVID-19 tests help diagnose the disease. There are different types of tests. Consult with your doctor about which is most appropriate. Rapid tests give results in minutes.',
+                    },
                   ]
                 },
                 {
-                  title: "Immunizations",
+                  title: 'Prevention and treatment',
                   items: [
-                    "Vaccination schedule: Age-based vaccination plan",
-                    "COVID-19: Questions and answers about vaccines",
-                    "Your child's vaccines",
-                    "Your child's vaccines: measles, mumps and rubella (MMR)",
-                    "Your child's vaccines: flu vaccine",
-                    "Your child's vaccines: Rotavirus vaccine",
-                    "Your child's vaccines: Human papillomavirus (HPV) vaccine",
-                    "Your child's vaccines: Hepatitis A (HepA) vaccine",
-                    "Your child's vaccines: Hepatitis B vaccine",
-                    "Your child's vaccines: Chickenpox vaccine",
-                    "Your child's vaccines: Pneumococcal vaccines",
-                    "Your child's vaccines: Meningococcal vaccines",
-                    "Your child's vaccines: diphtheria, tetanus and pertussis vaccines (DTaP, Tdap)",
-                    "Frequently asked questions about vaccines",
-                    "Hib vaccine for children",
-                    "Polio vaccines (IPV, OPV) for children",
-                    "Booster vaccines",
-                    "Vaccines and antibiotics: A safe combination?",
-                    "Vaccines and inflammatory bowel disease",
-                    "Too late to get the flu shot?",
-                    "Does my child need to be vaccinated before traveling abroad?",
-                    "Who should get the flu shot?",
-                    "What is herd immunity?"
+                    {
+                      title: 'Fighting germs',
+                      description:
+                        'Germs include bacteria, viruses, fungi, and parasites that can cause disease. Teach children to wash their hands frequently, especially before eating and after using the bathroom. Proper hygiene is the best defense against infections.',
+                    },
+                    {
+                      title: 'Antibiotics',
+                      description:
+                        'Antibiotics are medications that fight bacterial infections. They should only be used when necessary and as directed by the doctor. Overuse can cause bacterial resistance. Always complete the prescribed treatment.',
+                    },
+                    {
+                      title: 'The danger of antibiotic abuse',
+                      description:
+                        'Overuse of antibiotics can cause bacterial resistance. Antibiotics only treat bacterial infections, not viral ones. Use antibiotics only when prescribed by a doctor. Always complete the full treatment.',
+                    },
+                    {
+                      title: 'Booster vaccines',
+                      description:
+                        "Booster vaccines help maintain immunity against diseases. They're important for preventing outbreaks. Follow the recommended vaccination schedule. Booster vaccines are safe and effective.",
+                    },
+                    {
+                      title: 'When and where to seek medical help',
+                      description:
+                        'Know when to seek medical attention for your child. Warning signs include high fever, difficulty breathing, dehydration, and changes in behavior. In case of emergency, call 911 or go to the emergency room.',
+                    },
+                    {
+                      title: "How to take your child's temperature",
+                      description:
+                        "Choosing the correct method to take temperature depends on the child's age. For babies under 3 months, use rectal temperature. For older children, oral or axillary are appropriate. Use digital thermometers for greater accuracy.",
+                    },
+                    {
+                      title: 'Fever',
+                      description:
+                        'Fever is a sign that the body is fighting an infection. In children, fever is generally not dangerous. Monitor other symptoms. Use medications to reduce fever if the child is uncomfortable. Consult a doctor if it persists.',
+                    },
                   ]
                 },
                 {
-                  title: "Lungs and respiratory infections",
+                  title: 'Other infections',
                   items: [
-                    "Adenovirus",
-                    "Bronchiolitis",
-                    "Bronchitis",
-                    "Croup",
-                    "Diphtheria",
-                    "Chest pain in children and adolescents",
-                    "Scarlet fever",
-                    "Streptococcal pharyngotonsillitis",
-                    "Flu (influenza)",
-                    "Meningitis",
-                    "Pneumonia",
-                    "Walking pneumonia in children: Signs, diagnosis and treatment",
-                    "Pneumocystis pneumonia",
-                    "Measles",
-                    "Measles: What you need to know",
-                    "Sinusitis",
-                    "Whooping cough (pertussis)",
-                    "Tuberculosis in children and adolescents",
-                    "Respiratory syncytial virus"
+                    {
+                      title: 'Germs: bacteria, viruses, fungi and protozoa',
+                      description:
+                        "Germs are microorganisms that can cause disease. Bacteria are single-celled organisms that can be treated with antibiotics. Viruses require host cells and don't respond to antibiotics. Fungi and protozoa can also cause infections.",
+                    },
+                    {
+                      title:
+                        'Talking to your children about sexually transmitted diseases',
+                      description:
+                        'Sex education is important to prevent sexually transmitted diseases. Talk to your children in an age-appropriate way. Focus on prevention, respect, and informed decision-making. Use appropriate educational resources.',
+                    },
+                    {
+                      title: 'Helicobacter pylori',
+                      description:
+                        'Helicobacter pylori is a bacterium that can cause stomach ulcers and gastritis. Symptoms include abdominal pain, nausea, and loss of appetite. Diagnosis requires specific tests. Treatment includes antibiotics and acid-reducing medications.',
+                    },
+                    {
+                      title: 'Hepatitis',
+                      description:
+                        'Hepatitis is inflammation of the liver. It can be caused by viruses, medications, or toxins. Symptoms include fatigue, nausea, and yellowing of the skin. Treatment depends on the cause. Vaccination prevents some types.',
+                    },
+                    {
+                      title: 'Hepatitis A',
+                      description:
+                        'Hepatitis A is a viral liver infection transmitted through contaminated food or water. Symptoms include fatigue, nausea, and yellowing. Vaccination prevents the disease. Most people recover completely.',
+                    },
+                    {
+                      title: 'Hepatitis B',
+                      description:
+                        "Hepatitis B is a viral liver infection that can be acute or chronic. It's transmitted through contact with blood or body fluids. Vaccination prevents the disease. Treatment includes antiviral medications for chronic cases.",
+                    },
+                    {
+                      title: 'Hepatitis C',
+                      description:
+                        "Hepatitis C is a viral liver infection that can become chronic. It's mainly transmitted through blood contact. Symptoms may be mild initially. Treatment includes antiviral medications. No vaccine is available.",
+                    },
+                    {
+                      title: 'Genital herpes',
+                      description:
+                        'Genital herpes is a sexually transmitted disease caused by herpes viruses. It can cause painful sores in the genital area. Treatment includes antiviral medications. Prevention includes protection use and sex education.',
+                    },
+                    {
+                      title: 'Cold sores',
+                      description:
+                        "Cold sores are caused by herpes simplex virus. They cause painful sores around the mouth. They're very contagious. Treatment includes topical or oral antiviral medications. Outbreaks can be triggered by stress or sun exposure.",
+                    },
+                    {
+                      title: 'Shingles (herpes zoster)',
+                      description:
+                        "Shingles is caused by reactivation of the chickenpox virus. It causes painful rash and blisters. It's more common in older adults but can occur in children. Treatment includes antiviral medications and pain relievers.",
+                    },
+                    {
+                      title: 'Impetigo',
+                      description:
+                        "Impetigo is a very contagious bacterial skin infection. It causes red sores that turn into scabs. It's common in children. Treatment includes topical or oral antibiotics. Good hygiene prevents spread.",
+                    },
+                    {
+                      title: 'Middle ear infections',
+                      description:
+                        'Middle ear infections are common in children. Symptoms include ear pain, fever, and irritability. Most resolve on their own. Treatment may include antibiotics if necessary. Prevention includes vaccination and avoiding smoke exposure.',
+                    },
+                    {
+                      title: 'Urinary tract infections',
+                      description:
+                        'Urinary tract infections are caused by bacteria. Symptoms include pain when urinating, frequent urgency, and fever. Diagnosis requires urinalysis. Treatment includes antibiotics. Prevention includes good hygiene.',
+                    },
+                    {
+                      title: 'Urinary tract infections and related conditions',
+                      description:
+                        'Urinary tract infections can affect different parts of the urinary system. Complications can include kidney damage. Early diagnosis is important. Treatment includes appropriate antibiotics. Prevention includes good hydration.',
+                    },
+                    {
+                      title: 'Campylobacter infections',
+                      description:
+                        'Campylobacter infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild and resolve on their own. Treatment includes hydration and rest.',
+                    },
                   ]
                 },
-                {
-                  title: "Clinical studies",
-                  items: [
-                    "Stool analysis",
-                    "Urine analysis",
-                    "Blood test: Complete blood count",
-                    "Blood culture",
-                    "Getting a urine test",
-                    "Streptococcal test: Throat culture",
-                    "Basic blood chemistry tests"
-                  ]
-                },
-                {
-                  title: "Parasitic infections (worms, lice, etc.)",
-                  items: [
-                    "Amebiasis",
-                    "Ascariasis",
-                    "Bed bugs",
-                    "Fighting germs",
-                    "How to fight lice",
-                    "Mosquito-borne diseases",
-                    "Giardiasis",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Pinworm infections",
-                    "Pet-transmitted infections",
-                    "Pubic lice",
-                    "Malaria",
-                    "Chigger bites",
-                    "Lice",
-                    "Toxocariasis",
-                    "Toxoplasmosis",
-                    "Trichomoniasis",
-                    "Safe use of insect repellents",
-                    "Zika virus"
-                  ]
-                },
-                {
-                  title: "Skin diseases",
-                  items: [
-                    "Skin abscesses",
-                    "Acanthosis nigricans",
-                    "Dandruff",
-                    "Cellulitis",
-                    "Cradle cap (seborrheic dermatitis) in babies",
-                    "Wound healing and care",
-                    "Eczema (atopic dermatitis)",
-                    "Hand, foot and mouth disease",
-                    "Erythema multiforme",
-                    "Scarlet fever",
-                    "Rocky Mountain spotted fever",
-                    "Genital herpes",
-                    "Cold sores",
-                    "Impetigo",
-                    "Group A streptococcal infections",
-                    "Pet-transmitted infections",
-                    "Inflammation",
-                    "Molluscum contagiosum",
-                    "Thrush (oral candidiasis)",
-                    "Paronychia",
-                    "Pityriasis rosea",
-                    "Fifth disease",
-                    "Pilonidal cyst",
-                    "What to do about ringworm",
-                    "What to do about a skin rash",
-                    "Roseola",
-                    "Rubella",
-                    "Measles",
-                    "Measles: What you need to know",
-                    "Scabies",
-                    "Heat rash (miliaria)",
-                    "Toxic shock syndrome",
-                    "Tinea versicolor",
-                    "Hives",
-                    "Infantile vaginitis",
-                    "Chickenpox",
-                    "Warts",
-                    "Vitiligo"
-                  ]
-                },
-                {
-                  title: "Reproductive system conditions",
-                  items: [
-                    "Brief summary: Treatment of pilonidal cysts",
-                    "Chlamydia",
-                    "Fighting germs",
-                    "Pelvic inflammatory disease",
-                    "Sexually transmitted diseases",
-                    "Gonorrhea",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Talking to your children about sexually transmitted diseases",
-                    "Genital herpes",
-                    "Pubic lice",
-                    "Pre-exposure prophylaxis (PrEP)",
-                    "Syphilis",
-                    "Trichomoniasis",
-                    "Genital warts (HPV)",
-                    "Human immunodeficiency virus (HIV) and AIDS"
-                  ]
-                },
-                {
-                  title: "Digestive system infections",
-                  items: [
-                    "Ascariasis",
-                    "Fighting germs",
-                    "Cholera",
-                    "Diarrhea",
-                    "Abdominal pain",
-                    "Dengue fever",
-                    "Typhoid fever",
-                    "Gastroenteritis (stomach flu) in children and adolescents",
-                    "Giardiasis",
-                    "Germs: bacteria, viruses, fungi and protozoa",
-                    "Helicobacter pylori",
-                    "Campylobacter infections",
-                    "Pinworm infections",
-                    "Salmonella infections",
-                    "Shigella infections (shigellosis)",
-                    "Food poisoning",
-                    "Appendicitis in children and adolescents",
-                    "Tapeworm",
-                    "Norovirus",
-                    "Rotavirus",
-                    "Treating appendicitis: Comparison of surgery with antibiotic treatment",
-                    "Yersiniosis"
-                  ]
-                }
               ]
             },
             diseasesConditions: {
@@ -13048,8 +13671,6 @@ export const translations = {
           }
         }
       }
-    },
-
-};
+}};
 
 export default translations;
