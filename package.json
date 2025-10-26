@@ -2,7 +2,7 @@
   "name": "galarragallc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexis910505.github.io/galarragallc",
+  "homepage": "https://www.galarragamd.com",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^5.17.0",
@@ -13,7 +13,8 @@
     "react-dom": "^18.2.0",
     "react-i18next": "^15.5.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "typescript": "4.9.5"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -42,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }

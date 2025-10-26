@@ -1,7 +1,10 @@
 import './App.css';
-import heroImage from './images/hero_image.jpg';
 import { useState, useEffect, useRef } from 'react';
 import { LanguageProvider, useLanguage } from './LanguageContext';
+import FeaturedTopics from './components/FeaturedTopics';
+import Certifications from './components/Certifications';
+import AttachedInfographic from './components/AttachedInfographic';
+import SubtopicDialog from './components/SubtopicDialog';
 
 // Componente para el botón de cambio de idioma
 function LanguageToggle() {
@@ -22,35 +25,17 @@ function AppContent() {
   const [isHeroVisible, setIsHeroVisible] = useState(true);
   const [isServicesVisible, setIsServicesVisible] = useState(true);
   const [isContactVisible, setIsContactVisible] = useState(true);
+  const [activeCategory, setActiveCategory] = useState('parents');
+  const [selectedTopic, setSelectedTopic] = useState(null);
+  const [expandedAccordion, setExpandedAccordion] = useState(null);
+  const [selectedSubtopic, setSelectedSubtopic] = useState(null);
+  const [isSubtopicDialogOpen, setIsSubtopicDialogOpen] = useState(false);
+  
+
   const heroRef = useRef(null);
   const servicesRef = useRef(null);
   const contactRef = useRef(null);
   const { t, language } = useLanguage();
-
-  const openMaps = (e) => {
-    e.preventDefault();
-    const address = t('contact.info.addressValue');
-    const encodedAddress = encodeURIComponent(address);
-    
-    // Detectar si es un dispositivo móvil
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    
-    if (isMobile) {
-      // Detectar si es iOS
-      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-      
-      if (isIOS) {
-        // Abrir Apple Maps en iOS
-        window.open(`maps://maps.apple.com/?q=${encodedAddress}`, '_blank');
-      } else {
-        // Abrir Google Maps en Android
-        window.open(`https://www.google.com/maps/search/?api=1&query=${encodedAddress}`, '_blank');
-      }
-    } else {
-      // En la web, usar la URL específica
-      window.open('https://maps.app.goo.gl/i2w4hWe67Z6bcAjWA', '_blank');
-    }
-  };
 
   const scrollToServices = (e) => {
     e.preventDefault();
@@ -66,6 +51,14 @@ function AppContent() {
       behavior: 'smooth',
       block: 'start'
     });
+  };
+
+  const handleTopicClick = (topicKey) => {
+    setSelectedTopic(selectedTopic === topicKey ? null : topicKey);
+  };
+
+  const handleAccordionClick = (accordionTitle) => {
+    setExpandedAccordion(expandedAccordion === accordionTitle ? null : accordionTitle);
   };
 
   useEffect(() => {
@@ -134,7 +127,7 @@ function AppContent() {
       <div 
         className={`app-bar ${!isHeroVisible ? 'visible' : ''}`}
         style={{ 
-          backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${heroImage})`,
+          backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${process.env.PUBLIC_URL || ''}/images/hero_image.jpg)`,
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed'
@@ -171,7 +164,7 @@ function AppContent() {
       </div>
 
       {/* Hero Section */}
-      <section ref={heroRef} className="hero" style={{ backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${heroImage})` }}>
+      <section ref={heroRef} className="hero" style={{ backgroundImage: `linear-gradient(rgba(15, 118, 110, 0.3), rgba(15, 118, 110, 0.5)), url(${process.env.PUBLIC_URL || ''}/images/hero_image.jpg)` }}>
         <div className="language-toggle-container hero-language-toggle">
           <LanguageToggle />
         </div>
@@ -272,6 +265,35 @@ function AppContent() {
         </div>
       </section>
 
+            {/* Featured Topics Section */}
+      <FeaturedTopics
+        activeCategory={activeCategory}
+        setActiveCategory={setActiveCategory}
+        selectedTopic={selectedTopic}
+        handleTopicClick={handleTopicClick}
+        setSelectedTopic={setSelectedTopic}
+        expandedAccordion={expandedAccordion}
+        handleAccordionClick={handleAccordionClick}
+        selectedSubtopic={selectedSubtopic}
+        setSelectedSubtopic={setSelectedSubtopic}
+        isSubtopicDialogOpen={isSubtopicDialogOpen}
+        setIsSubtopicDialogOpen={setIsSubtopicDialogOpen}
+      />
+
+                        {/* Subtopic Dialog - Renderizado fuera del App para evitar blur */}
+                  <SubtopicDialog
+                    isOpen={isSubtopicDialogOpen}
+                    onClose={() => setIsSubtopicDialogOpen(false)}
+                    subtopic={selectedSubtopic}
+                  />
+
+
+      {/* Certifications Section */}
+      <Certifications />
+
+      {/* Attached Infographic Section */}
+      <AttachedInfographic />
+
       {/* Subscribe Section */}
       <section className="subscribe">
         <div className="subscribe-container">
@@ -308,7 +330,7 @@ function AppContent() {
         <div className="testimonials-grid">
           <div className="testimonial-card">
             <div className="testimonial-content">
-              <p>"La atención médica es excepcional. Los doctores son muy profesionales y dedicados. Me siento muy bien atendida y segura en sus manos."</p>
+              <p>"La atención pediátrica es excepcional. Los pediatras son muy profesionales y dedicados. Mi hijo se siente muy cómodo y yo me siento muy segura con el cuidado que recibe."</p>
             </div>
             <div className="testimonial-author">
               <div className="author-avatar">👤</div>
@@ -320,7 +342,7 @@ function AppContent() {
           </div>
           <div className="testimonial-card">
             <div className="testimonial-content">
-              <p>"Las instalaciones son modernas y el personal es muy amable. Los doctores toman el tiempo necesario para explicar todo detalladamente. Altamente recomendado."</p>
+              <p>"Las instalaciones son modernas y el personal es muy amable. Los pediatras toman el tiempo necesario para explicar todo detalladamente sobre el desarrollo de mi hija. Altamente recomendado."</p>
             </div>
             <div className="testimonial-author">
               <div className="author-avatar">👤</div>
@@ -361,9 +383,9 @@ function AppContent() {
           </div>
           <div className="about-image">
             <img 
-              src="/images/thumbnail.jpeg" 
-              alt="Yolanda A. Galarraga Ramirez MD" 
-              className="about-thumbnail"
+              src={`${process.env.PUBLIC_URL || ''}/images/hero_image.jpg`}
+              alt="Pediatría"
+              className="about-img"
             />
           </div>
         </div>
@@ -377,73 +399,70 @@ function AppContent() {
           <p className="section-description">{t('contact.description')}</p>
         </div>
         <div className="contact-container">
-          <form className="contact-form">
+          {/* Columna izquierda: Formulario de contacto visual */}
+          <form className="contact-form" onSubmit={e => e.preventDefault()}>
             <div className="form-group">
               <label htmlFor="name">{t('contact.form.name')}</label>
-              <input type="text" id="name" placeholder={t('contact.form.name')} required />
+              <input type="text" id="name" name="name" placeholder={t('contact.form.name')} required />
             </div>
             <div className="form-group">
               <label htmlFor="email">{t('contact.form.email')}</label>
-              <input type="email" id="email" placeholder="tu@email.com" required />
+              <input type="email" id="email" name="email" placeholder={t('contact.form.email')} required />
             </div>
             <div className="form-group">
               <label htmlFor="phone">{t('contact.form.phone')}</label>
-              <input type="tel" id="phone" placeholder="(123) 456-7890" required />
+              <input type="tel" id="phone" name="phone" placeholder={t('contact.form.phone')} required />
             </div>
             <div className="form-group">
               <label htmlFor="service">{t('contact.form.service')}</label>
-              <select id="service" required>
+              <select id="service" name="service" required>
                 <option value="">{t('contact.form.selectService')}</option>
-                <option value="general">{t('services.cards.generalMedicine.title')}</option>
-                <option value="preventive">{t('services.cards.preventiveMedicine.title')}</option>
-                <option value="emergency">{t('services.cards.emergencyMedicine.title')}</option>
+                {/* Puedes agregar más opciones aquí si lo deseas */}
               </select>
             </div>
             <div className="form-group">
               <label htmlFor="message">{t('contact.form.message')}</label>
-              <textarea id="message" placeholder={t('contact.form.message')}></textarea>
+              <textarea id="message" name="message" placeholder={t('contact.form.message')} rows="4" />
             </div>
-            <button type="submit" className="submit-button">{t('contact.form.submit')}</button>
+            <button type="submit" className="cta-button primary">{t('contact.form.submit')}</button>
           </form>
-          <div className="contact-info">
-            <div className="info-card">
-              <h3>{t('contact.info.title')}</h3>
-              <div className="info-item">
-                <i className="info-icon">📞</i>
-                <div>
-                  <h4>{t('contact.info.phone')}</h4>
-                  <a 
-                    href={`tel:${t('contact.info.phoneValue').replace(/\D/g, '')}`} 
-                    className="phone"
-                    aria-label={t('contact.info.phoneValue')}
-                  >
+          {/* Columna derecha: Información de contacto visual como la imagen */}
+          <div className="info-card contact-info-card">
+            <h3 style={{ textAlign: 'center', marginBottom: '2rem' }}>{t('contact.info.title')}</h3>
+            <div className="info-item">
+              <span className="info-icon" style={{ color: '#e91e63', fontSize: '2rem' }}>📞</span>
+              <div>
+                <h4 style={{ margin: 0 }}>{t('contact.info.phone')}</h4>
+                <p style={{ margin: 0 }}>
+                  <a href={`tel:${t('contact.info.phoneValue').replace(/[^\d+]/g, '')}`} style={{ color: 'inherit', textDecoration: 'underline' }}>
                     {t('contact.info.phoneValue')}
                   </a>
-                </div>
+                </p>
               </div>
-              <div className="info-item">
-                <i className="info-icon">⏰</i>
-                <div>
-                  <h4>{t('contact.info.hours')}</h4>
-                  <p>{t('contact.info.hoursWeekdays')}</p>
-                  <p>{t('contact.info.hoursSaturday')}</p>
-                  <p>{t('contact.info.hoursSunday')}</p>
-                </div>
+            </div>
+            <div className="info-item">
+              <span className="info-icon" style={{ color: '#ff9800', fontSize: '2rem' }}>⏰</span>
+              <div>
+                <h4 style={{ margin: 0 }}>{t('contact.info.hours')}</h4>
+                <p style={{ margin: 0 }}>{t('contact.info.hoursWeekdays')}</p>
+                <p style={{ margin: 0 }}>{t('contact.info.hoursSaturday')}</p>
+                <p style={{ margin: 0 }}>{t('contact.info.hoursSunday')}</p>
               </div>
-              <div className="info-item">
-                <i className="info-icon">📍</i>
-                <div>
-                  <h4>{t('contact.info.address')}</h4>
-                  <p>{t('contact.info.addressValue')}</p>
-                  <button 
-                    className="location-button"
-                    onClick={openMaps}
-                    aria-label={t('contact.info.findUs')}
-                  >
-                    <i className="location-icon">🗺️</i>
-                    {t('contact.info.findUs')}
-                  </button>
-                </div>
+            </div>
+            <div className="info-item">
+              <span className="info-icon" style={{ color: '#e91e63', fontSize: '2rem' }}>📍</span>
+              <div>
+                <h4 style={{ margin: 0 }}>{t('contact.info.address')}</h4>
+                <p style={{ margin: 0 }}>{t('contact.info.addressValue')}</p>
+                <button
+                  className="location-button"
+                  aria-label={t('contact.info.findUs')}
+                  onClick={() => window.open('https://maps.app.goo.gl/i2w4hWe67Z6bcAjWA', '_blank')}
+                  style={{ marginTop: '0.5rem', minWidth: '120px', display: 'inline-block', textAlign: 'center' }}
+                >
+                  <i className="location-icon">🗺️</i>
+                  {t('contact.info.findUs')}
+                </button>
               </div>
             </div>
           </div>
@@ -454,35 +473,27 @@ function AppContent() {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>{t('appBar.title')}</h3>
+            <h3>{t('footer.title')}</h3>
             <p>{t('footer.description')}</p>
           </div>
           <div className="footer-section">
-            <h4>{t('footer.quickLinks')}</h4>
+            <h4>{t('footer.services')}</h4>
             <ul>
-              <li><a href="#servicios" onClick={scrollToServices}>{t('footer.services')}</a></li>
-              <li><a href="#how-we-help">{t('footer.howWeHelp')}</a></li>
-              <li><a href="#about">{t('footer.aboutUs')}</a></li>
-              <li><a href="#contacto" onClick={scrollToContact}>{t('footer.contact')}</a></li>
+              <li>{t('footer.servicesList.generalMedicine')}</li>
+              <li>{t('footer.servicesList.preventiveMedicine')}</li>
+              <li>{t('footer.servicesList.emergencyMedicine')}</li>
+              <li><a href="#certificaciones" style={{ color: 'inherit', textDecoration: 'none' }}>{t('footer.servicesList.certifications')}</a></li>
             </ul>
           </div>
           <div className="footer-section">
-            <h4>{t('footer.followUs')}</h4>
-            <div className="social-links">
-              <button className="social-link" aria-label="Facebook" onClick={() => window.open('https://facebook.com', '_blank')}>📱</button>
-              <button className="social-link" aria-label="WhatsApp" onClick={() => window.open('https://wa.me/13056497663', '_blank')}>💬</button>
-              <button className="social-link" aria-label="Instagram" onClick={() => window.open('https://instagram.com', '_blank')}>📸</button>
-            </div>
+            <h4>{t('footer.contact')}</h4>
+            <p>{t('footer.contactInfo')}</p>
           </div>
         </div>
         <div className="footer-bottom">
           <div className="footer-bottom-content">
-            <div className="footer-copyright">
-              Copyright © 2024 {t('appBar.title')} - {t('footer.rights')}
-            </div>
-            <div className="footer-developer">
-              {t('footer.developedBy')}
-            </div>
+            <p className="copyright-text">{t('footer.copyright')}</p>
+            <p className="powered-by">{t('footer.developedBy')}</p>
           </div>
         </div>
       </footer>
@@ -490,7 +501,7 @@ function AppContent() {
   );
 }
 
-// Componente App que envuelve todo con el Provider
+// Componente principal que envuelve todo en el contexto de idioma
 function App() {
   return (
     <LanguageProvider>
