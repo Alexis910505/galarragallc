@@ -1,0 +1,22 @@
+{
+  "id": "gastroschisis",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "sistema-digestivo-para-padres",
+  "es": {
+    "title": "Gastrosquisis",
+    "description": "¿Qué es la gastrosquisis? La gastrosquisis es cuando un bebé nace con los intestinos saliendo al exterior a través de un orificio ubicado en la pared abdominal, cerca del cordón umbilical. A veces, hay otros órganos, aparte de los intestinos que también salen al exterior. Se trata de una afección de riesgo vital que requiere tratamiento inmediato."
+  },
+  "en": {
+    "title": "Gastroschisis",
+    "description": "What Is Gastroschisis? Gastroschisis is when a baby is born with the intestines sticking out through a hole in the belly wall near the belly button. Sometimes other organs also stick out. Gastroschisis (gast-roh-SKEE-sis) is a life-threatening condition that needs treatment right away."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/gastroschisis.html",
+      "en": "https://kidshealth.org/en/parents/gastroschisis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:36:57.005Z"
+}

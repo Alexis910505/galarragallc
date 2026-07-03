@@ -1,0 +1,21 @@
+{
+  "id": "travel-size-emergency-27",
+  "category": "parents",
+  "topic": "firstAidSafety",
+  "subtopicId": "guias-de-seguridad-para-imprimir",
+  "es": {
+    "title": "Números e información de emergencia",
+    "description": "El mejor momento para prepararse para una emergencia es antes de que suceda. Complete esta hoja y conserve una copia en su billetera, cartera, botiquín de primeros auxilios y en cada uno de los vehículos de la familia. Asegúrese de actualizarla con frecuencia para asegurar una atención médica rápida y eficiente para su hijo."
+  },
+  "en": {
+    "title": "Emergency numbers and information",
+    "description": "The best time to prepare for an emergency is before one happens. Fill out this sheet and keep a copy in your wallet, purse, first-aid kit, and in each of your family's vehicles. Be sure to update it often to ensure quick, efficient medical care for your child."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/travel-size-emergency.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:19:15.829Z"
+}

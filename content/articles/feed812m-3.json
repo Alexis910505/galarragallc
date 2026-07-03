@@ -1,0 +1,22 @@
+{
+  "id": "feed812m-3",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "incorporacion-de-alimentos-solidos",
+  "es": {
+    "title": "Alimentar a su hijo de 8 a 12 meses de edad",
+    "description": "En torno a los 8 meses de edad, la mayoría de los bebés son unos expertos en el consumo de papillas infantiles de cereales enriquecidas con hierro y los purés que forman parte de su dieta, junto con la leche materna o de fórmula. A lo largo de los próximos meses, empezarán a explorar los alimentos propios de los adultos."
+  },
+  "en": {
+    "title": "Feeding Your 8- to 12-Month-Old",
+    "description": "By 8 months old, most babies are pros at handling the iron-fortified infant cereals and the puréed foods that are part of their diet, along with breast milk or formula. Over the next few months, they will start to explore table foods."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/feed812m.html",
+      "en": "https://kidshealth.org/en/parents/feed812m.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:43:22.594Z"
+}

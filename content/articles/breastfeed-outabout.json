@@ -1,0 +1,22 @@
+{
+  "id": "breastfeed-outabout",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "informacion-sobre-amamantamiento",
+  "es": {
+    "title": "Preguntas más frecuentes sobre la lactancia materna: Dar el pecho fuera de casa",
+    "description": "Algunas madres primerizas se pueden poner un poco nerviosas al tener que amamantar a sus bebés delante de otra gente. Pero con un poco de práctica, usted se podrá sentir cómoda dándole el pecho a su bebé fuera de casa."
+  },
+  "en": {
+    "title": "Breastfeeding FAQs: Out & About",
+    "description": "Some new moms might feel a little nervous about nursing in public. But with some practice, you can feel confident about breastfeeding when you’re out and about."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/breastfeed-outabout.html",
+      "en": "https://kidshealth.org/en/parents/breastfeed-outabout.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.120Z"
+}

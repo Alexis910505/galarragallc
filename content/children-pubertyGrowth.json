@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:33.641Z",
+  "category": "children",
+  "topic": "pubertyGrowth",
+  "title": {
+    "es": "Pubertad y crecimiento",
+    "en": "Puberty & Growing Up"
+  },
+  "description": {
+    "es": "Si deseas obtener información sobre los cambios en el cuerpo y la mente, y los tipos de problemas que enfrentan los niños más grandes, estás en el lugar correcto.",
+    "en": "If you want to get information about changes in the body and mind, and the types of problems that older kids face, you're in the right place."
+  },
+  "subtopics": [
+    {
+      "id": "el-vello",
+      "title": {
+        "es": "El vello",
+        "en": "Hair"
+      },
+      "articles": []
+    },
+    {
+      "id": "cosas-corporales",
+      "title": {
+        "es": "Cosas corporales",
+        "en": "Body stuff"
+      },
+      "articles": [
+        "acne",
+        "word-braces",
+        "braces",
+        "autism-hygiene-girls",
+        "autism-hygiene-boy",
+        "growing-up-normal",
+        "boys-puberty",
+        "puberty-reproductive-system-glossary",
+        "breasts-bras",
+        "my-height",
+        "period-school",
+        "puberty",
+        "when-shave-legs-armpits",
+        "autism-puberty-boy",
+        "changing-voice",
+        "when-deodorant",
+        "when-period",
+        "when-pierced-ears",
+        "when-contacts",
+        "one-lower",
+        "feet-stink",
+        "lumps",
+        "adams-apple",
+        "retainers",
+        "itching"
+      ]
+    },
+    {
+      "id": "asuntos-de-varones",
+      "title": {
+        "es": "Asuntos de varones",
+        "en": "Guy stuff"
+      },
+      "articles": [
+        "autism-hygiene-boy-1",
+        "boys-puberty-2",
+        "when-shave-legs-armpits-3",
+        "autism-puberty-boy-4"
+      ]
+    },
+    {
+      "id": "los-senos-y-los-sostenes",
+      "title": {
+        "es": "Los senos y los sostenes",
+        "en": "Breasts and bras"
+      },
+      "articles": [
+        "bras-bc",
+        "breasts-bras-2",
+        "need-bra",
+        "bras-night",
+        "bras-growth",
+        "two-sizes",
+        "breasts-hair",
+        "oglers",
+        "breast-injury"
+      ]
+    },
+    {
+      "id": "enamoramientos",
+      "title": {
+        "es": "Enamoramientos",
+        "en": "Crushes"
+      },
+      "articles": [
+        "when-shave-legs-armpits-1",
+        "just-friends",
+        "girlfriend",
+        "no-dating"
+      ]
+    },
+    {
+      "id": "drogas-alcohol-y-fumar",
+      "title": {
+        "es": "Drogas, alcohol y fumar",
+        "en": "Drugs, alcohol and smoking"
+      },
+      "articles": [
+        "alcohol",
+        "poll-tobacco"
+      ]
+    },
+    {
+      "id": "cosas-de-mujeres",
+      "title": {
+        "es": "Cosas de mujeres",
+        "en": "Girl stuff"
+      },
+      "articles": [
+        "pads-tampons",
+        "autism-hygiene-girls-2",
+        "period-cramps",
+        "breasts-bras-4",
+        "period-school-5",
+        "autism-puberty",
+        "puberty-normal-video",
+        "when-period-8"
+      ]
+    },
+    {
+      "id": "los-periodos",
+      "title": {
+        "es": "Los períodos",
+        "en": "Periods"
+      },
+      "articles": [
+        "five-period",
+        "pads-tampons-2",
+        "period-cramps-3",
+        "period-school-4",
+        "when-shave-legs-armpits-5",
+        "when-period-6",
+        "first-period",
+        "get-pads",
+        "scented-supplies",
+        "change-pads",
+        "swimming-period",
+        "tampon-practice",
+        "need-bra-13",
+        "tampon-pain",
+        "embarrassed-period",
+        "forget-tampon",
+        "no-period",
+        "period-woes"
+      ]
+    },
+    {
+      "id": "cosas-de-la-escuela",
+      "title": {
+        "es": "Cosas de la escuela",
+        "en": "School stuff"
+      },
+      "articles": [
+        "school-lunches",
+        "homework-help",
+        "bullies",
+        "yoga-stress",
+        "school-diabetes",
+        "back-to-school",
+        "backpack",
+        "middle-school",
+        "period-school-9"
+      ]
+    },
+    {
+      "id": "problemas-de-la-piel",
+      "title": {
+        "es": "Problemas de la piel",
+        "en": "Skin problems"
+      },
+      "articles": [
+        "acne-1"
+      ]
+    },
+    {
+      "id": "temas-dificiles",
+      "title": {
+        "es": "Temas difíciles",
+        "en": "Tough topics"
+      },
+      "articles": [
+        "handle-abuse",
+        "abuse-help",
+        "running-away",
+        "when-shave-face"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "mumps",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Paperas",
+    "description": "Las paperas son causadas por un virus que afecta las glándulas salivales. Los síntomas incluyen hinchazón de las mejillas y fiebre. La vacunación previene la enfermedad. Las complicaciones pueden incluir meningitis y orquitis. El tratamiento es de apoyo."
+  },
+  "en": {
+    "title": "Mumps",
+    "description": "Mumps is caused by a virus that affects the salivary glands. Symptoms include cheek swelling and fever. Vaccination prevents the disease. Complications can include meningitis and orchitis. Treatment is supportive."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/mumps.html",
+      "en": "https://kidshealth.org/en/parents/mumps.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.889Z"
+}

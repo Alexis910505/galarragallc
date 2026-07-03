@@ -1,0 +1,22 @@
+{
+  "id": "oral-temperature",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "lesiones",
+  "es": {
+    "title": "Cómo tomar la temperatura oral",
+    "description": "¿Cómo le tomo la temperatura oral a mi hijo? Tomar la temperatura oral es un proceso fácil con niños mayores y dispuestos a cooperar. A la mayoría de los niños les pueden tomar la temperatura por esta vía cuando tienen unos 4-5 años o más. • Use un termómetro digital. (No use un termómetro de vidrio, porque no son seguros.) • Espere 20-30 minutos después de que su hijo acabe de comer o beber para tomarle la temperatura oral, y asegúrese de que su hijo no tiene chicles ni caramelos en la boca. • Colóquele la punta del termómetro debajo la lengua y pida a su hijo que cierre los labios a su alrededor. Recuérdele que no muerda, apriete los dientes ni hable, y pídale que se relaje y que respire con normalidad por la nariz. • Espere hasta que suene el número de pitidos correspondientes u otra señal que indique que ya se puede leer la temperatura. Anote la temperatura que aparezca en la pantalla, así como la hora del día en que haga la lectura. • Una lectura de 100°F (37,8°C) o superior significa que su hijo tiene fiebre."
+  },
+  "en": {
+    "title": "How to take oral temperature",
+    "description": "How Do I Take an Oral Temperature? Taking an oral temperature is easy in an older, cooperative child. Most kids can have their temperature taken this way when they’re about 4–5 years old. • Use a digital thermometer. (Don’t use a glass thermometer, as these aren’t safe.) • Wait 20–30 minutes after your child finishes eating or drinking to take an oral temperature, and make sure there's no gum or candy in your child's mouth. • Place the tip of the thermometer under the tongue and ask your child to close their lips around it. Tell your child not to bite down or talk, and to relax and breathe normally through the nose. • Wait until you hear the right number of beeps or other signal that the temperature is ready to be read. Write down the number on the screen, noting the time of day that you took the reading. • A reading of 100°F (37.8°C) or above means your child has a fever."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/oral-temperature.html",
+      "en": "https://kidshealth.org/en/parents/oral-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.094Z"
+}

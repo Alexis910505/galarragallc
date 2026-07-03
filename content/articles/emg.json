@@ -1,0 +1,22 @@
+{
+  "id": "emg",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "ninos-enfermos",
+  "es": {
+    "title": "Electromiograma (EMG)",
+    "description": "Los electromiogramas (EMG) miden la respuesta de los músculos y de los nervios a la actividad eléctrica. Se usan para ayudar a encontrar afecciones que pueden estar causando debilidad, como la distrofia muscular y los trastornos nerviosos. ¿Cómo se hacen los electromiogramas? Los músculos son estimulados por señales procedentes de unos nervios llamados neuronas motoras. Esta estimulación causa actividad eléctrica en los músculos, que hace que estos se contraigan o se tensen. Las contracciones musculares en sí mismas generan señales eléctricas. Para llevar a cabo un EMG, se inserta una aguja provista de electrodo dentro de un músculo (la introducción de la aguja se puede notar como se nota el pinchazo de una inyección). Seguidamente, la señal del músculo se trasmite desde el electrodo a través de un cable (últimamente, sin cable) hasta un receptor/amplificador, que está conectado a un dispositivo que muestra la lectura. Los resultados se imprimen en una tira de papel a través de una impresora o, con más frecuencia, se muestran en la pantalla de una computadora. ¿Qué se puede diagnosticar con un electromiograma? Los EMG ayudan a diagnosticar tres tipos de enfermedades que interfieren en las contracciones normales de los músculos: • enfermedades del músculo en sí mismo (más frecuentemente, la distrofia muscular en los niños) • enfermedades de la unión neuromuscular, que es la conexión entre una fibra nerviosa y el músculo que alimenta • enfermedades en los nervios y las raíces nerviosas (que se pueden deber a lesiones nerviosas previas o persistentes) ¿Cuándo estarán listos los resultados? Los resultados están disponibles inmediatamente, pero un especialista médico con experiencia, generalmente un neurólogo, debe analizarlos e interpretarlos."
+  },
+  "en": {
+    "title": "EMG (Electromyogram)",
+    "description": "Electromyogram (EMG) measures the response of muscles and nerves to electrical activity. It's used to help find conditions that might be causing muscle weakness, including muscular dystrophy and nerve disorders. How Is an EMG Done? Muscles are stimulated by signals from nerve cells called motor neurons. This stimulation causes electrical activity in the muscle, which in turn causes the muscle to contract, or tighten. The muscle contraction itself produces electrical signals. For the purpose of EMG, a needle electrode is inserted into the muscle (the insertion of the needle might feel similar to an injection). The signal from the muscle is then transmitted from the needle electrode through a wire (or more recently, wirelessly) to a receiver/amplifier, which is connected to a device that displays a readout. The results are either printed on a paper strip or, more commonly, on a computer screen. What Can an EMG Diagnose? EMGs help diagnose three kinds of diseases that interfere with normal muscle contraction: • diseases of the muscle itself (most commonly, muscular dystrophy in children) • diseases of the neuromuscular junction, which is the connection between a nerve fiber and the muscle it supplies • diseases \"upstream\" in nerves and nerve roots (which can be due to either nerve damage or ongoing nerve injury) When Are the Results Ready? Results are available immediately but a trained medical specialist, usually neurologist, is needed to analyze and interpret them. Medically reviewed by: KidsHealth Medical ExpertsThis link will open in a new window More on this topic for: • Parents • Kids • Teens More on this topicFor Parents • Muscular Dystrophy • EEG (Electroencephalogram) • ECG (Electrocardiogram) More on this topicFor Kids • Medical Tests and Procedures (Video Landing Page) • Getting an EKG (Video) More on this topicFor Teens • Medical Tests: What to Expect (Video) • EKG (Video) • What's It Like to Stay in the Hospital? View more Share: • Share to Facebook • Share to Twitter • Share to Pinterest RELATED CATEGORY • Medical Tests & Exams"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/emg.html",
+      "en": "https://kidshealth.org/en/parents/emg.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:59:28.578Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "digest",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Aparato digestivo",
+    "description": "Ahí estás, sentado a la hora de comer, disfrutando de tu pizza de pollo a la brasa y de los suculentos gajos de una naranja. Después de acabar, te tomas un buen vaso de leche, te limpias la boca y te diriges hacia la siguiente clase. Dentro de unos minutos estarás pensado en la capital de un país o en tu proyecto de ciencias. Te habrás olvidado completamente de la pizza que te acabarás de comer. Pero todavía la tendrás en el estómago: ¡una especie de experimento científico que te ocurre todos los días de tu vida! La movida empieza en la boca Tu aparato digestivo te había empezado a funcionar incluso antes de que dieras el primer bocado a tu pizza. Y seguirá ocupado con la comida que acabas de masticar durante las próximas horas; a veces, hasta días, dependiendo de lo que comas. Este proceso, llamado digestión, permite que el cuerpo obtenga los nutrientes y la energía que necesita de los alimentos que comas. Por lo tanto, averigüemos que le pesa a la pizza, la naranja y la leche."
+  },
+  "en": {
+    "title": "Your Digestive System",
+    "description": "How Does the Digestive System Work? So there you are, sitting at lunch, enjoying some grilled-chicken pizza and a few orange wedges. When you're finished, you take a last drink of milk, wipe your mouth, and head to your next class. In a few minutes you're thinking about the capital of Oregon or your science fair project. You've completely forgotten about that pizza lunch you just ate. But it's still in your stomach — sort of like a science experiment that happens all the time! What's Digestion? Your digestive (say: dye-JES-tiv) system started working even before you took the first bite of your pizza. And the digestive system will be busy at work on your chewed-up lunch for the next few hours — or sometimes days, depending upon what you've eaten. This process, called digestion, allows your body to get the nutrients and energy it needs from the food you eat. So let's find out what's happening to that pizza, orange, and milk."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/digest.html",
+      "en": "https://kidshealth.org/en/kids/digestive-system.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:02:31.822Z"
+}

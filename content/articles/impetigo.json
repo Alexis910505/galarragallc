@@ -1,0 +1,22 @@
+{
+  "id": "impetigo",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Impétigo",
+    "description": "El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación."
+  },
+  "en": {
+    "title": "Impetigo",
+    "description": "Impetigo is a very contagious bacterial skin infection. It causes red sores that turn into scabs. It's common in children. Treatment includes topical or oral antibiotics. Good hygiene prevents spread."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/impetigo.html",
+      "en": "https://kidshealth.org/en/parents/impetigo.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.304Z"
+}

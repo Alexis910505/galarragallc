@@ -1,0 +1,22 @@
+{
+  "id": "ears-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Oídos",
+    "description": "¿Cómo percibes los sonidos? Mira este video para ver qué pasa dentro de tus oídos."
+  },
+  "en": {
+    "title": "How Do the Ears Work? (Video)",
+    "description": "Sounds are everywhere, and you have two cool parts on your body that let you hear them all: your ears! So how do you hear? Watch this video to step inside an ear."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/ears-movie.html",
+      "en": "https://kidshealth.org/en/kids/ears-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:16.984Z"
+}

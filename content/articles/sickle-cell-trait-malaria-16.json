@@ -1,0 +1,22 @@
+{
+  "id": "sickle-cell-trait-malaria-16",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "afecciones-geneticas-cromosomicas-y-metabolicas-para-adolescentes",
+  "es": {
+    "title": "¿Cuál es la relación entre el rasgo de células falciformes y la malaria?",
+    "description": "La malaria es una infección transmitida por ciertos mosquitos, especialmente en zonas tropicales y cálidas. Esta infección puede enfermar gravemente a una persona y son muchos los que han muerto a causa de ella. El rasgo de células falciformes es una característica hereditaria de la sangre. Las personas con este rasgo tienen una copia del \"gen de células falciformes\", pero no tienen la enfermedad de células falciformes. Si un mosquito portador de malaria pica a una persona con el rasgo de células falciformes, esa persona tiene menos probabilidades de desarrollar una enfermedad tan grave. Esto se debe a que los glóbulos rojos de quienes tienen el rasgo de células falciformes hacen que al germen de la malaria le resulte difícil crecer."
+  },
+  "en": {
+    "title": "What’s the Connection Between Sickle Cell Trait and Malaria?",
+    "description": "Malaria is an infection that’s carried by some mosquitoes, especially in hot, tropical places. It can make people very sick, and many have died from it. Sickle cell trait is a blood condition that runs in some families. People with it have one copy of the \"sickle cell gene,\" but they don't have sickle cell disease. If a mosquito carrying the malaria germ bites someone with sickle cell trait, the person isn't as likely to get as sick as other people. That’s because people with sickle cell trait have red blood cells that make it hard for the malaria germ to grow."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/sickle-cell-trait-malaria.html",
+      "en": "https://kidshealth.org/en/teens/sickle-cell-trait-malaria.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:00:20.481Z"
+}

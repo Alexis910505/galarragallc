@@ -1,0 +1,22 @@
+{
+  "id": "video-uppergi-4",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Estudio del tránsito esofagogastroduodenal (video)",
+    "description": "Un estudio del tránsito esofagogastroduodenal es una clase de radiografía que ayuda a los médicos a averiguar cómo funciona su sistema digestivo. No duele, pero no podrá comer durante algunas horas antes de su realización."
+  },
+  "en": {
+    "title": "Upper GI (Video)",
+    "description": "An upper GI test is a type of X-ray that helps doctors learn how your digestive system works. It doesn't hurt, although you won't be able to eat for a few hours beforehand. Watch this video to see what's involved."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/video-uppergi.html",
+      "en": "https://kidshealth.org/en/teens/video-uppergi.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:00:36.607Z"
+}

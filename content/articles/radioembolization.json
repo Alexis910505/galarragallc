@@ -1,0 +1,22 @@
+{
+  "id": "radioembolization",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "procedimientos-medicos",
+  "es": {
+    "title": "Radioembolización (TARE-Y90) para tumores de hígado",
+    "description": "¿Qué es la radioembolización (TARE-Y90)? La radioembolización es un procedimiento que se utiliza para tratar algunos tipos de tumores hepáticos (del hígado). Un médico especializado, llamado radiólogo intervencionista, inyecta microesferas que contienen material radioactivo en un vaso sanguíneo que llega hasta el tumor. El material radioactivo, itrio-90 (Y90), afecta únicamente al tumor, dejando efectos mínimos en el tejido sano que lo rodea. El nombre completo de este tratamiento es \"radioembolización transarterial con Itrio 90 (TARE-Y90)\"."
+  },
+  "en": {
+    "title": "Radioembolization (TARE-Y90) for Liver Tumors",
+    "description": "What Is Radioembolization (TARE-Y90)? Radioembolization (ray-dee-oh-em-beh-lih-ZAY-shun) is a procedure used to treat some kinds of liver tumors. A specialized doctor, called an interventional radiologist, injects tiny beads containing radioactive material into a blood vessel that leads to the tumor. The radioactive material, yttrium-90 (Y90), works right on the tumor with minimal effect on the healthy tissues around it. The full name of this treatment is transarterial radioembolization with yttrium-90 (TARE-Y90)."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/radioembolization.html",
+      "en": "https://kidshealth.org/en/parents/radioembolization.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:16:09.623Z"
+}

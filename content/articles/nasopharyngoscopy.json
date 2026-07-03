@@ -1,0 +1,22 @@
+{
+  "id": "nasopharyngoscopy",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Nasofaringoscopia",
+    "description": "¿Qué es la nasofaringoscopia? La nasofaringoscopia es una exploración en la que los médicos acceden visualmente a la parte posterior de la garganta. Lo hacen introduciendo un tubito fino y flexible llamado \"endoscopio\" dentro de la nariz. El endoscopio lleva una luz y una cámara en el extremo. Esto ayuda a los médicos a ver cómo el paladar (que separa la boca de la cavidad nasal) se mueve mientras el paciente habla. La exploración dura unos 2 minutos."
+  },
+  "en": {
+    "title": "Nasopharyngoscopy",
+    "description": "What Is Nasopharyngoscopy? A nasopharyngoscopy (nay-so-fair-en-GOS-kuh-pee) is an exam doctors do to view the back of the throat. They do this by inserting a flexible tube called a scope through the nose. The scope has a light and a camera on the end. These let doctors see how the palate (the roof of the mouth, which separates the mouth from the nasal cavity) moves during speech. The exam takes about 2 minutes."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/nasopharyngoscopy.html",
+      "en": "https://kidshealth.org/en/parents/nasopharyngoscopy.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:15:48.449Z"
+}

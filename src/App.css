@@ -2413,6 +2413,37 @@ h2 {
   font-size: 1.5rem;
   font-weight: bold;
   transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+
+.accordion-meta {
+  margin-left: auto;
+  margin-right: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+.accordion-header.expanded .accordion-meta {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.topic-no-content {
+  padding: 1.5rem;
+  background: #f8fafc;
+  border-radius: 8px;
+  border: 1px dashed #cbd5e1;
+  color: #64748b;
+  text-align: center;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.subtopic-item-plain {
+  padding: 0.75rem 1rem;
+  color: #64748b;
+  border-bottom: 1px solid #e2e8f0;
 }
 
 .accordion-content {
@@ -3160,6 +3191,7 @@ html.modal-open {
   padding-bottom: 4rem;
   scrollbar-width: thin;
   scrollbar-color: var(--primary-color) #f1f5f9;
+  text-align: left;
 }
 
 .subtopic-description::-webkit-scrollbar {
@@ -3188,6 +3220,7 @@ html.modal-open {
   padding-bottom: 0.5rem;
   border-bottom: 2px solid rgba(15, 118, 110, 0.2);
   line-height: 1.4;
+  text-align: center;
 }
 
 .subtopic-description h4:first-child {
@@ -3196,8 +3229,25 @@ html.modal-open {
 
 .subtopic-description p {
   margin: 0.75rem 0;
-  text-align: justify;
+  text-align: left;
   line-height: 1.7;
+}
+
+.subtopic-description ul.article-list {
+  list-style: disc;
+  margin: 0.75rem 0 1.25rem 0;
+  padding-left: 1.75rem;
+  text-align: left;
+}
+
+.subtopic-description ul.article-list li {
+  margin-bottom: 0.5rem;
+  line-height: 1.7;
+  padding-left: 0.25rem;
+}
+
+.subtopic-description ul.article-list li::marker {
+  color: var(--primary-color);
 }
 
 .subtopic-description strong {

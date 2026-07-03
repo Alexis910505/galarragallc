@@ -1,0 +1,22 @@
+{
+  "id": "bottle-feed-video-6",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "informacion-sobre-alimentacion-con-formula",
+  "es": {
+    "title": "Cómo darle el biberón a su bebé (Vídeo)",
+    "description": "Con un poco de preparación y práctica, usted será capaz de darle el biberón a su bebé. Aprenda cómo hacerlo en este vídeo."
+  },
+  "en": {
+    "title": "How to Bottle-Feed Your Baby (Video)",
+    "description": "With a little preparation and practice, you can bottle-feed your baby. Learn how in this step-by-step video."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/bottle-feed-video.html",
+      "en": "https://kidshealth.org/en/parents/bottle-feed-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:42:51.510Z"
+}

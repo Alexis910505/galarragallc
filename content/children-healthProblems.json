@@ -1,0 +1,275 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:36.057Z",
+  "category": "children",
+  "topic": "healthProblems",
+  "title": {
+    "es": "Problemas de salud",
+    "en": "Health Problems"
+  },
+  "description": {
+    "es": "Incluso los niños pueden tener problemas de salud. Algunos problemas son graves y otros, no tanto. Puedes obtener toda la información que necesitas acerca de los problemas de salud, como el cáncer, el asma, la distrofia muscular y mucho más.",
+    "en": "Even kids can have health problems. Some problems are serious and others are not. You can get all the information you need about health problems like cancer, asthma, muscular dystrophy, and much more."
+  },
+  "subtopics": [
+    {
+      "id": "las-alergias-y-tu-sistema-inmunitario",
+      "title": {
+        "es": "Las alergias y tu sistema inmunitario",
+        "en": "Allergies and your immune system"
+      },
+      "articles": [
+        "asthma-triggers",
+        "asthma-triggers-2",
+        "egg-allergy",
+        "food-allergies",
+        "lactose",
+        "lactose-6",
+        "lactose-7",
+        "allergies-asthma",
+        "hiv"
+      ]
+    },
+    {
+      "id": "asma",
+      "title": {
+        "es": "Asma",
+        "en": "Asthma"
+      },
+      "articles": [
+        "asthma-center",
+        "ozone-asthma",
+        "asthma-flare-up",
+        "smoking-asthma",
+        "school-asthma",
+        "asthma-triggers-6",
+        "travel-asthma",
+        "asthma-medicines",
+        "nebulizer-inhaler",
+        "asthma-sports",
+        "asthma",
+        "action-plan",
+        "asthma-triggers-13"
+      ]
+    },
+    {
+      "id": "defectos-de-nacimiento-y-problemas-geneticos",
+      "title": {
+        "es": "Defectos de nacimiento y problemas genéticos",
+        "en": "Birth defects and genetic problems"
+      },
+      "articles": [
+        "emily-story",
+        "down-syndrome",
+        "what-is-gene"
+      ]
+    },
+    {
+      "id": "vejiga-rinones-y-tracto-urinario",
+      "title": {
+        "es": "Vejiga, riñones y tracto urinario",
+        "en": "Bladder, kidneys, and urinary tract"
+      },
+      "articles": [
+        "asthma-1",
+        "lactose-2"
+      ]
+    },
+    {
+      "id": "sangre",
+      "title": {
+        "es": "Sangre",
+        "en": "Blood"
+      },
+      "articles": [
+        "sickle-cell",
+        "action-plan-2",
+        "blood"
+      ]
+    },
+    {
+      "id": "huesos-musculos-y-articulaciones",
+      "title": {
+        "es": "Huesos, músculos y articulaciones",
+        "en": "Bones, muscles, and joints"
+      },
+      "articles": [
+        "juv-rheum-arthritis",
+        "house-asthma",
+        "casts",
+        "splints"
+      ]
+    },
+    {
+      "id": "cerebro-y-sistema-nervioso",
+      "title": {
+        "es": "Cerebro y sistema nervioso",
+        "en": "Brain and nervous system"
+      },
+      "articles": [
+        "epilepsy",
+        "fractures-greenstick-es",
+        "memory",
+        "autism",
+        "coma"
+      ]
+    },
+    {
+      "id": "cancer",
+      "title": {
+        "es": "Cáncer",
+        "en": "Cancer"
+      },
+      "articles": [
+        "cancer-center",
+        "chemo"
+      ]
+    },
+    {
+      "id": "diabetes",
+      "title": {
+        "es": "Diabetes",
+        "en": "Diabetes"
+      },
+      "articles": [
+        "diabetes-center"
+      ]
+    },
+    {
+      "id": "glandulas-hormonas-y-diabetes",
+      "title": {
+        "es": "Glándulas, hormonas y diabetes",
+        "en": "Glands, hormones, and diabetes"
+      },
+      "articles": [
+        "high-blood-sugar",
+        "school-diabetes"
+      ]
+    },
+    {
+      "id": "corazon-y-pulmones",
+      "title": {
+        "es": "Corazón y pulmones",
+        "en": "Heart and lungs"
+      },
+      "articles": [
+        "incentive-spirometer",
+        "cystic-fibrosis",
+        "heart-murmurs"
+      ]
+    },
+    {
+      "id": "prevencion-y-tratamiento-de-infecciones",
+      "title": {
+        "es": "Prevención y tratamiento de infecciones",
+        "en": "Infection prevention and treatment"
+      },
+      "articles": [
+        "asthma-center-1",
+        "ecoli",
+        "lyme-disease",
+        "tonsillitis",
+        "hepatitis",
+        "blood-6",
+        "impetigo",
+        "mono",
+        "lactose-9",
+        "asthma-pet",
+        "athletes-foot",
+        "ringworm-infection",
+        "jock-itch",
+        "chicken-pox",
+        "chicken-pox-itch",
+        "sinusitis",
+        "ear-infection",
+        "hiv-18",
+        "germs"
+      ]
+    },
+    {
+      "id": "problemas-de-aprendizaje-y-emocionales",
+      "title": {
+        "es": "Problemas de aprendizaje y emocionales",
+        "en": "Learning and emotional problems"
+      },
+      "articles": [
+        "mindfulness",
+        "lactose-2",
+        "learning-disabilities",
+        "adhdkid",
+        "asthma-pet-5"
+      ]
+    },
+    {
+      "id": "vista-habla-y-audicion",
+      "title": {
+        "es": "Vista, habla y audición",
+        "en": "Vision, speech, and hearing"
+      },
+      "articles": [
+        "strabismus",
+        "rock-music",
+        "stuttering",
+        "hearing-impairment"
+      ]
+    },
+    {
+      "id": "piel",
+      "title": {
+        "es": "Piel",
+        "en": "Skin"
+      },
+      "articles": [
+        "acne",
+        "blisters",
+        "scars",
+        "lactose-4",
+        "poison-ivy",
+        "impetigo-6",
+        "athletes-foot-7",
+        "rashes",
+        "ringworm-infection-9",
+        "jock-itch-10",
+        "lactose-11",
+        "when-use-skin-care-products",
+        "action-plan-13"
+      ]
+    },
+    {
+      "id": "estomago-intestinos-e-higado",
+      "title": {
+        "es": "Estómago, intestinos e hígado",
+        "en": "Stomach, intestines, and liver"
+      },
+      "articles": [
+        "ecoli-1",
+        "lactose-2",
+        "ringworm-infection-3",
+        "asthma-4",
+        "indigestion",
+        "food-poisoning",
+        "asthma-triggers-7",
+        "asthma-8"
+      ]
+    },
+    {
+      "id": "dientes-y-boca",
+      "title": {
+        "es": "Dientes y boca",
+        "en": "Teeth and mouth"
+      },
+      "articles": [
+        "lactose-1",
+        "tonsillitis-2",
+        "word-braces",
+        "braces",
+        "blood-5",
+        "orthodontist",
+        "bad-breath",
+        "retainers",
+        "cavities"
+      ]
+    }
+  ]
+}

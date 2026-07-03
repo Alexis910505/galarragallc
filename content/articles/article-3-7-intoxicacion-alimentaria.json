@@ -1,0 +1,19 @@
+{
+  "id": "article-3-7-intoxicacion-alimentaria",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-gastrointestinales",
+  "es": {
+    "title": "Intoxicación alimentaria",
+    "description": "La intoxicación alimentaria es causada por bacterias, virus o toxinas en alimentos contaminados. Los síntomas incluyen náuseas, vómitos, diarrea y fiebre. La mayoría de los casos son leves y se resuelven solos. La prevención incluye buena higiene alimentaria."
+  },
+  "en": {
+    "title": "Food poisoning",
+    "description": "Food poisoning is caused by bacteria, viruses, or toxins in contaminated food. Symptoms include nausea, vomiting, diarrhea, and fever. Most cases are mild and resolve on their own. Prevention includes good food hygiene."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {}
+  },
+  "updatedAt": "2026-07-03T14:26:19.228Z"
+}

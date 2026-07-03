@@ -1,0 +1,22 @@
+{
+  "id": "sickle-cell-trait",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "enfermedades-de-la-sangre",
+  "es": {
+    "title": "Rasgo de células falciformes",
+    "description": "¿Qué es el rasgo de células falciformes? El rasgo de células falciformes (también conocido como rasgo drepanocítico o rasgo falciforme) es una afección sanguínea que se trasmite en el seno de las familias a través de los genes. No puede dar lugar a la enfermedad de células falciformes y no suele causar problemas. Una persona tiene el rasgo de células falciformes cuando hereda una copia del gen de células falciformes de uno de sus progenitores. Con solo una copia del gen de células falciformes, una persona no puede padecer la enfermedad de células falciformes, pero sí que puede trasmitir una copia de este gen a su descendencia. Una persona con el rasgo de células falciformes también se llama “portadora”. ¿En qué se diferencian el rasgo de células falciformes de la enfermedad de células falciformes? El rasgo de células falciformes no suele causar problemas de salud. Los problemas son muy poco frecuentes y se suelen poder prevenir. La enfermedad de células falciformes es un trastorno de la sangre donde los glóbulos rojos no son redondos, sino que tienen forma de hoz. Estas células en forma de hoz se pegan entre sí con facilidad y obstruyen vasos sanguíneos de tamaño reducido. Cuando la sangre no puede fluir con normalidad, esto puede generar dolor y lesionar los órganos. Las personas con esta enfermedad necesitan tratamiento médico de por vida. ¿Cómo desarrollan las personas el rasgo de células falciformes? Para saber cómo una persona puede tener el rasgo de células falciformes, ayuda conocer qué es el gen beta globina. Todo el mundo tiene dos copias del gen beta-globina, heredadas de sus progenitores. Los genes beta-globina indican al cuerpo cómo fabricar la hemoglobina, una proteína contenida en los glóbulos rojos encargada de transportar oxígeno. Hay un tipo de gen beta globina que puede heredar una persona llamado gen beta globina de células falciformes (o gen de células falciformes, para abreviar). Una persona con el rasgo de células falciformes tiene un gen de células falciformes y otro gen normal, ambos heredados de sus progenitores. Un asesor genético le puede explicar cómo el rasgo de células falciformes, la enfermedad de células falciformes y otros trastornos de la sangre se pueden dar en las familias."
+  },
+  "en": {
+    "title": "Sickle cell trait",
+    "description": "What Is Sickle Cell Trait? Sickle cell trait is a blood condition that gets passed down through some families in their genes. It can’t turn into sickle cell disease and it doesn’t usually cause health problems. A person has sickle cell trait when they inherit a copy of the “sickle cell gene” from one of their parents. With only 1 copy of the sickle cell gene, they don’t have sickle cell disease, but they can pass a copy of the gene to their children. A person with sickle cell trait is also called a “carrier.” How Do Sickle Cell Trait and Sickle Cell Disease Differ? Sickle cell trait doesn’t usually cause health problems. Problems are rare and usually can be prevented. Sickle cell disease is a blood disorder where red blood cells are curved instead of round. The curved cells can get stuck in and block small blood vessels. Blood can't flow normally, which can lead to pain and organ damage. People with sickle cell disease need lifelong medical care. How Does Someone Get Sickle Cell Trait? To understand how someone gets sickle cell trait, it helps to know about the beta-globin gene. Everybody has 2 copies of the beta-globin gene that they inherit, one from each parent. Beta-globin genes tell the body how to make hemoglobin (HEE-muh-glow-bin), a protein in red blood cells that carries oxygen. One type of beta-globin gene that someone can inherit is called the sickle beta-globin gene (or “sickle cell gene,” for short). A person gets sickle cell trait by inheriting a normal beta-globin gene from one parent and a sickle beta-globin gene (sickle cell gene) from the other parent. A genetic counselor can explain how sickle cell trait, sickle cell disease, and other blood disorders can run in families."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/sickle-cell-trait.html",
+      "en": "https://kidshealth.org/en/parents/sickle-cell-trait.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.747Z"
+}

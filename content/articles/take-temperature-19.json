@@ -1,0 +1,22 @@
+{
+  "id": "take-temperature-19",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "el-cuerpo-humano",
+  "es": {
+    "title": "Sistema inmunitario",
+    "description": "Cuando su hijo está caliente, parece estar de mal humor o encontrase mal, puede ayudar saber si tiene fiebre. He aquí cómo tomarle la temperatura a su hijo de una formas segura y precisa."
+  },
+  "en": {
+    "title": "Immune system",
+    "description": "When your child feels warm or seems out of sorts, knowing if a fever might be the cause can be helpful. Here's how to take your child's temperature, safely and accurately."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/take-temperature.html",
+      "en": "https://kidshealth.org/en/parents/take-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.108Z"
+}

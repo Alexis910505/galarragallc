@@ -1,0 +1,211 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T14:41:00.091Z",
+  "category": "parents",
+  "topic": "generalHealth",
+  "title": {
+    "es": "Salud General",
+    "en": "General Health"
+  },
+  "description": {
+    "es": "Mantener a su hijo sano requiere mucho trabajo. En esta sección podrá obtener información sobre los dolores y las enfermedades más comunes y cómo cuidar el cuerpo de su hijo de pies a cabeza.",
+    "en": "Keeping your child healthy requires a lot of work. In this section you can get information about the most common pains and illnesses and how to care for your child's body from head to toe."
+  },
+  "subtopics": [
+    {
+      "id": "lesiones",
+      "title": {
+        "es": "Lesiones",
+        "en": "Injuries"
+      },
+      "articles": [
+        "canker",
+        "concussions-factsheet",
+        "emergencies",
+        "fractures-heal",
+        "axillary-temperature",
+        "oral-temperature",
+        "rectal-temperature",
+        "take-temperature",
+        "fever-sheet",
+        "emergencies-10",
+        "functional-abdominal-pain",
+        "headache",
+        "growing-pains",
+        "fever-sheet-14",
+        "phys-therapy",
+        "take-temperature-16",
+        "fractures-buckle",
+        "fracturas-en-tallo-verde",
+        "stress-fractures",
+        "splints",
+        "inflammation",
+        "emergency-room",
+        "osgood",
+        "migraines",
+        "splinters-sheet",
+        "occupational-therapy"
+      ]
+    },
+    {
+      "id": "el-cuerpo-humano",
+      "title": {
+        "es": "El cuerpo humano",
+        "en": "The human body"
+      },
+      "articles": [
+        "female-reproductive-system",
+        "flu-vs-cold",
+        "body-basics",
+        "spleen",
+        "ears-video",
+        "heart",
+        "ears",
+        "enzymes",
+        "blood-types-es",
+        "flu-vs-cold-10",
+        "take-temperature-11",
+        "eyes",
+        "concussions-factsheet-13",
+        "skin",
+        "skin-15",
+        "take-temperature-16",
+        "take-temperature-17",
+        "endocrine",
+        "take-temperature-19",
+        "spleen-lymphatic",
+        "brain-nervous-system",
+        "brain-nervous-system-22",
+        "peripheral-nervous-system",
+        "nails",
+        "collagen"
+      ]
+    },
+    {
+      "id": "el-cuerpo-del-nino",
+      "title": {
+        "es": "El cuerpo del niño",
+        "en": "The child's body"
+      },
+      "articles": [
+        "growth-plates",
+        "mouth-teeth",
+        "cholesterol",
+        "nausea-sheet",
+        "growth-charts",
+        "hemangiomas-story",
+        "changing-voice",
+        "rotavirus-vaccine",
+        "nails-9",
+        "birthmarks",
+        "fitness-nutrition-center",
+        "keratosis-pilaris",
+        "overweight-obesity",
+        "skincare-products",
+        "bmi-charts"
+      ]
+    },
+    {
+      "id": "la-nariz-garganta-y-oidos-del-nino",
+      "title": {
+        "es": "La nariz, garganta y oídos del niño",
+        "en": "The child's nose, throat and ears"
+      },
+      "articles": [
+        "corneal-abrasions",
+        "amblyopia",
+        "tear_duct_massage_animation",
+        "tear_duct_probe_animation",
+        "tear-duct-obstruct-surgery",
+        "eye-injuries-sheet",
+        "strabismus",
+        "subconjunctival-hemorrhage",
+        "farsightedness",
+        "vision",
+        "nearsightedness",
+        "black-eyes",
+        "hear",
+        "earwax",
+        "ansd",
+        "tmj",
+        "solar-eclipse-safety"
+      ]
+    },
+    {
+      "id": "ninos-enfermos",
+      "title": {
+        "es": "Niños enfermos",
+        "en": "Sick children"
+      },
+      "articles": [
+        "spinal_tap_lumbar_puncture_animation",
+        "febrile",
+        "take-pulse",
+        "urination-pain-sheet",
+        "constipation-sheet",
+        "vomiting-sheet",
+        "vomiting-sheet-7",
+        "ekg",
+        "eeg",
+        "emg",
+        "constipation",
+        "sweat-test",
+        "hand-washing",
+        "labtest11",
+        "cfs",
+        "canker-16",
+        "flu-vs-cold-17",
+        "too-sick"
+      ]
+    },
+    {
+      "id": "el-sueno-del-nino",
+      "title": {
+        "es": "El sueño del niño",
+        "en": "The child's sleep"
+      },
+      "articles": [
+        "sleep-hygiene",
+        "apnea",
+        "toddlersleep-video-3",
+        "bruxism",
+        "cosleeping",
+        "enough-sleep-video",
+        "sleepnewborn",
+        "take-temperature-8",
+        "take-temperature-9",
+        "take-temperature-10",
+        "take-temperature-11",
+        "sleep-preschool",
+        "sleep-problems",
+        "sleep",
+        "enough-sleep-video-15",
+        "nightmares",
+        "breastfeed-sleep",
+        "sleepwalking",
+        "melatonin-supplements",
+        "positional-plagiocephaly",
+        "terrors",
+        "delayed-sleep-teens",
+        "back-sleep"
+      ]
+    },
+    {
+      "id": "los-dientes-del-nino",
+      "title": {
+        "es": "Los dientes del niño",
+        "en": "The child's teeth"
+      },
+      "articles": [
+        "braces",
+        "bruxism-2",
+        "fluoride-water",
+        "teething",
+        "tongue-tie",
+        "healthy",
+        "tmj-7"
+      ]
+    }
+  ]
+}

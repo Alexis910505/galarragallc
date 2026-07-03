@@ -1,0 +1,22 @@
+{
+  "id": "usmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Aparato urinario",
+    "description": "Si alguna vez te has preguntado de dónde proviene el pis, ¡este video tiene la respuesta!"
+  },
+  "en": {
+    "title": "How Does the Urinary System Work? (Video)",
+    "description": "What's the Urinary System? And What's Pee? You drink, you pee. But urine is more than just that drink you had a few hours ago. If you've ever wondered where pee comes from, this movie has the answers!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/usmovie.html",
+      "en": "https://kidshealth.org/en/kids/usmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:26.151Z"
+}

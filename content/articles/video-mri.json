@@ -1,0 +1,22 @@
+{
+  "id": "video-mri",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Obtención de una resonancia magnética, RM (video)",
+    "description": "La RM (resonancia magnética) genera imágenes detalladas del interior del cuerpo. El estudio es indoloro. Lo único que debe hacer es permanecer quieto durante varios minutos para que las imágenes obtenidas sean claras."
+  },
+  "en": {
+    "title": "Getting an MRI (video)",
+    "description": "An MRI (magnetic resonance imaging) scan creates detailed pictures of the inside of the body. The test is painless. All you'll need to do is hold still for several minutes at a time so the pictures come out clear."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-mri.html",
+      "en": "https://kidshealth.org/en/kids/video-mri.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.785Z"
+}

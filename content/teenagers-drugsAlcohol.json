@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:20:19.250Z",
+  "category": "teenagers",
+  "topic": "drugsAlcohol",
+  "title": {
+    "es": "Drogas y alcohol",
+    "en": "Drugs & Alcohol"
+  },
+  "description": {
+    "es": "El tabaco, las bebidas alcohólicas y las drogas pueden afectar la vida de las personas. ¿Tu vida está siendo afectada?",
+    "en": "Tobacco, alcoholic beverages and drugs can affect people's lives. Is your life being affected?"
+  },
+  "subtopics": [
+    {
+      "id": "alcohol",
+      "title": {
+        "es": "Alcohol",
+        "en": "Alcohol"
+      },
+      "articles": [
+        "alcohol",
+        "binge-drink",
+        "coping-alcoholic"
+      ]
+    },
+    {
+      "id": "drogas",
+      "title": {
+        "es": "Drogas",
+        "en": "Drugs"
+      },
+      "articles": [
+        "prescription-drug-abuse",
+        "know-about-drugs",
+        "hepatitis-c",
+        "addictions",
+        "study-drugs",
+        "pcp",
+        "opioid-prescription-safety",
+        "steroids"
+      ]
+    },
+    {
+      "id": "donde-obtener-ayuda",
+      "title": {
+        "es": "Dónde obtener ayuda",
+        "en": "Where to get help"
+      },
+      "articles": [
+        "goals-tips",
+        "addictions-2",
+        "hiv-tests"
+      ]
+    },
+    {
+      "id": "tabaco",
+      "title": {
+        "es": "Tabaco",
+        "en": "Tobacco"
+      },
+      "articles": [
+        "smoking",
+        "smoking-asthma",
+        "smokeless",
+        "secondhand-smoke",
+        "e-cigarettes",
+        "expert-smoking",
+        "quit-smoking"
+      ]
+    }
+  ]
+}

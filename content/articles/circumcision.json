@@ -1,0 +1,22 @@
+{
+  "id": "circumcision",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "afecciones-quirurgicas",
+  "es": {
+    "title": "Circuncisión",
+    "description": "Descripción general ¿En qué consiste la circuncisión? Un pliegue de piel, llamado prepucio, cubre la cabeza (o glande) del pene. En la circuncisión, el prepucio se extirpa quirúrgicamente, dejando al descubierto el extremo del pene. Algunas familias optan por hacer una circuncisión por motivos religiosos o culturales. Otras la escogen por motivos higiénicos o estéticos. Y hay otras familias que optan por no circuncidar a sus hijos."
+  },
+  "en": {
+    "title": "Circumcision",
+    "description": "Overview What Is Circumcision? A hood of skin, called the foreskin, covers the head (or glans) of the penis. In circumcision, the foreskin is surgically removed, exposing the end of the penis. Some families choose to circumcise based on cultural or religious beliefs. Others choose to for hygiene or appearance. And some choose not to circumcise."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/circumcision.html",
+      "en": "https://kidshealth.org/en/parents/circumcision.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:27.909Z"
+}

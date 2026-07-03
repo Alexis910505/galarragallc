@@ -1,0 +1,749 @@
+[
+  {
+    "topic": "generalHealth",
+    "id": "ears-video",
+    "title": "Breve resumen: Cómo funcionan los oídos",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/ears-video.html",
+    "urlEn": "https://kidshealth.org/en/parents/ears-video.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "blood-types-es",
+    "title": "Grupos sanguíneos",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/blood-types-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "generalHealth",
+    "id": "rotavirus-vaccine",
+    "title": "Las vacunas de su hijo: Vacuna contra el rotavirus",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/rotavirus-vaccine.html",
+    "urlEn": "https://kidshealth.org/en/parents/rotavirus-vaccine.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "fitness-nutrition-center",
+    "title": "Nutrición y ejercicio físico",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/fitness-nutrition-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/fitness-nutrition-center.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "tear_duct_massage_animation",
+    "title": "Breve resumen: Obstrucción del conducto lagrimal",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/tear_duct_massage_animation.html",
+    "urlEn": "https://kidshealth.org/en/parents/tear_duct_massage_animation.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "tear_duct_probe_animation",
+    "title": "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/tear_duct_probe_animation.html",
+    "urlEn": "https://kidshealth.org/en/parents/tear_duct_probe_animation.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "hear",
+    "title": "Pruebas de audición",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/hear.html",
+    "urlEn": "https://kidshealth.org/en/parents/hear.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "spinal_tap_lumbar_puncture_animation",
+    "title": "Breve resumen: Punción lumbar",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/spinal_tap_lumbar_puncture_animation.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "generalHealth",
+    "id": "ekg",
+    "title": "Electrocardiograma (ECG)",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/ekg.html",
+    "urlEn": "https://kidshealth.org/en/parents/ekg.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "eeg",
+    "title": "Electroencefalograma",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/eeg.html",
+    "urlEn": "https://kidshealth.org/en/parents/eeg.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "emg",
+    "title": "Electromiograma (EMG)",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/emg.html",
+    "urlEn": "https://kidshealth.org/en/parents/emg.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "sweat-test",
+    "title": "Fibrosis quística: análisis de cloruro en el sudor",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sweat-test.html",
+    "urlEn": "https://kidshealth.org/en/parents/sweat-test.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "toddlersleep-video",
+    "title": "Lavarse las manos: Por qué es tan importante",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/toddlersleep-video.html",
+    "urlEn": "https://kidshealth.org/en/parents/toddlersleep-video.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "labtest11",
+    "title": "Prueba estreptocócica: Cultivo de exudado faríngeo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/labtest11.html",
+    "urlEn": "https://kidshealth.org/en/parents/labtest11.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "cfs",
+    "title": "Síndrome de fatiga crónica",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/cfs.html",
+    "urlEn": "https://kidshealth.org/en/parents/cfs.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "enough-sleep-video",
+    "title": "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/enough-sleep-video.html",
+    "urlEn": "https://kidshealth.org/en/parents/enough-sleep-video.html"
+  },
+  {
+    "topic": "generalHealth",
+    "id": "nightmares",
+    "title": "Pesadillas",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/nightmares.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "growthDevelopment",
+    "id": "fitness-nutrition-center",
+    "title": "Nutrición y ejercicio físico",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/fitness-nutrition-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/fitness-nutrition-center.html"
+  },
+  {
+    "topic": "growthDevelopment",
+    "id": "child-humor",
+    "title": "Estimule el sentido del humor en su hijo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/child-humor.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "growthDevelopment",
+    "id": "play-learn",
+    "title": "Jugar y aprender (Centro de temas relacionados con el juego y el aprendizaje)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/play-learn.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/play-learn.html"
+  },
+  {
+    "topic": "growthDevelopment",
+    "id": "enough-sleep-video",
+    "title": "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/enough-sleep-video.html",
+    "urlEn": "https://kidshealth.org/en/parents/enough-sleep-video.html"
+  },
+  {
+    "topic": "growthDevelopment",
+    "id": "nightmares",
+    "title": "Pesadillas",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/nightmares.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "allergies-center",
+    "title": "Alergias (Centro de temas relacionados con las alergias)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/allergies-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/allergies-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "foodallergies-center",
+    "title": "Alergias alimentarias (Centro de temas relacionados con las alergias alimentarias)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/foodallergies-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/foodallergies-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "asthma-center",
+    "title": "Asma (Centro de temas relacionados con el asma)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/asthma-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/asthma-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "a-action-plan",
+    "title": "Plan de acción para el asma",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/a-action-plan.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "action-plan-art",
+    "title": "¿Qué es un plan de acción para el asma?",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/action-plan-art.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "clubfoot-center",
+    "title": "Pie zambo (Centro de temas relacionados con el pie zambo)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/clubfoot-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/clubfoot-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "cp",
+    "title": "Parálisis cerebral (Centro de temas relacionados con la parálisis cerebral)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/cp.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/cp.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "cancer-center",
+    "title": "Cáncer (Centro de temas relacionados con el cáncer)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/cancer-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/cancer-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "crohn-disease",
+    "title": "Enfermedad de Crohn",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/crohn-disease.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "ear-drops-es",
+    "title": "Cómo ponerle a su hijo gotas para los oídos",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/ear-drops-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "diabetes-mellitus",
+    "title": "Diabetes",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/diabetes-mellitus.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "diabetes-center",
+    "title": "Diabetes (Centro de temas relacionados con la diabetes)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/diabetes-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/diabetes-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "diabetes-mellitus-40",
+    "title": "Diabetes",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/diabetes-mellitus.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "about-sickle-cell-disease",
+    "title": "Enfermedad de células falciformes (Centro de temas relacionados con la enfermedad de células falciformes)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/about-sickle-cell-disease.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/about-sickle-cell-disease.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "lymphatic-conditions-center",
+    "title": "El sistema linfático y sus afecciones (Centro sobre temas relacionados con el sistema linfático)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/lymphatic-conditions-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/lymphatic-conditions-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "about-sickle-cell-disease-45",
+    "title": "Enfermedad de células falciformes (Centro de temas relacionados con la enfermedad de células falciformes)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/about-sickle-cell-disease.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/about-sickle-cell-disease.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "blood-types-es",
+    "title": "Grupos sanguíneos",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/blood-types-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "heart-health-center",
+    "title": "La salud del corazón (Centro de temas relacionados con el corazón)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/heart-health-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/heart-health-center.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "fontan-es",
+    "title": "Procedimiento de Fontan",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/fontan-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "glenn-es",
+    "title": "Procedimiento de Glenn",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/glenn-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "norwood-es",
+    "title": "Procedimiento de Norwood",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/norwood-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "hypoplastic-heart-es",
+    "title": "Síndrome de corazón izquierdo hipoplásico",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/hypoplastic-heart-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "miscarriage",
+    "title": "Abortos naturales",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/miscarriage.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "enough-sleep-video",
+    "title": "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/enough-sleep-video.html",
+    "urlEn": "https://kidshealth.org/en/parents/enough-sleep-video.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "tear_duct_massage_animation",
+    "title": "Breve resumen: Obstrucción del conducto lagrimal",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/tear_duct_massage_animation.html",
+    "urlEn": "https://kidshealth.org/en/parents/tear_duct_massage_animation.html"
+  },
+  {
+    "topic": "diseasesConditions",
+    "id": "tear_duct_probe_animation",
+    "title": "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/tear_duct_probe_animation.html",
+    "urlEn": "https://kidshealth.org/en/parents/tear_duct_probe_animation.html"
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "separation-anxiety",
+    "title": "Ansiedad de separación",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/separation-anxiety.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "babyslideshow-es",
+    "title": "Presentación sobre el embarazo (Bebé)",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/babyslideshow-es.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "newborn-center",
+    "title": "El cuidado de su bebé recién nacido (Centro de temas relacionados con el recién nacido)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/newborn-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/newborn-center.html"
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "sleeping-during-pregnancy",
+    "title": "El sueño durante el embarazo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sleeping-during-pregnancy.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "preventing-premature-birth",
+    "title": "Prevención de los nacimientos prematuros (Centro de temas relacionados con el nacimiento prematuro)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/preventing-premature-birth.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/preventing-premature-birth.html"
+  },
+  {
+    "topic": "pregnancyBaby",
+    "id": "pregnancy-center",
+    "title": "Su embarazo (Centro de temas relacionados con el embarazo)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/pregnancy-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/pregnancy-center.html"
+  },
+  {
+    "topic": "nutritionExercise",
+    "id": "athlete-type1-diabetes",
+    "title": "Ayudar a su pequeño deportista con diabetes tipo 1",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/athlete-type1-diabetes.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "nutritionExercise",
+    "id": "article-7-5-ejercicios-en-casa",
+    "title": "Ejercicios en casa",
+    "es": false,
+    "en": false,
+    "urlEs": "",
+    "urlEn": ""
+  },
+  {
+    "topic": "emotionsBehavior",
+    "id": "separation-anxiety",
+    "title": "Ansiedad de separación",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/separation-anxiety.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "emotionsBehavior",
+    "id": "sex",
+    "title": "Cómo responder a preguntas sobre el sexo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sex.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "emotionsBehavior",
+    "id": "stress-center",
+    "title": "Estrés (Centro de temas relacionados con el estrés)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/stress-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/stress-center.html"
+  },
+  {
+    "topic": "emotionsBehavior",
+    "id": "media-use",
+    "title": "Hábitos saludables para usar los medios (Centro de temas relacionados con los medios)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/media-use.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/media-use.html"
+  },
+  {
+    "topic": "schoolFamily",
+    "id": "holidays-coronavirus",
+    "title": "Comprensión del COVID-19",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/holidays-coronavirus.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "schoolFamily",
+    "id": "homework-help",
+    "title": "Ayuda con las tareas escolares (Centro de temas relacionados con las tareas escolares)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/homework-help.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/homework-help.html"
+  },
+  {
+    "topic": "schoolFamily",
+    "id": "sex",
+    "title": "Cómo responder a preguntas sobre el sexo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sex.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "schoolFamily",
+    "id": "stop-biting-32",
+    "title": "Hábito de morder",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/stop-biting.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "schoolFamily",
+    "id": "sports-competition-58",
+    "title": "Deportes competitivos: ayudar a que los niños se los tomen con calma",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sports-competition.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "safety-center",
+    "title": "Atención de emergencia y primeros auxilios (Centro sobre la atención de emergencia y los primeros auxilios)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/safety-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/safety-center.html"
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "products-crib",
+    "title": "Elección de productos seguros para los bebés: Cunas",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/products-crib.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "safety-firearms",
+    "title": "Seguridad en casa: cómo prevenir las heridas por arma de fuego",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/safety-firearms.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "summer-center",
+    "title": "Seguridad durante el verano (Centro de temas relacionados con la seguridad durante el verano)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/summer-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/summer-center.html"
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "travel-size-emergency",
+    "title": "Consejos de seguridad: Esquí",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/travel-size-emergency.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "travel-size-emergency-27",
+    "title": "Números e información de emergencia",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/travel-size-emergency.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "firstAidSafety",
+    "id": "safety-center-36",
+    "title": "Primeros auxilios: Varicela",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/safety-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/safety-center.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "doctor-visits",
+    "title": "Cómo preparar a su hijo para las visitas al médico",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/doctor-visits.html",
+    "urlEn": ""
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "cfs",
+    "title": "Síndrome de fatiga crónica",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/cfs.html",
+    "urlEn": "https://kidshealth.org/en/parents/cfs.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "rotavirus-vaccine",
+    "title": "Las vacunas de su hijo: Vacuna contra el rotavirus",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/rotavirus-vaccine.html",
+    "urlEn": "https://kidshealth.org/en/parents/rotavirus-vaccine.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "ekg",
+    "title": "Electrocardiograma (ECG)",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/ekg.html",
+    "urlEn": "https://kidshealth.org/en/parents/ekg.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "eeg",
+    "title": "Electroencefalograma",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/eeg.html",
+    "urlEn": "https://kidshealth.org/en/parents/eeg.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "emg",
+    "title": "Electromiograma (EMG)",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/emg.html",
+    "urlEn": "https://kidshealth.org/en/parents/emg.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "sweat-test",
+    "title": "Fibrosis quística: análisis de cloruro en el sudor",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/sweat-test.html",
+    "urlEn": "https://kidshealth.org/en/parents/sweat-test.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "labtest11",
+    "title": "Prueba estreptocócica: Cultivo de exudado faríngeo",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/labtest11.html",
+    "urlEn": "https://kidshealth.org/en/parents/labtest11.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "hear",
+    "title": "Pruebas de audición",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/hear.html",
+    "urlEn": "https://kidshealth.org/en/parents/hear.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "lymphatic-conditions-center",
+    "title": "El sistema linfático y sus afecciones (Centro sobre temas relacionados con el sistema linfático)",
+    "es": false,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/center/lymphatic-conditions-center.html",
+    "urlEn": "https://kidshealth.org/en/parents/center/lymphatic-conditions-center.html"
+  },
+  {
+    "topic": "doctorsHospitals",
+    "id": "tear_duct_massage_animation",
+    "title": "Breve resumen: Obstrucción del conducto lagrimal",
+    "es": true,
+    "en": false,
+    "urlEs": "https://kidshealth.org/es/parents/tear_duct_massage_animation.html",
+    "urlEn": "https://kidshealth.org/en/parents/tear_duct_massage_animation.html"
+  }
+]

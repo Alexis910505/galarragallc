@@ -1,0 +1,22 @@
+{
+  "id": "spirometry",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Espirometría",
+    "description": "¿Qué es una espirometría? Una espirometría es una prueba en la que se mide: • cuánto aire pueden retener los pulmones de una persona • la velocidad de las inhalaciones (entrada de aire) y las exhalaciones (salida de aire) Se trata de una prueba rápida que se suele completar en unos 5 a 30 minutos. ¿Qué es un espirómetro? Las espirometrías se realizan con una herramienta que recibe el nombre de espirómetro. El espirómetro tiene dos partes: • una boquilla • un tubo que conecta a un dispositivo o una computadora que comprueba y registra los resultados"
+  },
+  "en": {
+    "title": "Spirometry",
+    "description": "What Is Spirometry? Spirometry (spy-ROM-eh-tree) is a test that measures: • how much air a person's lungs can hold • the speed of inhalations (breathing in) and exhalations (breathing out) It's a quick test that usually takes 5–30 minutes. What's a Spirometer? Spirometry is done with a tool called a spirometer. The spirometer (spy-ROM-eh-tur) has: • a mouthpiece • a tube that connects to a device or computer that checks and records results"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/spirometry.html",
+      "en": "https://kidshealth.org/en/parents/spirometry.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:16:21.411Z"
+}

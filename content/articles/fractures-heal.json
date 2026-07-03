@@ -1,0 +1,22 @@
+{
+  "id": "fractures-heal",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "lesiones",
+  "es": {
+    "title": "Cómo se curan los huesos rotos",
+    "description": "Los huesos rotos tienen una capacidad asombrosa para curarse, sobre todo en los niños. A las pocas semanas de una fractura (o rotura de un hueso), se forma nuevo hueso, aunque la curación completa puede llevar más tiempo."
+  },
+  "en": {
+    "title": "How broken bones heal",
+    "description": "Broken bones have an amazing ability to heal, especially in children. New bone forms within a few weeks of the injury, although full healing can take longer."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/fractures-heal.html",
+      "en": "https://kidshealth.org/en/parents/fractures-heal.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.094Z"
+}

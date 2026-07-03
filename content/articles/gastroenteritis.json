@@ -1,0 +1,22 @@
+{
+  "id": "gastroenteritis",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-gastrointestinales",
+  "es": {
+    "title": "Gastroenteritis (gripe estomacal)",
+    "description": "La gastroenteritis es la inflamación del estómago e intestinos. Causa diarrea, vómitos y dolor abdominal. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda. La mayoría de los casos son virales."
+  },
+  "en": {
+    "title": "Gastroenteritis (stomach flu)",
+    "description": "Gastroenteritis is inflammation of the stomach and intestines. It causes diarrhea, vomiting, and abdominal pain. Dehydration is the main complication. Treatment includes oral rehydration and bland diet. Most cases are viral."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/gastroenteritis.html",
+      "en": "https://kidshealth.org/en/parents/gastroenteritis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.886Z"
+}

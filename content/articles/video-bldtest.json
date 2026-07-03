@@ -1,0 +1,22 @@
+{
+  "id": "video-bldtest",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "enfermedades-de-la-sangre",
+  "es": {
+    "title": "Obtención de un análisis de sangre (video)",
+    "description": "La sangre ofrece a los médicos toda clase de indicios sobre su salud. Es normal sentir nervios ante este análisis; a nadie le encantan las agujas. Sin embargo, la mayoría de las extracciones de sangre demoran menos de un minuto."
+  },
+  "en": {
+    "title": "Getting a blood test (video)",
+    "description": "Your blood gives doctors all kinds of clues about your health. It's normal to be nervous about this test — no one loves needles. But most blood draws take less than a minute."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-bldtest.html",
+      "en": "https://kidshealth.org/en/kids/video-bldtest.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.747Z"
+}

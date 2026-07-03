@@ -1,0 +1,185 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T17:33:31.854Z",
+  "category": "teenagers",
+  "topic": "body",
+  "title": {
+    "es": "Cuerpo",
+    "en": "Body"
+  },
+  "description": {
+    "es": "Desde crecer hasta tener aparatos de ortodoncia, el acné o el sueño, en esta sección encontrarás información básica sobre los cambios en tu cuerpo, de pies a cabeza.",
+    "en": "From growing up to getting braces, acne, or sleep, this section covers the basics about changes in your body from head to toe."
+  },
+  "subtopics": [
+    {
+      "id": "biblioteca-sobre-la-anatomia-humana",
+      "title": {
+        "es": "Biblioteca sobre la anatomía humana",
+        "en": "Human anatomy library"
+      },
+      "articles": [
+        "body-basics",
+        "digestive-system",
+        "female-repro",
+        "male-repro",
+        "mouth-teeth",
+        "heart",
+        "spleen",
+        "brain-nervous-system",
+        "ears",
+        "endocrine",
+        "bones-muscles-joints",
+        "blood",
+        "eyes",
+        "lungs",
+        "kidneys",
+        "metabolism",
+        "body-piercing-safe",
+        "immune"
+      ]
+    },
+    {
+      "id": "descripcion-basica-de-la-salud",
+      "title": {
+        "es": "Descripción básica de la salud",
+        "en": "Basic health overview"
+      },
+      "articles": [
+        "tips-shots",
+        "insurance",
+        "immunizations",
+        "fight-flu",
+        "holiday-tips",
+        "old-meds",
+        "donating-blood",
+        "genes-genetic-disorders",
+        "mhealth-care",
+        "questions-doctor",
+        "rx-filled",
+        "medical-records",
+        "rx-refills",
+        "hmo-language",
+        "contagious",
+        "carrier-genetic-condition"
+      ]
+    },
+    {
+      "id": "obtencion-de-atencion-medica",
+      "title": {
+        "es": "Obtención de atención médica",
+        "en": "Getting medical care"
+      },
+      "articles": [
+        "tips-shots-1",
+        "tips-shots-2",
+        "questions-doctor-3",
+        "insurance-4",
+        "video-iv",
+        "mhealth-care-6",
+        "wounds",
+        "medical-care-center",
+        "pregnancy",
+        "old-meds-10",
+        "sickle-cell-take-charge",
+        "own-doctor",
+        "adolescent-doctor",
+        "pelvic-exams",
+        "testicles",
+        "breast-exams",
+        "med-videos-landing",
+        "pt",
+        "blood-types",
+        "talk-doctor",
+        "blood-21",
+        "ehr",
+        "ritalin",
+        "medicines-diabetes",
+        "meds",
+        "breast-reduction-surgery",
+        "pap-smears",
+        "questions-doctor-28",
+        "allergy-tests",
+        "chemo",
+        "cast-care",
+        "sickle-cell-trait-healthy",
+        "medical-care",
+        "gyn-checkups",
+        "hmo-language-35",
+        "expert-talking-to-doctor",
+        "transfusions",
+        "flu-shot",
+        "curable",
+        "take-charge",
+        "hospital-stay",
+        "having-surgery"
+      ]
+    },
+    {
+      "id": "cosas-de-la-piel",
+      "title": {
+        "es": "Cosas de la piel",
+        "en": "Skin stuff"
+      },
+      "articles": [
+        "tips-better-skin",
+        "acanthosis",
+        "acne",
+        "tanning",
+        "indoor-tans",
+        "cellulite",
+        "skin-tips",
+        "cuts",
+        "tips-shots-9",
+        "hair-removal",
+        "stretch-marks",
+        "tips-shots-12",
+        "dandruff",
+        "questions-doctor-14",
+        "melanoma",
+        "molluscum-contagiosum",
+        "bruises",
+        "body-piercing-safe-18",
+        "head-lice",
+        "tattoos",
+        "sunburn",
+        "tips-shots-22",
+        "ingrown",
+        "tips-shots-24",
+        "vitiligo",
+        "acne-scars",
+        "skincare-products",
+        "prevent-acne"
+      ]
+    },
+    {
+      "id": "el-cuidado-de-tu-cuerpo",
+      "title": {
+        "es": "El cuidado de tu cuerpo",
+        "en": "Taking care of your body"
+      },
+      "articles": [
+        "exercise-wise",
+        "hygiene-basics",
+        "backpack",
+        "earbuds",
+        "tips-sleep",
+        "skin-tips-6",
+        "cuts-7",
+        "vision-care",
+        "easy-exercises",
+        "teeth",
+        "healthy-weight",
+        "sleep",
+        "sickle-cell-trait-healthy-13",
+        "feminine-hygiene",
+        "secondhand-smoke",
+        "supplies",
+        "ingrown-17",
+        "how-much-sleep",
+        "halitosis"
+      ]
+    }
+  ]
+}

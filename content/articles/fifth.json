@@ -1,0 +1,22 @@
+{
+  "id": "fifth",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Quinta enfermedad",
+    "description": "La quinta enfermedad es causada por el parvovirus B19. Causa erupción característica en las mejillas y luego en el cuerpo. Es más común en niños de 5-15 años. El tratamiento es de apoyo. La mayoría de los casos son leves."
+  },
+  "en": {
+    "title": "Fifth disease",
+    "description": "Fifth disease is caused by parvovirus B19. It causes characteristic rash on cheeks and then on the body. It's more common in children 5-15 years. Treatment is supportive. Most cases are mild."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/fifth.html",
+      "en": "https://kidshealth.org/en/parents/fifth.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.891Z"
+}

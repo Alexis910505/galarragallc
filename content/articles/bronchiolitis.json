@@ -1,0 +1,22 @@
+{
+  "id": "bronchiolitis",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Bronquiolitis",
+    "description": "La bronquiolitis es una infección viral de las vías respiratorias pequeñas, común en bebés. Los síntomas incluyen tos, sibilancias y dificultad para respirar. La mayoría de los casos son leves y se resuelven solos. El tratamiento es de apoyo."
+  },
+  "en": {
+    "title": "Bronchiolitis",
+    "description": "Bronchiolitis is a viral infection of the small airways, common in babies. Symptoms include cough, wheezing, and difficulty breathing. Most cases are mild and resolve on their own. Treatment is supportive."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/bronchiolitis.html",
+      "en": "https://kidshealth.org/en/parents/bronchiolitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.880Z"
+}

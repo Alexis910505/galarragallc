@@ -1,0 +1,758 @@
+{
+  "category": "parents",
+  "topic": "infections",
+  "title": {
+    "es": "Infecciones",
+    "en": "Infections"
+  },
+  "description": {
+    "es": "De vez en cuando, todos los niños se enferman. Cuando tu hijo no se siente bien, querrás saber cómo reconocer los síntomas, cómo ayudar y cuándo llamar al médico. Obtén toda la información que necesitas sobre las infecciones más comunes y no tan comunes.",
+    "en": "From time to time, all children get sick. When your child doesn't feel well, you'll want to know how to recognize symptoms, how to help, and when to call the doctor. Get all the information you need about the most common and not-so-common infections."
+  },
+  "subtopics": [
+    {
+      "id": "infecciones-respiratorias",
+      "title": {
+        "es": "Infecciones respiratorias",
+        "en": "Respiratory infections"
+      },
+      "items": [
+        {
+          "id": "cold",
+          "es": {
+            "title": "Resfriados",
+            "description": "Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas. No responden a los antibióticos."
+          },
+          "en": {
+            "title": "Colds",
+            "description": "Colds are common viral infections of the upper respiratory tract. Symptoms include nasal congestion, sneezing, sore throat, and cough. Treatment includes rest, hydration, and medications to relieve symptoms. They do not respond to antibiotics."
+          }
+        },
+        {
+          "id": "flu",
+          "es": {
+            "title": "Gripe",
+            "description": "La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+          },
+          "en": {
+            "title": "Flu",
+            "description": "The flu is a viral respiratory infection. Symptoms include fever, cough, sore throat, and fatigue. Annual vaccination prevents the disease. Treatment includes rest, hydration, and medications to relieve symptoms. Antivirals can shorten duration."
+          }
+        },
+        {
+          "id": "bronchitis",
+          "es": {
+            "title": "Bronquitis",
+            "description": "La bronquitis es la inflamación de los bronquios, generalmente causada por virus. Los síntomas incluyen tos, producción de moco y sibilancias. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+          },
+          "en": {
+            "title": "Bronchitis",
+            "description": "Bronchitis is inflammation of the bronchi, usually caused by viruses. Symptoms include cough, mucus production, and wheezing. Treatment includes rest, hydration, and medications to relieve symptoms."
+          }
+        },
+        {
+          "id": "bronchiolitis",
+          "es": {
+            "title": "Bronquiolitis",
+            "description": "La bronquiolitis es una infección viral de las vías respiratorias pequeñas, común en bebés. Los síntomas incluyen tos, sibilancias y dificultad para respirar. La mayoría de los casos son leves y se resuelven solos. El tratamiento es de apoyo."
+          },
+          "en": {
+            "title": "Bronchiolitis",
+            "description": "Bronchiolitis is a viral infection of the small airways, common in babies. Symptoms include cough, wheezing, and difficulty breathing. Most cases are mild and resolve on their own. Treatment is supportive."
+          }
+        },
+        {
+          "id": "hepa-vaccine",
+          "es": {
+            "title": "Neumonía ambulante en niños",
+            "description": "La neumonía ambulante es una forma leve de neumonía causada por bacterias o virus. Los síntomas incluyen tos, fiebre y fatiga. El diagnóstico puede requerir radiografía de tórax. El tratamiento incluye antibióticos si es bacteriana."
+          },
+          "en": {
+            "title": "Walking pneumonia in children",
+            "description": "Walking pneumonia is a mild form of pneumonia caused by bacteria or viruses. Symptoms include cough, fever, and fatigue. Diagnosis may require chest X-ray. Treatment includes antibiotics if bacterial."
+          }
+        },
+        {
+          "id": "sinusitis",
+          "es": {
+            "title": "Sinusitis",
+            "description": "La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos."
+          },
+          "en": {
+            "title": "Sinusitis",
+            "description": "Sinusitis is inflammation of the sinuses. Symptoms include nasal congestion, facial pain, and headache. It can be acute or chronic. Treatment includes decongestants, nasal irrigation, and possibly antibiotics."
+          }
+        },
+        {
+          "id": "croup",
+          "es": {
+            "title": "Crup",
+            "description": "El crup es una infección viral que causa inflamación de las vías respiratorias superiores. Los síntomas incluyen tos perruna, estridor y dificultad para respirar. Es más común en niños de 6 meses a 3 años. El tratamiento incluye humidificación y medicamentos."
+          },
+          "en": {
+            "title": "Croup",
+            "description": "Croup is a viral infection that causes inflammation of the upper airways. Symptoms include barking cough, stridor, and difficulty breathing. It's more common in children 6 months to 3 years. Treatment includes humidification and medications."
+          }
+        },
+        {
+          "id": "coronavirus-questions-answers",
+          "es": {
+            "title": "Virus sincitial respiratorio",
+            "description": "El virus sincitial respiratorio es una causa común de infecciones respiratorias en niños. Los síntomas incluyen tos, congestión nasal y fiebre. En bebés puede causar bronquiolitis. El tratamiento es de apoyo. La prevención incluye buena higiene."
+          },
+          "en": {
+            "title": "Respiratory syncytial virus",
+            "description": "Respiratory syncytial virus is a common cause of respiratory infections in children. Symptoms include cough, nasal congestion, and fever. In babies it can cause bronchiolitis. Treatment is supportive. Prevention includes good hygiene."
+          }
+        }
+      ]
+    },
+    {
+      "id": "infecciones-de-oido-nariz-y-garganta",
+      "title": {
+        "es": "Infecciones de oído, nariz y garganta",
+        "en": "Ear, nose and throat infections"
+      },
+      "items": [
+        {
+          "id": "otitis-media",
+          "es": {
+            "title": "Infecciones del oído medio",
+            "description": "Las infecciones del oído medio son comunes en niños. Los síntomas incluyen dolor de oído, fiebre e irritabilidad. La mayoría se resuelven solas. El tratamiento puede incluir antibióticos si es necesario. La prevención incluye vacunación y evitar la exposición al humo."
+          },
+          "en": {
+            "title": "Middle ear infections",
+            "description": "Middle ear infections are common in children. Symptoms include ear pain, fever, and irritability. Most resolve on their own. Treatment may include antibiotics if necessary. Prevention includes vaccination and avoiding smoke exposure."
+          }
+        },
+        {
+          "id": "swimmer-ear",
+          "es": {
+            "title": "Otitis externa (oído de nadador)",
+            "description": "La otitis externa es la infección del canal auditivo externo. Es común en nadadores. Los síntomas incluyen dolor de oído, picazón y secreción. El tratamiento incluye gotas antibióticas para el oído. La prevención incluye mantener los oídos secos."
+          },
+          "en": {
+            "title": "External otitis (swimmer's ear)",
+            "description": "External otitis is infection of the external ear canal. It's common in swimmers. Symptoms include ear pain, itching, and discharge. Treatment includes antibiotic ear drops. Prevention includes keeping ears dry."
+          }
+        },
+        {
+          "id": "tonsillitis",
+          "es": {
+            "title": "Amigdalitis",
+            "description": "La amigdalitis es la inflamación de las amígdalas, generalmente causada por virus o bacterias. Los síntomas incluyen dolor de garganta, dificultad para tragar, fiebre y mal aliento. El tratamiento depende de la causa y puede incluir antibióticos."
+          },
+          "en": {
+            "title": "Tonsillitis",
+            "description": "Tonsillitis is inflammation of the tonsils, usually caused by viruses or bacteria. Symptoms include sore throat, difficulty swallowing, fever, and bad breath. Treatment depends on the cause and may include antibiotics."
+          }
+        },
+        {
+          "id": "strep-throat",
+          "es": {
+            "title": "Faringoamigdalitis estreptocócica",
+            "description": "La faringoamigdalitis estreptocócica es causada por bacterias estreptocócicas. Los síntomas incluyen dolor de garganta, fiebre y dificultad para tragar. El diagnóstico requiere prueba rápida o cultivo. El tratamiento con antibióticos previene complicaciones."
+          },
+          "en": {
+            "title": "Streptococcal pharyngotonsillitis",
+            "description": "Streptococcal pharyngotonsillitis is caused by streptococcal bacteria. Symptoms include sore throat, fever, and difficulty swallowing. Diagnosis requires rapid test or culture. Treatment with antibiotics prevents complications."
+          }
+        },
+        {
+          "id": "peritonsillar-abscess",
+          "es": {
+            "title": "Abscesos periamigdalinos",
+            "description": "Los abscesos periamigdalinos son infecciones bacterianas que se forman alrededor de las amígdalas. Causan dolor intenso de garganta, dificultad para tragar y fiebre. Requieren tratamiento médico inmediato, generalmente con antibióticos y posiblemente drenaje quirúrgico."
+          },
+          "en": {
+            "title": "Peritonsillar abscesses",
+            "description": "Peritonsillar abscesses are bacterial infections that form around the tonsils. They cause severe sore throat, difficulty swallowing, and fever. They require immediate medical treatment, usually with antibiotics and possibly surgical drainage."
+          }
+        },
+        {
+          "id": "retropharyngeal-abscess",
+          "es": {
+            "title": "Abscesos retrofaríngeos",
+            "description": "Los abscesos retrofaríngeos son infecciones bacterianas en la parte posterior de la garganta. Son más comunes en niños pequeños y pueden causar dolor de garganta, dificultad para tragar y fiebre. Requieren atención médica inmediata y tratamiento con antibióticos."
+          },
+          "en": {
+            "title": "Retropharyngeal abscesses",
+            "description": "Retropharyngeal abscesses are bacterial infections in the back of the throat. They're more common in young children and can cause sore throat, difficulty swallowing, and fever. They require immediate medical attention and treatment with antibiotics."
+          }
+        },
+        {
+          "id": "conjunctivitis",
+          "es": {
+            "title": "Conjuntivitis",
+            "description": "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+          },
+          "en": {
+            "title": "Conjunctivitis",
+            "description": "Conjunctivitis is inflammation of the membrane covering the eye. It can be caused by viruses, bacteria, or allergies. Symptoms include redness, itching, and discharge. Treatment depends on the cause. Viral conjunctivitis is very contagious."
+          }
+        }
+      ]
+    },
+    {
+      "id": "infecciones-gastrointestinales",
+      "title": {
+        "es": "Infecciones gastrointestinales",
+        "en": "Gastrointestinal infections"
+      },
+      "items": [
+        {
+          "id": "gastroenteritis",
+          "es": {
+            "title": "Gastroenteritis (gripe estomacal)",
+            "description": "La gastroenteritis es la inflamación del estómago e intestinos. Causa diarrea, vómitos y dolor abdominal. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda. La mayoría de los casos son virales."
+          },
+          "en": {
+            "title": "Gastroenteritis (stomach flu)",
+            "description": "Gastroenteritis is inflammation of the stomach and intestines. It causes diarrhea, vomiting, and abdominal pain. Dehydration is the main complication. Treatment includes oral rehydration and bland diet. Most cases are viral."
+          }
+        },
+        {
+          "id": "rotavirus",
+          "es": {
+            "title": "Rotavirus",
+            "description": "El rotavirus es una causa común de gastroenteritis viral en niños. Los síntomas incluyen diarrea severa, vómitos y fiebre. La deshidratación es la principal complicación. La vacunación previene la enfermedad. El tratamiento incluye rehidratación oral."
+          },
+          "en": {
+            "title": "Rotavirus",
+            "description": "Rotavirus is a common cause of viral gastroenteritis in children. Symptoms include severe diarrhea, vomiting, and fever. Dehydration is the main complication. Vaccination prevents the disease. Treatment includes oral rehydration."
+          }
+        },
+        {
+          "id": "norovirus",
+          "es": {
+            "title": "Norovirus",
+            "description": "El norovirus es una causa común de gastroenteritis viral. Los síntomas incluyen náuseas, vómitos y diarrea. Es muy contagioso. El tratamiento incluye hidratación y descanso. La prevención incluye buena higiene de manos."
+          },
+          "en": {
+            "title": "Norovirus",
+            "description": "Norovirus is a common cause of viral gastroenteritis. Symptoms include nausea, vomiting, and diarrhea. It's very contagious. Treatment includes hydration and rest. Prevention includes good hand hygiene."
+          }
+        },
+        {
+          "id": "salmonellosis",
+          "es": {
+            "title": "La salmonelosis",
+            "description": "La salmonelosis es causada por bacterias Salmonella encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves. El tratamiento incluye hidratación y descanso."
+          },
+          "en": {
+            "title": "Salmonellosis",
+            "description": "Salmonella infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild. Treatment includes hydration and rest."
+          }
+        },
+        {
+          "id": "ecoli",
+          "es": {
+            "title": "E. coli",
+            "description": "Las infecciones por E. coli pueden causar diarrea severa y complicaciones renales. Se transmiten a través de alimentos o agua contaminados. Los síntomas incluyen diarrea acuosa, dolor abdominal y fiebre. El tratamiento incluye hidratación y descanso."
+          },
+          "en": {
+            "title": "E. coli",
+            "description": "E. coli infections can cause severe diarrhea and kidney complications. They're transmitted through contaminated food or water. Symptoms include watery diarrhea, abdominal pain, and fever. Treatment includes hydration and rest."
+          }
+        },
+        {
+          "id": "campylobacter",
+          "es": {
+            "title": "Infecciones por Campylobacter",
+            "description": "Las infecciones por Campylobacter son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves y se resuelven solos. El tratamiento incluye hidratación y descanso."
+          },
+          "en": {
+            "title": "Campylobacter infections",
+            "description": "Campylobacter infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild and resolve on their own. Treatment includes hydration and rest."
+          }
+        },
+        {
+          "id": "coronavirus-questions-answers-7",
+          "es": {
+            "title": "Intoxicación alimentaria",
+            "description": "La intoxicación alimentaria es causada por bacterias, virus o toxinas en alimentos contaminados. Los síntomas incluyen náuseas, vómitos, diarrea y fiebre. La mayoría de los casos son leves y se resuelven solos. La prevención incluye buena higiene alimentaria."
+          },
+          "en": {
+            "title": "Food poisoning",
+            "description": "Food poisoning is caused by bacteria, viruses, or toxins in contaminated food. Symptoms include nausea, vomiting, diarrhea, and fever. Most cases are mild and resolve on their own. Prevention includes good food hygiene."
+          }
+        }
+      ]
+    },
+    {
+      "id": "infecciones-de-la-piel",
+      "title": {
+        "es": "Infecciones de la piel",
+        "en": "Skin infections"
+      },
+      "items": [
+        {
+          "id": "impetigo",
+          "es": {
+            "title": "Impétigo",
+            "description": "El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación."
+          },
+          "en": {
+            "title": "Impetigo",
+            "description": "Impetigo is a very contagious bacterial skin infection. It causes red sores that turn into scabs. It's common in children. Treatment includes topical or oral antibiotics. Good hygiene prevents spread."
+          }
+        },
+        {
+          "id": "cellulitis",
+          "es": {
+            "title": "Celulitis",
+            "description": "La celulitis es una infección bacteriana de la piel y tejidos subyacentes. Los síntomas incluyen enrojecimiento, hinchazón, calor y dolor. Requiere tratamiento con antibióticos. La celulitis facial requiere atención médica inmediata."
+          },
+          "en": {
+            "title": "Cellulitis",
+            "description": "Cellulitis is a bacterial infection of the skin and underlying tissues. Symptoms include redness, swelling, heat, and pain. It requires treatment with antibiotics. Facial cellulitis requires immediate medical attention."
+          }
+        },
+        {
+          "id": "wart",
+          "es": {
+            "title": "Verrugas",
+            "description": "Las verrugas son crecimientos de la piel causados por el virus del papiloma humano. Son comunes en niños. La mayoría desaparecen solas. El tratamiento puede incluir medicamentos tópicos o procedimientos médicos. La prevención incluye buena higiene."
+          },
+          "en": {
+            "title": "Warts",
+            "description": "Warts are skin growths caused by human papillomavirus. They're common in children. Most disappear on their own. Treatment may include topical medications or medical procedures. Prevention includes good hygiene."
+          }
+        },
+        {
+          "id": "cold-sores",
+          "es": {
+            "title": "Herpes labial",
+            "description": "El herpes labial es causado por el virus del herpes simple. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+          },
+          "en": {
+            "title": "Cold sores",
+            "description": "Cold sores are caused by herpes simplex virus. They cause painful sores around the mouth. They're very contagious. Treatment includes topical or oral antiviral medications. Outbreaks can be triggered by stress or sun exposure."
+          }
+        },
+        {
+          "id": "coronavirus-questions-answers-5",
+          "es": {
+            "title": "Enfermedad de manos, pies y boca",
+            "description": "La enfermedad de manos, pies y boca es una infección viral común en niños. Causa llagas en la boca y erupción en manos y pies. Es muy contagiosa. El tratamiento es de apoyo. La mayoría de los casos son leves y se resuelven solos."
+          },
+          "en": {
+            "title": "Hand, foot and mouth disease",
+            "description": "Hand, foot and mouth disease is a common viral infection in children. It causes mouth sores and rash on hands and feet. It's very contagious. Treatment is supportive. Most cases are mild and resolve on their own."
+          }
+        }
+      ]
+    },
+    {
+      "id": "enfermedades-virales-comunes",
+      "title": {
+        "es": "Enfermedades virales comunes",
+        "en": "Common viral diseases"
+      },
+      "items": [
+        {
+          "id": "chicken-pox",
+          "es": {
+            "title": "Varicela",
+            "description": "La varicela es una enfermedad viral muy contagiosa que causa erupción ampollosa. Es más común en niños. Los síntomas incluyen fiebre, picazón y ampollas. La vacunación previene la enfermedad. El tratamiento incluye alivio de síntomas."
+          },
+          "en": {
+            "title": "Chickenpox",
+            "description": "Chickenpox is a very contagious viral disease that causes blistering rash. It's more common in children. Symptoms include fever, itching, and blisters. Vaccination prevents the disease. Treatment includes symptom relief."
+          }
+        },
+        {
+          "id": "measles",
+          "es": {
+            "title": "Sarampión",
+            "description": "El sarampión es una enfermedad viral muy contagiosa. Los síntomas incluyen fiebre alta, erupción característica y tos. Puede causar complicaciones serias. La vacunación previene la enfermedad. El tratamiento es de apoyo."
+          },
+          "en": {
+            "title": "Measles",
+            "description": "Measles is a very contagious viral disease. Symptoms include high fever, characteristic rash, and cough. It can cause serious complications. Vaccination prevents the disease. Treatment is supportive."
+          }
+        },
+        {
+          "id": "mumps",
+          "es": {
+            "title": "Paperas",
+            "description": "Las paperas son causadas por un virus que afecta las glándulas salivales. Los síntomas incluyen hinchazón de las mejillas y fiebre. La vacunación previene la enfermedad. Las complicaciones pueden incluir meningitis y orquitis. El tratamiento es de apoyo."
+          },
+          "en": {
+            "title": "Mumps",
+            "description": "Mumps is caused by a virus that affects the salivary glands. Symptoms include cheek swelling and fever. Vaccination prevents the disease. Complications can include meningitis and orchitis. Treatment is supportive."
+          }
+        },
+        {
+          "id": "german-measles",
+          "es": {
+            "title": "Rubéola",
+            "description": "La rubéola es una enfermedad viral que causa erupción y fiebre leve. Es especialmente peligrosa para mujeres embarazadas ya que puede causar defectos de nacimiento. La vacunación previene la enfermedad. El tratamiento es de apoyo."
+          },
+          "en": {
+            "title": "Rubella",
+            "description": "Rubella is a viral disease that causes rash and mild fever. It's especially dangerous for pregnant women as it can cause birth defects. Vaccination prevents the disease. Treatment is supportive."
+          }
+        },
+        {
+          "id": "coronavirus-questions-answers-5",
+          "es": {
+            "title": "Enfermedad de manos, pies y boca",
+            "description": "La enfermedad de manos, pies y boca es una infección viral común en niños. Causa llagas en la boca y erupción en manos y pies. Es muy contagiosa. El tratamiento es de apoyo. La mayoría de los casos son leves y se resuelven solos."
+          },
+          "en": {
+            "title": "Hand, foot and mouth disease",
+            "description": "Hand, foot and mouth disease is a common viral infection in children. It causes mouth sores and rash on hands and feet. It's very contagious. Treatment is supportive. Most cases are mild and resolve on their own."
+          }
+        },
+        {
+          "id": "roseola",
+          "es": {
+            "title": "Roséola",
+            "description": "La roséola es una enfermedad viral común en niños menores de 2 años. Causa fiebre alta seguida de erupción rosada. Generalmente es leve y se resuelve sola. El tratamiento incluye medicamentos para la fiebre y descanso."
+          },
+          "en": {
+            "title": "Roseola",
+            "description": "Roseola is a common viral disease in children under 2 years. It causes high fever followed by pink rash. It's generally mild and resolves on its own. Treatment includes fever medications and rest."
+          }
+        },
+        {
+          "id": "fifth",
+          "es": {
+            "title": "Quinta enfermedad",
+            "description": "La quinta enfermedad es causada por el parvovirus B19. Causa erupción característica en las mejillas y luego en el cuerpo. Es más común en niños de 5-15 años. El tratamiento es de apoyo. La mayoría de los casos son leves."
+          },
+          "en": {
+            "title": "Fifth disease",
+            "description": "Fifth disease is caused by parvovirus B19. It causes characteristic rash on cheeks and then on the body. It's more common in children 5-15 years. Treatment is supportive. Most cases are mild."
+          }
+        }
+      ]
+    },
+    {
+      "id": "covid-19-y-coronavirus",
+      "title": {
+        "es": "COVID-19 y coronavirus",
+        "en": "COVID-19 and coronavirus"
+      },
+      "items": [
+        {
+          "id": "coronavirus",
+          "es": {
+            "title": "Entendiendo el COVID-19",
+            "description": "El COVID-19 es una enfermedad respiratoria causada por el coronavirus SARS-CoV-2. Los síntomas en niños suelen ser leves e incluyen fiebre, tos y fatiga. La prevención incluye vacunación, uso de mascarillas y distanciamiento social. La mayoría de los niños se recuperan completamente."
+          },
+          "en": {
+            "title": "Understanding COVID-19",
+            "description": "COVID-19 is a respiratory disease caused by SARS-CoV-2 coronavirus. Symptoms in children are usually mild and include fever, cough, and fatigue. Prevention includes vaccination, mask use, and social distancing. Most children recover completely."
+          }
+        },
+        {
+          "id": "coronavirus-2",
+          "es": {
+            "title": "COVID-19: Cuidados en casa",
+            "description": "Si tu hijo tiene COVID-19, manténlo aislado en casa. Monitorea los síntomas, mantén buena hidratación y descanso. Usa mascarillas en casa y desinfecta superficies. Consulta a un médico si los síntomas empeoran."
+          },
+          "en": {
+            "title": "COVID-19: Home care",
+            "description": "If your child has COVID-19, keep them isolated at home. Monitor symptoms, maintain good hydration and rest. Use masks at home and disinfect surfaces. Consult a doctor if symptoms worsen."
+          }
+        },
+        {
+          "id": "coronavirus-3",
+          "es": {
+            "title": "COVID-19: Vacunación",
+            "description": "Las vacunas COVID-19 son seguras y efectivas para niños. Ayudan a prevenir enfermedades graves y hospitalizaciones. Los efectos secundarios son generalmente leves. La vacunación es la mejor protección contra el COVID-19."
+          },
+          "en": {
+            "title": "COVID-19: Vaccination",
+            "description": "COVID-19 vaccines are safe and effective for children. They help prevent serious illness and hospitalizations. Side effects are generally mild. Vaccination is the best protection against COVID-19."
+          }
+        },
+        {
+          "id": "coronavirus-4",
+          "es": {
+            "title": "COVID-19: Prevención",
+            "description": "La prevención del COVID-19 incluye vacunación, uso de mascarillas, distanciamiento social y buena higiene de manos. Enseña estas medidas a los niños de manera apropiada para su edad. La prevención protege a toda la familia."
+          },
+          "en": {
+            "title": "COVID-19: Prevention",
+            "description": "COVID-19 prevention includes vaccination, mask use, social distancing, and good hand hygiene. Teach children these measures in an age-appropriate way. Prevention protects the entire family."
+          }
+        },
+        {
+          "id": "coronavirus-5",
+          "es": {
+            "title": "COVID-19: Pruebas y diagnóstico",
+            "description": "Las pruebas de COVID-19 ayudan a diagnosticar la enfermedad. Hay diferentes tipos de pruebas. Consulta con tu médico sobre cuál es la más apropiada. Las pruebas rápidas dan resultados en minutos."
+          },
+          "en": {
+            "title": "COVID-19: Testing and diagnosis",
+            "description": "COVID-19 tests help diagnose the disease. There are different types of tests. Consult with your doctor about which is most appropriate. Rapid tests give results in minutes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "prevencion-y-tratamiento",
+      "title": {
+        "es": "Prevención y tratamiento",
+        "en": "Prevention and treatment"
+      },
+      "items": [
+        {
+          "id": "whooping-cough",
+          "es": {
+            "title": "Luchando contra los gérmenes",
+            "description": "Los gérmenes incluyen bacterias, virus, hongos y parásitos que pueden causar enfermedades. Enseña a los niños a lavarse las manos frecuentemente, especialmente antes de comer y después de usar el baño. La higiene adecuada es la mejor defensa contra las infecciones."
+          },
+          "en": {
+            "title": "Fighting germs",
+            "description": "Germs include bacteria, viruses, fungi, and parasites that can cause disease. Teach children to wash their hands frequently, especially before eating and after using the bathroom. Proper hygiene is the best defense against infections."
+          }
+        },
+        {
+          "id": "antibiotics",
+          "es": {
+            "title": "Antibióticos",
+            "description": "Los antibióticos son medicamentos que combaten las infecciones bacterianas. Solo deben usarse cuando sea necesario y según las indicaciones del médico. El uso excesivo puede causar resistencia bacteriana. Siempre completa el tratamiento prescrito."
+          },
+          "en": {
+            "title": "Antibiotics",
+            "description": "Antibiotics are medications that fight bacterial infections. They should only be used when necessary and as directed by the doctor. Overuse can cause bacterial resistance. Always complete the prescribed treatment."
+          }
+        },
+        {
+          "id": "antibiotics-3",
+          "es": {
+            "title": "El peligro del abuso de antibióticos",
+            "description": "El uso excesivo de antibióticos puede causar resistencia bacteriana. Los antibióticos solo tratan infecciones bacterianas, no virales. Usa antibióticos solo cuando los prescriba un médico. Siempre completa el tratamiento completo."
+          },
+          "en": {
+            "title": "The danger of antibiotic abuse",
+            "description": "Overuse of antibiotics can cause bacterial resistance. Antibiotics only treat bacterial infections, not viral ones. Use antibiotics only when prescribed by a doctor. Always complete the full treatment."
+          }
+        },
+        {
+          "id": "booster-shots",
+          "es": {
+            "title": "Vacunas de refuerzo",
+            "description": "Las vacunas de refuerzo ayudan a mantener la inmunidad contra las enfermedades. Son importantes para prevenir brotes. Sigue el calendario de vacunación recomendado. Las vacunas de refuerzo son seguras y efectivas."
+          },
+          "en": {
+            "title": "Booster vaccines",
+            "description": "Booster vaccines help maintain immunity against diseases. They're important for preventing outbreaks. Follow the recommended vaccination schedule. Booster vaccines are safe and effective."
+          }
+        },
+        {
+          "id": "coronavirus-mask-video",
+          "es": {
+            "title": "Cuándo y dónde buscar ayuda médica",
+            "description": "Sabe cuándo buscar atención médica para tu hijo. Las señales de advertencia incluyen fiebre alta, dificultad para respirar, deshidratación y cambios en el comportamiento. En caso de emergencia, llama al 911 o ve a la sala de emergencias."
+          },
+          "en": {
+            "title": "When and where to seek medical help",
+            "description": "Know when to seek medical attention for your child. Warning signs include high fever, difficulty breathing, dehydration, and changes in behavior. In case of emergency, call 911 or go to the emergency room."
+          }
+        },
+        {
+          "id": "take-temperature",
+          "es": {
+            "title": "Cómo tomarle la temperatura a su hijo",
+            "description": "Cuando su hijo está caliente, parece estar de mal humor o encontrase mal, puede ayudar saber si tiene fiebre. He aquí cómo tomarle la temperatura a su hijo de una formas segura y precisa."
+          },
+          "en": {
+            "title": "How to take your child's temperature",
+            "description": "How Do I Take a Rectal Temperature? The best way to take a temperature in infants and young children is by taking a rectal temperature. Don't worry — it's a simple and safe process."
+          }
+        },
+        {
+          "id": "fever",
+          "es": {
+            "title": "Fiebre",
+            "description": "La fiebre es una señal de que el cuerpo está luchando contra una infección. En niños, la fiebre generalmente no es peligrosa. Monitorea otros síntomas. Usa medicamentos para reducir la fiebre si el niño está incómodo. Consulta a un médico si persiste."
+          },
+          "en": {
+            "title": "Fever",
+            "description": "Fever is a sign that the body is fighting an infection. In children, fever is generally not dangerous. Monitor other symptoms. Use medications to reduce fever if the child is uncomfortable. Consult a doctor if it persists."
+          }
+        }
+      ]
+    },
+    {
+      "id": "otras-infecciones",
+      "title": {
+        "es": "Otras infecciones",
+        "en": "Other infections"
+      },
+      "items": [
+        {
+          "id": "flu-vs-cold",
+          "es": {
+            "title": "Aparato reproductor masculino",
+            "description": "Los gérmenes son microorganismos que pueden causar enfermedades. Las bacterias son organismos unicelulares que pueden tratarse con antibióticos. Los virus requieren células huésped y no responden a los antibióticos. Los hongos y protozoos también pueden causar infecciones."
+          },
+          "en": {
+            "title": "Male reproductive system",
+            "description": "Germs are microorganisms that can cause disease. Bacteria are single-celled organisms that can be treated with antibiotics. Viruses require host cells and don't respond to antibiotics. Fungi and protozoa can also cause infections."
+          }
+        },
+        {
+          "id": "whooping-cough-2",
+          "es": {
+            "title": "Hablando con tus hijos sobre enfermedades de transmisión sexual",
+            "description": "La educación sexual es importante para prevenir enfermedades de transmisión sexual. Habla con tus hijos de manera apropiada para su edad. Enfócate en la prevención, el respeto y la toma de decisiones informadas. Usa recursos educativos apropiados."
+          },
+          "en": {
+            "title": "Talking to your children about sexually transmitted diseases",
+            "description": "Sex education is important to prevent sexually transmitted diseases. Talk to your children in an age-appropriate way. Focus on prevention, respect, and informed decision-making. Use appropriate educational resources."
+          }
+        },
+        {
+          "id": "h-pylori",
+          "es": {
+            "title": "Helicobacter pylori",
+            "description": "El Helicobacter pylori es una bacteria que puede causar úlceras estomacales y gastritis. Los síntomas incluyen dolor abdominal, náuseas y pérdida de apetito. El diagnóstico requiere pruebas específicas. El tratamiento incluye antibióticos y medicamentos reductores de ácido."
+          },
+          "en": {
+            "title": "Helicobacter pylori",
+            "description": "Helicobacter pylori is a bacterium that can cause stomach ulcers and gastritis. Symptoms include abdominal pain, nausea, and loss of appetite. Diagnosis requires specific tests. Treatment includes antibiotics and acid-reducing medications."
+          }
+        },
+        {
+          "id": "hepatitis",
+          "es": {
+            "title": "Hepatitis",
+            "description": "La hepatitis es la inflamación del hígado causada por virus, alcohol o medicamentos. Los tipos A, B y C son los más comunes. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. El tratamiento depende del tipo y causa."
+          },
+          "en": {
+            "title": "Hepatitis",
+            "description": "Hepatitis is inflammation of the liver. It can be caused by viruses, medications, or toxins. Symptoms include fatigue, nausea, and yellowing of the skin. Treatment depends on the cause. Vaccination prevents some types."
+          }
+        },
+        {
+          "id": "hepatitis-a",
+          "es": {
+            "title": "Diarrea",
+            "description": "La diarrea es un síntoma común de infecciones gastrointestinales. Puede ser causada por virus, bacterias o parásitos. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda."
+          },
+          "en": {
+            "title": "Diarrhea",
+            "description": "Hepatitis A is a viral liver infection transmitted through contaminated food or water. Symptoms include fatigue, nausea, and yellowing. Vaccination prevents the disease. Most people recover completely."
+          }
+        },
+        {
+          "id": "hepatitis-b",
+          "es": {
+            "title": "Hepatitis B",
+            "description": "La hepatitis B es una infección viral del hígado que puede ser aguda o crónica. Se transmite a través del contacto con sangre o fluidos corporales. La vacunación previene la enfermedad. El tratamiento incluye medicamentos antivirales para casos crónicos."
+          },
+          "en": {
+            "title": "Hepatitis B",
+            "description": "Hepatitis B is a viral liver infection that can be acute or chronic. It's transmitted through contact with blood or body fluids. Vaccination prevents the disease. Treatment includes antiviral medications for chronic cases."
+          }
+        },
+        {
+          "id": "hepatitis-c",
+          "es": {
+            "title": "Hepatitis C",
+            "description": "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+          },
+          "en": {
+            "title": "Hepatitis C",
+            "description": "Hepatitis C is a viral liver infection that can become chronic. It's mainly transmitted through blood contact. Symptoms may be mild initially. Treatment includes antiviral medications. No vaccine is available."
+          }
+        },
+        {
+          "id": "herpes",
+          "es": {
+            "title": "Herpes genital",
+            "description": "El herpes genital es una enfermedad de transmisión sexual causada por virus del herpes. Puede causar llagas dolorosas en el área genital. El tratamiento incluye medicamentos antivirales. La prevención incluye uso de protección y educación sexual."
+          },
+          "en": {
+            "title": "Genital herpes",
+            "description": "Genital herpes is a sexually transmitted disease caused by herpes viruses. It can cause painful sores in the genital area. Treatment includes antiviral medications. Prevention includes protection use and sex education."
+          }
+        },
+        {
+          "id": "cold-sores-9",
+          "es": {
+            "title": "Herpes labial",
+            "description": "El herpes labial es causado por el virus del herpes simple. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+          },
+          "en": {
+            "title": "Cold sores",
+            "description": "Cold sores are caused by herpes simplex virus. They cause painful sores around the mouth. They're very contagious. Treatment includes topical or oral antiviral medications. Outbreaks can be triggered by stress or sun exposure."
+          }
+        },
+        {
+          "id": "shingles",
+          "es": {
+            "title": "Herpes zóster (culebrilla)",
+            "description": "El herpes zóster es causado por la reactivación del virus de la varicela. Causa erupción dolorosa y ampollas. Es más común en adultos mayores pero puede ocurrir en niños. El tratamiento incluye medicamentos antivirales y analgésicos."
+          },
+          "en": {
+            "title": "Shingles (herpes zoster)",
+            "description": "Shingles is caused by reactivation of the chickenpox virus. It causes painful rash and blisters. It's more common in older adults but can occur in children. Treatment includes antiviral medications and pain relievers."
+          }
+        },
+        {
+          "id": "impetigo-11",
+          "es": {
+            "title": "Impetigo",
+            "description": "El impétigo es una infección bacteriana de la piel muy contagiosa. Causa llagas rojas que se convierten en costras. Es común en niños. El tratamiento incluye antibióticos tópicos u orales. La buena higiene previene la propagación."
+          },
+          "en": {
+            "title": "Impetigo",
+            "description": "Impetigo is a very contagious bacterial skin infection. It causes red sores that turn into scabs. It's common in children. Treatment includes topical or oral antibiotics. Good hygiene prevents spread."
+          }
+        },
+        {
+          "id": "otitis-media-12",
+          "es": {
+            "title": "Infecciones del oído medio",
+            "description": "Las infecciones del oído medio son comunes en niños. Los síntomas incluyen dolor de oído, fiebre e irritabilidad. La mayoría se resuelven solas. El tratamiento puede incluir antibióticos si es necesario. La prevención incluye vacunación y evitar la exposición al humo."
+          },
+          "en": {
+            "title": "Middle ear infections",
+            "description": "Middle ear infections are common in children. Symptoms include ear pain, fever, and irritability. Most resolve on their own. Treatment may include antibiotics if necessary. Prevention includes vaccination and avoiding smoke exposure."
+          }
+        },
+        {
+          "id": "urinary",
+          "es": {
+            "title": "Infecciones del tracto urinario",
+            "description": "Las infecciones del tracto urinario son causadas por bacterias. Los síntomas incluyen dolor al orinar, urgencia frecuente y fiebre. El diagnóstico requiere análisis de orina. El tratamiento incluye antibióticos. La prevención incluye buena higiene."
+          },
+          "en": {
+            "title": "Urinary tract infections",
+            "description": "Urinary tract infections are caused by bacteria. Symptoms include pain when urinating, frequent urgency, and fever. Diagnosis requires urinalysis. Treatment includes antibiotics. Prevention includes good hygiene."
+          }
+        },
+        {
+          "id": "coronavirus-mask-video-14",
+          "es": {
+            "title": "Infecciones del tracto urinario y condiciones relacionadas",
+            "description": "Las infecciones del tracto urinario pueden afectar diferentes partes del sistema urinario. Las complicaciones pueden incluir daño renal. El diagnóstico temprano es importante. El tratamiento incluye antibióticos apropiados. La prevención incluye buena hidratación."
+          },
+          "en": {
+            "title": "Urinary tract infections and related conditions",
+            "description": "Urinary tract infections can affect different parts of the urinary system. Complications can include kidney damage. Early diagnosis is important. Treatment includes appropriate antibiotics. Prevention includes good hydration."
+          }
+        },
+        {
+          "id": "campylobacter-15",
+          "es": {
+            "title": "Infecciones por Campylobacter",
+            "description": "Las infecciones por Campylobacter son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves y se resuelven solos. El tratamiento incluye hidratación y descanso."
+          },
+          "en": {
+            "title": "Campylobacter infections",
+            "description": "Campylobacter infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild and resolve on their own. Treatment includes hydration and rest."
+          }
+        }
+      ]
+    }
+  ],
+  "builtAt": "2026-07-03T20:52:27.661Z"
+}

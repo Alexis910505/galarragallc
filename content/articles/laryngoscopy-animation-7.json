@@ -1,0 +1,22 @@
+{
+  "id": "laryngoscopy-animation-7",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "cuando-se-opera-a-su-hijo",
+  "es": {
+    "title": "Breve resumen: Laringoscopía",
+    "description": "¿Qué es una laringoscopía? Una laringoscopía consiste en usar una cámara especial para mirar por la garganta a fin de comprobar el estado de la laringe y las cuerdas vocales."
+  },
+  "en": {
+    "title": "What's a Laryngoscopy? (Video)",
+    "description": "What's a Laryngoscopy? Laryngoscopy is when a doctor uses a special camera to look down the throat to see the voice box (larynx) and vocal cords."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/laryngoscopy-animation.html",
+      "en": "https://kidshealth.org/en/parents/laryngoscopy-animation.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.198Z"
+}

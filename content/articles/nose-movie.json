@@ -1,0 +1,22 @@
+{
+  "id": "nose-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Nariz",
+    "description": "Unas galletas recién horneadas. Una bolsa del gimnasio llena de ropa sucia. ¿Cómo haces para detectar todos estos olores? Por supuesto, ¡usando la nariz! ¿Cómo funciona el olfato? Entérate con este video."
+  },
+  "en": {
+    "title": "How Does the Nose Work? (Video)",
+    "description": "What's the Nose Do? And How Do You Smell Those Smells? A batch of cookies fresh of the oven. A gym bag full of dirty clothes. How do you smell these smells and thousands more? Your nose, of course. It sniffs and smells, but how does it work? Find out in this video."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/nose-movie.html",
+      "en": "https://kidshealth.org/en/kids/nose-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:20.800Z"
+}

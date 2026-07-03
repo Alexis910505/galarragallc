@@ -1,0 +1,22 @@
+{
+  "id": "retropharyngeal-abscess",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-oido-nariz-y-garganta",
+  "es": {
+    "title": "Abscesos retrofaríngeos",
+    "description": "Los abscesos retrofaríngeos son infecciones bacterianas en la parte posterior de la garganta. Son más comunes en niños pequeños y pueden causar dolor de garganta, dificultad para tragar y fiebre. Requieren atención médica inmediata y tratamiento con antibióticos."
+  },
+  "en": {
+    "title": "Retropharyngeal abscesses",
+    "description": "Retropharyngeal abscesses are bacterial infections in the back of the throat. They're more common in young children and can cause sore throat, difficulty swallowing, and fever. They require immediate medical attention and treatment with antibiotics."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/retropharyngeal-abscess.html",
+      "en": "https://kidshealth.org/en/parents/retropharyngeal-abscess.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.885Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tear_duct_probe_animation",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "la-nariz-garganta-y-oidos-del-nino",
+  "es": {
+    "title": "Breve resumen: Tratamiento de las obstrucciones del conducto lagrimal con una sonda",
+    "description": "El conducto lagrimal es un pequeño tubo que drena las lágrimas de los ojos. Las lágrimas se producen en unas glándulas que tenemos debajo de los párpados. Las lágrimas se encargan de lavar los ojos para mantenerlos limpios y húmedos. Luego, salen de los ojos a través de los conductos lagrimales. Cuando un conducto lagrimal está obstruido (y no drena bien), las lágrimas se acumulan en la superficie de los ojos. La obstrucción se puede resolver con un procedimiento común, llamado \"desobstrucción del conducto lagrimal con sonda\". El oftalmólogo introduce suavemente un delgado instrumento metálico (sonda) a través del conducto lagrimal para liberar la obstrucción. Luego se irriga el conducto con una solución estéril para asegurarse de que esté abierto."
+  },
+  "en": {
+    "title": "What's a Tear Duct Probe (Treating Tear-Duct Blockage)? (Video)",
+    "description": "What's a Tear Duct Probe? A tear duct is a small tube that drains tears from the eyes. Tears are made in glands under the eyelids. They wash over the eyes to keep them moist and clean. Then, they drain though the tear ducts. When a tear duct is blocked (a blockage), the tears can't drain. A common procedure call a tear-duct probe can open the blockage. The ophthalmologist gently passes a thin metal instrument (probe) through the tear duct to open the blockage. Then they flush the duct with sterile water to make sure the pathway is clear."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/tear_duct_probe_animation.html",
+      "en": "https://kidshealth.org/en/parents/tear_duct_probe_animation.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.264Z"
+}

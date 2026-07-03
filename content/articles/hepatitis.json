@@ -1,0 +1,22 @@
+{
+  "id": "hepatitis",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "enfermedades-de-transmision-sexual",
+  "es": {
+    "title": "Hepatitis",
+    "description": "La hepatitis es la inflamación del hígado causada por virus, alcohol o medicamentos. Los tipos A, B y C son los más comunes. Los síntomas incluyen fatiga, náuseas y coloración amarillenta de la piel. El tratamiento depende del tipo y causa."
+  },
+  "en": {
+    "title": "Hepatitis",
+    "description": "Hepatitis is inflammation of the liver. It can be caused by viruses, medications, or toxins. Symptoms include fatigue, nausea, and yellowing of the skin. Treatment depends on the cause. Vaccination prevents some types."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hepatitis.html",
+      "en": "https://kidshealth.org/en/parents/hepatitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.328Z"
+}

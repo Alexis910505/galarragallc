@@ -1,0 +1,22 @@
+{
+  "id": "med-videos-landing",
+  "category": "teenagers",
+  "topic": "body",
+  "subtopicId": "obtencion-de-atencion-medica",
+  "es": {
+    "title": "Exámenes médicos: Qué esperar (video)",
+    "description": "Un examen médico les permite a los médicos obtener información importante sobre tu salud. Entérate cómo se hacen los 10 exámenes más comunes en estos videos."
+  },
+  "en": {
+    "title": "Medical exams: What to expect (video)",
+    "description": "A medical test gives doctors important information about your health. Find out how 10 common tests are done in these videos for kids."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/med-videos-landing.html",
+      "en": "https://kidshealth.org/en/kids/med-videos-landing.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:33:31.882Z"
+}

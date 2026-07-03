@@ -1,0 +1,22 @@
+{
+  "id": "asd",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "corazon-y-vasos-sanguineos",
+  "es": {
+    "title": "Comunicación interauricular",
+    "description": "¿Qué es una comunicación interauricular? Una comunicación interauricular, a veces conocida como un agujero en el corazón, es un tipo de anomalía cardíaca congénita, en la cual existe una abertura anómala en el tabique divisorio que separa las dos cavidades superiores del corazón (las aurículas). En la mayoría de los casos, la comunicación interauricular se diagnostica y se trata con éxito y con pocas complicaciones o ninguna en absoluto."
+  },
+  "en": {
+    "title": "Atrial Septal Defect (ASD)",
+    "description": "What Is an Atrial Septal Defect? An atrial septal defect (ASD) — sometimes called a hole in the heart — is a type of congenital heart defect in which there is an abnormal opening in the dividing wall between the upper filling chambers of the heart (the atria). In most cases, ASDs are diagnosed and treated successfully with few or no complications."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/asd.html",
+      "en": "https://kidshealth.org/en/parents/asd.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:35:52.092Z"
+}

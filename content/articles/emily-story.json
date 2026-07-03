@@ -1,0 +1,22 @@
+{
+  "id": "emily-story",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "afecciones-geneticas-cromosomicas-y-metabolicas-para-adolescentes",
+  "es": {
+    "title": "Enanismo: La historia de Emily (video)",
+    "description": "Emily es adoptada. Nació en Rusia con una afección denominada \"displasia diastrófica\". En este video, ella habla de lo que significa ser más pequeña que el resto de la gente. ¿Puede conducir un automóvil o alcanzar objetos que se encuentran en un estante alto? ¡Mire el video para enterarse!"
+  },
+  "en": {
+    "title": "Dwarfism: Emily's story (video)",
+    "description": "Emily was adopted from Russia, where she was born with a condition called diastrophic dysplasia (say: dye-uh-STROH-fik diss-PLAY-zjuh). In this video, she talks about what it's like to be smaller than other people. Can she drive a car or get stuff off of a high shelf? Watch and find out!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/emily-story.html",
+      "en": "https://kidshealth.org/en/kids/emily-story.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.776Z"
+}

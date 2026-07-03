@@ -1,0 +1,22 @@
+{
+  "id": "ear",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Oídos",
+    "description": "Los sonidos están por todas partes, tú y tienes dos partes de tu cuerpo geniales para escucharlos: ¡los oídos! ¿Qué son los oídos y qué hacen? El oído consta de tres partes diferentes, que funcionan conjuntamente para captar sonidos y transmitírselos al cerebro: el oído externo, el oído medio y el oído interno."
+  },
+  "en": {
+    "title": "Your Ears",
+    "description": "Sounds are everywhere, and you have two cool parts on your body that let you hear them all: your ears! What Are Ears and What Do They Do? The ear is made up of three different sections that work together to collect sounds and send them to the brain: the outer ear, the middle ear, and the inner ear."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/ear.html",
+      "en": "https://kidshealth.org/en/kids/ears.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:02:34.467Z"
+}

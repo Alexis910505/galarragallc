@@ -1,0 +1,22 @@
+{
+  "id": "nebulizer-inhaler",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "alergias-asma-y-el-sistema-inmunologico",
+  "es": {
+    "title": "¿En qué se diferencian un nebulizador y un inhalador?",
+    "description": "¿Qué son los nebulizadores y los inhaladores? Los nebulizadores y los inhaladores son dispositivos que ayudan a los niños a tomar medicamentos que se inhalan para tratar afecciones como el asma o la fibrosis quística. Para que los medicamentos funcionen correctamente, éstos deben llegar a los pulmones. Estos dispositivos respiratorios son eficaces cuando se usan correctamente. Pero cada uno de ellos tiene sus pros y sus contras; por lo tanto, hable con el médico para saber cuál es mejor para su hijo."
+  },
+  "en": {
+    "title": "What's the difference between a nebulizer and an inhaler?",
+    "description": "What Are Nebulizers and Inhalers? Nebulizers and inhalers are tools that help kids take medicines that are breathed in for conditions like asthma or cystic fibrosis (SIS-tik fye-BROH-sis). To work as they should, the medicines need to get into the lungs. These breathing treatment tools are effective when used properly. But each has their pros and cons — so talk to your doctor about which one is best for your child."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/nebulizer-inhaler.html",
+      "en": "https://kidshealth.org/en/parents/nebulizer-inhaler.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.742Z"
+}

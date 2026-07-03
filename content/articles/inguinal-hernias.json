@@ -1,0 +1,22 @@
+{
+  "id": "inguinal-hernias",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "afecciones-quirurgicas",
+  "es": {
+    "title": "Hernias inguinales",
+    "description": "¿Qué son las hernias inguinales? Una hernia inguinal ocurre cuando una parte del intestino resbala hacia la ingle (el lugar donde el vientre entra en contacto con el muslo) en lugar de seguir estando dentro del vientre, donde debería estar. Los médicos corrigen las hernias inguinales con cirugía, es decir, operando al paciente. Esto impide que el intestino se quede atascado dentro de la ingle (lo que se conoce como hernia \"incarcerada\" o \"encarcelada\"). El flujo sanguíneo se puede ver interrumpido, lo que puede conducir a daños importantes. Se trata de una urgencia médica. Y es mucho mejor que los médicos corrijan las hernias antes de que se conviertan en una emergencia médica. Cualquier persona de cualquier edad puede tener una hernia inguinal. En la infancia, son mucho más frecuentes en los niños que en las niñas, pero estas últimas también las pueden presentar. Los niños que nacen antes de tiempo (prematuros) tienen más probabilidades de tener hernias inguinales."
+  },
+  "en": {
+    "title": "Inguinal Hernias",
+    "description": "What Are Inguinal Hernias? An inguinal hernia happens when part of the intestines slips into the groin (where the belly meets the upper leg) instead of staying in the belly as it should. Doctors fix inguinal (IN-gwuh-nul) hernias with surgery. This prevents the intestines from getting stuck (“incarcerated”) in the groin. Blood flow can get blocked to an incarcerated intestine, which can lead to damage. This is a medical emergency. It is best if doctors can fix hernias before they become emergencies. People of all ages can get an inguinal hernia. In kids, they're much more common in boys, but girls can get them too. Children who are born early (preemies) are more likely to have an inguinal hernia."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/inguinal-hernias.html",
+      "en": "https://kidshealth.org/en/parents/inguinal-hernias.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:15:28.983Z"
+}

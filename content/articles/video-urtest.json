@@ -1,0 +1,22 @@
+{
+  "id": "video-urtest",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Obtención de un análisis de orina (video)",
+    "description": "Quizás resulte desagradable y lo avergüence orinar en un frasco, pero los médicos averiguan mucha información a través de los análisis de orina. Por supuesto, este análisis no duele. Y si sabe qué le espera, tampoco tiene por qué avergonzarse."
+  },
+  "en": {
+    "title": "Getting a urine test (video)",
+    "description": "It may seem gross and embarrassing to pee in a cup, but docs learn a lot from urine tests. Obviously, this test doesn't hurt. And if you know what to expect, it doesn't have to be embarrassing either."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-urtest.html",
+      "en": "https://kidshealth.org/en/kids/video-urtest.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.784Z"
+}

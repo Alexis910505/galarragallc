@@ -1,0 +1,22 @@
+{
+  "id": "norovirus",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-gastrointestinales",
+  "es": {
+    "title": "Norovirus",
+    "description": "El norovirus es una causa común de gastroenteritis viral. Los síntomas incluyen náuseas, vómitos y diarrea. Es muy contagioso. El tratamiento incluye hidratación y descanso. La prevención incluye buena higiene de manos."
+  },
+  "en": {
+    "title": "Norovirus",
+    "description": "Norovirus is a common cause of viral gastroenteritis. Symptoms include nausea, vomiting, and diarrhea. It's very contagious. Treatment includes hydration and rest. Prevention includes good hand hygiene."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/norovirus.html",
+      "en": "https://kidshealth.org/en/parents/norovirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.886Z"
+}

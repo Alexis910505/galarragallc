@@ -1,5 +1,8 @@
 import React from 'react';
 import { useLanguage } from '../LanguageContext';
+import { getItemsWithContent } from '../utils/topicItems';
+import { getTopicBundle, getLocalizedTopic } from '../utils/topicBundles';
+import { getVisibleTopics } from '../utils/excludedTopics';
 
 // Componente para las pestañas de categorías
 const CategoryTabs = ({ activeCategory, setActiveCategory, categories }) => {
@@ -28,7 +31,7 @@ const TopicsGrid = ({ category, selectedTopic, handleTopicClick }) => {
   const getTopicsForCategory = (category) => {
     try {
       const topics = t(`featuredTopics.categories.${category}.topics`);
-      return Object.keys(topics);
+      return getVisibleTopics(category, Object.keys(topics));
     } catch {
       return [];
     }
@@ -52,12 +55,21 @@ const TopicsGrid = ({ category, selectedTopic, handleTopicClick }) => {
 };
 
 // Componente para el contenido del tema seleccionado
-const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccordion, handleAccordionClick, selectedSubtopic, setSelectedSubtopic, isSubtopicDialogOpen, setIsSubtopicDialogOpen }) => {
-  const { t } = useLanguage();
+const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccordion, handleAccordionClick, setSelectedSubtopic, setIsSubtopicDialogOpen }) => {
+  const { t, language } = useLanguage();
   
   if (!selectedTopic) return null;
+
+  const topicBundle = getTopicBundle(category, selectedTopic);
+  const localizedTopic = topicBundle ? getLocalizedTopic(topicBundle, language) : null;
   
   const getSubtopics = () => {
+    if (localizedTopic) {
+      return localizedTopic.subtopics.map((subtopic) => ({
+        title: subtopic.title,
+        items: subtopic.items,
+      }));
+    }
     try {
       return t(`featuredTopics.categories.${category}.topics.${selectedTopic}.subtopics`);
     } catch {
@@ -66,20 +78,42 @@ const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccor
   };
   
   const subtopics = getSubtopics();
+  const topicTitle = localizedTopic?.title
+    ?? t(`featuredTopics.categories.${category}.topics.${selectedTopic}.title`);
+  const topicDescription = localizedTopic?.description
+    ?? t(`featuredTopics.categories.${category}.topics.${selectedTopic}.description`);
   
-  const handleSubtopicClick = (subtopic) => {
-    setSelectedSubtopic(subtopic);
+  const handleSubtopicClick = (item, accordionTitle) => {
+    setSelectedSubtopic({
+      title: item.title,
+      subtopicTitle: accordionTitle,
+      description: item.description,
+    });
     setIsSubtopicDialogOpen(true);
   };
   
   const renderSubtopics = () => {
     if (!Array.isArray(subtopics)) return null;
     
-    // Si es array de objetos (acordeón)
     if (subtopics.length > 0 && typeof subtopics[0] === 'object' && subtopics[0].title) {
+      const accordionsWithContent = subtopics
+        .map((accordion) => ({
+          ...accordion,
+          contentItems: localizedTopic
+            ? accordion.items
+            : getItemsWithContent(accordion.items),
+        }))
+        .filter((accordion) => accordion.contentItems.length > 0);
+
+      if (accordionsWithContent.length === 0) {
+        return (
+          <p className="topic-no-content">{t('featuredTopics.noContentAvailable')}</p>
+        );
+      }
+
       return (
         <div className="accordion-container">
-          {subtopics.map((accordion, index) => (
+          {accordionsWithContent.map((accordion, index) => (
             <div key={index} className="accordion-item">
               <button
                 className={`accordion-header ${expandedAccordion === accordion.title ? 'expanded' : ''}`}
@@ -90,18 +124,13 @@ const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccor
               </button>
               <div className={`accordion-content ${expandedAccordion === accordion.title ? 'expanded' : ''}`}> 
                 <ul className="subtopics-list">
-                  {accordion.items && typeof accordion.items === 'object' && Object.keys(accordion.items).map((itemKey, itemIndex) => (
+                  {accordion.contentItems.map((item, itemIndex) => (
                     <li 
                       key={itemIndex}
                       className="clickable-subtopic-item"
-                      onClick={() => handleSubtopicClick({ 
-                        title: itemKey, 
-                        subtopicTitle: accordion.title,
-                        description: accordion.items[itemKey].description,
-                        items: [itemKey] 
-                      })}
+                      onClick={() => handleSubtopicClick(item, accordion.title)}
                     >
-                      {itemKey}
+                      {item.title}
                     </li>
                   ))}
                 </ul>
@@ -112,16 +141,11 @@ const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccor
       );
     }
     
-    // Si es array de strings (lista simple)
     return (
       <ul className="subtopics-list">
         {subtopics.map((subtopic, index) => (
-          <li 
-            key={index}
-            className="clickable-subtopic-item"
-            onClick={() => handleSubtopicClick({ title: subtopic, items: [] })}
-          >
-            {subtopic}
+          <li key={index} className="subtopic-item-plain">
+            {typeof subtopic === 'object' ? subtopic.title : subtopic}
           </li>
         ))}
       </ul>
@@ -131,7 +155,7 @@ const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccor
   return (
     <div className="topic-content-area">
       <div className="topic-content-header">
-        <h3>{t(`featuredTopics.categories.${category}.topics.${selectedTopic}.title`)}</h3>
+        <h3>{topicTitle}</h3>
         <button
           className="close-topic-btn"
           onClick={() => setSelectedTopic(null)}
@@ -142,21 +166,18 @@ const TopicContent = ({ category, selectedTopic, setSelectedTopic, expandedAccor
       </div>
       <div className="topic-content-body">
         <p className="topic-description">
-          {t(`featuredTopics.categories.${category}.topics.${selectedTopic}.description`)}
+          {topicDescription}
         </p>
         <div className="topic-subtopics">
           {renderSubtopics()}
         </div>
       </div>
-      
-      {/* Diálogo de subtemas */}
-      {/* Removido - ahora se renderiza en App.js */}
     </div>
   );
 };
 
 // Componente principal para una categoría
-const TopicCategory = ({ category, activeCategory, selectedTopic, handleTopicClick, setSelectedTopic, expandedAccordion, handleAccordionClick, selectedSubtopic, setSelectedSubtopic, isSubtopicDialogOpen, setIsSubtopicDialogOpen }) => {
+const TopicCategory = ({ category, activeCategory, selectedTopic, handleTopicClick, setSelectedTopic, expandedAccordion, handleAccordionClick, setSelectedSubtopic, setIsSubtopicDialogOpen }) => {
   const { t } = useLanguage();
   
   return (
@@ -177,9 +198,7 @@ const TopicCategory = ({ category, activeCategory, selectedTopic, handleTopicCli
           setSelectedTopic={setSelectedTopic}
           expandedAccordion={expandedAccordion}
           handleAccordionClick={handleAccordionClick}
-          selectedSubtopic={selectedSubtopic}
           setSelectedSubtopic={setSelectedSubtopic}
-          isSubtopicDialogOpen={isSubtopicDialogOpen}
           setIsSubtopicDialogOpen={setIsSubtopicDialogOpen}
         />
       )}
@@ -196,9 +215,7 @@ const FeaturedTopics = ({
   setSelectedTopic, 
   expandedAccordion, 
   handleAccordionClick,
-  selectedSubtopic,
   setSelectedSubtopic,
-  isSubtopicDialogOpen,
   setIsSubtopicDialogOpen
 }) => {
   const { t } = useLanguage();
@@ -230,9 +247,7 @@ const FeaturedTopics = ({
             setSelectedTopic={setSelectedTopic}
             expandedAccordion={expandedAccordion}
             handleAccordionClick={handleAccordionClick}
-            selectedSubtopic={selectedSubtopic}
             setSelectedSubtopic={setSelectedSubtopic}
-            isSubtopicDialogOpen={isSubtopicDialogOpen}
             setIsSubtopicDialogOpen={setIsSubtopicDialogOpen}
           />
         ))}
@@ -241,4 +256,4 @@ const FeaturedTopics = ({
   );
 };
 
-export default FeaturedTopics; 
+export default FeaturedTopics;

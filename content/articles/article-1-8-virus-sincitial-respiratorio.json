@@ -1,0 +1,19 @@
+{
+  "id": "article-1-8-virus-sincitial-respiratorio",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Virus sincitial respiratorio",
+    "description": "El virus sincitial respiratorio es una causa común de infecciones respiratorias en niños. Los síntomas incluyen tos, congestión nasal y fiebre. En bebés puede causar bronquiolitis. El tratamiento es de apoyo. La prevención incluye buena higiene."
+  },
+  "en": {
+    "title": "Respiratory syncytial virus",
+    "description": "Respiratory syncytial virus is a common cause of respiratory infections in children. Symptoms include cough, nasal congestion, and fever. In babies it can cause bronchiolitis. Treatment is supportive. Prevention includes good hygiene."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {}
+  },
+  "updatedAt": "2026-07-03T14:26:19.224Z"
+}

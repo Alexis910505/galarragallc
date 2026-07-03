@@ -1,0 +1,22 @@
+{
+  "id": "vsd",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "corazon-y-vasos-sanguineos",
+  "es": {
+    "title": "Comunicación interventricular",
+    "description": "¿Qué es una comunicación interventricular? Una comunicación interventricular (CIV), a veces conocida como un agujero en el corazón, es un tipo de anomalía cardíaca congénita. En una comunicación interventricular, hay una abertura anómala en la pared que divide las dos cavidades cardíacas principales, encargadas de bombear sangre (los ventrículos). La comunicación interventricular es la anomalía cardíaca congénita más frecuente. La mayoría de los casos de comunicación interventricular se diagnostican y se tratan con éxito y con pocas complicaciones o ninguna en absoluto."
+  },
+  "en": {
+    "title": "Ventricular Septal Defect (VSD)",
+    "description": "What Is a Ventricular Septal Defect? A ventricular septal defect (VSD) — sometimes referred to as a hole in the heart — is a type of congenital heart defect. In a VSD, there is an abnormal opening in the wall between the main pumping chambers of the heart (the ventricles). VSDs are the most common congenital heart defect. Most VSDs are diagnosed and treated successfully with few or no complications."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/vsd.html",
+      "en": "https://kidshealth.org/en/parents/vsd.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:39:22.168Z"
+}

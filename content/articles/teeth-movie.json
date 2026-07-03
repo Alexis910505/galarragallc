@@ -1,0 +1,22 @@
+{
+  "id": "teeth-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Dientes",
+    "description": "Necesitas dientes para hablar y comer correctamente. En este video encontrarás todo lo que debes saber sobre los dientes de leche y los dientes permanentes."
+  },
+  "en": {
+    "title": "How Do Teeth Work? (Video)",
+    "description": "You need teeth to talk and eat properly. From baby teeth to permanent teeth, find out all about them in this movie."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/teeth-movie.html",
+      "en": "https://kidshealth.org/en/kids/teeth-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:24.041Z"
+}

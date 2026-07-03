@@ -1,0 +1,22 @@
+{
+  "id": "test-urine",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Análisis de orina: Cultivo de rutina",
+    "description": "¿Qué es un análisis de orina? Analizar una muestra de orina puede ayudar a los médicos a determinar la causa de una infección u otro problema en los riñones, la vejiga u otras partes del tracto urinario. Para ayudar a su hijo a prepararse para un análisis de orina, averigüe si necesita evitar algún alimento o actividad específica antes de la prueba, o si debe dejar de tomar algún medicamento. Los análisis de orina no causan dolor. Para ayudar a aliviar cualquier temor, explique en términos simples cómo se realiza la prueba y por qué es necesaria. Asegúrese de que el niño entiende que la abertura urinaria (uretra) debe estar bien limpia, de la manera que le han indicado, y que debe recoger la muestra de orina a mitad de la micción. Cosas como papel higiénico o cabello no deben entrar en la muestra. Si el niño usa pañales y no puede orinar en un recipiente recolector, el médico o la enfermera insertará un catéter (un tubo blando y estrecho) en la vejiga para obtener una pequeña muestra."
+  },
+  "en": {
+    "title": "Urine Test: Routine Culture",
+    "description": "What Is a Urine Test? Testing a urine sample can help doctors find out what's going on when someone has an infection or other problem in kidneys, bladder, or other parts of the urinary tract. To help your child get ready for a urine test, find out if they need to avoid any specific foods or activity before the test, or should stop taking any medicines. Urine tests are painless. To help ease any fears, explain in simple terms how the test is done and why it's needed. Make sure your child understands that the urinary opening (urethra) must be cleaned as instructed and the pee must be collected midstream. Things like toilet paper or hair must not get in the sample. If a child isn't potty trained and can't pee into a cup, the doctor or nurse will insert a catheter (a narrow soft tube) into the bladder to get a small sample."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/test-urine.html",
+      "en": "https://kidshealth.org/en/parents/test-urine.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:16:43.794Z"
+}

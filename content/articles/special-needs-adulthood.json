@@ -1,0 +1,22 @@
+{
+  "id": "special-needs-adulthood",
+  "category": "parents",
+  "topic": "schoolFamily",
+  "subtopicId": "fuentes-de-informacon-para-padres",
+  "es": {
+    "title": "Necesidades especiales: Planificación para la edad adulta (Vídeo)",
+    "description": "Los adultos jóvenes con necesidades especiales tienen a su disposición muchos programas, servicios y oportunidades. Mientras ayuda a su hijo preadolescente o adolescente a planificar el futuro, miren juntos esta serie de videos para aprender sobre diferentes temas: desde beneficios financieros y atención médica hasta opciones de empleo y vivienda."
+  },
+  "en": {
+    "title": "Special Needs: Planning for Adulthood (Video)",
+    "description": "Young adults with special needs have many programs, services, and opportunities available to them. While you help your tween or teen plan for the future, watch this video series together to learn about everything from financial and health care benefits to employment and housing options."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/special-needs-adulthood.html",
+      "en": "https://kidshealth.org/en/parents/special-needs-adulthood.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:57:30.612Z"
+}

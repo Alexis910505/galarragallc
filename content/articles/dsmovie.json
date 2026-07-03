@@ -1,0 +1,22 @@
+{
+  "id": "dsmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Aparato digestivo",
+    "description": "La digestión comienza antes de la comida. Se inicia cuando hueles, ves o piensas en una comida deliciosa. Para saber cómo funciona el aparato digestivo, desde el comienzo hasta el final, mira este video."
+  },
+  "en": {
+    "title": "How Does the Digestive System Work? (Video)",
+    "description": "What's the Digestive System? Even before you eat, when you smell a tasty food, see it, or think about it, digestion begins. Find out how the digestive system works, from start to finish, in this video!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/dsmovie.html",
+      "en": "https://kidshealth.org/en/kids/dsmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:16.218Z"
+}

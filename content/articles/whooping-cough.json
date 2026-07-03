@@ -1,0 +1,22 @@
+{
+  "id": "whooping-cough",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "prevencion-y-tratamiento",
+  "es": {
+    "title": "Luchando contra los gérmenes",
+    "description": "Los gérmenes incluyen bacterias, virus, hongos y parásitos que pueden causar enfermedades. Enseña a los niños a lavarse las manos frecuentemente, especialmente antes de comer y después de usar el baño. La higiene adecuada es la mejor defensa contra las infecciones."
+  },
+  "en": {
+    "title": "Fighting germs",
+    "description": "Germs include bacteria, viruses, fungi, and parasites that can cause disease. Teach children to wash their hands frequently, especially before eating and after using the bathroom. Proper hygiene is the best defense against infections."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/whooping-cough.html",
+      "en": "https://kidshealth.org/en/parents/whooping-cough.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.893Z"
+}

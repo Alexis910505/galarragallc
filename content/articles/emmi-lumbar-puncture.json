@@ -1,0 +1,22 @@
+{
+  "id": "emmi-lumbar-puncture",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Punción lumbar",
+    "description": "¿Qué es una punción lumbar? Una punción lumbar es una prueba médica que implica recoger una pequeña muestra de líquido cefalorraquídeo para analizarlo. Este líquido transparente e incoloro ayuda a proteger el cerebro y la médula espinal, que conforman el sistema nervioso central, de posibles golpes. Los médicos usan esta muestra de líquido cefalorraquídeo para detectar signos de infecciones o de otras enfermedades."
+  },
+  "en": {
+    "title": "Spinal Tap (Lumbar Puncture)",
+    "description": "What Is a Spinal Tap/Lumbar Puncture? A lumbar puncture, or spinal tap, is a medical test that involves collecting a small sample of cerebrospinal fluid (CSF) for examination. This clear, colorless liquid helps \"cushion\" the brain and spinal cord, or central nervous system. Doctors use the fluid sample to look for signs of possible infections or other illnesses."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/emmi-lumbar-puncture.html",
+      "en": "https://kidshealth.org/en/parents/emmi-lumbar-puncture.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:45.522Z"
+}

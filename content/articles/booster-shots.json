@@ -1,0 +1,22 @@
+{
+  "id": "booster-shots",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "vacunas",
+  "es": {
+    "title": "Vacunas de refuerzo",
+    "description": "Las vacunas de refuerzo ayudan a mantener la inmunidad contra las enfermedades. Son importantes para prevenir brotes. Sigue el calendario de vacunación recomendado. Las vacunas de refuerzo son seguras y efectivas."
+  },
+  "en": {
+    "title": "Booster vaccines",
+    "description": "Booster vaccines help maintain immunity against diseases. They're important for preventing outbreaks. Follow the recommended vaccination schedule. Booster vaccines are safe and effective."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/booster-shots.html",
+      "en": "https://kidshealth.org/en/parents/booster-shots.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:20.019Z"
+}

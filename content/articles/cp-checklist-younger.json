@@ -1,0 +1,22 @@
+{
+  "id": "cp-checklist-younger",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "cuidado-de-un-nino-enfermo-de-gravedad-o-con-una-enfermedad-cronica",
+  "es": {
+    "title": "Cuidar de su hijo con parálisis cerebral (PS): Nacimiento a los 5 años",
+    "description": "Cuando a su hijo le diagnostiquen una parálisis cerebral, habrá muchas cosas a tomar en consideración. Usted deberá pensar en su asistencia sanitaria, cómo cuidar de él y el mejor camino a seguir. Es normal que se sienta desbordado. Pero hay muchos recursos y servicios de apoyo disponibles que lo pueden ayudar."
+  },
+  "en": {
+    "title": "Caring for Your Child With Cerebral Palsy (CP): Birth to Age 5",
+    "description": "When your child is diagnosed with cerebral palsy (CP), there's a lot to take on. You have to figure out health care, childcare, and the best path forward for your child. It's normal to feel overwhelmed. But many resources and support services are available to help you."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cp-checklist-younger.html",
+      "en": "https://kidshealth.org/en/parents/cp-checklist-younger.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:36.999Z"
+}

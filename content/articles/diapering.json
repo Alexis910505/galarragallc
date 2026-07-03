@@ -1,0 +1,22 @@
+{
+  "id": "diapering",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "atencion-medica-y-su-bebe",
+  "es": {
+    "title": "Cambiarle los pañales al bebé",
+    "description": "Los padres de un recién nacido pasan mucho tiempo cambiando pañales. De hecho, los bebés pueden usar diez o más pañales por día. Al principio, cambiar un pañal puede parecer complicado. Pero con un poco de práctica, verá que mantener al bebé limpio y seco es sencillo."
+  },
+  "en": {
+    "title": "Diapering Your Baby",
+    "description": "New parents spend a lot of time changing diapers — babies may use 10 diapers a day or more! Diaper changing might seem complicated at first. But with a little practice, you'll find that keeping your baby clean and dry is easy."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/diapering.html",
+      "en": "https://kidshealth.org/en/parents/diapering.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:43:12.925Z"
+}

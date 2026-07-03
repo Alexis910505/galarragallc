@@ -1,0 +1,22 @@
+{
+  "id": "cold-sores",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-la-piel",
+  "es": {
+    "title": "Herpes labial",
+    "description": "El herpes labial es causado por el virus del herpes simple. Causa llagas dolorosas alrededor de la boca. Es muy contagioso. El tratamiento incluye medicamentos antivirales tópicos u orales. Los brotes pueden ser desencadenados por estrés o exposición al sol."
+  },
+  "en": {
+    "title": "Cold sores",
+    "description": "Cold sores are caused by herpes simplex virus. They cause painful sores around the mouth. They're very contagious. Treatment includes topical or oral antiviral medications. Outbreaks can be triggered by stress or sun exposure."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cold-sores.html",
+      "en": "https://kidshealth.org/en/parents/cold-sores.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.888Z"
+}

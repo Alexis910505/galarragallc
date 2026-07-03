@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:09:47.296Z",
+  "category": "teenagers",
+  "topic": "infections",
+  "title": {
+    "es": "Información sobre las infecciones",
+    "en": "Infections"
+  },
+  "description": {
+    "es": "¿Quién necesita ponerse la vacuna antigripal? ¿Durante cuánto tiempo es contagiosa la mononucleosis? En esta sección encontrarás toneladas de artículos sobre infecciones que pueden contraer los adolescentes, con información sobre la forma de contagio, los síntomas, cuándo ir al médico y mucho más.",
+    "en": "Who needs to get the flu vaccine? How long is mononucleosis contagious? In this section you'll find tons of articles about infections that teens can get, with information about how they spread, symptoms, when to go to the doctor, and much more."
+  },
+  "subtopics": [
+    {
+      "id": "infecciones-bacterianas-y-virales",
+      "title": {
+        "es": "Infecciones bacterianas y virales",
+        "en": "Bacterial and viral infections"
+      },
+      "articles": [
+        "abscess",
+        "peritonsillar-abscess",
+        "tonsillitis",
+        "cellulitis",
+        "fighting-germs",
+        "hepatitis-c",
+        "cholera",
+        "hepatitis-a",
+        "encephalitis",
+        "lyme-disease",
+        "tonsillitis-11",
+        "dengue",
+        "rocky-mountain",
+        "flu",
+        "hepatitis-a-15",
+        "std-hepatitis",
+        "hepatitis-c-17",
+        "hsv1-sores",
+        "impetigo",
+        "infections",
+        "infections-21",
+        "food-poisoning",
+        "salmonellosis",
+        "meningitis",
+        "molluscum-contagiosum",
+        "hepatitis-a-26",
+        "video-strep",
+        "osteomyelitis",
+        "infections-29",
+        "colds",
+        "prep",
+        "flu-tips",
+        "mrsa",
+        "sinusitis",
+        "tss",
+        "tetanus",
+        "bv",
+        "std-warts",
+        "smallpox",
+        "contagious",
+        "lyme-risk-teen",
+        "mono-long"
+      ]
+    },
+    {
+      "id": "gripe-e-influenza",
+      "title": {
+        "es": "Gripe e influenza",
+        "en": "Flu and influenza"
+      },
+      "articles": [
+        "tips-shots",
+        "fight-flu",
+        "flu-shot",
+        "flu-4",
+        "flu-5",
+        "infections-6",
+        "colds-7",
+        "flu-tips-8",
+        "sinusitis-9",
+        "flu-shot-10",
+        "flu-school"
+      ]
+    },
+    {
+      "id": "infecciones-comunes",
+      "title": {
+        "es": "Infecciones comunes",
+        "en": "Common infections"
+      },
+      "articles": [
+        "lyme-disease-1",
+        "hepatitis-a-2",
+        "tonsillitis-3",
+        "fight-flu-4",
+        "hepatitis-c-5",
+        "flu-6",
+        "hsv1-sores-7",
+        "infections-8",
+        "mononucleosis",
+        "head-lice",
+        "colds-11",
+        "flu-tips-12",
+        "sinusitis-13",
+        "ingrown",
+        "contagious-15",
+        "mono-long-16"
+      ]
+    },
+    {
+      "id": "infecciones-micoticas",
+      "title": {
+        "es": "Infecciones micóticas",
+        "en": "Fungal infections"
+      },
+      "articles": [
+        "abscess-1",
+        "fighting-germs-2",
+        "yeast-infections",
+        "athletes-foot",
+        "pityriasis-versicolor",
+        "ringworm",
+        "jock-itch",
+        "contagious-8",
+        "y-infection"
+      ]
+    },
+    {
+      "id": "infecciones-intestinales-y-estomacales",
+      "title": {
+        "es": "Infecciones intestinales y estomacales",
+        "en": "Intestinal and stomach infections"
+      },
+      "articles": [
+        "hepatitis-a-1",
+        "stomachaches",
+        "infections-3",
+        "food-poisoning-4",
+        "salmonellosis-5",
+        "contagious-6"
+      ]
+    },
+    {
+      "id": "infecciones-cutaneas-y-erupciones",
+      "title": {
+        "es": "Infecciones cutáneas y erupciones",
+        "en": "Skin infections and rashes"
+      },
+      "articles": [
+        "abscess-1",
+        "cellulitis-2",
+        "bedbugs",
+        "hepatitis-a-4",
+        "lyme-disease-5",
+        "rocky-mountain-6",
+        "hsv1-sores-7",
+        "impetigo-8",
+        "molluscum-contagiosum-9",
+        "athletes-foot-10",
+        "head-lice-11",
+        "pityriasis-versicolor-12",
+        "tss-13",
+        "ringworm-14",
+        "jock-itch-15",
+        "smallpox-16",
+        "contagious-17",
+        "lyme-risk-teen-18"
+      ]
+    },
+    {
+      "id": "enfermedades-de-transmision-sexual",
+      "title": {
+        "es": "Enfermedades de transmisión sexual",
+        "en": "Sexually transmitted diseases"
+      },
+      "articles": [
+        "std-chlamydia",
+        "fighting-germs-2",
+        "hiv-tests",
+        "std-pid",
+        "std",
+        "std-gonorrhea",
+        "std-7",
+        "hepatitis",
+        "std-hepatitis-9",
+        "std-herpes",
+        "std-lice",
+        "prep-12",
+        "hpv-vaccine",
+        "bv-14",
+        "std-warts-15",
+        "std-hiv",
+        "aids",
+        "infections-18",
+        "hsv1-sores-19",
+        "3shots"
+      ]
+    }
+  ]
+}

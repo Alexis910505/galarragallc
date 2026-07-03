@@ -1,0 +1,22 @@
+{
+  "id": "transfusions",
+  "category": "teenagers",
+  "topic": "body",
+  "subtopicId": "obtencion-de-atencion-medica",
+  "es": {
+    "title": "Transfusiones de sangre",
+    "description": "¿Qué es una transfusión de sangre? Una transfusión de sangre es cuando la sangre de una persona (donante) se hace pasar a las arterias o venas de otra persona. Las transfusiones de sangre salvan vidas todos los días. Los hospitales las usan para ayudar a las personas que están lesionadas, que se someten a una cirugía, que reciben tratamientos contra el cáncer o que reciben tratamientos relacionados con otras enfermedades que afectan la sangre, como la anemia de células falciformes. ¿De qué está hecha la sangre? La sangre es una mezcla de células y líquido, y cada uno de sus componentes tiene una función específica: • Los glóbulos rojos transportan oxígeno a los tejidos del cuerpo y eliminan dióxido de carbono. Estas células son las que se transfunden con mayor frecuencia. • Los glóbulos blancos ayudan al cuerpo a luchar contra las infecciones. • Las plaquetas, las células sanguíneas de menor tamaño, ayudan a la sangre a coagularse y a controlar las hemorragias. • El plasma, la parte líquida de color amarillo pálido de la sangre, es una mezcla de agua, proteínas, electrolitos, carbohidratos, colesterol, hormonas y vitaminas."
+  },
+  "en": {
+    "title": "Blood transfusions",
+    "description": "What Is a Blood Transfusion? A blood transfusion is when a donor's blood is given to a patient. Blood transfusions save lives every day. Hospitals use them to help people who are injured, having surgery, getting cancer treatments, or being treated for other diseases that affect the blood, like sickle cell anemia. What Is Blood Made of? Blood is a mixture of cells and liquid, and each part has a specific job: • Red blood cells carry oxygen to the body's tissues and remove carbon dioxide. These cells are the ones that are most commonly transfused. • White blood cells help the body fight infection. • Platelets, the smallest blood cells, help blood to clot and control bleeding. • Plasma, the pale yellow liquid part of blood, is a mix of water, proteins, electrolytes, carbohydrates, cholesterol, hormones, and vitamins."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/transfusions.html",
+      "en": "https://kidshealth.org/en/parents/transfusions.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:33:31.891Z"
+}

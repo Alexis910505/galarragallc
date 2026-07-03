@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-mask-video",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "prevencion-y-tratamiento",
+  "es": {
+    "title": "Cuándo y dónde buscar ayuda médica",
+    "description": "Sabe cuándo buscar atención médica para tu hijo. Las señales de advertencia incluyen fiebre alta, dificultad para respirar, deshidratación y cambios en el comportamiento. En caso de emergencia, llama al 911 o ve a la sala de emergencias."
+  },
+  "en": {
+    "title": "When and where to seek medical help",
+    "description": "Know when to seek medical attention for your child. Warning signs include high fever, difficulty breathing, dehydration, and changes in behavior. In case of emergency, call 911 or go to the emergency room."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus-mask-video.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus-mask-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.895Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-4",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "covid-19-y-coronavirus",
+  "es": {
+    "title": "COVID-19: Prevención",
+    "description": "La prevención del COVID-19 incluye vacunación, uso de mascarillas, distanciamiento social y buena higiene de manos. Enseña estas medidas a los niños de manera apropiada para su edad. La prevención protege a toda la familia."
+  },
+  "en": {
+    "title": "COVID-19: Prevention",
+    "description": "COVID-19 prevention includes vaccination, mask use, social distancing, and good hand hygiene. Teach children these measures in an age-appropriate way. Prevention protects the entire family."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.892Z"
+}

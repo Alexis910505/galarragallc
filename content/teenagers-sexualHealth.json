@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T17:37:20.500Z",
+  "category": "teenagers",
+  "topic": "sexualHealth",
+  "title": {
+    "es": "Salud sexual",
+    "en": "Sexual Health"
+  },
+  "description": {
+    "es": "Obtén información sobre la salud sexual en estos artículos sobre la pubertad, la menstruación, las infecciones y sobre muchos otros temas relacionados con las muchachas o los muchachos de los que deseas saber algo.",
+    "en": "Get information about sexual health in these articles about puberty, menstruation, infections, and many other topics related to girls or boys that you want to know about."
+  },
+  "subtopics": [
+    {
+      "id": "los-cambios-en-tu-cuerpo",
+      "title": {
+        "es": "Los cambios en tu cuerpo",
+        "en": "Changes in your body"
+      },
+      "articles": [
+        "female-repro",
+        "male-repro",
+        "puberty",
+        "autism-hygiene-girls",
+        "autism-hygiene-boys",
+        "adolescent-doctor",
+        "boybrst",
+        "talk-doctor",
+        "irregular-periods",
+        "delayed-puberty",
+        "feminine-hygiene",
+        "menstruation",
+        "puberty-asperger",
+        "autism-hygiene-boys-14",
+        "start-developing",
+        "penis",
+        "normal-erections",
+        "voice-changing",
+        "sore-breasts"
+      ]
+    },
+    {
+      "id": "control-de-la-natalidad",
+      "title": {
+        "es": "Control de la natalidad",
+        "en": "Birth control"
+      },
+      "articles": [
+        "abstinence",
+        "contraception-ring",
+        "contraception-emergency",
+        "contraception",
+        "contraception-condom",
+        "condom-directions",
+        "contraception-iud",
+        "contraception-diaphragm",
+        "start-developing-9",
+        "contraception-spermicide",
+        "talk-about-sex",
+        "talk-about-condoms",
+        "contraception-implantable",
+        "contraception-depo",
+        "contraception-withdrawal",
+        "bc-chart",
+        "contraception-patch",
+        "contraception-birth",
+        "condom-tore",
+        "pelvic-exam-bc",
+        "contraception-douche",
+        "finger-condom"
+      ]
+    },
+    {
+      "id": "enfermedades-de-transmision-sexual-y-otras-infecciones",
+      "title": {
+        "es": "Enfermedades de transmisión sexual y otras infecciones",
+        "en": "Sexually transmitted diseases and other infections"
+      },
+      "articles": [
+        "std-chlamydia",
+        "stds-talk",
+        "hiv-tests",
+        "condom-directions-4",
+        "std-pid",
+        "std",
+        "std-gonorrhea",
+        "the-talk",
+        "talk-about-sex-9",
+        "talk-about-condoms-10",
+        "hepatitis",
+        "hepatitis-c",
+        "std-herpes",
+        "stds-talk-14",
+        "bc-chart-15",
+        "std-lice",
+        "hpv-vaccine",
+        "bv",
+        "std-warts",
+        "std-hiv",
+        "aids",
+        "vdischarge2",
+        "gardasil",
+        "stds-check",
+        "finger-condom-25"
+      ]
+    }
+  ]
+}

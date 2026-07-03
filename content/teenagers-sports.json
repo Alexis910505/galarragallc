@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:30:55.762Z",
+  "category": "teenagers",
+  "topic": "sports",
+  "title": {
+    "es": "Centro deportivo",
+    "en": "Sports"
+  },
+  "description": {
+    "es": "Obtén consejos sobre todos los aspectos, desde escoger el mejor deporte para ti hasta hacer frente a la presión y las lesiones en los deportes.",
+    "en": "Get tips on all aspects, from choosing the best sport for you to dealing with pressure and injuries in sports."
+  },
+  "subtopics": [
+    {
+      "id": "tu-cuerpo-y-el-deporte",
+      "title": {
+        "es": "Tu cuerpo y el deporte",
+        "en": "Your body and sports"
+      },
+      "articles": [
+        "digestive-system",
+        "mouth-teeth",
+        "heart",
+        "spleen",
+        "brain-nervous-system",
+        "endocrine",
+        "bones-muscles-joints",
+        "blood",
+        "eyes",
+        "lungs",
+        "kidneys",
+        "metabolism",
+        "spleen-13",
+        "immune"
+      ]
+    },
+    {
+      "id": "lesiones-en-los-deportes",
+      "title": {
+        "es": "Lesiones en los deportes",
+        "en": "Sports injuries"
+      },
+      "articles": [
+        "bursitis",
+        "concussions",
+        "concussions-healing",
+        "hip-pointer",
+        "sports-injuries",
+        "quad-contusions",
+        "meniscus-tear",
+        "acl-injuries",
+        "hip-pointer-9",
+        "mouth-teeth-10",
+        "hamstring-strain",
+        "groin-strain",
+        "osgood",
+        "casts",
+        "ankle-sprains",
+        "phelps-coach",
+        "fractures-greenstick",
+        "stress-fractures",
+        "hernias",
+        "triad",
+        "story-caroline",
+        "mcl-injuries",
+        "burners",
+        "testicular-injuries",
+        "repetitive-stress-sports",
+        "rsi",
+        "shin-splints",
+        "athletes-foot",
+        "cast-care",
+        "head-injury",
+        "phelps-coach-31",
+        "phelps-coach-32",
+        "slj-syndrome",
+        "achilles",
+        "biceps-tendonitis",
+        "jock-itch"
+      ]
+    },
+    {
+      "id": "deportes-y-lesiones",
+      "title": {
+        "es": "Deportes y lesiones",
+        "en": "Sports and injuries"
+      },
+      "articles": [
+        "steven-story",
+        "concussions-alex",
+        "story-caroline-3",
+        "brandon-vd"
+      ]
+    },
+    {
+      "id": "preguntas-sobre-la-practica-de-deportes",
+      "title": {
+        "es": "Preguntas sobre la práctica de deportes",
+        "en": "Questions about playing sports"
+      },
+      "articles": [
+        "helmets-concussion",
+        "sunburn",
+        "sore-muscles",
+        "hot-workout",
+        "play-injury"
+      ]
+    },
+    {
+      "id": "descripcion-basica-de-deportes",
+      "title": {
+        "es": "Descripción básica de deportes",
+        "en": "Basic sports overview"
+      },
+      "articles": [
+        "exercise-wise",
+        "tips-sports",
+        "phelps-coach-3",
+        "find-sports",
+        "sports-physicals"
+      ]
+    },
+    {
+      "id": "psicologia-deportiva",
+      "title": {
+        "es": "Psicología deportiva",
+        "en": "Sports psychology"
+      },
+      "articles": [
+        "quit-sports",
+        "goals-tips",
+        "phelps-coach-3",
+        "sportsmanship",
+        "motivation",
+        "meditation"
+      ]
+    },
+    {
+      "id": "entrenamiento-y-desempeno",
+      "title": {
+        "es": "Entrenamiento y desempeño",
+        "en": "Training and performance"
+      },
+      "articles": [
+        "tips-sports-1",
+        "safety-running",
+        "safety-basketball",
+        "safety-baseball",
+        "safety-football",
+        "safety-golf",
+        "safety-gymnastics",
+        "cheerleading",
+        "safety-skiing",
+        "safety-soccer",
+        "field-hockey-safety",
+        "safety-hockey",
+        "phelps-coach-13",
+        "safety-wrestling",
+        "phelps-coach-15",
+        "phelps-coach-16",
+        "phelps-coach-17",
+        "phelps-coach-18",
+        "safety-fastpitch",
+        "safety-inline",
+        "safety-sledding",
+        "safety-volleyball",
+        "athletes-diabetes-tips",
+        "strength-training",
+        "stretching",
+        "sports-physicals-26",
+        "eatnrun",
+        "repetitive-stress-sports-28",
+        "sport-safety",
+        "sports-supplements",
+        "steroids"
+      ]
+    }
+  ]
+}

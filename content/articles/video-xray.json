@@ -1,0 +1,22 @@
+{
+  "id": "video-xray",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Obtención de una radiografía (video)",
+    "description": "(Getting an X-ray (Video)) Las radiografías permiten a los médicos ver qué está ocurriendo en el interior del cuerpo de una persona; por ejemplo, si hay un hueso roto y la gravedad de la fractura. Son estudios rápidos e indoloros. Sólo deberá sentarse y permanecer quieto durante uno o dos minutos mientras se toma la imagen."
+  },
+  "en": {
+    "title": "Getting an X-ray (video)",
+    "description": "X-rays let doctors see what's going on inside a person's body — like if a bone is broken and how badly. These tests are quick and painless. You'll just need to sit still for a minute or two as the image is taken."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-xray.html",
+      "en": "https://kidshealth.org/en/kids/video-xray.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.785Z"
+}

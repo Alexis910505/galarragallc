@@ -1,0 +1,22 @@
+{
+  "id": "toddlersleep-video",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "ninos-enfermos",
+  "es": {
+    "title": "Lavarse las manos: Por qué es tan importante",
+    "description": ""
+  },
+  "en": {
+    "title": "Hand washing: Why it's so important",
+    "description": ""
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/toddlersleep-video.html",
+      "en": "https://kidshealth.org/en/parents/toddlersleep-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.121Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "story-ira",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "afecciones-de-huesos-musculos-y-articulaciones",
+  "es": {
+    "title": "Parálisis cerebral: La historia de Ira (Vídeo)",
+    "description": "Ira tiene parálisis cerebral, pero su afección no interfiere con su pasión por los deportes, o con su sueño de ser conductor de radio."
+  },
+  "en": {
+    "title": "Cerebral Palsy: Ira's Story (Video)",
+    "description": "Ira has cerebral palsy (CP), but it doesn't get in the way of his love of sports or his dream of being a broadcaster."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/story-ira.html",
+      "en": "https://kidshealth.org/en/teens/story-ira.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:00:28.361Z"
+}

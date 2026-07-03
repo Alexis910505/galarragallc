@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:42:47.432Z",
+  "category": "teenagers",
+  "topic": "staySafe",
+  "title": {
+    "es": "Tu seguridad",
+    "en": "Safety & First Aid"
+  },
+  "description": {
+    "es": "Desde los campamentos hasta Internet, te ayudaremos a prepararte para protegerte y hacer frente a las emergencias.",
+    "en": "From camping to the Internet, we'll help you prepare to protect yourself and deal with emergencies."
+  },
+  "subtopics": [
+    {
+      "id": "conducir",
+      "title": {
+        "es": "Conducir",
+        "en": "Driving"
+      },
+      "articles": [
+        "new-driver",
+        "driving-safety",
+        "no-texting",
+        "driving-conditions",
+        "post-crash",
+        "road-trip"
+      ]
+    },
+    {
+      "id": "primeros-auxilios-y-lesiones",
+      "title": {
+        "es": "Primeros auxilios y lesiones",
+        "en": "First aid and injuries"
+      },
+      "articles": [
+        "splinters",
+        "concussions",
+        "cuts",
+        "sports-injuries",
+        "concussions-sports",
+        "new-driver-6",
+        "casts",
+        "ankle-sprains",
+        "fractures-comminuted",
+        "fractures-greenstick",
+        "splints",
+        "no-texting-12",
+        "poison-ivy",
+        "article-2-14-lesiones-de-rodilla",
+        "testicular-injuries",
+        "rsi",
+        "bug-bites",
+        "head-lice",
+        "concussions-sports-19",
+        "anaphylaxis",
+        "sunburn"
+      ]
+    },
+    {
+      "id": "descripcion-basica-de-la-seguridad",
+      "title": {
+        "es": "Descripción básica de la seguridad",
+        "en": "Basic safety overview"
+      },
+      "articles": [
+        "gun-safety",
+        "earbuds",
+        "tanning",
+        "atv-safety",
+        "online-id",
+        "concussions-sports-6",
+        "fireworks",
+        "summer-center",
+        "water-safety",
+        "bike-safety",
+        "sport-safety",
+        "internet-safety",
+        "rape-what-to-do",
+        "crisis-support"
+      ]
+    },
+    {
+      "id": "seguridad-en-los-deportes",
+      "title": {
+        "es": "Seguridad en los deportes",
+        "en": "Sports safety"
+      },
+      "articles": [
+        "helmets-concussion",
+        "safety-running",
+        "safety-basketball",
+        "safety-baseball",
+        "safety-football",
+        "safety-gymnastics",
+        "cheerleading",
+        "safety-skiing",
+        "safety-soccer",
+        "field-hockey-safety",
+        "safety-hockey",
+        "summer-center-12",
+        "safety-wrestling",
+        "safety-swimming",
+        "safety-inline",
+        "no-texting-16",
+        "no-texting-17",
+        "safety-fastpitch",
+        "summer-center-19",
+        "safety-sledding",
+        "safety-volleyball",
+        "hip-pointer",
+        "meniscus-tear",
+        "new-driver-24",
+        "strains-sprains",
+        "groin-strain",
+        "repetitive-stress-sports",
+        "cast-care",
+        "sport-safety-29",
+        "concussions-sports-30",
+        "asthma-sports"
+      ]
+    }
+  ]
+}

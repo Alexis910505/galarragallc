@@ -1,0 +1,22 @@
+{
+  "id": "esmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Glándulas endocrinas",
+    "description": "Si alguna vez te has preguntado cómo funciona el sistema endócrino (el sistema que produce hormonas), simplemente mira este video para encontrar la respuesta."
+  },
+  "en": {
+    "title": "How Does the Endocrine System Work? (Video)",
+    "description": "What Does the Endocrine System Do? If you ever wondered what your endocrine system (the system that produces hormones) does, this movie has the answers!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/esmovie.html",
+      "en": "https://kidshealth.org/en/kids/esmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:17.403Z"
+}

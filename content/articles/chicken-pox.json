@@ -1,0 +1,22 @@
+{
+  "id": "chicken-pox",
+  "category": "children",
+  "topic": "illnessesInjuries",
+  "subtopicId": "me-siento-mal",
+  "es": {
+    "title": "Varicela",
+    "description": "La varicela es una enfermedad viral muy contagiosa que causa erupción ampollosa. Es más común en niños. Los síntomas incluyen fiebre, picazón y ampollas. La vacunación previene la enfermedad. El tratamiento incluye alivio de síntomas."
+  },
+  "en": {
+    "title": "Chickenpox",
+    "description": "Chickenpox is a very contagious viral disease that causes blistering rash. It's more common in children. Symptoms include fever, itching, and blisters. Vaccination prevents the disease. Treatment includes symptom relief."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/chicken-pox.html",
+      "en": "https://kidshealth.org/en/parents/chicken-pox.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:36:36.940Z"
+}

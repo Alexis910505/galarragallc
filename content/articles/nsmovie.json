@@ -1,0 +1,22 @@
+{
+  "id": "nsmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Cerebro",
+    "description": "Si alguna vez te has preguntado cómo funcionan el cerebro y el sistema nervioso, simplemente mira este video para encontrar la respuesta."
+  },
+  "en": {
+    "title": "How Does the Brain & Nervous System Work? (Video)",
+    "description": "What Does the Brain Do? And What Does the Nervous System Do? If you've ever wondered how your brain and nervous system work, this movie has the answers!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/nsmovie.html",
+      "en": "https://kidshealth.org/en/kids/nsmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.216Z"
+}

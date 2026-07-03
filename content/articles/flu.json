@@ -1,0 +1,22 @@
+{
+  "id": "flu",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Gripe",
+    "description": "La gripe es una infección respiratoria viral. Los síntomas incluyen fiebre, tos, dolor de garganta y fatiga. La vacunación anual previene la enfermedad. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+  },
+  "en": {
+    "title": "Flu",
+    "description": "The flu is a viral respiratory infection. Symptoms include fever, cough, sore throat, and fatigue. Annual vaccination prevents the disease. Treatment includes rest, hydration, and medications to relieve symptoms. Antivirals can shorten duration."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/flu.html",
+      "en": "https://kidshealth.org/en/parents/flu.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.303Z"
+}

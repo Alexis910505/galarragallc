@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-questions-answers-5",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Enfermedad de manos, pies y boca",
+    "description": "La enfermedad de manos, pies y boca es una infección viral común en niños. Causa llagas en la boca y erupción en manos y pies. Es muy contagiosa. El tratamiento es de apoyo. La mayoría de los casos son leves y se resuelven solos."
+  },
+  "en": {
+    "title": "Hand, foot and mouth disease",
+    "description": "Hand, foot and mouth disease is a common viral infection in children. It causes mouth sores and rash on hands and feet. It's very contagious. Treatment is supportive. Most cases are mild and resolve on their own."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus-questions-answers.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus-questions-answers.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.891Z"
+}

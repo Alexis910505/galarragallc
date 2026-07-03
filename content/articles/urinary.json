@@ -1,0 +1,22 @@
+{
+  "id": "urinary",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Infecciones del tracto urinario",
+    "description": "Las infecciones del tracto urinario son causadas por bacterias. Los síntomas incluyen dolor al orinar, urgencia frecuente y fiebre. El diagnóstico requiere análisis de orina. El tratamiento incluye antibióticos. La prevención incluye buena higiene."
+  },
+  "en": {
+    "title": "Urinary tract infections",
+    "description": "Urinary tract infections are caused by bacteria. Symptoms include pain when urinating, frequent urgency, and fever. Diagnosis requires urinalysis. Treatment includes antibiotics. Prevention includes good hygiene."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/urinary.html",
+      "en": "https://kidshealth.org/en/parents/urinary.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.900Z"
+}

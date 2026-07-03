@@ -1,0 +1,22 @@
+{
+  "id": "cold",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Resfriados",
+    "description": "Los resfriados son infecciones virales comunes del tracto respiratorio superior. Los síntomas incluyen congestión nasal, estornudos, dolor de garganta y tos. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas. No responden a los antibióticos."
+  },
+  "en": {
+    "title": "Colds",
+    "description": "Colds are common viral infections of the upper respiratory tract. Symptoms include nasal congestion, sneezing, sore throat, and cough. Treatment includes rest, hydration, and medications to relieve symptoms. They do not respond to antibiotics."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cold.html",
+      "en": "https://kidshealth.org/en/parents/cold.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.879Z"
+}

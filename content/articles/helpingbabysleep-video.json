@@ -1,0 +1,22 @@
+{
+  "id": "helpingbabysleep-video",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "sueno-y-su-bebe",
+  "es": {
+    "title": "Ayudar a su bebé a dormir (Vídeo)",
+    "description": "Cuando los padres no pueden dormir lo suficiente desean saber cómo lograr que sus bebés duerman mejor. Sepa qué puede hacer para fomentar el sueño del niño, lo que es normal en el primer año de vida y a qué edad su pequeño podría dormir toda la noche."
+  },
+  "en": {
+    "title": "Helping Your Baby Sleep (Video)",
+    "description": "Many sleep-deprived parents ask how to get their babies to be better sleepers. Learn what you can do to encourage sleep, what's normal in the first year, and at what age your little one might sleep through the night."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/helpingbabysleep-video.html",
+      "en": "https://kidshealth.org/en/parents/helpingbabysleep-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:43:41.295Z"
+}

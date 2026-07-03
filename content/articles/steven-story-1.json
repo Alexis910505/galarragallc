@@ -1,0 +1,22 @@
+{
+  "id": "steven-story-1",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "la-vida-con-afecciones-medicas",
+  "es": {
+    "title": "Atrofia muscular espinal: La historia de Steven (video)",
+    "description": "Steven, quién ahora tiene 14 años, fue diagnosticado con atrofia muscular espinal (SMA) cuando tenía 3 años. Aquí podrás ver cómo es la vida de un muchacho que no deja de sorprender a la gente."
+  },
+  "en": {
+    "title": "Spinal Muscular Atrophy (SMA): Steven's Story (Video)",
+    "description": "Steven, 14, was diagnosed with spinal muscular atrophy (SMA) when he was 3 years old. Even though his condition makes it hard to get around, he has found a way to play the sport he loves — and he lives to surprise people."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/steven-story.html",
+      "en": "https://kidshealth.org/en/teens/steven-story.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:00:26.106Z"
+}

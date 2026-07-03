@@ -1,0 +1,22 @@
+{
+  "id": "get-urine-test",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Hacerse un análisis de orina",
+    "description": "¿Qué es un análisis de orina? El análisis de una muestra de orina puede ayudar a los médicos a determinar qué está ocurriendo cuando una persona tiene una infección u otro problema en los riñones, la vejiga u otra parte de las vías urinarias. ¿Por qué se hacen los análisis de orina? Con frecuencia, los médicos piden un análisis de orina si creen que un niño tiene una infección de las vías urinarias. Los análisis pueden ayudarlos a detectar problemas en los riñones, la vejiga o el hígado, y a descartar o confirmar la diabetes."
+  },
+  "en": {
+    "title": "Getting a Urine Test",
+    "description": "What Is a Urine Test? Testing a urine sample can help doctors find out what's going on when someone has an infection or other problem in kidneys, bladder, or other parts of the urinary tract. Why Are Urine Tests Done? Doctors often order urine tests if they think a child has a urinary tract infection (UTI). Tests also can help them look for problems with the kidneys, bladder, or liver, and to screen for diabetes."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/get-urine-test.html",
+      "en": "https://kidshealth.org/en/parents/get-urine-test.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:56.109Z"
+}

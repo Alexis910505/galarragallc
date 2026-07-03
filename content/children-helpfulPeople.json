@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:38.500Z",
+  "category": "children",
+  "topic": "helpfulPeople",
+  "title": {
+    "es": "Gente, lugares y cosas que ayudan",
+    "en": "People, Places & Things That Help"
+  },
+  "description": {
+    "es": "A veces, necesitas ayuda para mantenerte saludable. Obtén información sobre la sala de emergencias, lee acerca de lo que hace un dentista, entérate de por qué los puntos de sutura son grandiosos y mucho más.",
+    "en": "Sometimes you need help to stay healthy. Get information about the emergency room, read about what a dentist does, find out why stitches are great, and much more."
+  },
+  "subtopics": [
+    {
+      "id": "gente",
+      "title": {
+        "es": "Gente",
+        "en": "People"
+      },
+      "articles": [
+        "homework",
+        "school-counselors",
+        "going-to-therapist",
+        "physical-therapy",
+        "going-to-therapist-5",
+        "occupational-therapist",
+        "hearing-test",
+        "go-dentist",
+        "going-to-dr",
+        "different-doctor"
+      ]
+    },
+    {
+      "id": "lugares",
+      "title": {
+        "es": "Lugares",
+        "en": "Places"
+      },
+      "articles": [
+        "hospital",
+        "going-to-therapist-2",
+        "or"
+      ]
+    },
+    {
+      "id": "cosas",
+      "title": {
+        "es": "Cosas",
+        "en": "Things"
+      },
+      "articles": [
+        "glasses",
+        "word-braces",
+        "video-iv",
+        "mindfulness",
+        "casts",
+        "video-uppergi",
+        "med-videos-landing",
+        "guide-shots",
+        "video-urtest",
+        "video-bldtest",
+        "video-ekg",
+        "video-spirometer",
+        "video-strep",
+        "video-xray",
+        "video-mri",
+        "video-ctscan",
+        "stitches",
+        "chemo",
+        "kidmedic",
+        "wheelchairs",
+        "going-to-therapist-21",
+        "retainers"
+      ]
+    }
+  ]
+}

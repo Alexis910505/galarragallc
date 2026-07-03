@@ -1,0 +1,22 @@
+{
+  "id": "burping",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "informacion-sobre-amamantamiento",
+  "es": {
+    "title": "Hacer eructar a su bebé",
+    "description": "Una parte importante de la alimentación de un bebé es eructar. Los eructos ayudan a expulsar parte del aire que los bebés tienden a tragar mientras se alimentan. No eructar con frecuencia y tragar demasiado aire puede hacer que el bebé regurgite o parezca malhumorado o con gases."
+  },
+  "en": {
+    "title": "Burping Your Baby",
+    "description": "An important part of feeding a baby is burping. Burping helps to get rid of some of the air that babies tend to swallow during feeding. Not being burped often and swallowing too much air can make a baby spit up, or seem cranky or gassy."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/burping.html",
+      "en": "https://kidshealth.org/en/parents/burping.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:42:58.641Z"
+}

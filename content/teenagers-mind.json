@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T17:35:07.556Z",
+  "category": "teenagers",
+  "topic": "mind",
+  "title": {
+    "es": "Mente",
+    "en": "Mind"
+  },
+  "description": {
+    "es": "La clave para estar sano es saber cómo manejar los cambios en tu cuerpo y tu mente. En esta sección puedes obtener información sobre las relaciones, la imagen corporal, las familias y las emociones.",
+    "en": "The key to being healthy is knowing how to handle changes in your body and mind. In this section you can get information about relationships, body image, families, and emotions."
+  },
+  "subtopics": [
+    {
+      "id": "se-la-mejor-persona-posible",
+      "title": {
+        "es": "Sé la mejor persona posible",
+        "en": "Be the best person you can be"
+      },
+      "articles": [
+        "positive-emotions",
+        "emotional-awareness",
+        "understanding-others",
+        "understand-emotions",
+        "mindfulness",
+        "happy-life",
+        "power-positive",
+        "mindful-exercises",
+        "optimism",
+        "rejection",
+        "choose-mood",
+        "positive-worksheet",
+        "gratitude",
+        "eq",
+        "gratitude-worksheet",
+        "emotional-reactions",
+        "apologies",
+        "assertive",
+        "assertive-19",
+        "gratitude-practice"
+      ]
+    },
+    {
+      "id": "la-imagen-que-tienes-del-cuerpo",
+      "title": {
+        "es": "La imagen que tienes del cuerpo",
+        "en": "Body image"
+      },
+      "articles": [
+        "feelings-overweight",
+        "body-image",
+        "brandon-vd",
+        "body-image-problem",
+        "vitiligo"
+      ]
+    },
+    {
+      "id": "sentimientos-y-emociones",
+      "title": {
+        "es": "Sentimientos y emociones",
+        "en": "Feelings and emotions"
+      },
+      "articles": [
+        "positive-emotions-1",
+        "leave-military",
+        "abuse-help",
+        "test-anxiety",
+        "culture-shock",
+        "anxiety-tips",
+        "emotional-awareness-7",
+        "emotional-eating",
+        "understand-emotions-9",
+        "stress-situations",
+        "stressful-feelings",
+        "negative-emotions-help",
+        "power-positive-13",
+        "pregnancy",
+        "stress-tips",
+        "optimism-16",
+        "rejection-17",
+        "choose-mood-18",
+        "stress-center",
+        "gratitude-20",
+        "eq-21",
+        "gratitude-worksheet-22",
+        "test-stress",
+        "someone-died",
+        "best-self-center",
+        "gratitude-practice-26",
+        "meditation",
+        "lonely",
+        "self-esteem",
+        "lonely-help",
+        "shyness",
+        "stress"
+      ]
+    },
+    {
+      "id": "familias",
+      "title": {
+        "es": "Familias",
+        "en": "Families"
+      },
+      "articles": [
+        "leave-military-1",
+        "tips-disagree",
+        "abuse",
+        "abuse-help-4",
+        "deal-with-divorce",
+        "understanding-others-6",
+        "talk-depression",
+        "talk-to-parents",
+        "emotional-reactions-9",
+        "apologies-10",
+        "coping-alcoholic",
+        "coming-out",
+        "assertive-13",
+        "fight"
+      ]
+    },
+    {
+      "id": "sentirse-triste",
+      "title": {
+        "es": "Sentirse triste",
+        "en": "Feeling sad"
+      },
+      "articles": [
+        "deal-with-divorce-1",
+        "depression-tips",
+        "coping-grief",
+        "therapist",
+        "cutting",
+        "depression",
+        "someone-died-7",
+        "suicide",
+        "sad",
+        "lonely-10",
+        "crisis-support",
+        "lonely-help-12",
+        "why-depressed",
+        "severe-depression"
+      ]
+    },
+    {
+      "id": "amigos",
+      "title": {
+        "es": "Amigos",
+        "en": "Friends"
+      },
+      "articles": [
+        "understanding-others-1",
+        "addictions",
+        "cliques",
+        "peer-pressure",
+        "emotional-reactions-5",
+        "runaway",
+        "talking-about-suicide",
+        "helping-allergies",
+        "help-obstacles",
+        "apologies-10",
+        "coming-out-11",
+        "assertive-12",
+        "adhd-tips",
+        "friend-harassment",
+        "discuss-rape",
+        "friend-diabetes",
+        "sickle-cell-friend",
+        "lonely-18",
+        "help-autism",
+        "friend-cuts",
+        "lonely-help-21",
+        "friend-flareup"
+      ]
+    },
+    {
+      "id": "salud-mental",
+      "title": {
+        "es": "Salud mental",
+        "en": "Mental health"
+      },
+      "articles": [
+        "anxiety",
+        "social-phobia",
+        "therapist-3",
+        "cutting-4",
+        "mhealth-care",
+        "stress-situations-6",
+        "heal-trauma",
+        "depression-8",
+        "stop-suicide",
+        "suicide-10",
+        "understanding-others-11",
+        "sad-12",
+        "bipolar",
+        "ocd",
+        "coping-alcoholic-15",
+        "eat-disorder",
+        "trichotillomania",
+        "help-depressed-friend",
+        "resisting-cutting",
+        "self-esteem-20",
+        "crisis-support-21",
+        "why-depressed-22",
+        "bipolar-tips",
+        "severe-depression-24"
+      ]
+    },
+    {
+      "id": "padres",
+      "title": {
+        "es": "Padres",
+        "en": "Parents"
+      },
+      "articles": [
+        "leave-military-1",
+        "tell-parents",
+        "talk-depression-3",
+        "talk-to-parents-4",
+        "fight-5"
+      ]
+    },
+    {
+      "id": "lidiar-con-problemas",
+      "title": {
+        "es": "Lidiar con problemas",
+        "en": "Dealing with problems"
+      },
+      "articles": [
+        "tips-disagree-1",
+        "abuse-help-2",
+        "harassment",
+        "natural-disaster",
+        "anxiety-tips-5",
+        "nerves",
+        "depression-tips-7",
+        "coping-grief-8",
+        "no-texting",
+        "mindfulness-10",
+        "school-counselors",
+        "mhealth-care-12",
+        "feelings-overweight-13",
+        "bullies",
+        "stress-situations-15",
+        "heal-trauma-16",
+        "tell-parents-17",
+        "talk-depression-18",
+        "addictions-19",
+        "cliques-20",
+        "stress-tips-21",
+        "rejection-22",
+        "emily-story",
+        "peer-pressure-24",
+        "test-stress-25",
+        "help-obstacles-26",
+        "break-up",
+        "break-up-words",
+        "adhd-tips-29",
+        "weight-therapists",
+        "school-violence",
+        "rape-what-to-do",
+        "yoga-stress",
+        "meditation-34",
+        "lonely-35",
+        "resisting-cutting-36",
+        "crisis-support-37",
+        "lonely-help-38"
+      ]
+    },
+    {
+      "id": "relaciones-personales",
+      "title": {
+        "es": "Relaciones personales",
+        "en": "Personal relationships"
+      },
+      "articles": [
+        "sexual-orientation",
+        "understanding-others-2",
+        "gratitude-3",
+        "talk-about-sex",
+        "teacher-relationships",
+        "emotional-reactions-6",
+        "apologies-7",
+        "online-id",
+        "abuse-relationships",
+        "break-up-10",
+        "break-up-words-11",
+        "coming-out-12",
+        "assertive-13",
+        "lonely-14",
+        "help-depressed-friend-15",
+        "lonely-help-16",
+        "healthy-relationship"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-3",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "covid-19-y-coronavirus",
+  "es": {
+    "title": "COVID-19: Vacunación",
+    "description": "Las vacunas COVID-19 son seguras y efectivas para niños. Ayudan a prevenir enfermedades graves y hospitalizaciones. Los efectos secundarios son generalmente leves. La vacunación es la mejor protección contra el COVID-19."
+  },
+  "en": {
+    "title": "COVID-19: Vaccination",
+    "description": "COVID-19 vaccines are safe and effective for children. They help prevent serious illness and hospitalizations. Side effects are generally mild. Vaccination is the best protection against COVID-19."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.892Z"
+}

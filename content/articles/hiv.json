@@ -1,0 +1,22 @@
+{
+  "id": "hiv",
+  "category": "children",
+  "topic": "healthProblems",
+  "subtopicId": "las-alergias-y-tu-sistema-inmunitario",
+  "es": {
+    "title": "¿Qué son las infecciones por el VIH y el SIDA?",
+    "description": "¿Qué es el VIH? El VIH (virus de la inmunodeficiencia humana) es un virus que ataca al sistema inmunitario. El VIH destruye las células CD4 (también llamadas \"células T\"). Estas células combaten los gérmenes que entran en el cuerpo y ayudan a prevenir algunos tipos de cánceres. En el virus de la inmunodeficiencia humana (VIH), el sistema inmunitario se debilita, haciéndole difícil al cuerpo combatir las infecciones y algunos tipos de cánceres. La mayoría de las personas que reciben tratamiento pronto y toman medicamentos contra el virus pueden llevar vidas largas y satisfactorias. ¿Qué es el SIDA? El SIDA (síndrome de inmunodeficiencia adquirida) puede ocurrir después de que una persona lleve muchos años infectada por el virus de la inmunodeficiencia humana (VIH). En el SIDA, el sistema inmunitario se debilita mucho. Por lo tanto, pueden ocurrir infecciones y problemas de salud graves. Los medicamentos pueden ayudar a que una infección por el VIH no evolucione a un SIDA. ¿Qué hacen los médicos? Los profesionales del cuidado de la salud generalmente pueden determinar si alguien tiene el VIH a través de un análisis de sangre. Se dice que las personas que tiene el virus son \"VIH positivas\". Si el sistema inmunitario se vuelve muy débil, se dice que alguien tiene SIDA. ¿Cómo se tratan las infecciones por el VIH y el SIDA? Hay medicamentos que pueden ayudar a que las personas infectadas por el VIH se mantengan sanas. También pueden impedir que una infección por el VIH termine en un SIDA. Las personas con VIH y SIDA generalmente necesitan tomar varios medicamentos. Los medicamentos deben tomarse de la manera indicada. Se realizarán análisis de sangre regulares para ver qué tan bien están funcionando los medicamentos."
+  },
+  "en": {
+    "title": "What Are HIV and AIDS?",
+    "description": "What Is HIV? HIV (human immunodeficiency virus) is a virus that attacks the immune system. HIV destroys CD4 cells (also called T cells). These cells fight germs and help prevent some kinds of cancers. In HIV, the immune system becomes weaker, making it harder for the body to fight off infections and some kinds of cancers. Most people who get treatment early and take medicines for HIV can live long, healthy lives. What Is AIDS? AIDS (acquired immune deficiency syndrome) can happen after someone has had HIV for many years. In AIDS, the immune system gets very weak. So, serious infections and health problems can happen. Medicines can help prevent HIV from developing into AIDS. What Do Doctors Do? Health care providers usually can tell if someone has HIV through blood tests. People who do are said to be \"HIV positive.\" If the immune system becomes very weak, someone is said to have AIDS. How Are HIV and AIDS Treated? Medicines can help people with HIV stay healthy. They can also prevent HIV from becoming AIDS. People with HIV and AIDS usually need to take a few different medicines. The medicines must be taken exactly as prescribed. Regular blood tests will check to see how well the medicines are working. Medically reviewed by: Amy W. Anzilotti, MDThis link will open in a new window Date reviewed: January 2022 More on this topic for: • Kids More on this topicFor Kids • What You Need to Know About Drugs • Your Immune System • How Does the Immune System Work? (Video) View more RELATED CATEGORY • Infections Kids Can Get"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/hiv.html",
+      "en": "https://kidshealth.org/en/kids/hiv.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:49:44.179Z"
+}

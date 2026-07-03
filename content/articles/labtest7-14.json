@@ -1,0 +1,22 @@
+{
+  "id": "labtest7-14",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "estudios-clinicos-y-analisis",
+  "es": {
+    "title": "Análisis de orina",
+    "description": "Los riñones producen orina a medida que filtran los desechos del torrente sanguíneo. Cuando los riñones funcionan correctamente, mantienen en la sangre los elementos que nuestro cuerpo necesita, como las proteínas, y se deshacen de todo aquello que el cuerpo no necesita, como el exceso de agua y sales. Pero, en algunos casos, la orina puede contener otras cosas, como proteínas, glucosa o células sanguíneas. La presencia de estos elementos puede ser un signo de problemas de salud."
+  },
+  "en": {
+    "title": "Urine Tests",
+    "description": "The kidneys make urine (YER-in) as they filter wastes from the bloodstream. When working as they should, the kidneys keep things that the body needs in the blood, like protein, and get rid of anything the body doesn’t need, like extra water and salts. But sometimes, other things can be in urine, like protein, glucose, or blood cells. These can be signs of a health problem."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/labtest7.html",
+      "en": "https://kidshealth.org/en/parents/labtest7.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:15:34.178Z"
+}

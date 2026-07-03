@@ -1,0 +1,22 @@
+{
+  "id": "hepa-vaccine",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Neumonía ambulante en niños",
+    "description": "La neumonía ambulante es una forma leve de neumonía causada por bacterias o virus. Los síntomas incluyen tos, fiebre y fatiga. El diagnóstico puede requerir radiografía de tórax. El tratamiento incluye antibióticos si es bacteriana."
+  },
+  "en": {
+    "title": "Walking pneumonia in children",
+    "description": "Walking pneumonia is a mild form of pneumonia caused by bacteria or viruses. Symptoms include cough, fever, and fatigue. Diagnosis may require chest X-ray. Treatment includes antibiotics if bacterial."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hepa-vaccine.html",
+      "en": "https://kidshealth.org/en/parents/hepa-vaccine.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.881Z"
+}

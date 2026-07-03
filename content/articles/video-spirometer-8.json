@@ -1,0 +1,22 @@
+{
+  "id": "video-spirometer-8",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Obtención de un estudio de la respiración, espirometría (video)",
+    "description": "La espirometría mide el nivel de funcionamiento de los pulmones para ayudar a los médicos a diagnosticar asma y otros problemas respiratorios. Este estudio es tan fácil como soplar las velas del pastel de cumpleaños."
+  },
+  "en": {
+    "title": "Spirometry (Video)",
+    "description": "A spirometer measures how well your lungs work to help doctors diagnose asthma and other breathing problems. This test is as easy as blowing out your birthday candles. Watch this video to see what happens."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/video-spirometer.html",
+      "en": "https://kidshealth.org/en/teens/video-spirometer.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:00:35.854Z"
+}

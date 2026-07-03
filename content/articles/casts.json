@@ -1,0 +1,22 @@
+{
+  "id": "casts",
+  "category": "teenagers",
+  "topic": "staySafe",
+  "subtopicId": "primeros-auxilios-y-lesiones",
+  "es": {
+    "title": "Escayolas (yesos)",
+    "description": "¿Qué es una escayola? Una escayola (tambien llamada \"yeso\") es un vendaje que se endurece con yeso, cuya función es mantener el hueso y otros tejidos en su lugar mientras sanan."
+  },
+  "en": {
+    "title": "Casts",
+    "description": "What Is a Cast? A cast is a hard bandage that keeps part of the body from moving so it can heal."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/casts.html",
+      "en": "https://kidshealth.org/en/parents/casts.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:42:47.442Z"
+}

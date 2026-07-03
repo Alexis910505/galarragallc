@@ -1,0 +1,22 @@
+{
+  "id": "bronchitis",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Bronquitis",
+    "description": "La bronquitis es la inflamación de los bronquios, generalmente causada por virus. Los síntomas incluyen tos, producción de moco y sibilancias. El tratamiento incluye descanso, hidratación y medicamentos para aliviar los síntomas."
+  },
+  "en": {
+    "title": "Bronchitis",
+    "description": "Bronchitis is inflammation of the bronchi, usually caused by viruses. Symptoms include cough, mucus production, and wheezing. Treatment includes rest, hydration, and medications to relieve symptoms."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/bronchitis.html",
+      "en": "https://kidshealth.org/en/parents/bronchitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.880Z"
+}

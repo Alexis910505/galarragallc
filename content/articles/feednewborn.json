@@ -1,0 +1,22 @@
+{
+  "id": "feednewborn",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "informacion-sobre-amamantamiento",
+  "es": {
+    "title": "Alimentación del recién nacido",
+    "description": "La primera decisión nutricional que debe tomar sobre su hijo recién nacido es cómo alimentarlo. Las siguientes indicaciones sobre el amamantamiento y la alimentación con fórmula lo pueden ayudar a tomar la decisión adecuada para usted y su bebé. ¿Pecho o biberón? La Academia Americana de Pediatría (AAP) recomienda que los bebés se alimenten exclusivamente de leche materna durante aproximadamente los primeros seis meses de vida. Después de introducir alimentos sólidos en la dieta del bebé, la lactancia materna debe continuar durante el primer año de vida del bebé e incluso durante más tiempo, si así lo desean la madre y el bebé. Pero no todas las mamás pueden o prefieren amamantar a su bebé. La decisión entre dar el pecho o el biberón a un bebé se suele basar en lo cómoda que se siente la madre dándole el pecho a su hijo y en su estilo de vida. En algunos casos, la lactancia materna puede no ser recomendable para la madre y para el bebé. Si tiene preguntas sobre si debería amamantar a su hijo o darle fórmula, hable con su pediatra. Recuerde que las necesidades emocionales y nutricionales de su bebé quedarán satisfechas independientemente de que usted opte por amamantarlo o por darle el biberón."
+  },
+  "en": {
+    "title": "Feeding Your Newborn",
+    "description": "How you feed your newborn is the first nutrition decision you make for your child. These guidelines on breastfeeding and bottle feeding can help you know what's right for you and your baby. Breast or Bottle? The American Academy of Pediatrics (AAP) recommends that babies be breastfed exclusively for about the first 6 months. After they start on solid foods, babies should breastfeed through the first year of life and even beyond, if desired. But breastfeeding isn't possible or preferable for all new moms. Deciding to breastfeed or bottle feed a baby is usually based on the mother's comfort level with breastfeeding and her lifestyle. In some cases, breastfeeding may not be recommended for a mom and her baby. If you have any questions about whether to breastfeed or formula feed, talk to your pediatrician. Remember, your baby's nutritional and emotional needs will be met whether you choose to breastfeed or formula feed."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/feednewborn.html",
+      "en": "https://kidshealth.org/en/parents/feednewborn.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:43:24.096Z"
+}

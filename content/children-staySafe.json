@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:35.287Z",
+  "category": "children",
+  "topic": "staySafe",
+  "title": {
+    "es": "Mantenerse a salvo",
+    "en": "Staying Safe"
+  },
+  "description": {
+    "es": "Mantenerte seguro significa que puedes divertirte más. Aprende a jugar de manera segura en la casa, al aire libre y mientras estás de viaje en cualquier época del año.",
+    "en": "Staying safe means you can have more fun. Learn how to play safely at home, outdoors, and while traveling any time of the year."
+  },
+  "subtopics": [
+    {
+      "id": "aprender-sobre-emergencias-y-primeros-auxilios",
+      "title": {
+        "es": "Aprender sobre emergencias y primeros auxilios",
+        "en": "Learning about emergencies and first aid"
+      },
+      "articles": [
+        "gun-safety",
+        "scars",
+        "911",
+        "dehydration",
+        "when-play-video-games",
+        "emergency",
+        "fire-safety",
+        "cpr"
+      ]
+    },
+    {
+      "id": "evitar-accidentes-en-el-hogar",
+      "title": {
+        "es": "Evitar accidentes en el hogar",
+        "en": "Avoiding accidents at home"
+      },
+      "articles": [
+        "gun-safety-1",
+        "homealone",
+        "safe-in-kitchen",
+        "dogs",
+        "emergency-5",
+        "animals",
+        "when-play-video-games-7",
+        "when-play-video-games-8"
+      ]
+    },
+    {
+      "id": "evitar-accidentes-en-la-calle-y-al-aire-libre",
+      "title": {
+        "es": "Evitar accidentes en la calle y al aire libre",
+        "en": "Avoiding accidents on the street and outdoors"
+      },
+      "articles": [
+        "sport-safety",
+        "summer-safety",
+        "winter-sports",
+        "poison-ivy",
+        "dogs-5",
+        "safety-center",
+        "emergency-7",
+        "fireworks",
+        "swim",
+        "car-safety",
+        "winter-safety",
+        "bike-safety",
+        "pool-safety",
+        "thunderstorms",
+        "when-play-video-games-15",
+        "jellyfish",
+        "jellyfish-17",
+        "when-get-phone",
+        "street-smart"
+      ]
+    }
+  ]
+}

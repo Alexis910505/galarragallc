@@ -1,0 +1,22 @@
+{
+  "id": "video-strep",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Obtención de un exudado faríngeo (video)",
+    "description": "El exudado faríngeo es una prueba para diagnosticar infecciones de garganta como faringoamigdalitis estreptocócica. Se frota un hisopo en la parte posterior de la garganta para recolectar muestras. Los resultados están disponibles en minutos o días."
+  },
+  "en": {
+    "title": "Getting a throat swab (video)",
+    "description": "If you have a sore throat, a doctor or nurse may wipe the back of your throat to test for strep bacteria. It won't hurt and it only takes a couple of seconds."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-strep.html",
+      "en": "https://kidshealth.org/en/kids/video-strep.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.306Z"
+}

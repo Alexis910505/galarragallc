@@ -1,0 +1,22 @@
+{
+  "id": "skin-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Piel",
+    "description": "No podrías vivir sin la piel que te rodea. Descubre qué ocurre debajo de la piel en este video."
+  },
+  "en": {
+    "title": "How Does the Skin Work? (Video)",
+    "description": "How Does the Skin Work? What Does Skin Do? You couldn't live without the skin you're in. Find out what's going on under the surface in the skin video."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/skin-movie.html",
+      "en": "https://kidshealth.org/en/kids/skin-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:23.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "video-iv",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "estudios-clinicos-y-procedimientos",
+  "es": {
+    "title": "Colocación de una vía intravenosa (video)",
+    "description": "(Getting an IV (Video)) Los médicos y enfermeros usan sondas intravenosas para introducir líquidos o medicamentos directamente en las venas de una persona. IV es la abreviatura de intravenoso. Sí, se utiliza una aguja, pero sólo durante unos segundos."
+  },
+  "en": {
+    "title": "IV placement (video)",
+    "description": "Doctors and nurses use IVs to get fluids or medicines directly into a person's vein. IV is short for intravenous. Yes, there's a needle involved — but only for a couple of seconds."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-iv.html",
+      "en": "https://kidshealth.org/en/kids/video-iv.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.783Z"
+}

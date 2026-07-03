@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-5",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "covid-19-y-coronavirus",
+  "es": {
+    "title": "COVID-19: Pruebas y diagnóstico",
+    "description": "Las pruebas de COVID-19 ayudan a diagnosticar la enfermedad. Hay diferentes tipos de pruebas. Consulta con tu médico sobre cuál es la más apropiada. Las pruebas rápidas dan resultados en minutos."
+  },
+  "en": {
+    "title": "COVID-19: Testing and diagnosis",
+    "description": "COVID-19 tests help diagnose the disease. There are different types of tests. Consult with your doctor about which is most appropriate. Rapid tests give results in minutes."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.892Z"
+}

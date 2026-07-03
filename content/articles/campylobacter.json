@@ -1,0 +1,22 @@
+{
+  "id": "campylobacter",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-gastrointestinales",
+  "es": {
+    "title": "Infecciones por Campylobacter",
+    "description": "Las infecciones por Campylobacter son causadas por bacterias encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves y se resuelven solos. El tratamiento incluye hidratación y descanso."
+  },
+  "en": {
+    "title": "Campylobacter infections",
+    "description": "Campylobacter infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild and resolve on their own. Treatment includes hydration and rest."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/campylobacter.html",
+      "en": "https://kidshealth.org/en/parents/campylobacter.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.887Z"
+}

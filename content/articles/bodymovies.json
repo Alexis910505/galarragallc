@@ -1,0 +1,22 @@
+{
+  "id": "bodymovies",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Cómo funciona el cuerpo: Videos",
+    "description": "Saluda a Chloe y Nurb y deja que te lleven a un viaje por el cuerpo humano en estos videos."
+  },
+  "en": {
+    "title": "How the Body Works: Movies",
+    "description": "Say hello to Chloe and Nurb and let them take you on a tour of the human body. You'll find out how the body's organs work and learn about body systems like the digestive system and brain and nervous system. Enjoy your tour!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/bodymovies.html",
+      "en": "https://kidshealth.org/en/kids/bodymovies.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:14.972Z"
+}

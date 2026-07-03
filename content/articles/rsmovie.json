@@ -1,0 +1,22 @@
+{
+  "id": "rsmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "¿Cómo funcionan los pulmones y el aparato respiratorio? (Video)",
+    "description": "Inhalas. Exhalas. Pero, ¿qué sucede dentro de los pulmones? Mira este video para encontrar la respuesta."
+  },
+  "en": {
+    "title": "How Do the Lungs & Respiratory System Work? (Video)",
+    "description": "You breathe in. You breathe out. But what's happening inside? Watch this movie and find out!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/rsmovie.html",
+      "en": "https://kidshealth.org/en/kids/rsmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "otitis-media-12",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Infecciones del oído medio",
+    "description": "Las infecciones del oído medio son comunes en niños. Los síntomas incluyen dolor de oído, fiebre e irritabilidad. La mayoría se resuelven solas. El tratamiento puede incluir antibióticos si es necesario. La prevención incluye vacunación y evitar la exposición al humo."
+  },
+  "en": {
+    "title": "Middle ear infections",
+    "description": "Middle ear infections are common in children. Symptoms include ear pain, fever, and irritability. Most resolve on their own. Treatment may include antibiotics if necessary. Prevention includes vaccination and avoiding smoke exposure."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/otitis-media.html",
+      "en": "https://kidshealth.org/en/parents/otitis-media.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.899Z"
+}

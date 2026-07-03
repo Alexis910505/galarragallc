@@ -1,0 +1,22 @@
+{
+  "id": "sickle-cell-genes",
+  "category": "teenagers",
+  "topic": "expertAnswers",
+  "subtopicId": "afecciones-y-enfermedades",
+  "es": {
+    "title": "¿Podrían mis hijos nacer algún día con la enfermedad de células falciformes?",
+    "description": "Es posible que una persona con la enfermedad de células falciformes o con el rasgo de células falciformes tenga un bebé con la enfermedad de células falciformes. Pero también depende de los factores genéticos (los genes) del otro progenitor. ¿Cómo adquieren los bebés la enfermedad de células falciformes? Cada bebé nace con dos copias del gen de la beta globina. El bebé hereda una copia de cada uno de los padres. Cada copia puede ser normal o modificada (mutada). Un gen modificado recibe el nombre de \"variante\". Hay diferentes tipos de variantes de genes de la beta globina. Una de ellas es la variante de las células falciformes. Si un bebé recibe dos variantes del gen de la beta globina y por lo menos uno de ellos es la variante de la enfermedad de células falciformes, el bebé tendrá esta enfermedad."
+  },
+  "en": {
+    "title": "Could my children someday be born with sickle cell disease?",
+    "description": "It’s possible for a person with sickle cell disease or sickle cell trait to have a baby born with sickle cell disease. But it also depends on the genes of the other parent. How Does a Baby Get Sickle Cell Disease? Every baby is born with two copies of the beta globin gene. They get one copy from each parent. Each copy can be normal or changed (mutated). A changed gene is called a variant. There are different types of beta globin gene variants. One type is called a sickle cell variant. If a baby gets two beta globin gene variants and at least one of them is the sickle cell variant, the baby will have sickle cell disease."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/sickle-cell-genes.html",
+      "en": "https://kidshealth.org/en/teens/sickle-cell-genes.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:31:16.463Z"
+}

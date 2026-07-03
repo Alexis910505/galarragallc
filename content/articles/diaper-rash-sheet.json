@@ -1,0 +1,22 @@
+{
+  "id": "diaper-rash-sheet",
+  "category": "parents",
+  "topic": "firstAidSafety",
+  "subtopicId": "guias-de-seguridad-para-imprimir",
+  "es": {
+    "title": "Cómo tratar la dermatitis del pañal",
+    "description": "¿Qué es la dermatitis del pañal? La dermatitis del pañal es una afección de la piel frecuente en los bebés. La mayoría de las dermatitis del pañal se deben a una irritación de la piel debido al contacto con la orina, las heces, el sudor o el propio pañal, pero algunas dermatitis son causadas por alergias. ¿Cuáles son los signos y los síntomas de la dermatitis del pañal? Los signos de la dermatitis del pañal causada por irritación o alergia incluyen: • molestias o sensibilidad en la piel • piel roja o decolorada en la zona que está en contacto con el pañal • piel que se despelleja o se pela • escamas en la piel • inquietud o irritabilidad Si la dermatitis del pañal se debe a una infección en la piel causada por levaduras o bacterias, la piel suele tener pliegues y arrugas y también puede haber ampollas, llagas o ampollas llenas de pus."
+  },
+  "en": {
+    "title": "How to Treat Diaper Rash",
+    "description": "What Is Diaper Rash? Diaper rash is a common skin condition in babies in the area covered by a diaper. Most diaper rashes are caused by irritation of the skin from contact with pee, poop, sweat, or the diaper itself, but some diaper rashes are caused by allergies. What Are the Signs & Symptoms of Diaper Rash? Signs of diaper rash caused by irritation or allergy include: • soreness • red or discolored skin where the diaper touches the skin • peeling • scaly skin • fussiness If the diaper rash is caused by a skin infection due to yeast or bacteria, it often appears in skin folds and creases and can also cause blisters, open sores, or pus-filled sores."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/diaper-rash-sheet.html",
+      "en": "https://kidshealth.org/en/parents/diaper-rash-sheet.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:59:46.909Z"
+}

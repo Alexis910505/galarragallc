@@ -1,0 +1,22 @@
+{
+  "id": "asthma-4",
+  "category": "children",
+  "topic": "healthProblems",
+  "subtopicId": "estomago-intestinos-e-higado",
+  "es": {
+    "title": "¿Qué es el asma?",
+    "description": "¿Qué es el asma? El asma es una afección de las vías respiratorias. Las personas con asma tienen problemas respiratorios que vienen y van. Pueden toser, tener resuello, emitir \"pitos\" al respirar o faltarles el aliento. Esto ocurre porque sus vías respiratorias se inflaman, se estrechan y se llenan de mucosidades. Si tienes asma, no estás solo. La padecen muchos niños, y la mayoría de ellos toman medicamentos para respirar mejor. Con los medicamentos adecuados y un buen plan de acción contra el asma, esta enfermedad no te bajará el ritmo. ¿Cuáles son las causas del asma? Nadie sabe realmente por qué algunos niños desarrollan esta enfermedad. De todos modos, el asma se tiende a dar por familias. Esto significa que, si un niño tiene asma, es posible que tenga un padre, un hermano u otro pariente con asma o bien que la padeciera cuando era niño. ¿El asma afecta la respiración? Tú haces miles de respiraciones cada día. Normalmente, cuando inspiras, el aire te entra por la nariz o por la boca y luego te baja por una vía respiratoria llamada tráquea. Desde allí, el aire te llega a los pulmones a través de unas vías respiratorias llamadas bronquios. Y tiene lugar el mismo proceso, pero al revés, cuando espiras. En el asma, las vías respiratorias siempre están un poco inflamadas (irritadas e hinchadas), incluso cuando una persona no presenta ningún síntoma asmático. Las vías respiratorias también reaccionan a ciertas cosas (“desencadenantes”), lo que hace que se inflamen más y que se llenen de mucosidades, obstruyendo el paso del aire. Los músculos que hay alrededor de las vías respiratorias se contraen, haciendo que estas se estrechen todavía más, lo que dificulta la respiración. Cuando esto ocurre, se llama crisis asmática, también conocida como \"ataque de asma\"."
+  },
+  "en": {
+    "title": "Asthma",
+    "description": "What Is Asthma? Asthma is a condition that affects the airways. People with asthma (say: AZ-muh) have breathing problems that come and go. They may cough, wheeze, or be short of breath. This happens because airways get swollen, narrowed, and filled with mucus. If you have asthma, you're not alone. Lots of kids have it — and lots take medicine to help them breathe better. With the right medicine and asthma action plan, asthma won't slow you down. What Causes Asthma? No one really knows why kids get asthma. Asthma tends to run in families, though. That means if a kid has asthma, they might have a parent, sibling, or other relative who has asthma or had it as a kid. How Does Asthma Affect Breathing? You take thousands of breaths every day. Normally, when you breathe in, air enters your nose or mouth and then goes to the windpipe, also called the trachea (say: TRAY-kee-uh). From there, the air travels into the lungs through breathing tubes. The whole process goes in reverse when you exhale. In asthma, the airways are always a little inflamed (irritated and swollen), even when a person has no symptoms. They’re also react to certain things (“triggers”) that make them get even more inflamed, swollen, and filled with mucus, blocking the flow of air. The muscles around the airways tighten, making them even narrower, which makes it very hard to breathe. When this happens, it is called an asthma flare-up or asthma attack."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/asthma.html",
+      "en": "https://kidshealth.org/en/kids/asthma.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:49:31.520Z"
+}

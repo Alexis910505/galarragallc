@@ -1,0 +1,22 @@
+{
+  "id": "hepatitis-b",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Hepatitis B",
+    "description": "La hepatitis B es una infección viral del hígado que puede ser aguda o crónica. Se transmite a través del contacto con sangre o fluidos corporales. La vacunación previene la enfermedad. El tratamiento incluye medicamentos antivirales para casos crónicos."
+  },
+  "en": {
+    "title": "Hepatitis B",
+    "description": "Hepatitis B is a viral liver infection that can be acute or chronic. It's transmitted through contact with blood or body fluids. Vaccination prevents the disease. Treatment includes antiviral medications for chronic cases."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hepatitis-b.html",
+      "en": "https://kidshealth.org/en/parents/hepatitis-b.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.898Z"
+}

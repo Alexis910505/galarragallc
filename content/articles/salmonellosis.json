@@ -1,0 +1,22 @@
+{
+  "id": "salmonellosis",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "La salmonelosis",
+    "description": "La salmonelosis es causada por bacterias Salmonella encontradas en alimentos contaminados. Los síntomas incluyen diarrea, fiebre y dolor abdominal. La mayoría de los casos son leves. El tratamiento incluye hidratación y descanso."
+  },
+  "en": {
+    "title": "Salmonellosis",
+    "description": "Salmonella infections are caused by bacteria found in contaminated food. Symptoms include diarrhea, fever, and abdominal pain. Most cases are mild. Treatment includes hydration and rest."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/salmonellosis.html",
+      "en": "https://kidshealth.org/en/parents/salmonellosis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.305Z"
+}

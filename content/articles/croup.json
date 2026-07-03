@@ -1,0 +1,22 @@
+{
+  "id": "croup",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-respiratorias",
+  "es": {
+    "title": "Crup",
+    "description": "El crup es una infección viral que causa inflamación de las vías respiratorias superiores. Los síntomas incluyen tos perruna, estridor y dificultad para respirar. Es más común en niños de 6 meses a 3 años. El tratamiento incluye humidificación y medicamentos."
+  },
+  "en": {
+    "title": "Croup",
+    "description": "Croup is a viral infection that causes inflammation of the upper airways. Symptoms include barking cough, stridor, and difficulty breathing. It's more common in children 6 months to 3 years. Treatment includes humidification and medications."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/croup.html",
+      "en": "https://kidshealth.org/en/parents/croup.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.882Z"
+}

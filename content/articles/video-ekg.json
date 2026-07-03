@@ -1,0 +1,22 @@
+{
+  "id": "video-ekg",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "corazon-y-sistema-cardiovascular",
+  "es": {
+    "title": "Obtención de un ECG (video)",
+    "description": "ECG es la abreviatura de electrocardiograma. \"Electro\" se refiere a la actividad eléctrica natural del corazón que este estudio registra a través de pequeños cables que se adhieren al pecho. No sentirá nada."
+  },
+  "en": {
+    "title": "Getting an ECG (video)",
+    "description": "EKG (also called ECG) is short for electrocardiogram. \"Electro\" refers to the heart's natural electrical activity, which the test records through small wires taped on your chest. You won't feel a thing."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-ekg.html",
+      "en": "https://kidshealth.org/en/kids/video-ekg.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.781Z"
+}

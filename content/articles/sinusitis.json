@@ -1,0 +1,22 @@
+{
+  "id": "sinusitis",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Sinusitis",
+    "description": "La sinusitis es la inflamación de los senos paranasales. Los síntomas incluyen congestión nasal, dolor facial y dolor de cabeza. Puede ser aguda o crónica. El tratamiento incluye descongestionantes, irrigación nasal y posiblemente antibióticos."
+  },
+  "en": {
+    "title": "Sinusitis",
+    "description": "Sinusitis is inflammation of the sinuses. Symptoms include nasal congestion, facial pain, and headache. It can be acute or chronic. Treatment includes decongestants, nasal irrigation, and possibly antibiotics."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/sinusitis.html",
+      "en": "https://kidshealth.org/en/parents/sinusitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.308Z"
+}

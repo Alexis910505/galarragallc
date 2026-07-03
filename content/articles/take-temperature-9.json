@@ -1,0 +1,22 @@
+{
+  "id": "take-temperature-9",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "el-sueno-del-nino",
+  "es": {
+    "title": "El sueño y su hijo de 1 a 3 meses",
+    "description": "Cuando creía que dormir por la noche era un sueño inalcanzable, su bebé empezará a dormir durante períodos más largos por la noche. El ciclo de sueño de su bebé se está empezando a parecer al suyo, y es posible que su pequeño se alimente menos a menudo por la noche. Rutinas y horarios de sueño ¿Cuánto tiempo dormirá mi bebé por la noche? En esta etapa, \"dormir toda la noche de un tirón\" se considera dormir solo cinco o seis horas seguidas. ¿Cuántas horas necesitan dormir los bebés de 1 a 3 meses? Puesto que los bebés de esta edad están más despiertos, más alerta y más atentos a lo que los rodea durante las horas de luz, es más probable que estén más cansados por la noche y se duerman. Pero sigue habiendo una gran variabilidad dentro de lo que se considera normal. Según la Fundación Nacional del Sueño de EE.UU. (NSF, por sus siglas en inglés), los bebés de hasta 3 meses de edad deben dormir de 14 a 17 horas cada período de 24 horas. Muchos ya habrán establecido una rutina de sueño diaria de 2 o 3 siestas al día, seguidas de un \"dormir toda la noche de un tirón\" después de la última toma."
+  },
+  "en": {
+    "title": "Sleep and your 1 to 3 month old",
+    "description": "When your child feels warm or seems out of sorts, knowing if a fever might be the cause can be helpful. Here's how to take your child's temperature, safely and accurately."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/take-temperature.html",
+      "en": "https://kidshealth.org/en/parents/take-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.126Z"
+}

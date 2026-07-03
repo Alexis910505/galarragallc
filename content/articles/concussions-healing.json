@@ -1,0 +1,22 @@
+{
+  "id": "concussions-healing",
+  "category": "teenagers",
+  "topic": "sports",
+  "subtopicId": "lesiones-en-los-deportes",
+  "es": {
+    "title": "Conmociones cerebrales: Consejos preventivos",
+    "description": "¿Qué es una conmoción cerebral? Una conmoción cerebral es una lesión cerebral que lleva a síntomas como el dolor de cabeza, el mareo y la confusión. Las conmociones cerebrales ocurren cuando alguien se golpea o le golpean la cabeza, o cuando se le sacude la cabeza con fuerza. Es importante tratar de prevenir las conmociones cerebrales porque pueden causar efectos duraderos y graves en el cerebro."
+  },
+  "en": {
+    "title": "Concussions: Prevention tips",
+    "description": "What's a Concussion? A concussion is a brain injury that leads to symptoms such as headache, dizziness, and confusion. Concussions happen when someone has a blow to the head, or the head is shaken back and forth with great force. It’s important to try to prevent concussions because they can cause long-lasting, serious effects on the brain."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/concussions-healing.html",
+      "en": "https://kidshealth.org/en/teens/concussions-healing.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:30:55.774Z"
+}

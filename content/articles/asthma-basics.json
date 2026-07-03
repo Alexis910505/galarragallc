@@ -1,0 +1,22 @@
+{
+  "id": "asthma-basics",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "asma-para-padres",
+  "es": {
+    "title": "¿Qué es el asma?",
+    "description": "¿Qué es el asma? El asma es una afección de las vías respiratorias. Las personas con asma tienen problemas respiratorios que vienen y van. Pueden toser, tener resuello, emitir \"pitos\" al respirar o faltarles el aliento. Esto ocurre porque sus vías respiratorias se inflaman, se estrechan y se llenan de mucosidades. El asma es frecuente en los niños y los adolescentes y tiende a darse por familias. Puede ser leve o tan grave como para llegarse a interponer en las actividades cotidianas. Con medicación y un buen plan de acción contra el asma, se pueden controlar los síntomas del asma para que niños y adolescentes puedan hacer cuanto quieran hacer."
+  },
+  "en": {
+    "title": "Asthma",
+    "description": "What Is Asthma? Asthma is a condition that affects the airways. People with asthma have breathing problems that come and go. They may cough, wheeze, or be short of breath. This happens because airways get swollen, narrowed, and filled with mucus. Asthma is common in kids and teens and tends to run in families. It can be mild or so severe that it gets in the way of daily activities. With medicine and the right care plan, asthma symptoms can be managed so that kids and teens can do just about anything they want to do."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/asthma-basics.html",
+      "en": "https://kidshealth.org/en/parents/asthma-basics.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:35:52.529Z"
+}

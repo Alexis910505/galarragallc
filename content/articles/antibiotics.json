@@ -1,0 +1,22 @@
+{
+  "id": "antibiotics",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "medicina",
+  "es": {
+    "title": "Antibióticos",
+    "description": "Los antibióticos son medicamentos que combaten las infecciones bacterianas. Solo deben usarse cuando sea necesario y según las indicaciones del médico. El uso excesivo puede causar resistencia bacteriana. Siempre completa el tratamiento prescrito."
+  },
+  "en": {
+    "title": "Antibiotics",
+    "description": "Antibiotics are medications that fight bacterial infections. They should only be used when necessary and as directed by the doctor. Overuse can cause bacterial resistance. Always complete the prescribed treatment."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/antibiotics.html",
+      "en": "https://kidshealth.org/en/parents/antibiotics.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:20.087Z"
+}

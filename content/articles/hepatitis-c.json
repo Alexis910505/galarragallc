@@ -1,0 +1,22 @@
+{
+  "id": "hepatitis-c",
+  "category": "teenagers",
+  "topic": "drugsAlcohol",
+  "subtopicId": "drogas",
+  "es": {
+    "title": "Hepatitis C",
+    "description": "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+  },
+  "en": {
+    "title": "Hepatitis C",
+    "description": "Hepatitis C is a viral liver infection that can become chronic. It's mainly transmitted through blood contact. Symptoms may be mild initially. Treatment includes antiviral medications. No vaccine is available."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hepatitis-c.html",
+      "en": "https://kidshealth.org/en/parents/hepatitis-c.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:20:19.256Z"
+}

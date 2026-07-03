@@ -1,0 +1,22 @@
+{
+  "id": "enough-sleep-video",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "el-sueno-del-nino",
+  "es": {
+    "title": "Cómo ayudar a mi hijo en edad adolescente a dormir lo suficiente",
+    "description": "¿Cómo puedo ayudar a mi hijo en edad adolescente a dormir lo suficiente? No dormir lo suficiente puede llevar a problemas de salud física y mental en los adolescentes. Al diseñar un plan, usted puede ayudar a su hijo a dormir mejor."
+  },
+  "en": {
+    "title": "Helping Your Teen Get Enough Sleep (Video)",
+    "description": "How Can I Help My Teen Get Enough Sleep? Not getting enough sleep can lead to physical and mental health problems in teens. By making a plan together, you can help your teen sleep better."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/enough-sleep-video.html",
+      "en": "https://kidshealth.org/en/parents/enough-sleep-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:59:31.095Z"
+}

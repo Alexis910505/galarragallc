@@ -1,0 +1,22 @@
+{
+  "id": "covid-19-vaccine-video",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "vacunas",
+  "es": {
+    "title": "Coronavirus (COVID-19): Comprender la vacuna contra el COVID-19",
+    "description": "Vacunarse contra el COVID-19 es la mejor manera de prevenir la propagación del virus y proteger a las familias de enfermedades graves. Vea este video para conocer cómo funcionan las vacunas."
+  },
+  "en": {
+    "title": "COVID-19: Understanding COVID-19 Vaccines",
+    "description": "Getting vaccinated against COVID-19 is the best way to prevent the spread of the virus and protect families from serious illness. Watch this video to learn about how the vaccines work."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/covid-19-vaccine-video.html",
+      "en": "https://kidshealth.org/en/parents/covid-19-vaccine-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:34.668Z"
+}

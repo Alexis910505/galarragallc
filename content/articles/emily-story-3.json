@@ -1,0 +1,22 @@
+{
+  "id": "emily-story-3",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "la-vida-con-afecciones-medicas",
+  "es": {
+    "title": "Enanismo: La historia de Emily (video)",
+    "description": "Emily es adoptada. Nació en Rusia con una afección denominada \"displasia diastrófica\". En este video, ella habla de los desafíos que ha tenido que enfrentar, tanto prácticos (conducir un automóvil) como intensos (perder a su madre adoptiva a los 15 años de edad). Con el peso de muchas operaciones en su espalda, Emily planea ir a la universidad y vivir bajo la filosofía que tiene tatuada en su brazo: El miedo es el límite/Los límites no te detendrán."
+  },
+  "en": {
+    "title": "Dwarfism: Emily's Story (Video)",
+    "description": "Emily was adopted from Russia, where she was born with a condition called diastrophic dysplasia. In this video, she talks about the challenges she's faced, both practical (like driving a car) and profound (losing her adoptive mom at age 15). With multiple surgeries now behind her, Emily plans to go to college and live by the philosophy tattooed on her arm: Fear is the limit."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/emily-story.html",
+      "en": "https://kidshealth.org/en/teens/emily-story.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:59:51.195Z"
+}

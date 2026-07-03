@@ -1,0 +1,22 @@
+{
+  "id": "ismovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Sistema inmunitario",
+    "description": "Si alguna vez te has preguntado de qué manera funciona tu sistema inmunitario, ¡mira este video!"
+  },
+  "en": {
+    "title": "How Does the Immune System Work? (Video)",
+    "description": "What Does the Immune System Do? If you've ever wondered how your immune system works, this movie is for you!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/ismovie.html",
+      "en": "https://kidshealth.org/en/kids/ismovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:19.155Z"
+}

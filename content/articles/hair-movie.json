@@ -1,0 +1,22 @@
+{
+  "id": "hair-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Pelo",
+    "description": "El vello crece en prácticamente todo el cuerpo. En este video sobre el pelo, miraremos debajo de la piel para saber qué pasa."
+  },
+  "en": {
+    "title": "How Does Hair Work? (Video)",
+    "description": "Hair grows almost everywhere on your body. In this hair video, you'll go under the skin to find out where hair begins."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/hair-movie.html",
+      "en": "https://kidshealth.org/en/kids/hair-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:18.656Z"
+}

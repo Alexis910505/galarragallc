@@ -1,0 +1,22 @@
+{
+  "id": "peritonsillar-abscess",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Abscesos periamigdalinos",
+    "description": "Los abscesos periamigdalinos son infecciones bacterianas que se forman alrededor de las amígdalas. Causan dolor intenso de garganta, dificultad para tragar y fiebre. Requieren tratamiento médico inmediato, generalmente con antibióticos y posiblemente drenaje quirúrgico."
+  },
+  "en": {
+    "title": "Peritonsillar abscesses",
+    "description": "Peritonsillar abscesses are bacterial infections that form around the tonsils. They cause severe sore throat, difficulty swallowing, and fever. They require immediate medical treatment, usually with antibiotics and possibly surgical drainage."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/peritonsillar-abscess.html",
+      "en": "https://kidshealth.org/en/parents/peritonsillar-abscess.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.298Z"
+}

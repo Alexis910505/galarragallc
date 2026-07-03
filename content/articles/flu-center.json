@@ -1,0 +1,22 @@
+{
+  "id": "flu-center",
+  "category": "children",
+  "topic": "illnessesInjuries",
+  "subtopicId": "la-gripe",
+  "es": {
+    "title": "Gripe (Centro de temas relacionados con la gripe)",
+    "description": "in English Gripe (influenza) Obtén consejos sobre cómo evitar la gripe este año. Más información • ¿Por qué las personas se contagian la gripe? La gripe es un virus que se contagia de persona a persona. Obtén información sobre los virus y otros gérmenes • ¿Qué debería hacer si tengo gripe? Quédate en casa para poder descansar y mejorarte. Quedarse en casa también evita que el virus contagie a muchas otras personas. Más información ¿Cómo me protejo y protejo a otros de la gripe? ¿Quién quiere enfermarse justo ahora? Hay tanto por hacer. He aquí cómo combatir a la gripe y otros gérmenes. Lávate las manos Piensa en todas las cosas que tocaste hoy. Tu lonchera. El baño. La goma de mascar que quedó debajo del escritorio. Información básica del lavado de manos No contagies a otros Ayuda a tus amigos y parientes. Haz tu parte para detener el contagio de la gripe (y otros gérmenes). Descubre cómo hacerlo ¿Cómo funciona el sistema inmunitario? ¿Por qué me siento tan mal? Scroll List Left • Estornudos • Vómitos • Mocos • Dolores corporales • Goteo nasal Scroll List Right ¿Qué significan estas palabras? • • Virus"
+  },
+  "en": {
+    "title": "Flu (Topic Center)",
+    "description": "en español The Flu (Influenza) Get tips and advice on how to stay flu-free this year. Learn More • Why Do People Get the Flu? The flu is a virus that spreads from person to person. Find out about viruses and other germs • What Should I Do if I Have the Flu? Stay home so you can rest and get better. Staying home also stops the flu virus from spreading to lots of other people. Learn more How Do I Protect Myself and Others From the Flu? Who wants to be sick right now? There's too much going on. Here's how to fight the flu and other germs. Wash Your Hands Think about all the things you touched today. Your lunchbox. The toilet. That still-gooey gum under the desk. Handwashing basics Don’t Spread It Around Help your friends and family. Do your part to stop the flu (and other germs) from spreading. Find out how How Does the Immune System Work? Why Do I Feel So Bad? Scroll List Left • Sneezing • Throwing Up • Boogers • Body Aches • Runny Nose Scroll List Right What Do These Words Mean? • Virus"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/center/flu-center.html",
+      "en": "https://kidshealth.org/en/kids/center/flu-center.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:02:54.687Z"
+}

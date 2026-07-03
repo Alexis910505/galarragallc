@@ -274,9 +274,7 @@ function AppContent() {
         setSelectedTopic={setSelectedTopic}
         expandedAccordion={expandedAccordion}
         handleAccordionClick={handleAccordionClick}
-        selectedSubtopic={selectedSubtopic}
         setSelectedSubtopic={setSelectedSubtopic}
-        isSubtopicDialogOpen={isSubtopicDialogOpen}
         setIsSubtopicDialogOpen={setIsSubtopicDialogOpen}
       />
 

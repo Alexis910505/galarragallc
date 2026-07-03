@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:39.371Z",
+  "category": "children",
+  "topic": "feelings",
+  "title": {
+    "es": "Sentimientos",
+    "en": "Feelings"
+  },
+  "description": {
+    "es": "¿Estás confundido, triste, enojado, alegre? Visita esta sección para obtener información acerca de estas emociones y muchas más, además de aprender a afrontarlas.",
+    "en": "Are you confused, sad, angry, happy? Visit this section to get information about these emotions and many more, and learn how to deal with them."
+  },
+  "subtopics": [
+    {
+      "id": "mis-emociones-y-mi-comportamiento",
+      "title": {
+        "es": "Mis emociones y mi comportamiento",
+        "en": "My emotions and my behavior"
+      },
+      "articles": [
+        "handle-abuse",
+        "abuse-help",
+        "anger",
+        "bullies",
+        "bullies-5",
+        "peer-pressure",
+        "divorce-cope",
+        "abuse-help-8",
+        "stress",
+        "relax-center",
+        "going-to-therapist",
+        "stuttering",
+        "phobias",
+        "somedie",
+        "special-needs",
+        "nightmares",
+        "5-steps",
+        "depression",
+        "feel-better-about-body",
+        "self-esteem",
+        "bullies-21",
+        "abuse-help-22",
+        "when-go-out",
+        "divorces"
+      ]
+    },
+    {
+      "id": "mis-amigos",
+      "title": {
+        "es": "Mis amigos",
+        "en": "My friends"
+      },
+      "articles": [
+        "clique",
+        "bullies-2",
+        "autism-friends",
+        "peer-pressure-4",
+        "no-dating",
+        "special-needs-6",
+        "when-go-out-7",
+        "just-friends",
+        "no-dating-9"
+      ]
+    },
+    {
+      "id": "mi-hogar-y-mi-familia",
+      "title": {
+        "es": "Mi hogar y mi familia",
+        "en": "My home and my family"
+      },
+      "articles": [
+        "homealone",
+        "divorce-cope-2",
+        "running-away",
+        "talk-parents",
+        "when-get-phone",
+        "when-stay-home-alone",
+        "talk-to-mom",
+        "talk-to-dad",
+        "divorces-9"
+      ]
+    },
+    {
+      "id": "mi-escuela",
+      "title": {
+        "es": "Mi escuela",
+        "en": "My school"
+      },
+      "articles": [
+        "homework-help",
+        "school-counselors",
+        "clique-3",
+        "no-dating-4",
+        "school-diabetes",
+        "back-to-school",
+        "organize-focus",
+        "middle-school",
+        "studying",
+        "test-anxiety",
+        "plagiarism"
+      ]
+    },
+    {
+      "id": "mis-ideas-y-mis-sentimientos",
+      "title": {
+        "es": "Mis ideas y mis sentimientos",
+        "en": "My thoughts and my feelings"
+      },
+      "articles": [
+        "sadness",
+        "abuse-help-2",
+        "eat-play-sleep",
+        "talk-feelings",
+        "volunteering",
+        "yoga-stress",
+        "shy",
+        "comments-scared",
+        "special-needs-9",
+        "nightmares-10",
+        "depression-11",
+        "thunderstorms",
+        "worry-less"
+      ]
+    }
+  ]
+}

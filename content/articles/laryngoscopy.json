@@ -1,0 +1,22 @@
+{
+  "id": "laryngoscopy",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "procedimientos-medicos",
+  "es": {
+    "title": "Laringoscopia",
+    "description": "¿Qué es una laringoscopia? Una laringoscopia consiste en usar una cámara especial para mirar por la garganta a fin de comprobar el estado de la laringe (u órgano fonador) y de las cuerdas vocales. Los médicos especializados en la garganta, la nariz y el oído (llamados \"otorrinolaringólogos\") son quienes llevan a cabo las laringoscopias. Pueden hacer: • una laringoscopia indirecta: el médico usa un espejo pequeño y una luz para examinar la laringe y las cuerdas vocales. • una laringoscopia directa flexible o una laringoscopia directa rígida: el médico observa la garganta directamente sin que sea necesario usar espejos."
+  },
+  "en": {
+    "title": "Laryngoscopy",
+    "description": "What Is Laryngoscopy? Laryngoscopy is when a doctor uses a special camera to look down the throat to see the voice box (larynx) and vocal cords. Ear, nose, and throat specialists (also called ENT doctors or otolaryngologists) do laryngoscopies. They can do: • an indirect laryngoscopy: The doctor uses a small mirror and a light to examine the larynx and vocal cords. • a direct flexible laryngoscopy or direct rigid laryngoscopy: The doctor looks into the throat directly without using mirrors."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/laryngoscopy.html",
+      "en": "https://kidshealth.org/en/parents/laryngoscopy.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:15:37.288Z"
+}

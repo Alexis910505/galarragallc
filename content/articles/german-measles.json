@@ -1,0 +1,22 @@
+{
+  "id": "german-measles",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Rubéola",
+    "description": "La rubéola es una enfermedad viral que causa erupción y fiebre leve. Es especialmente peligrosa para mujeres embarazadas ya que puede causar defectos de nacimiento. La vacunación previene la enfermedad. El tratamiento es de apoyo."
+  },
+  "en": {
+    "title": "Rubella",
+    "description": "Rubella is a viral disease that causes rash and mild fever. It's especially dangerous for pregnant women as it can cause birth defects. Vaccination prevents the disease. Treatment is supportive."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/german-measles.html",
+      "en": "https://kidshealth.org/en/parents/german-measles.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.890Z"
+}

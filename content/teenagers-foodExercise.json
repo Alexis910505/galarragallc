@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T17:38:07.546Z",
+  "category": "teenagers",
+  "topic": "foodExercise",
+  "title": {
+    "es": "Alimentos y actividad física",
+    "en": "Food & Fitness"
+  },
+  "description": {
+    "es": "¿Alguna vez te preguntaste si algunas dietas son realmente seguras? ¿O cómo destacarte en los deportes? Conoce la verdad acerca de la comida saludable, las dietas, el entrenamiento, los trastornos de la alimentación, los esteroides y mucho más.",
+    "en": "Have you ever wondered if some diets are really safe? Or how to excel in sports? Learn the truth about healthy eating, diets, training, eating disorders, steroids, and much more."
+  },
+  "subtopics": [
+    {
+      "id": "un-peso-saludable",
+      "title": {
+        "es": "Un peso saludable",
+        "en": "Healthy weight"
+      },
+      "articles": [
+        "weight-tips",
+        "summer-weight",
+        "emotional-eating",
+        "obesity",
+        "breakfast-sheet",
+        "easy-exercises",
+        "myplate",
+        "motivation",
+        "healthy-weight",
+        "fitness-nutrition-center",
+        "portion-size",
+        "dieting",
+        "exercise-log",
+        "weight-height",
+        "lose-weight-safely"
+      ]
+    },
+    {
+      "id": "ejercicio",
+      "title": {
+        "es": "Ejercicio",
+        "en": "Exercise"
+      },
+      "articles": [
+        "exercise-wise",
+        "quit-sports",
+        "sports-energy-drinks",
+        "bursitis",
+        "goals-tips",
+        "compulsive-exercise",
+        "easy-exercises-7",
+        "strength-training",
+        "find-sports",
+        "stretching",
+        "sports-physicals",
+        "motivation-12",
+        "article-2-13-lesiones-de-rodilla",
+        "fitness-nutrition-center-14",
+        "exercise-log-15",
+        "sport-safety"
+      ]
+    },
+    {
+      "id": "preguntas-y-respuestas-sobre-alimentos-y-actividad-fisica",
+      "title": {
+        "es": "Preguntas y respuestas sobre alimentos y actividad física",
+        "en": "Food and fitness Q&A"
+      },
+      "articles": [
+        "helmets-concussion",
+        "water",
+        "go-exercise",
+        "healthier-ff",
+        "expert-overeating"
+      ]
+    },
+    {
+      "id": "descripcion-basica-de-la-nutricion",
+      "title": {
+        "es": "Descripción básica de la nutrición",
+        "en": "Basic nutrition overview"
+      },
+      "articles": [
+        "veggies-tips",
+        "milk-allergy",
+        "concussions-sports",
+        "concussions-sports-4",
+        "food-allergies",
+        "organics",
+        "sports-energy-drinks-7",
+        "calcium",
+        "cholesterol",
+        "eating-out",
+        "cystic-fibrosis-dietary-tips",
+        "fat-calories",
+        "breakfast-sheet-13",
+        "milk-allergy-14",
+        "milk-allergy-15",
+        "eatnrun",
+        "myplate-17",
+        "lactose-intolerance",
+        "healthy-snacks",
+        "portion-size-20",
+        "vegetarian",
+        "vitamins-minerals",
+        "gain-weight"
+      ]
+    },
+    {
+      "id": "problemas-con-los-alimentos-y-el-ejercicio",
+      "title": {
+        "es": "Problemas con los alimentos y el ejercicio",
+        "en": "Food and exercise problems"
+      },
+      "articles": [
+        "concussions-sports-1",
+        "exercise-wise-2",
+        "bursitis-3",
+        "emotional-eating-4",
+        "stomachaches",
+        "compulsive-exercise-6",
+        "ankle-sprains",
+        "body-image",
+        "triad",
+        "fitness-nutrition-center-10",
+        "concussions-sports-11",
+        "eat-disorder"
+      ]
+    },
+    {
+      "id": "todo-sobre-los-deportes",
+      "title": {
+        "es": "Todo sobre los deportes",
+        "en": "All about sports"
+      },
+      "articles": [
+        "quit-sports-1",
+        "tips-sports",
+        "sports-energy-drinks-3",
+        "bursitis-4",
+        "goals-tips-5",
+        "safety-basketball",
+        "safety-baseball",
+        "safety-football",
+        "safety-gymnastics",
+        "cheerleading",
+        "safety-skiing",
+        "safety-soccer",
+        "field-hockey-safety",
+        "safety-hockey",
+        "safety-lacrosse",
+        "safety-wrestling",
+        "safety-swimming",
+        "safety-inline",
+        "phelps-coach",
+        "phelps-coach-20",
+        "safety-fastpitch",
+        "safety-inline-22",
+        "safety-volleyball",
+        "phelps-coach-24",
+        "sports-injuries",
+        "osgood",
+        "find-sports-27",
+        "ankle-sprains-28",
+        "sportsmanship",
+        "stretching-30",
+        "sports-physicals-31",
+        "stress-fractures",
+        "sports-pressure",
+        "eatnrun-34",
+        "hernias",
+        "triad-36",
+        "article-6-37-lesiones-de-rodilla",
+        "mcl-injuries",
+        "testicular-injuries",
+        "rsi",
+        "sports-center",
+        "sport-safety-42",
+        "sports-supplements",
+        "steroids",
+        "concussions-sports-45"
+      ]
+    },
+    {
+      "id": "bienestar-general",
+      "title": {
+        "es": "Bienestar general",
+        "en": "General wellness"
+      },
+      "articles": [
+        "exercise-wise-1",
+        "body-image-2",
+        "fitness-nutrition-center-3",
+        "healthy-snacks-4",
+        "weight-height-5",
+        "how-much-sleep"
+      ]
+    }
+  ]
+}

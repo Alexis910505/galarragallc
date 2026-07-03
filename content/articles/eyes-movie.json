@@ -1,0 +1,22 @@
+{
+  "id": "eyes-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Ojos",
+    "description": "Los ojos te permiten ver. Pero, ¿cómo ocurre esta visión? En este video podrás enterarte de qué manera los ojos y el cerebro trabajan juntos."
+  },
+  "en": {
+    "title": "How Do the Eyes Work? (Video)",
+    "description": "Your eyes see, but how does vision happen? Find out how the eyes and brain work together in this eye video."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/eyes-movie.html",
+      "en": "https://kidshealth.org/en/kids/eyes-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:17.834Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "swimmer-ear",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-oido-nariz-y-garganta",
+  "es": {
+    "title": "Otitis externa (oído de nadador)",
+    "description": "La otitis externa es la infección del canal auditivo externo. Es común en nadadores. Los síntomas incluyen dolor de oído, picazón y secreción. El tratamiento incluye gotas antibióticas para el oído. La prevención incluye mantener los oídos secos."
+  },
+  "en": {
+    "title": "External otitis (swimmer's ear)",
+    "description": "External otitis is infection of the external ear canal. It's common in swimmers. Symptoms include ear pain, itching, and discharge. Treatment includes antibiotic ear drops. Prevention includes keeping ears dry."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/swimmer-ear.html",
+      "en": "https://kidshealth.org/en/parents/swimmer-ear.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.884Z"
+}

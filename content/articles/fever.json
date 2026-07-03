@@ -1,0 +1,22 @@
+{
+  "id": "fever",
+  "category": "parents",
+  "topic": "firstAidSafety",
+  "subtopicId": "emergencias",
+  "es": {
+    "title": "Fiebre",
+    "description": "La fiebre es una señal de que el cuerpo está luchando contra una infección. En niños, la fiebre generalmente no es peligrosa. Monitorea otros síntomas. Usa medicamentos para reducir la fiebre si el niño está incómodo. Consulta a un médico si persiste."
+  },
+  "en": {
+    "title": "Fever",
+    "description": "Fever is a sign that the body is fighting an infection. In children, fever is generally not dangerous. Monitor other symptoms. Use medications to reduce fever if the child is uncomfortable. Consult a doctor if it persists."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/fever.html",
+      "en": "https://kidshealth.org/en/parents/fever.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:19.342Z"
+}

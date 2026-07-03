@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:24.071Z",
+  "category": "children",
+  "topic": "body",
+  "title": {
+    "es": "Cómo funciona tu cuerpo",
+    "en": "How the Body Works"
+  },
+  "description": {
+    "es": "Tu cuerpo es una máquina inteligente compuesta de muchas partes importantes. Ve videos, lee artículos y haz actividades para obtener más información.",
+    "en": "Your body is an intelligent machine made up of many important parts. Watch videos, read articles and do activities to learn more."
+  },
+  "subtopics": [
+    {
+      "id": "articulos-y-videos",
+      "title": {
+        "es": "Artículos y videos",
+        "en": "Articles and videos"
+      },
+      "articles": [
+        "digest",
+        "bodyarticles",
+        "bodymovies",
+        "tongue",
+        "nails-nosw",
+        "ear",
+        "brain",
+        "nose",
+        "teeth",
+        "dsmovie",
+        "usmovie",
+        "nsmovie",
+        "csmovie",
+        "teeth-movie",
+        "esmovie",
+        "ssmovie",
+        "tongue-movie",
+        "msmovie",
+        "nose-movie",
+        "eyes-movie",
+        "ears-movie",
+        "hair-movie",
+        "healthy-weight-movie",
+        "skin-movie",
+        "ismovie",
+        "nails-movie",
+        "rsmovie"
+      ]
+    }
+  ]
+}

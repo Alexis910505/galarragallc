@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:31:16.426Z",
+  "category": "teenagers",
+  "topic": "expertAnswers",
+  "title": {
+    "es": "Preguntas y respuestas",
+    "en": "Expert Answers (Q&A)"
+  },
+  "description": {
+    "es": "¿Tienes alguna pregunta? ¿Qué dicen los expertos? Encuentra las respuestas a muchas de las preguntas que nos hacen los adolescentes.",
+    "en": "Do you have a question? What do the experts say? Find answers to many of the questions that teens ask us."
+  },
+  "subtopics": [
+    {
+      "id": "control-de-la-natalidad-embarazo-y-enfermedades-de-transmision-sexual",
+      "title": {
+        "es": "Control de la natalidad, embarazo y enfermedades de transmisión sexual",
+        "en": "Birth control, pregnancy and sexually transmitted diseases"
+      },
+      "articles": [
+        "avoid-pregnancy",
+        "talktoparents",
+        "get-pill",
+        "std-talk",
+        "condom-check",
+        "expert-yeast-infection",
+        "condom-tore",
+        "std-odds",
+        "standing",
+        "pelvic-exam-bc",
+        "storing-condoms",
+        "contraception-douche",
+        "gbs-hpv",
+        "cramps",
+        "effective-condoms",
+        "al-pregnancy",
+        "pre-period",
+        "hpv-shots",
+        "hpv-query",
+        "infections",
+        "fgrng-pregnancy",
+        "irregular-periods-qa",
+        "expert-pregnant",
+        "first-time",
+        "pregnancy-risk",
+        "sex-during-period",
+        "period-pregnancy",
+        "breakage",
+        "ingrowns",
+        "sex-period",
+        "2-condoms",
+        "std-diagnosis",
+        "transmit-hsv",
+        "lost-condom"
+      ]
+    },
+    {
+      "id": "la-imagen-que-tienes-del-cuerpo-y-la-autoestima",
+      "title": {
+        "es": "La imagen que tienes del cuerpo y la autoestima",
+        "en": "Body image and self-esteem"
+      },
+      "articles": [
+        "expert-guy-breast",
+        "extra-skin",
+        "diet-query",
+        "no-exercise",
+        "growth-touch",
+        "larger-breasts",
+        "sore-breasts"
+      ]
+    },
+    {
+      "id": "depresion-suicidio-y-causarse-dano",
+      "title": {
+        "es": "Depresión, suicidio y causarse daño",
+        "en": "Depression, suicide and self-harm"
+      },
+      "articles": [
+        "stop-suicide"
+      ]
+    },
+    {
+      "id": "doctores-hospitales-y-medicina",
+      "title": {
+        "es": "Doctores, hospitales y medicina",
+        "en": "Doctors, hospitals and medicine"
+      },
+      "articles": [
+        "inhaler-help",
+        "get-pill-2",
+        "new-doctor",
+        "take-charge",
+        "doctor-alone",
+        "gbs-hpv-6",
+        "hpv-shots-7",
+        "gardasil"
+      ]
+    },
+    {
+      "id": "emociones-y-salud-mental",
+      "title": {
+        "es": "Emociones y salud mental",
+        "en": "Emotions and mental health"
+      },
+      "articles": [
+        "expert-nightmares",
+        "puberty-asperger"
+      ]
+    },
+    {
+      "id": "actividad-fisica-ejercicio-y-deportes",
+      "title": {
+        "es": "Actividad física, ejercicio y deportes",
+        "en": "Physical activity, exercise and sports"
+      },
+      "articles": [
+        "helmets-concussion",
+        "inhaler-help-2",
+        "water",
+        "sports-bra",
+        "sore-muscles",
+        "go-exercise",
+        "hot-workout",
+        "no-exercise-8",
+        "acl-surgery",
+        "play-injury"
+      ]
+    },
+    {
+      "id": "amistad",
+      "title": {
+        "es": "Amistad",
+        "en": "Friendship"
+      },
+      "articles": [
+        "making-friends-es",
+        "friend-harassment",
+        "discuss-rape",
+        "help-autism",
+        "expert-smoking",
+        "std-talk-6",
+        "friend-flareup"
+      ]
+    },
+    {
+      "id": "higiene-personal",
+      "title": {
+        "es": "Higiene personal",
+        "en": "Personal hygiene"
+      },
+      "articles": [
+        "hyperhidrosis"
+      ]
+    },
+    {
+      "id": "afecciones-y-enfermedades",
+      "title": {
+        "es": "Afecciones y enfermedades",
+        "en": "Conditions and diseases"
+      },
+      "articles": [
+        "helmets-concussion-1",
+        "standing-2",
+        "making-friends-es-3",
+        "sickle-college",
+        "puberty-asperger-5",
+        "contagious",
+        "curable",
+        "flu-school",
+        "expert-yeast-infection-9",
+        "sickle-cell-genes",
+        "simulator-sickness",
+        "lumps-testicles",
+        "friend-flareup-13"
+      ]
+    },
+    {
+      "id": "mononucleosis",
+      "title": {
+        "es": "Mononucleosis",
+        "en": "Mononucleosis"
+      },
+      "articles": [
+        "expert-mono",
+        "mono-alcohol",
+        "quick-mono",
+        "expert-mononucleosis"
+      ]
+    },
+    {
+      "id": "alimentos-y-nutricion-para-adolescentes",
+      "title": {
+        "es": "Alimentos y nutrición para adolescentes",
+        "en": "Food and nutrition for teens"
+      },
+      "articles": [
+        "skinny-eats",
+        "water-2",
+        "healthier-ff",
+        "expert-overeating"
+      ]
+    },
+    {
+      "id": "padres-y-familia",
+      "title": {
+        "es": "Padres y familia",
+        "en": "Parents and family"
+      },
+      "articles": [
+        "take-charge-1",
+        "doctor-alone-2",
+        "stds-check"
+      ]
+    },
+    {
+      "id": "periodos",
+      "title": {
+        "es": "Períodos",
+        "en": "Periods"
+      },
+      "articles": [
+        "expert-period",
+        "expert-irregular-periods",
+        "period",
+        "pill-irregular",
+        "tampons-bathing",
+        "period-affected",
+        "cramps-7",
+        "pre-period-8",
+        "practicing",
+        "irregular-periods-qa-10",
+        "sex-period-11",
+        "virgin"
+      ]
+    },
+    {
+      "id": "escuela-y-trabajos",
+      "title": {
+        "es": "Escuela y trabajos",
+        "en": "School and jobs"
+      },
+      "articles": [
+        "making-friends-es-1",
+        "sickle-college-2"
+      ]
+    },
+    {
+      "id": "sexo",
+      "title": {
+        "es": "Sexo",
+        "en": "Sex"
+      },
+      "articles": [
+        "std-testing",
+        "friend-harassment-2",
+        "avoid-pregnancy-3",
+        "std-odds-4",
+        "doctor-talk",
+        "standing-6",
+        "normal",
+        "thinking",
+        "storing-condoms-9",
+        "growth-touch-10",
+        "expert-masturbation",
+        "hpv-shots-12",
+        "tighties",
+        "would-doc-know",
+        "remove-tampon",
+        "infections-16",
+        "hsv1-sores",
+        "stop-dreams",
+        "stds-check-19",
+        "sex-during-period-20",
+        "3shots",
+        "breakage-22",
+        "lumps-testicles-23",
+        "ingrowns-24",
+        "expert-wet-dreams",
+        "bleeding-ft",
+        "y-infection",
+        "sex-period-28",
+        "std-diagnosis-29",
+        "lost-condom-30"
+      ]
+    },
+    {
+      "id": "problemas-de-piel",
+      "title": {
+        "es": "Problemas de piel",
+        "en": "Skin problems"
+      },
+      "articles": [
+        "keratosis-pilaris",
+        "sunburn",
+        "skincare-products",
+        "ingrowns-4"
+      ]
+    },
+    {
+      "id": "sueno",
+      "title": {
+        "es": "Sueño",
+        "en": "Sleep"
+      },
+      "articles": [
+        "expert-nightmares-1",
+        "bra-sleep",
+        "blue-light",
+        "sleep-paralysis",
+        "sleepless",
+        "expert-wet-dreams-6"
+      ]
+    },
+    {
+      "id": "alcohol-y-drogas",
+      "title": {
+        "es": "Alcohol y drogas",
+        "en": "Alcohol and drugs"
+      },
+      "articles": [
+        "mono-alcohol-1"
+      ]
+    },
+    {
+      "id": "dietas-y-peso",
+      "title": {
+        "es": "Dietas y peso",
+        "en": "Diets and weight"
+      },
+      "articles": [
+        "extra-skin-1",
+        "diet-query-2",
+        "go-exercise-3",
+        "no-exercise-4",
+        "expert-overeating-5"
+      ]
+    }
+  ]
+}

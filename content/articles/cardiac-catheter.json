@@ -1,0 +1,22 @@
+{
+  "id": "cardiac-catheter",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "procedimientos-medicos",
+  "es": {
+    "title": "Cateterismo cardíaco",
+    "description": "¿Qué es un cateterismo cardíaco? Un cateterismo cardíaco es un procedimiento que practican los cardiólogos (médicos especializados en el corazón). Introducen un catéter (un tubito largo y fino) dentro de un vaso sanguíneo y luego lo guían hasta que llegue al corazón. Los cateterismos cardíacos ayudan a los médicos a diagnosticar y tratar muchos tipos diferentes de problemas cardíacos. ¿Por qué se hacen los cateterismos cardíacos? Los médicos pueden hacer un cateterismo cardíaco a niños o adolescentes para: • Observar cómo están formados y conectados entre sí los vasos sanguíneos y el corazón. • Comprobar la presión y el nivel de oxígeno que hay dentro del corazón y de los vasos sanguíneos. • Tratar una anomalía cardíaca congénita (un problema del corazón con el que nacen algunos bebés). • Tratar una frecuencia cardíaca irregular (arritmia). • Abrir válvulas cardíacas demasiado estrechas (lo que se llama \"angioplastia\"). • Reparar válvulas del corazón demasiado estrechas o con filtraciones."
+  },
+  "en": {
+    "title": "Cardiac Catheterization",
+    "description": "What Is a Cardiac Catheterization? A cardiac catheterization is a procedure that cardiologists (heart doctors) do. They put a catheter (a long, thin tube) into a blood vessel, then guide it the heart. Cardiac catheterizations help doctors diagnose and treat many different heart problems. Why Are Cardiac Catheterizations Done? Doctors might do a cardiac catheterization (kath-eh-tur-ih-ZAY-shen) on kids or teens to: • Look at how the heart and blood vessels are formed and connected. • Check the pressure and oxygen level in the heart and blood vessels. • Treat a congenital heart defect (a heart problem that a baby is born with). • Treat an irregular heartbeat (arrhythmia). • Open up narrowed blood vessels (called angioplasty). • Repair leaky or narrow heart valves."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cardiac-catheter.html",
+      "en": "https://kidshealth.org/en/parents/cardiac-catheter.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:02.036Z"
+}

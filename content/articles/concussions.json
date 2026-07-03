@@ -1,0 +1,22 @@
+{
+  "id": "concussions",
+  "category": "teenagers",
+  "topic": "staySafe",
+  "subtopicId": "primeros-auxilios-y-lesiones",
+  "es": {
+    "title": "Conmociones cerebrales",
+    "description": "¿Qué es una conmoción cerebral? Una conmoción cerebral es una lesión que afecta el funcionamiento del cerebro y puede causar síntomas, como dolor de cabeza, mareos y confusión. Los síntomas suelen desaparecer luego de unos pocos días o de hasta un mes, con reposo y una vuelta gradual a la escuela y a las actividades regulares. A veces, los síntomas duran más tiempo."
+  },
+  "en": {
+    "title": "Concussions",
+    "description": "What Is a Concussion? A concussion is a brain injury that affects the way the brain works and can lead to symptoms such as headache, dizziness, and confusion. Symptoms usually go away within a few days to a month with rest and a gradual return to school and regular activities. Sometimes, the symptoms last longer."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/concussions.html",
+      "en": "https://kidshealth.org/en/parents/concussions.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:42:47.439Z"
+}

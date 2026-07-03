@@ -1,0 +1,22 @@
+{
+  "id": "rotavirus",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-gastrointestinales",
+  "es": {
+    "title": "Rotavirus",
+    "description": "El rotavirus es una causa común de gastroenteritis viral en niños. Los síntomas incluyen diarrea severa, vómitos y fiebre. La deshidratación es la principal complicación. La vacunación previene la enfermedad. El tratamiento incluye rehidratación oral."
+  },
+  "en": {
+    "title": "Rotavirus",
+    "description": "Rotavirus is a common cause of viral gastroenteritis in children. Symptoms include severe diarrhea, vomiting, and fever. Dehydration is the main complication. Vaccination prevents the disease. Treatment includes oral rehydration."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/rotavirus.html",
+      "en": "https://kidshealth.org/en/parents/rotavirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.886Z"
+}

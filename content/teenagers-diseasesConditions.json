@@ -1,0 +1,488 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T17:49:18.726Z",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "title": {
+    "es": "Enfermedades y dolencias",
+    "en": "Diseases & Conditions"
+  },
+  "description": {
+    "es": "Desde el asma hasta las úlceras, esta sección está llena de artículos acerca de enfermedades y dolencias que pueden afectar a los adolescentes. Obtén información de salud y recursos para ti mismo o para alguien por quien te preocupas.",
+    "en": "From asthma to ulcers, this section is full of articles about diseases and conditions that can affect teens. Get health information and resources for yourself or someone you care about."
+  },
+  "subtopics": [
+    {
+      "id": "alergias-asma-y-el-sistema-inmunologico",
+      "title": {
+        "es": "Alergias, asma y el sistema inmunológico",
+        "en": "Allergies, asthma and the immune system"
+      },
+      "articles": [
+        "milk-allergy",
+        "asthma-triggers",
+        "sickle-cell-trait-altitude",
+        "asthma-triggers-4",
+        "sickle-cell-trait-altitude-5",
+        "food-allergies",
+        "food-allergies-7",
+        "food-allergy-coping",
+        "asthma-asma",
+        "asthma-center",
+        "asthma-asma-11",
+        "sickle-cell-trait-altitude-12",
+        "ozone-asthma",
+        "milk-allergy-14",
+        "milk-allergy-15",
+        "smoking-asthma",
+        "poison-ivy",
+        "school-asthma",
+        "lupus",
+        "asthma-triggers-20",
+        "helping-allergies",
+        "video-spirometer",
+        "prep",
+        "allergy-tests",
+        "psoriasis",
+        "asthma-flare-up",
+        "anaphylaxis",
+        "cfs",
+        "stem-cells",
+        "thrombocytopenia",
+        "milk-allergy-31",
+        "travel-asthma",
+        "travel-allergies",
+        "asthma-mgmt",
+        "asthma-asma-35",
+        "nebulizer-inhaler",
+        "allergies-asthma",
+        "asthma-sports",
+        "a-action"
+      ]
+    },
+    {
+      "id": "enfermedades-de-la-sangre",
+      "title": {
+        "es": "Enfermedades de la sangre",
+        "en": "Blood diseases"
+      },
+      "articles": [
+        "milk-allergy-1",
+        "sickle-crisis",
+        "crizanlizumab",
+        "donating-blood",
+        "sickle-cell-anemia",
+        "sickle-cell-disease-info",
+        "sickle-cell-take-charge",
+        "blood-types",
+        "hydroxyurea",
+        "l-glutamine",
+        "care-sickle-cell",
+        "sickle-cell-disease-preventive-meds",
+        "video-bldtest",
+        "sickle-cell-trait",
+        "sickle-cell-trait-15",
+        "sickle-cell-trait-problems",
+        "sickle-cell-trait-altitude-17",
+        "stem-cells-18",
+        "sickle-cell-treatment",
+        "thrombocytopenia-20",
+        "sickle-cell-trait-malaria",
+        "sickle-cell-friend",
+        "electrophoresis",
+        "sickle-cell-genes"
+      ]
+    },
+    {
+      "id": "biblioteca-sobre-la-descripcion-basica-del-cuerpo",
+      "title": {
+        "es": "Biblioteca sobre la descripción básica del cuerpo",
+        "en": "Basic body overview library"
+      },
+      "articles": [
+        "milk-allergy-1",
+        "endocrine",
+        "sickle-cell-trait-altitude-3"
+      ]
+    },
+    {
+      "id": "afecciones-de-huesos-musculos-y-articulaciones",
+      "title": {
+        "es": "Afecciones de huesos, músculos y articulaciones",
+        "en": "Bone, muscle and joint conditions"
+      },
+      "articles": [
+        "severs-disease",
+        "steven-story",
+        "bursitis",
+        "kyphosis",
+        "hip-pointer",
+        "sickle-cell-trait-altitude-6",
+        "quad-contusions",
+        "meniscus-tear",
+        "acl-injuries",
+        "scfe",
+        "strains-sprains",
+        "hamstring-strain",
+        "groin-strain",
+        "osgood",
+        "casts",
+        "scoliosis",
+        "scoliosis-17",
+        "ankle-sprains",
+        "milk-allergy-19",
+        "milk-allergy-20",
+        "fractures-comminuted",
+        "sickle-cell-trait-altitude-22",
+        "fractures-greenstick",
+        "stress-fractures",
+        "splints",
+        "triad",
+        "story-caroline",
+        "mcl-injuries",
+        "repetitive-stress-sports",
+        "rsi",
+        "lupus-31",
+        "sickle-cell-trait-altitude-32",
+        "osteomyelitis",
+        "story-ira",
+        "shin-splints",
+        "cast-care",
+        "sickle-cell-trait-altitude-37",
+        "slj-syndrome",
+        "achilles",
+        "biceps-tendonitis",
+        "acl-surgery"
+      ]
+    },
+    {
+      "id": "tu-cerebro-y-el-sistema-nervioso",
+      "title": {
+        "es": "Tu cerebro y el sistema nervioso",
+        "en": "Your brain and nervous system"
+      },
+      "articles": [
+        "strokes",
+        "helmets-concussion",
+        "concussions",
+        "concussions-ctr",
+        "concussions-healing",
+        "concussions-alex",
+        "milk-allergy-7",
+        "headaches",
+        "lyme-disease",
+        "epilepsy",
+        "migraines",
+        "story-ira-12",
+        "head-injury",
+        "cfs-14",
+        "school-concussions",
+        "concussions-sports",
+        "lyme-risk-teen",
+        "why-depressed"
+      ]
+    },
+    {
+      "id": "cancer-y-tumores",
+      "title": {
+        "es": "Cáncer y tumores",
+        "en": "Cancer and tumors"
+      },
+      "articles": [
+        "deal-with-cancer",
+        "cancer-center",
+        "cancer",
+        "side-effects-chemo-radiation",
+        "treatment-steroids",
+        "melanoma",
+        "friend-cancer",
+        "chemo",
+        "radiation",
+        "thrombocytopenia-10",
+        "fertility"
+      ]
+    },
+    {
+      "id": "sistema-digestivo",
+      "title": {
+        "es": "Sistema digestivo",
+        "en": "Digestive system"
+      },
+      "articles": [
+        "ulcerative-colitis",
+        "cholera",
+        "stomachaches",
+        "milk-allergy-4",
+        "crohns-disease",
+        "ringworm",
+        "helping-allergies-7",
+        "video-uppergi",
+        "cystic-fibrosis",
+        "cf-dietary",
+        "hernias",
+        "indigestion",
+        "lactose-intolerance",
+        "sickle-cell-trait-altitude-14",
+        "gerd",
+        "ulcers"
+      ]
+    },
+    {
+      "id": "afecciones-geneticas-cromosomicas-y-metabolicas-para-adolescentes",
+      "title": {
+        "es": "Afecciones genéticas, cromosómicas y metabólicas para adolescentes",
+        "en": "Genetic, chromosomal and metabolic conditions for teens"
+      },
+      "articles": [
+        "albinism",
+        "sickle-crisis-2",
+        "dwarfism",
+        "emily-story",
+        "sickle-cell-disease-info-5",
+        "sickle-cell-take-charge-6",
+        "genes-genetic-disorders",
+        "hydroxyurea-8",
+        "l-glutamine-9",
+        "sickle-cell-trait-10",
+        "sickle-cell-trait-11",
+        "klinefelter",
+        "turner",
+        "sickle-cell-trait-altitude-14",
+        "sickle-cell-treatment-15",
+        "sickle-cell-trait-malaria-16",
+        "electrophoresis-17",
+        "sickle-cell-genes-18"
+      ]
+    },
+    {
+      "id": "crecimiento-hormonas-y-diabetes",
+      "title": {
+        "es": "Crecimiento, hormonas y diabetes",
+        "en": "Growth, hormones and diabetes"
+      },
+      "articles": [
+        "athletes-diabetes-tips",
+        "diabetes-center",
+        "type1",
+        "dwarfism-4",
+        "medicines-diabetes",
+        "growth-hormone",
+        "cfs-7",
+        "type2"
+      ]
+    },
+    {
+      "id": "corazon-y-sistema-cardiovascular",
+      "title": {
+        "es": "Corazón y sistema cardiovascular",
+        "en": "Heart and cardiovascular system"
+      },
+      "articles": [
+        "echocardiogram",
+        "coa",
+        "hypertension",
+        "video-ekg"
+      ]
+    },
+    {
+      "id": "trastornos-del-aprendizaje",
+      "title": {
+        "es": "Trastornos del aprendizaje",
+        "en": "Learning disorders"
+      },
+      "articles": [
+        "sickle-crisis-1",
+        "ritalin",
+        "adhd-tips",
+        "adhd",
+        "autism"
+      ]
+    },
+    {
+      "id": "estudios-clinicos-y-procedimientos",
+      "title": {
+        "es": "Estudios clínicos y procedimientos",
+        "en": "Clinical studies and procedures"
+      },
+      "articles": [
+        "tips-shots",
+        "video-iv",
+        "echocardiogram-3",
+        "video-uppergi-4",
+        "video-urtest",
+        "video-bldtest-6",
+        "video-ekg-7",
+        "video-spirometer-8",
+        "video-strep",
+        "video-xray",
+        "video-mri",
+        "video-ctscan",
+        "sickle-cell-trait-altitude-13"
+      ]
+    },
+    {
+      "id": "boca-y-dientes",
+      "title": {
+        "es": "Boca y dientes",
+        "en": "Mouth and teeth"
+      },
+      "articles": [
+        "peritonsillar-abscess",
+        "milk-allergy-2",
+        "gum-disease",
+        "halitosis"
+      ]
+    },
+    {
+      "id": "sobrepeso-y-obesidad",
+      "title": {
+        "es": "Sobrepeso y obesidad",
+        "en": "Overweight and obesity"
+      },
+      "articles": [
+        "exercise-wise",
+        "acanthosis",
+        "goals-tips",
+        "gastric-sleeve",
+        "sickle-cell-trait-altitude-5",
+        "cholesterol",
+        "emotional-eating",
+        "weight-management",
+        "obesity",
+        "feelings-overweight",
+        "obesity-overweight",
+        "hypertension-12",
+        "brandon-vd",
+        "exercise-log",
+        "pcos",
+        "sickle-cell-trait-altitude-16",
+        "weight-therapists",
+        "lose-weight-safely",
+        "type2-19",
+        "expert-overeating"
+      ]
+    },
+    {
+      "id": "la-vida-con-afecciones-medicas",
+      "title": {
+        "es": "La vida con afecciones médicas",
+        "en": "Living with medical conditions"
+      },
+      "articles": [
+        "steven-story-1",
+        "concussions-alex-2",
+        "emily-story-3",
+        "story-caroline-4"
+      ]
+    },
+    {
+      "id": "pulmones-y-sistema-respiratorio",
+      "title": {
+        "es": "Pulmones y sistema respiratorio",
+        "en": "Lungs and respiratory system"
+      },
+      "articles": [
+        "asthma-asma-1",
+        "cystic-fibrosis-dietary-tips",
+        "incentive-spirometer",
+        "cystic-fibrosis-4",
+        "cf-dietary-5",
+        "video-xray-6",
+        "sickle-cell-trait-altitude-7",
+        "use-incentive-spirometer"
+      ]
+    },
+    {
+      "id": "salud-sexual-y-sistema-reproductivo",
+      "title": {
+        "es": "Salud sexual y sistema reproductivo",
+        "en": "Sexual health and reproductive system"
+      },
+      "articles": [
+        "endometriosis",
+        "pelvic-exams",
+        "breast-exams",
+        "triad-4",
+        "testicular-injuries",
+        "delayed-puberty",
+        "dub",
+        "klinefelter-8",
+        "pcos-9",
+        "turner-10",
+        "menstrual-problems",
+        "torsion",
+        "varicocele",
+        "tse",
+        "aids",
+        "vdischarge2",
+        "hpv-query"
+      ]
+    },
+    {
+      "id": "vision-habla-y-audicion",
+      "title": {
+        "es": "Visión, habla y audición",
+        "en": "Vision, speech and hearing"
+      },
+      "articles": [
+        "earbuds",
+        "sickle-cell-trait-altitude-2",
+        "asthma-center-3",
+        "eardrums",
+        "visual-impairment",
+        "hearing-impairment"
+      ]
+    },
+    {
+      "id": "piel-cabello-y-unas",
+      "title": {
+        "es": "Piel, cabello y uñas",
+        "en": "Skin, hair and nails"
+      },
+      "articles": [
+        "abscess",
+        "acanthosis-2",
+        "acne",
+        "cellulite",
+        "cuts",
+        "wounds",
+        "dandruff",
+        "lupus-8",
+        "molluscum-contagiosum",
+        "bruises",
+        "athletes-foot",
+        "head-lice",
+        "pityriasis",
+        "psoriasis-14",
+        "keratosis-pilaris",
+        "sunburn",
+        "ringworm-17",
+        "jock-itch",
+        "milk-allergy-19",
+        "ingrown",
+        "vitiligo",
+        "acne-scars",
+        "prevent-acne"
+      ]
+    },
+    {
+      "id": "rinones-y-sistema-urinario",
+      "title": {
+        "es": "Riñones y sistema urinario",
+        "en": "Kidneys and urinary system"
+      },
+      "articles": [
+        "milk-allergy-1",
+        "sickle-cell-trait-altitude-2",
+        "milk-allergy-3",
+        "glomerulonephritis",
+        "milk-allergy-5",
+        "sickle-cell-trait-problems-6",
+        "kidney-stones",
+        "hematuria",
+        "kidney-transplant"
+      ]
+    }
+  ]
+}

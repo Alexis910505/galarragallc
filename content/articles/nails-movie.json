@@ -1,0 +1,22 @@
+{
+  "id": "nails-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Uñas",
+    "description": "La función de las uñas no es solamente verse bonitas. Mira este video sobre las uñas para saber cómo crecen y por qué no debes comértelas."
+  },
+  "en": {
+    "title": "How Do Nails Work? (Video)",
+    "description": "What Do Fingernails and Toenails Do? Your nails aren't just there to look pretty. Watch this nails video to find out how nails grow and why you shouldn't bite them!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/nails-movie.html",
+      "en": "https://kidshealth.org/en/kids/nails-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:20.369Z"
+}

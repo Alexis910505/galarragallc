@@ -1,0 +1,22 @@
+{
+  "id": "healthy-weight-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Peso saludable",
+    "description": "Hay personas de todas las formas y tamaños. Pero, ¿cuál es un peso saludable? Mira esta película para saberlo. Y un agradecimiento especial para la Fundación de beneficencia Fred J. Brotherton Charitable Foundation por su apoyo en esta aventura."
+  },
+  "en": {
+    "title": "What Makes a Healthy Weight? (Video)",
+    "description": "People come in all shapes and sizes. But what makes a healthy weight? Watch this movie and find out. A special thank-you to the Fred J. Brotherton Charitable Foundation for supporting this adventure!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/healthy-weight-movie.html",
+      "en": "https://kidshealth.org/en/kids/healthy-weight-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:02:38.170Z"
+}

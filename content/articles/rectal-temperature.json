@@ -1,0 +1,22 @@
+{
+  "id": "rectal-temperature",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "lesiones",
+  "es": {
+    "title": "Cómo tomar la temperatura rectal",
+    "description": "¿Cómo le tomo la temperatura rectal a mi hijo? La mejor manera de tomar la temperatura a bebés y niños pequeños es hacerlo por la vía rectal. Pero no se preocupe: es un proceso sencillo y seguro."
+  },
+  "en": {
+    "title": "How to take rectal temperature",
+    "description": "How Do I Take a Rectal Temperature? The best way to take a temperature in infants and young children is by taking a rectal temperature. Don't worry — it's a simple and safe process."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/rectal-temperature.html",
+      "en": "https://kidshealth.org/en/parents/rectal-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.094Z"
+}

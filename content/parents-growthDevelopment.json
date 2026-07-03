@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T14:29:15.376Z",
+  "category": "parents",
+  "topic": "growthDevelopment",
+  "title": {
+    "es": "Crecimiento y Desarrollo",
+    "en": "Growth and Development"
+  },
+  "description": {
+    "es": "¿Qué ocurre a medida que su hijo crece? Sepa cómo comprender y manejar los cambios corporales y mentales de su hijo desde la infancia hasta la adolescencia.",
+    "en": "What happens as your child grows? Learn how to understand and manage your child's physical and mental changes from infancy through adolescence."
+  },
+  "subtopics": [
+    {
+      "id": "comunicacion",
+      "title": {
+        "es": "Comunicación",
+        "en": "Communication"
+      },
+      "articles": [
+        "hearing-aids",
+        "autism-evaluation",
+        "c12yr",
+        "c47m",
+        "comm-13-to-18",
+        "c12yr-6",
+        "c12yr-7",
+        "c47m-8",
+        "comm-6-to-12",
+        "c812m",
+        "cnewborn",
+        "hearing-loss",
+        "not-talk",
+        "language-delay"
+      ]
+    },
+    {
+      "id": "alimentacion",
+      "title": {
+        "es": "Alimentación",
+        "en": "Feeding"
+      },
+      "articles": [
+        "food-allergies",
+        "feednewborn",
+        "feeding-families",
+        "clefts-feeding",
+        "feed12yr",
+        "c47m-6",
+        "feed47m",
+        "feed812m",
+        "child-caffeine",
+        "calcium",
+        "weaning",
+        "fiber",
+        "fluoride-water",
+        "fat",
+        "toddler-food",
+        "iron",
+        "breast-bottle-feeding",
+        "teach-about-bodies",
+        "fitness-nutrition-center",
+        "formulafeed-solids",
+        "formulafeed-starting",
+        "formulafeed-concerns",
+        "formulafeed-storing",
+        "formulafeed-often",
+        "breastfeed-often",
+        "breastfeed-pump",
+        "breastfeed-storing",
+        "breastfeed-starting",
+        "breastfeed-outabout",
+        "breastfeed-sleep",
+        "breastfeed-discomfort",
+        "breastfeed-concerns",
+        "c13m",
+        "breastfeed-solids",
+        "binge-eating"
+      ]
+    },
+    {
+      "id": "pubertad-y-desarrollo",
+      "title": {
+        "es": "Pubertad y desarrollo",
+        "en": "Puberty and development"
+      },
+      "articles": [
+        "understanding-puberty",
+        "colic",
+        "talk-about-puberty",
+        "childs-growth",
+        "development-3to5d",
+        "development-sheets",
+        "not-talk-7",
+        "spells",
+        "talk-about-menstruation",
+        "toddler-tantrums",
+        "teething",
+        "delayed-puberty",
+        "preemies",
+        "menstrual-problems"
+      ]
+    },
+    {
+      "id": "crecimiento-de-los-ninos",
+      "title": {
+        "es": "Crecimiento de los niños",
+        "en": "Children's growth"
+      },
+      "articles": [
+        "signing-sports",
+        "growing-pains",
+        "grow13m",
+        "growth-10mos",
+        "growth-11mos",
+        "growth-12mos",
+        "growth-2mos",
+        "growth-3mos",
+        "grow47m",
+        "growth-5mos",
+        "growth-6mos",
+        "growth-7mos",
+        "grow812m",
+        "growth-9mos",
+        "grownewborn",
+        "c12yr-16",
+        "growth-13-to-18",
+        "c12yr-18",
+        "c12yr-19",
+        "growth-6-12",
+        "development-1mo",
+        "development-15mos",
+        "development-24mos",
+        "development-2mos",
+        "development-30mos",
+        "development-3yrs",
+        "development-3to5d-27",
+        "development-4mos",
+        "development-6mos",
+        "development-9mos",
+        "development-newborn",
+        "dwarfism",
+        "growth-charts",
+        "development-12mos",
+        "development-18mos",
+        "changing-voice",
+        "flat-feet",
+        "failure-thrive",
+        "bmi-charts"
+      ]
+    },
+    {
+      "id": "aprendizaje-y-juego",
+      "title": {
+        "es": "Aprendizaje y juego",
+        "en": "Learning and play"
+      },
+      "articles": [
+        "school-help-middle",
+        "school-help-elementary",
+        "school-help-teens",
+        "learn12yr",
+        "learn13m",
+        "learn47m",
+        "learn812m",
+        "learnnewborn",
+        "child-organized",
+        "rainy-day",
+        "safe-toys",
+        "safetoys-bigkid",
+        "safetoys-young",
+        "child-humor",
+        "exploring",
+        "preschool-explore",
+        "play-learn",
+        "smart-toys",
+        "reading-preschool",
+        "play-magic",
+        "reading-schoolage",
+        "reading-toddler",
+        "iep",
+        "gifted-education"
+      ]
+    },
+    {
+      "id": "atencion-medica",
+      "title": {
+        "es": "Atención médica",
+        "en": "Medical care"
+      },
+      "articles": [
+        "med12yr",
+        "med13m",
+        "medical-care-13-18",
+        "medical-care-2-3",
+        "medical-care-4-5",
+        "med47m",
+        "medical-care-6-12",
+        "med812m",
+        "mednewborn",
+        "immunization-chart",
+        "school-based-health",
+        "wound-care",
+        "emergencies",
+        "talk-doctor",
+        "swallowing-pills",
+        "caregiver-burnout",
+        "phys-therapy",
+        "emergency-room",
+        "first-gyn",
+        "not-talk-20",
+        "checkup-4mos",
+        "checkup-1-yr",
+        "checkup-1-yr-23",
+        "not-talk-24",
+        "not-talk-25",
+        "not-talk-26",
+        "not-talk-27",
+        "not-talk-28",
+        "checkup-1-yr-29",
+        "not-talk-30",
+        "not-talk-31",
+        "not-talk-32",
+        "checkup-1-yr-33",
+        "not-talk-34",
+        "checkup-2yrs",
+        "checkup-1-yr-36",
+        "not-talk-37",
+        "not-talk-38",
+        "checkup-10yrs",
+        "not-talk-40",
+        "checkup-1-yr-41",
+        "not-talk-42",
+        "not-talk-43",
+        "not-talk-44",
+        "checkup-1-yr-45",
+        "not-talk-46",
+        "not-talk-47",
+        "not-talk-48",
+        "checkup-1-yr-49",
+        "not-talk-50",
+        "checkups",
+        "speech-therapy",
+        "health-screens",
+        "occupational-therapy",
+        "baby-vaccinations",
+        "primary-care-physician"
+      ]
+    },
+    {
+      "id": "movimiento",
+      "title": {
+        "es": "Movimiento",
+        "en": "Movement"
+      },
+      "articles": [
+        "toe-walking",
+        "move13m",
+        "move47m",
+        "move812m",
+        "move12yr",
+        "movenewborn",
+        "out-toeing",
+        "knock-knees",
+        "gait",
+        "tummy-time",
+        "walker"
+      ]
+    },
+    {
+      "id": "sentidos",
+      "title": {
+        "es": "Sentidos",
+        "en": "Senses"
+      },
+      "articles": [
+        "sense13m",
+        "senses-10mos",
+        "senses-11mos",
+        "senses-12mos",
+        "senses-2mos",
+        "senses-3mos",
+        "sense47m",
+        "senses-5mos",
+        "senses-6mos",
+        "senses-7mos",
+        "sense812m",
+        "senses-9mos",
+        "sensenewborn"
+      ]
+    },
+    {
+      "id": "evolucion-sexual",
+      "title": {
+        "es": "Evolución sexual",
+        "en": "Sexual development"
+      },
+      "articles": [
+        "abstinence",
+        "labial-adhesions",
+        "c13m-3",
+        "c13m-4",
+        "c13m-5",
+        "female-reproductive-system",
+        "not-talk-7",
+        "feeding-families-8",
+        "development-foyer",
+        "iud",
+        "autism-evaluation-11",
+        "stds-talk",
+        "c13m-13",
+        "comm-13-to-18-14",
+        "c13m-15",
+        "hpv-shot",
+        "withdrawal",
+        "not-talk-18",
+        "breastfeed-eating",
+        "c13m-20",
+        "delayed-puberty-21",
+        "first-gyn-exam"
+      ]
+    },
+    {
+      "id": "sueno-y-descanso",
+      "title": {
+        "es": "Sueño y descanso",
+        "en": "Sleep and rest"
+      },
+      "articles": [
+        "sleep-hygiene",
+        "enough-sleep-video",
+        "insomnia-teens",
+        "sleepnewborn",
+        "c12yr-5",
+        "c47m-6",
+        "c47m-7",
+        "c47m-8",
+        "sleep-preschool",
+        "sleep-problems",
+        "sleep",
+        "nightmares",
+        "naps",
+        "sleepwalking",
+        "melatonin-supplements",
+        "positional-plagiocephaly",
+        "terrors",
+        "delayed-sleep-teens"
+      ]
+    }
+  ]
+}

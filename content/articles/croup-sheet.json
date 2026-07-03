@@ -1,0 +1,22 @@
+{
+  "id": "croup-sheet",
+  "category": "parents",
+  "topic": "firstAidSafety",
+  "subtopicId": "guias-de-seguridad-para-imprimir",
+  "es": {
+    "title": "Cómo tratar el crup",
+    "description": "El crup es una infección de origen viral que afecta a las vías altas, alrededor de las cuerdas vocales y la tráquea. La inflamación de esta zona puede causar tos seca o de perro. El crup, una enfermedad que se ve más a menudo durante los meses de otoño, suele afectar a los niños pequeños. ¿Cuáles son los signos y los síntomas del crup? • tos seca o de perro • emitir un sonido agudo al inspirar (conocido como estridor) • respirar más fuerte o con dificultades • secreción o congestión nasales • fiebre"
+  },
+  "en": {
+    "title": "What to Do About Croup",
+    "description": "Croup is often caused by a viral infection in the upper airway, around the vocal cords and windpipe. Swelling in this area may cause a barking cough. Croup, most often seen in the fall, usually affects young children. What Are the Signs & Symptoms of Croup? • a barking cough • a high-pitched sound when breathing in (known as stridor) • breathing harder than usual • stuffy or runny nose • fever"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/croup-sheet.html",
+      "en": "https://kidshealth.org/en/parents/croup-sheet.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:59:45.123Z"
+}

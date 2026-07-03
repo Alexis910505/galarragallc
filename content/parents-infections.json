@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T14:29:15.878Z",
+  "category": "parents",
+  "topic": "infections",
+  "title": {
+    "es": "Infecciones",
+    "en": "Infections"
+  },
+  "description": {
+    "es": "De vez en cuando, todos los niños se enferman. Cuando tu hijo no se siente bien, querrás saber cómo reconocer los síntomas, cómo ayudar y cuándo llamar al médico. Obtén toda la información que necesitas sobre las infecciones más comunes y no tan comunes.",
+    "en": "From time to time, all children get sick. When your child doesn't feel well, you'll want to know how to recognize symptoms, how to help, and when to call the doctor. Get all the information you need about the most common and not-so-common infections."
+  },
+  "subtopics": [
+    {
+      "id": "infecciones-respiratorias",
+      "title": {
+        "es": "Infecciones respiratorias",
+        "en": "Respiratory infections"
+      },
+      "articles": [
+        "cold",
+        "flu",
+        "bronchitis",
+        "bronchiolitis",
+        "hepa-vaccine",
+        "sinusitis",
+        "croup",
+        "coronavirus-questions-answers"
+      ]
+    },
+    {
+      "id": "infecciones-de-oido-nariz-y-garganta",
+      "title": {
+        "es": "Infecciones de oído, nariz y garganta",
+        "en": "Ear, nose and throat infections"
+      },
+      "articles": [
+        "otitis-media",
+        "swimmer-ear",
+        "tonsillitis",
+        "strep-throat",
+        "peritonsillar-abscess",
+        "retropharyngeal-abscess",
+        "conjunctivitis"
+      ]
+    },
+    {
+      "id": "infecciones-gastrointestinales",
+      "title": {
+        "es": "Infecciones gastrointestinales",
+        "en": "Gastrointestinal infections"
+      },
+      "articles": [
+        "gastroenteritis",
+        "rotavirus",
+        "norovirus",
+        "salmonellosis",
+        "ecoli",
+        "campylobacter",
+        "coronavirus-questions-answers-7"
+      ]
+    },
+    {
+      "id": "infecciones-de-la-piel",
+      "title": {
+        "es": "Infecciones de la piel",
+        "en": "Skin infections"
+      },
+      "articles": [
+        "impetigo",
+        "cellulitis",
+        "wart",
+        "cold-sores",
+        "coronavirus-questions-answers-5"
+      ]
+    },
+    {
+      "id": "enfermedades-virales-comunes",
+      "title": {
+        "es": "Enfermedades virales comunes",
+        "en": "Common viral diseases"
+      },
+      "articles": [
+        "chicken-pox",
+        "measles",
+        "mumps",
+        "german-measles",
+        "coronavirus-questions-answers-5",
+        "roseola",
+        "fifth"
+      ]
+    },
+    {
+      "id": "covid-19-y-coronavirus",
+      "title": {
+        "es": "COVID-19 y coronavirus",
+        "en": "COVID-19 and coronavirus"
+      },
+      "articles": [
+        "coronavirus",
+        "coronavirus-2",
+        "coronavirus-3",
+        "coronavirus-4",
+        "coronavirus-5"
+      ]
+    },
+    {
+      "id": "prevencion-y-tratamiento",
+      "title": {
+        "es": "Prevención y tratamiento",
+        "en": "Prevention and treatment"
+      },
+      "articles": [
+        "whooping-cough",
+        "antibiotics",
+        "antibiotics-3",
+        "booster-shots",
+        "coronavirus-mask-video",
+        "take-temperature",
+        "fever"
+      ]
+    },
+    {
+      "id": "otras-infecciones",
+      "title": {
+        "es": "Otras infecciones",
+        "en": "Other infections"
+      },
+      "articles": [
+        "flu-vs-cold",
+        "whooping-cough-2",
+        "h-pylori",
+        "hepatitis",
+        "hepatitis-a",
+        "hepatitis-b",
+        "hepatitis-c",
+        "herpes",
+        "cold-sores-9",
+        "shingles",
+        "impetigo-11",
+        "otitis-media-12",
+        "urinary",
+        "coronavirus-mask-video-14",
+        "campylobacter-15"
+      ]
+    }
+  ]
+}

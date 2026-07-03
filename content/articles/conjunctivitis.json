@@ -1,0 +1,22 @@
+{
+  "id": "conjunctivitis",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-oido-nariz-y-garganta",
+  "es": {
+    "title": "Conjuntivitis",
+    "description": "La conjuntivitis es la inflamación de la membrana que cubre el ojo. Puede ser causada por virus, bacterias o alergias. Los síntomas incluyen enrojecimiento, picazón y secreción. El tratamiento depende de la causa. La conjuntivitis viral es muy contagiosa."
+  },
+  "en": {
+    "title": "Conjunctivitis",
+    "description": "Conjunctivitis is inflammation of the membrane covering the eye. It can be caused by viruses, bacteria, or allergies. Symptoms include redness, itching, and discharge. Treatment depends on the cause. Viral conjunctivitis is very contagious."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/conjunctivitis.html",
+      "en": "https://kidshealth.org/en/parents/conjunctivitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.885Z"
+}

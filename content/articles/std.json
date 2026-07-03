@@ -1,0 +1,22 @@
+{
+  "id": "std",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "enfermedades-de-transmision-sexual",
+  "es": {
+    "title": "Enfermedades de transmisión sexual",
+    "description": "Las enfermedades de transmisión sexual son infecciones que se transmiten durante el contacto sexual. Incluyen clamidia, gonorrea, herpes y VIH. La prevención incluye usar condones, hacerse pruebas regulares y limitar el número de parejas sexuales."
+  },
+  "en": {
+    "title": "Sexually transmitted diseases",
+    "description": "Sexually transmitted diseases (STDs) are infections spread from person to person during sex (vaginal, oral, or anal) or close sexual contact. STDs are also called sexually transmitted infections, or STIs. The only way to completely avoid STDs is to not have sex or close sexual contact. To help lower your risk of getting an STD if you do have sex: • Use a latex condom every time you have sex (vaginal, oral, or anal). • Get tested with any new partners before having sex. • Have sex with one partner only (who also doesn’t have sex with other people). It's important to learn about STDs so you can protect yourself. Learn about the signs and symptoms of the most common STDs, how they spread, and how they're diagnosed and treated: • Chlamydia • Genital Herpes • Genital Warts (HPV) • Gonorrhea • Hepatitis B (HBV) • HIV and AIDS • Pelvic Inflammatory Disease (PID) • Pubic Lice (Crabs) • Syphilis • Trichomoniasis Medically reviewed by: Amy W. Anzilotti, MDThis link will open in a new window Date reviewed: February 2022 More on this topic for: • Teens More on this topicFor Teens • Getting Tested for STDs • Gyn Checkups • Telling Your Partner You Have an STD • Talking to Your Partner About STDs • Birth Control: What to Know • Is My Vaginal Discharge Normal? • Birth Control Methods: How Well Do They Work? • Talking to Your Partner About Condoms View more Share: • Share to Facebook • Share to Twitter • Share to Pinterest RELATED CATEGORIES • Sexually Transmitted Diseases • STDs & Other Infections"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/std.html",
+      "en": "https://kidshealth.org/en/teens/std.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.328Z"
+}

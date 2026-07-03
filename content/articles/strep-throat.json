@@ -1,0 +1,22 @@
+{
+  "id": "strep-throat",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-oido-nariz-y-garganta",
+  "es": {
+    "title": "Faringoamigdalitis estreptocócica",
+    "description": "La faringoamigdalitis estreptocócica es causada por bacterias estreptocócicas. Los síntomas incluyen dolor de garganta, fiebre y dificultad para tragar. El diagnóstico requiere prueba rápida o cultivo. El tratamiento con antibióticos previene complicaciones."
+  },
+  "en": {
+    "title": "Streptococcal pharyngotonsillitis",
+    "description": "Streptococcal pharyngotonsillitis is caused by streptococcal bacteria. Symptoms include sore throat, fever, and difficulty swallowing. Diagnosis requires rapid test or culture. Treatment with antibiotics prevents complications."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/strep-throat.html",
+      "en": "https://kidshealth.org/en/parents/strep-throat.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.885Z"
+}

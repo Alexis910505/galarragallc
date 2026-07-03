@@ -1,0 +1,22 @@
+{
+  "id": "msmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Músculos",
+    "description": "Si alguna vez te has preguntado cómo funcionan los músculos, simplemente mira este video para encontrar la respuesta."
+  },
+  "en": {
+    "title": "How Does the Muscular System Work? (Video)",
+    "description": "Watch this movie about the muscular system."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/msmovie.html",
+      "en": "https://kidshealth.org/en/kids/msmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:15:22.119Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "breastfeed-discomfort",
+  "category": "parents",
+  "topic": "pregnancyBaby",
+  "subtopicId": "informacion-sobre-amamantamiento",
+  "es": {
+    "title": "Preguntas más frecuentes sobre la lactancia materna: Molestias y dolor",
+    "description": "Amamantar a un bebé es de lo más natural, pero la lactancia materna requiere práctica para hacerla bien. Aquí encontrará como abordar las molestias y el dolor durante la lactancia materna."
+  },
+  "en": {
+    "title": "Breastfeeding FAQs: Pain & Discomfort",
+    "description": "Breastfeeding is natural, but it takes practice to get it right. Here's how to handle pain and discomfort during nursing."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/breastfeed-discomfort.html",
+      "en": "https://kidshealth.org/en/parents/breastfeed-discomfort.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.119Z"
+}

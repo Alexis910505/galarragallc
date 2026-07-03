@@ -1,0 +1,22 @@
+{
+  "id": "shingles",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Herpes zóster (culebrilla)",
+    "description": "El herpes zóster es causado por la reactivación del virus de la varicela. Causa erupción dolorosa y ampollas. Es más común en adultos mayores pero puede ocurrir en niños. El tratamiento incluye medicamentos antivirales y analgésicos."
+  },
+  "en": {
+    "title": "Shingles (herpes zoster)",
+    "description": "Shingles is caused by reactivation of the chickenpox virus. It causes painful rash and blisters. It's more common in older adults but can occur in children. Treatment includes antiviral medications and pain relievers."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/shingles.html",
+      "en": "https://kidshealth.org/en/parents/shingles.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.899Z"
+}

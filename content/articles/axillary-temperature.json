@@ -1,0 +1,22 @@
+{
+  "id": "axillary-temperature",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "lesiones",
+  "es": {
+    "title": "Cómo tomar la temperatura axilar",
+    "description": "¿Cómo le tomo la temperatura axilar a mi hijo? El método axilar (debajo del brazo) es un método adecuado para tomarle la temperatura a un niño, sobre todo para aquellos niños que no sepan aguantar el termómetro dentro de la boca. Pero la temperatura axilar no es tan precisa como la temperatura rectal, o la temperatura oral en aquellos niños que son lo bastante mayores como para cooperar. Para tomar la temperatura axilar: • Use un termómetro digital. No use un termómetro de vidrio, porque no son seguros. • Si su hijo se acaba de bañar, ha estado tapado con muchas sábanas o lleva muchas capas de ropa (o está hecho un arrullo si es un bebé), espere 20–30 minutos antes de ponerle el termómetro. • Quítele a su hijo la camisa o la camiseta y póngale el termómetro en la axila (debe tocar solo la piel, no la ropa). • Doble el brazo de su hijo sobre el pecho para sujetar el termómetro en su sitio. • Espere hasta que suene el número de pitidos correspondientes u otra señal que indique que ya se puede leer la temperatura. Anote la temperatura que aparezca en la pantalla, así como la hora del día en que haga la lectura. • Una lectura de 99°F (37,2°C) o superior significa que su hijo tiene fiebre."
+  },
+  "en": {
+    "title": "How to take axillary temperature",
+    "description": "How Do I Take an Axillary (Armpit) Temperature? The axillary (armpit) method is a convenient way to take a child's temperature, especially for kids who can't hold a thermometer in their mouths. But an axillary (AK-seh-ler-ee) reading is not as accurate as a rectal temperature, or an oral temperature in kids who are old enough to cooperate. To take an axillary temperature: • Use a digital thermometer. Don’t use a glass thermometer, as these aren’t safe. • If your child has just taken a bath or has been under blankets or in multiple layers (or swaddled, if an infant), wait about 20–30 minutes to take the temperature. • Remove your child's shirt and place the thermometer under an armpit (it must touch skin only, not clothing). • Fold your child's arm across the chest to hold the thermometer in place. • Wait until you hear the right number of beeps or other signal that the temperature is ready to be read. Write down the number on the screen, noting the time of day that you took the reading. • A reading of 99°F (37.2°C) or above means your child has a fever."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/axillary-temperature.html",
+      "en": "https://kidshealth.org/en/parents/axillary-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.094Z"
+}

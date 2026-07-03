@@ -1,0 +1,22 @@
+{
+  "id": "take-temperature",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "lesiones",
+  "es": {
+    "title": "Cómo tomarle la temperatura a su hijo",
+    "description": "Cuando su hijo está caliente, parece estar de mal humor o encontrase mal, puede ayudar saber si tiene fiebre. He aquí cómo tomarle la temperatura a su hijo de una formas segura y precisa."
+  },
+  "en": {
+    "title": "How to take your child's temperature",
+    "description": "How Do I Take a Rectal Temperature? The best way to take a temperature in infants and young children is by taking a rectal temperature. Don't worry — it's a simple and safe process."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/take-temperature.html",
+      "en": "https://kidshealth.org/en/parents/take-temperature.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.094Z"
+}

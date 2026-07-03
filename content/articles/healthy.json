@@ -1,0 +1,22 @@
+{
+  "id": "healthy",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "los-dientes-del-nino",
+  "es": {
+    "title": "Mantener la dentadura de su hijo sana",
+    "description": "Los dientes nos ayudan a comer, hablar y sonreír. Para mantener los dientes de su hijo saludables, comience con buenos hábitos dentales desde bien pequeño. Mantener los dientes limpios (por medio del cepillado y el uso de hilo dental), ir al dentista periódicamente y asegurarse de que los niños tengan suficiente flúor son las mejores maneras de mantener la salud de la dentadura."
+  },
+  "en": {
+    "title": "Keeping your child's teeth healthy",
+    "description": "Our teeth help us eat, talk, and smile. To keep your child’s teeth healthy, start good dental habits early. Keeping the teeth clean (through brushing and flossing), going to the dentist regularly, and making sure kids get enough fluoride are the best ways to keep teeth healthy."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/healthy.html",
+      "en": "https://kidshealth.org/en/parents/healthy.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.131Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hpv-vaccine",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "enfermedades-de-transmision-sexual",
+  "es": {
+    "title": "Vacuna contra el virus del papiloma humano (VPH)",
+    "description": "La vacuna contra el VPH previene infecciones por virus del papiloma humano que pueden causar verrugas genitales y cáncer. Se recomienda para adolescentes y adultos jóvenes. La vacuna es segura y efectiva. Protege contra múltiples cepas del virus."
+  },
+  "en": {
+    "title": "HPV vaccine",
+    "description": "What Is the HPV Vaccine? The HPV vaccine protects against human papillomavirus (HPV), a virus that can cause different types of cancer (such as cancer of the cervix, penis, anus, vagina, vulva, and throat) as well as genital warts. It can spread through sex and from some types of skin-to skin-contact. Research suggests it also might be linked to cardiovascular disease in women. When Do People Get the HPV Vaccine? The vaccine is recommended for girls and boys 11–12 years old (though kids as young as 9 also can get it) and for older kids who aren't yet vaccinated. The vaccine is given as a series of shots: • Kids and teens ages 9–14 get the HPV vaccine in 2 shots over a 6- to 12-month period. • Teens and young adults (ages 15–26) get it in 3 shots over a 6-month period. People with weak immune systems also get 3 shots, including those 9–14 years old. Teens or young adults who didn't start or complete the series of shots can get it up to age 45. (It is recommended up to age 26. After that, a person can decide with their doctor if it’s a good idea for them.)"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hpv-vaccine.html",
+      "en": "https://kidshealth.org/en/parents/hpv-vaccine.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.330Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ecoli",
+  "category": "children",
+  "topic": "healthProblems",
+  "subtopicId": "prevencion-y-tratamiento-de-infecciones",
+  "es": {
+    "title": "E. coli",
+    "description": "Las infecciones por E. coli pueden causar diarrea severa y complicaciones renales. Se transmiten a través de alimentos o agua contaminados. Los síntomas incluyen diarrea acuosa, dolor abdominal y fiebre. El tratamiento incluye hidratación y descanso."
+  },
+  "en": {
+    "title": "E. coli",
+    "description": "E. coli infections can cause severe diarrhea and kidney complications. They're transmitted through contaminated food or water. Symptoms include watery diarrhea, abdominal pain, and fever. Treatment includes hydration and rest."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/ecoli.html",
+      "en": "https://kidshealth.org/en/parents/ecoli.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:36:36.074Z"
+}

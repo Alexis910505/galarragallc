@@ -1,0 +1,22 @@
+{
+  "id": "cp-checklist-teens",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "cuidado-de-un-nino-enfermo-de-gravedad-o-con-una-enfermedad-cronica",
+  "es": {
+    "title": "Cuidar de su hijo adolescente con parálisis cerebral:  A partir de los 13 años",
+    "description": "Si su hijo en edad adolescente tiene parálisis cerebral, planificar su futuro implica mucho más que escoger una universidad, una escuela de artes y oficios o seguir cualquier otra senda formativa. Su hijo podría tener necesidades sanitarias especiales que implican preparación y planificación a medida que su hijo se vaya convirtiendo en un adulto joven. Con previsión y colaborando con la escuela de su hijo, sus médicos y los organismos del gobierno estatal, usted podrá ayudar a que la transición a la etapa adulta sea lo más llevadera posible."
+  },
+  "en": {
+    "title": "Caring for Your Teen With Cerebral Palsy (CP): Age 13 and Up",
+    "description": "When your teen has cerebral palsy (CP), planning for the future involves more than choosing a college, trade school, or other path. There might be special health care needs that will take preparation and planning as your child becomes a young adult. By thinking ahead and working with your child’s school, doctors, and your state's government agencies, you can help make the move to adulthood as smooth as possible."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cp-checklist-teens.html",
+      "en": "https://kidshealth.org/en/parents/cp-checklist-teens.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:36.569Z"
+}

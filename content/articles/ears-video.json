@@ -1,0 +1,22 @@
+{
+  "id": "ears-video",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "el-cuerpo-humano",
+  "es": {
+    "title": "Breve resumen: Cómo funcionan los oídos",
+    "description": "¿Cómo funcionan los oídos? Los oídos recogen los sonidos de nuestro entorno y los convierten en mensajes para que el cerebro los interprete. Obtenga más información en este video sobre las oídos."
+  },
+  "en": {
+    "title": "How Do the Ears Work? (Video)",
+    "description": "How Do the Ears Work? The ears gather sounds from our environment and turn them into messages for the brain to decode. Learn more in this video about the ears."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/ears-video.html",
+      "en": "https://kidshealth.org/en/parents/ears-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:59:20.637Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "emmi-appendectomy",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "procedimientos-medicos",
+  "es": {
+    "title": "Apendicectomía",
+    "description": "¿Qué es una apendicectomía? Una apendicectomía es una operación que se hace para extraer el apéndice. Los cirujanos extraen este órgano cuando se obstruye por dentro y se infecta. A esto se le llama apendicitis. La apendicitis requiere tratamiento urgente. La pauta general consiste en extraer el apéndice. La apendicectomía es un procedimiento frecuente, y la mayoría de los niños se recuperan rápidamente y con pocos problemas."
+  },
+  "en": {
+    "title": "Appendectomy",
+    "description": "What Is an Appendectomy? An appendectomy is surgery to remove the appendix. Surgeons remove the appendix when it gets blocked and becomes infected. This is called appendicitis. Appendicitis needs urgent treatment. Usually, the appendix must be removed. Appendectomy is a common procedure, and most kids recover quickly and with few problems."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/emmi-appendectomy.html",
+      "en": "https://kidshealth.org/en/parents/emmi-appendectomy.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:45.100Z"
+}

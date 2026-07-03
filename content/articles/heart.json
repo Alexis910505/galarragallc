@@ -1,0 +1,22 @@
+{
+  "id": "heart",
+  "category": "teenagers",
+  "topic": "sports",
+  "subtopicId": "tu-cuerpo-y-el-deporte",
+  "es": {
+    "title": "Corazón y aparato circulatorio",
+    "description": "¿Qué hace el corazón? El corazón es una bomba, que suele latir entre 60 y 100 veces por minuto. En cada latido, el corazón envía sangre a todo el cuerpo, transportando oxígeno a todas y cada una de sus células. Después de distribuir el oxígeno, la sangre vuelve al corazón. Desde allí, la sangre se bombea hacia los pulmones, donde se vuelve a cargar de oxígeno. Este ciclo se repite una y otra vez. ¿Qué hace el aparato circulatorio? El aparato circulatorio está formado por vasos sanguíneos que transportan sangre desde el corazón y hacia el corazón. Las arterias transportan la sangre desde el corazón al resto del cuerpo, y las venas la trasportan desde el cuerpo hasta el corazón. El aparato circulatorio lleva oxígeno, nutrientes y hormonas a las células y elimina los productos de desecho, como el dióxido de carbono. El recorrido que sigue la sangre siempre va en la misma dirección, para que las cosas sigan funcionando como deben funcionar."
+  },
+  "en": {
+    "title": "Heart and circulatory system",
+    "description": "What Does the Heart Do? The heart is a pump, usually beating about 60 to 100 times per minute. With each heartbeat, the heart sends blood throughout our bodies, carrying oxygen to every cell. After delivering the oxygen, the blood returns to the heart. The heart then sends the blood to the lungs to pick up more oxygen. This cycle repeats over and over again. What Does the Circulatory System Do? The circulatory system is made up of blood vessels that carry blood away from and towards the heart. Arteries carry blood away from the heart and veins carry blood back to the heart. The circulatory system carries oxygen, nutrients, and hormones to cells, and removes waste products, like carbon dioxide. These roadways travel in one direction only, to keep things going where they should."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/heart.html",
+      "en": "https://kidshealth.org/en/parents/heart.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:30:55.765Z"
+}

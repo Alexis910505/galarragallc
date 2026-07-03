@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T14:29:21.362Z",
+  "category": "parents",
+  "topic": "playLearn",
+  "title": {
+    "es": "Centro de juegos y aprendizaje",
+    "en": "Play & Learn Center Content List"
+  },
+  "description": {
+    "es": "El juego es algo fundamental en el desarrollo de los niños. Les enseña a comprender el mundo que los rodea. Aquí podrá aprender qué actividades los inspiran y motivan, y cuáles son los juguetes que no solo no son peligrosos sino que estimularán intelectualmente al niño.",
+    "en": "Play is fundamental to children's development. It teaches them to understand the world around them. Here you can learn what activities inspire and motivate them, and which toys are not only safe but will intellectually stimulate the child."
+  },
+  "subtopics": [
+    {
+      "id": "juegos-divertidos",
+      "title": {
+        "es": "Juegos divertidos",
+        "en": "Fun games"
+      },
+      "articles": [
+        "learn12yr",
+        "rainy-day",
+        "fit-preschooler",
+        "exploring",
+        "screentime-baby-todd",
+        "fitness-2-3",
+        "play-magic"
+      ]
+    },
+    {
+      "id": "seguridad-de-los-juguetes",
+      "title": {
+        "es": "Seguridad de los juguetes",
+        "en": "Toy safety"
+      },
+      "articles": [
+        "safe-toys",
+        "safetoys-bigkid",
+        "safetoys-young",
+        "products-toys"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "steven-story",
+  "category": "teenagers",
+  "topic": "sports",
+  "subtopicId": "deportes-y-lesiones",
+  "es": {
+    "title": "Atrofia muscular espinal: La historia de Steven (video)",
+    "description": "Steven tiene 14 años y es un adolescente como cualquier otro. Es un atleta que ama la comida italiana y le gusta pasar tiempo con sus amigos. A pesar de que sufre de una afección que le hace difícil movilizarse, no permite que ésto sea un impedimento para hacer las cosas que le gusta hacer."
+  },
+  "en": {
+    "title": "Spinal muscular atrophy: Steven's story (video)",
+    "description": "What's It Like to Live With Spinal Muscular Atrophy (SMA)? Steven, 14, is like most other teens. He's an athlete who loves Italian food and hanging out with his friends. And even though he's got a condition that makes it hard to get around, he doesn't let that stop him from doing the things he loves to do."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/steven-story.html",
+      "en": "https://kidshealth.org/en/parents/steven-story.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:30:55.789Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "h-pylori",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Helicobacter pylori",
+    "description": "El Helicobacter pylori es una bacteria que puede causar úlceras estomacales y gastritis. Los síntomas incluyen dolor abdominal, náuseas y pérdida de apetito. El diagnóstico requiere pruebas específicas. El tratamiento incluye antibióticos y medicamentos reductores de ácido."
+  },
+  "en": {
+    "title": "Helicobacter pylori",
+    "description": "Helicobacter pylori is a bacterium that can cause stomach ulcers and gastritis. Symptoms include abdominal pain, nausea, and loss of appetite. Diagnosis requires specific tests. Treatment includes antibiotics and acid-reducing medications."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/h-pylori.html",
+      "en": "https://kidshealth.org/en/parents/h-pylori.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.898Z"
+}

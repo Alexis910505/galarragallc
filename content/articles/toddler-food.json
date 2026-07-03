@@ -1,0 +1,22 @@
+{
+  "id": "toddler-food",
+  "category": "parents",
+  "topic": "growthDevelopment",
+  "subtopicId": "alimentacion",
+  "es": {
+    "title": "Guía de nutrición para niños pequeños",
+    "description": "Durante el primer año de vida, los bebés obtienen la mayoría de los nutrientes de la leche materna y la fórmula. Pero después de los 12 meses de edad, los niños pequeños necesitan obtener sus nutrientes de una variedad de alimentos. Las frutas, las verduras, las legumbres, los cereales integrales y las proteínas magras (como el pollo o el pescado) serán una parte importante de la dieta de su hijo. ¡Es una época fascinante! Los niños pequeños son curiosos y les gusta probar nuevos sabores y texturas. Pero al dejar atrás los biberones y la papilla, su apetito puede disminuir. Esto se debe a que el crecimiento se ralentiza (es más lento) durante el segundo año de vida. Los niños pequeños pueden querer comer menos y centrarse más en explorar el mundo que los rodea. A continuación le mostramos cómo asegurarse de que los niños obtengan los nutrientes que necesitan. ¿Cuánto necesita comer mi niño pequeño? Dependiendo de su edad, tamaño y nivel de actividad, los niños pequeños necesitan entre 1000 y 1400 calorías al día. Programe tres comidas y dos o tres refrigerios saludables al día. Sin embargo, es normal que a veces su hijo coma menos o se salte comidas. Permita que su hijo coma según tenga hambre o esté satisfecho con lo que ha comido. Los niños pequeños que están llenos pueden rechazar la comida, cerrar la boca o voltear la cabeza, hacer gestos con las manos o emitir sonidos para indicar que ya han comido suficiente. No obligue a comer a un niño que no tiene hambre."
+  },
+  "en": {
+    "title": "Nutrition Guide for Toddlers",
+    "description": "During the first year of life, babies get most of their nutrients from breast milk and formula. But after 12 months, toddlers need to get their nutrients from a variety of foods. Fruits, vegetables, beans, whole grains, and lean proteins (like chicken or fish) will now become an important part of your child’s diet. It’s an exciting time! And toddlers are curious and like to try new tastes and textures. But as they leave bottles and baby food behind, their appetite may lesson. That’s because growth slows during the second year of life. Toddlers may want to eat less, focusing more on exploring the world around them. Here’s how to make sure they’re getting the nutrients they need. How Much Does My Toddler Need to Eat? Depending on their age, size, and activity level, toddlers need about 1,000–1,400 calories a day. Schedule three meals and two or three healthy snacks a day. But expect your toddler to sometimes eat less or skip meals. Kids should be allowed to respond to their own feelings of hunger and fullness. Toddlers who are full may push food away, close their mouths or turn their heads away from food, use hand gestures, or make sounds to let you know they have had enough. Don't push food on a child who's not hungry."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/toddler-food.html",
+      "en": "https://kidshealth.org/en/parents/toddler-food.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:31:23.962Z"
+}

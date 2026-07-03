@@ -1,0 +1,22 @@
+{
+  "id": "tongue-movie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Lengua",
+    "description": "Salado, amargo, dulce: estos son los gustos que la lengua te permite sentir. Mira este video para enterarte de qué manera funciona la lengua."
+  },
+  "en": {
+    "title": "How Does the Tongue Work? (Video)",
+    "description": "Salty, sour, sweet — you couldn't taste any of that without a tongue. Find out how your tongue works in this movie."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/tongue-movie.html",
+      "en": "https://kidshealth.org/en/kids/tongue-movie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:37:24.971Z"
+}

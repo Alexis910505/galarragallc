@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:40.249Z",
+  "category": "children",
+  "topic": "questionsAnswers",
+  "title": {
+    "es": "Todo tipo de preguntas y respuestas",
+    "en": "Questions & Answers"
+  },
+  "description": {
+    "es": "¿Qué es la cera de los oídos? ¿Por qué tenemos ombligo? ¿Qué es un eructo? ¡Tú hiciste la pregunta y nosotros la respondimos! Busca las respuestas a todas tus preguntas sobre la salud.",
+    "en": "What is earwax? Why do we have a belly button? What is a burp? You asked the question and we answered! Find the answers to all your health questions."
+  },
+  "subtopics": [
+    {
+      "id": "tus-preguntas-y-nuestras-respuestas",
+      "title": {
+        "es": "Tus preguntas y nuestras respuestas",
+        "en": "Your questions and our answers"
+      },
+      "articles": [
+        "rock-music",
+        "word-bruise",
+        "word-navel",
+        "feel-better-about-body",
+        "hiccup",
+        "when-period",
+        "video-gaming",
+        "yawn",
+        "nose-run",
+        "wrinkly-fingers",
+        "eyes-water",
+        "sleep",
+        "foot-asleep",
+        "pain",
+        "wash-hands",
+        "navel",
+        "cholesterol",
+        "coma",
+        "adams-apple",
+        "blood",
+        "what-is-gene",
+        "bruise",
+        "cavities",
+        "nose-run-24",
+        "cauliflower-ear",
+        "sneeze",
+        "glands",
+        "glands-28",
+        "taste-buds",
+        "freckles",
+        "germs",
+        "wrinkly-fingers-32",
+        "reflexes"
+      ]
+    },
+    {
+      "id": "preguntas-y-respuestas-desagradables",
+      "title": {
+        "es": "Preguntas y respuestas desagradables",
+        "en": "Gross questions and answers"
+      },
+      "articles": [
+        "burp",
+        "feet-stink",
+        "sweat",
+        "puke",
+        "earwax",
+        "spit",
+        "booger",
+        "fart",
+        "scab",
+        "swallowed-gum"
+      ]
+    }
+  ]
+}

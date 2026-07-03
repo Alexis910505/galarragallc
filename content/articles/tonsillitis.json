@@ -1,0 +1,22 @@
+{
+  "id": "tonsillitis",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Amigdalitis",
+    "description": "La amigdalitis es la inflamación de las amígdalas, generalmente causada por virus o bacterias. Los síntomas incluyen dolor de garganta, dificultad para tragar, fiebre y mal aliento. El tratamiento depende de la causa y puede incluir antibióticos."
+  },
+  "en": {
+    "title": "Tonsillitis",
+    "description": "Tonsillitis is inflammation of the tonsils, usually caused by viruses or bacteria. Symptoms include sore throat, difficulty swallowing, fever, and bad breath. Treatment depends on the cause and may include antibiotics."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/tonsillitis.html",
+      "en": "https://kidshealth.org/en/parents/tonsillitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.299Z"
+}

@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:36.921Z",
+  "category": "children",
+  "topic": "illnessesInjuries",
+  "title": {
+    "es": "Enfermedades y lesiones",
+    "en": "Illnesses & Injuries"
+  },
+  "description": {
+    "es": "Desde la gripe hasta el sangrado de la nariz o las fracturas de los huesos, tenemos información sobre enfermedades y lesiones comunes en todo tu cuerpo.",
+    "en": "From the flu to nosebleeds or broken bones, we have information about common illnesses and injuries all over your body."
+  },
+  "subtopics": [
+    {
+      "id": "dolores-y-lesiones",
+      "title": {
+        "es": "Dolores y lesiones",
+        "en": "Aches and injuries"
+      },
+      "articles": [
+        "blisters",
+        "splinters",
+        "scars",
+        "h1n1-spread",
+        "abdominal-pain",
+        "physical-therapy",
+        "casts",
+        "fractures-greenstick-es",
+        "splints",
+        "physical-therapy-10",
+        "article-1-11-herpes-labial",
+        "poison-ivy",
+        "h1n1-spread-13",
+        "indigestion",
+        "physical-therapy-15",
+        "physical-therapy-16",
+        "stitches",
+        "rashes",
+        "carpal",
+        "physical-therapy-20",
+        "jellyfish",
+        "h1n1-spread-22"
+      ]
+    },
+    {
+      "id": "picaduras-de-insectos",
+      "title": {
+        "es": "Picaduras de insectos",
+        "en": "Insect bites"
+      },
+      "articles": [
+        "bedbug",
+        "physical-therapy-2",
+        "scorpion",
+        "gnat",
+        "mosquito",
+        "louse",
+        "jellyfish-7",
+        "black-widow",
+        "jellyfish-9",
+        "fire-ant",
+        "flea",
+        "brown-recluse",
+        "tarantula"
+      ]
+    },
+    {
+      "id": "la-gripe",
+      "title": {
+        "es": "La gripe",
+        "en": "The flu"
+      },
+      "articles": [
+        "flu",
+        "flu-center",
+        "h1n1-school"
+      ]
+    },
+    {
+      "id": "me-siento-mal",
+      "title": {
+        "es": "¡Me siento mal!",
+        "en": "I feel sick!"
+      },
+      "articles": [
+        "food-allergies",
+        "tonsillitis",
+        "physical-therapy-3",
+        "headache",
+        "lyme-disease",
+        "fractures-greenstick-es-6",
+        "tonsillitis-7",
+        "article-4-8-fiebre",
+        "flu-9",
+        "food-poisoning",
+        "mono",
+        "physical-therapy-12",
+        "h1n1-spread-13",
+        "physical-therapy-14",
+        "chicken-pox",
+        "bee",
+        "puke",
+        "article-4-18-que-es-la-fiebre",
+        "ear-infection",
+        "lice",
+        "colds"
+      ]
+    }
+  ]
+}

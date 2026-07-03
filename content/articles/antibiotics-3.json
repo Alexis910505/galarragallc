@@ -1,0 +1,22 @@
+{
+  "id": "antibiotics-3",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "prevencion-y-tratamiento",
+  "es": {
+    "title": "El peligro del abuso de antibióticos",
+    "description": "El uso excesivo de antibióticos puede causar resistencia bacteriana. Los antibióticos solo tratan infecciones bacterianas, no virales. Usa antibióticos solo cuando los prescriba un médico. Siempre completa el tratamiento completo."
+  },
+  "en": {
+    "title": "The danger of antibiotic abuse",
+    "description": "Overuse of antibiotics can cause bacterial resistance. Antibiotics only treat bacterial infections, not viral ones. Use antibiotics only when prescribed by a doctor. Always complete the full treatment."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/antibiotics.html",
+      "en": "https://kidshealth.org/en/parents/antibiotics.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.894Z"
+}

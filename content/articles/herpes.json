@@ -1,0 +1,22 @@
+{
+  "id": "herpes",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "otras-infecciones",
+  "es": {
+    "title": "Herpes genital",
+    "description": "El herpes genital es una enfermedad de transmisión sexual causada por virus del herpes. Puede causar llagas dolorosas en el área genital. El tratamiento incluye medicamentos antivirales. La prevención incluye uso de protección y educación sexual."
+  },
+  "en": {
+    "title": "Genital herpes",
+    "description": "Genital herpes is a sexually transmitted disease caused by herpes viruses. It can cause painful sores in the genital area. Treatment includes antiviral medications. Prevention includes protection use and sex education."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/herpes.html",
+      "en": "https://kidshealth.org/en/parents/herpes.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.899Z"
+}

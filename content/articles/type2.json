@@ -1,0 +1,22 @@
+{
+  "id": "type2",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "crecimiento-hormonas-y-diabetes",
+  "es": {
+    "title": "¿Qué es la diabetes tipo 2?",
+    "description": "¿Qué es la diabetes tipo 2? Las personas con una diabetes tipo 2 tienen dificultades procesando la glucosa (azúcar) procedente de los alimentos para obtener energía. Después de comer, los hidratos de carbono se descomponen en glucosa. Cuando la glucosa entra en el torrente sanguíneo, sube la concentración de azúcar en sangre. Cuando sube la concentración de azúcar en sangre, el páncreas envía insulina al torrente sanguíneo. La insulina ayuda a que la glucosa entre en las células de todo el cuerpo, proporcionándoles la energía que necesitan. En la diabetes tipo 2, el páncreas fabrica insulina, pero las células no responden a la insulina como deberían responder. Esto se llama resistencia a la insulina. Puesto que la glucosa no puede entrar en las células, aumenta la concentración de azúcar en sangre. Entonces el páncreas trabaja más duro para fabricar incluso una mayor cantidad de insulina. Al principio, este exceso de insulina permite mantener el azúcar dentro de unos márgenes saludables. Pero con el tiempo, el páncreas no puede seguir funcionando a ese ritmo, por lo que la concentración de azúcar en sangre acaba subiendo demasiado. Cuando el azúcar en sangre se mantiene alto, es posible que la persona tenga una diabetes tipo 2."
+  },
+  "en": {
+    "title": "What is type 2 diabetes?",
+    "description": "Overview What Is Type 2 Diabetes? People who have type 2 diabetes have a hard time using glucose (sugar) from food for energy. After we eat, carbohydrates in food break down into glucose. When glucose enters the bloodstream, blood sugar levels go up. When this happens, the pancreas sends insulin into the blood. Insulin helps open cells throughout the body to let glucose in, giving the cells the energy they need. In type 2 diabetes, the pancreas makes insulin, but the cells don’t respond to it as they should. This is called insulin resistance. When glucose can’t get into cells, the blood sugar level rises. Then the pancreas works harder to make even more insulin. At first, the extra insulin keeps sugars in the normal range. But over time, the pancreas can’t keep up, and the blood sugars stay high. When blood sugars stay high, the person may have type 2 diabetes."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/type2.html",
+      "en": "https://kidshealth.org/en/parents/type2.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.780Z"
+}

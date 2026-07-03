@@ -1,0 +1,22 @@
+{
+  "id": "cochlear",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "afecciones-quirurgicas",
+  "es": {
+    "title": "Implantes cocleares",
+    "description": "¿Qué son los implantes cocleares? Un implante coclear es un dispositivo colocado quirúrgicamente que ayuda a una persona con pérdida auditiva grave a escuchar sonidos. La cóclea es una parte interna del oído con forma de caracol. Transforma las vibraciones de los sonidos en señales eléctricas que viajan a lo largo del nervio auditivo. El cerebro traduce estas señales y las convierte en sonidos reconocibles. Los implantes cocleares y los audífonos son diferentes: • Los audífonos aumentan el volumen para que una persona con pérdida auditiva pueda escuchar. • Los implantes cocleares reemplazan a las partes dañadas de la cóclea para estimular el nervio auditivo de forma directa. Pueden ser útiles cuando un audífono no lo es."
+  },
+  "en": {
+    "title": "Cochlear Implants",
+    "description": "What Are Cochlear Implants? A cochlear implant is a surgically placed device that helps a person with severe hearing loss hear sounds. The cochlea is a snail-shaped part of the inner ear. It turns sound vibrations into electrical signals that travel along the auditory (hearing) nerve. The brain translates these signals into recognizable sounds. Cochlear (KOE-klee-er) implants are different from hearing aids: • A hearing aid makes sounds louder so people with hearing loss can hear. • Cochlear implants bypass damaged parts of the cochlea to stimulate the auditory nerve directly. They may help when a hearing aid can't."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cochlear.html",
+      "en": "https://kidshealth.org/en/parents/cochlear.html"
+    }
+  },
+  "updatedAt": "2026-07-03T15:14:31.464Z"
+}

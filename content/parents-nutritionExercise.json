@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T14:29:17.631Z",
+  "category": "parents",
+  "topic": "nutritionExercise",
+  "title": {
+    "es": "Centro de alimentación y ejercicio físico",
+    "en": "Nutrition & Fitness"
+  },
+  "description": {
+    "es": "Usted sabe lo importante que es una buena alimentación y el ejercicio físico. Pero, ¿cómo puede alimentar bien a un niño que es quisquilloso con la comida o alentar a un niño, que odia hacer deportes, para que vaya a jugar afuera? Obtenga información sobre cómo mantener a su hijo sano con una buena alimentación y ejercicio físico.",
+    "en": "You know how important good nutrition and exercise are. But how can you feed a picky eater well or encourage a child who hates sports to go play outside? Get information on how to keep your child healthy with good nutrition and exercise."
+  },
+  "subtopics": [
+    {
+      "id": "herramientas-y-calculadora-del-indice-de-masa-corporal",
+      "title": {
+        "es": "Herramientas y calculadora del índice de masa corporal",
+        "en": "BMI calculator tools and index"
+      },
+      "articles": [
+        "feed-preschooler",
+        "milk-allergy",
+        "breastfeed-eating",
+        "arfid",
+        "milk-allergy-5",
+        "arfid-6",
+        "milk-allergy-7",
+        "milk-allergy-8",
+        "arfid-9",
+        "milk-allergy-10",
+        "milk-allergy-11",
+        "milk-allergy-12",
+        "milk-allergy-13",
+        "milk-allergy-14",
+        "milk-allergy-15"
+      ]
+    },
+    {
+      "id": "necesidades-alimenticias-especiales",
+      "title": {
+        "es": "Necesidades alimenticias especiales",
+        "en": "Special dietary needs"
+      },
+      "articles": [
+        "food-allergies",
+        "milk-allergy-2",
+        "celiac-disease",
+        "athlete-type1-diabetes",
+        "vitamin-d",
+        "feeding-families",
+        "milk-allergy-7",
+        "arfid-8",
+        "bmi-reports",
+        "milk-allergy-10",
+        "diet-cerebral-palsy",
+        "milk-allergy-12",
+        "milk-allergy-13",
+        "arfid-14",
+        "milk-allergy-15"
+      ]
+    },
+    {
+      "id": "seguridad-al-hacer-ejercicio",
+      "title": {
+        "es": "Seguridad al hacer ejercicio",
+        "en": "Exercise safety"
+      },
+      "articles": [
+        "milk-allergy-1",
+        "milk-allergy-2",
+        "breastfeed-eating-3",
+        "head-injuries-sheet",
+        "feed-child-athlete",
+        "feeding-families-6",
+        "breastfeed-eating-7",
+        "tree-nut-allergy",
+        "breastfeed-eating-9",
+        "arfid-10",
+        "picky-eater",
+        "signing-sports",
+        "milk-allergy-13",
+        "milk-allergy-14",
+        "safety-swimming"
+      ]
+    },
+    {
+      "id": "comer-sano-y-su-familia",
+      "title": {
+        "es": "Comer sano y su familia",
+        "en": "Healthy eating and your family"
+      },
+      "articles": [
+        "milk-allergy-1",
+        "milk-allergy-2",
+        "milk-allergy-3",
+        "feed-preschooler-4",
+        "milk-allergy-5",
+        "milk-allergy-6",
+        "milk-allergy-7",
+        "milk-allergy-8",
+        "milk-allergy-9",
+        "milk-allergy-10",
+        "hate-sports",
+        "milk-allergy-12",
+        "milk-allergy-13",
+        "milk-allergy-14",
+        "milk-allergy-15"
+      ]
+    },
+    {
+      "id": "recetas-saludables",
+      "title": {
+        "es": "Recetas saludables",
+        "en": "Healthy recipes"
+      },
+      "articles": [
+        "arfid-1",
+        "lunch",
+        "milk-allergy-3",
+        "milk-allergy-4",
+        "milk-allergy-5",
+        "bmi-reports-6",
+        "milk-allergy-7",
+        "milk-allergy-8",
+        "milk-allergy-9",
+        "hate-sports-10",
+        "arfid-11",
+        "feeding-families-12",
+        "milk-allergy-13",
+        "milk-allergy-14",
+        "milk-allergy-15"
+      ]
+    },
+    {
+      "id": "respuestas-sobre-la-alimentacion",
+      "title": {
+        "es": "Respuestas sobre la alimentación",
+        "en": "Nutrition answers"
+      },
+      "articles": [
+        "formulafeed-starting",
+        "arfid-2",
+        "milk-allergy-3",
+        "milk-allergy-4",
+        "milk-allergy-5",
+        "milk-allergy-6",
+        "milk-allergy-7",
+        "bmi-reports-8",
+        "milk-allergy-9",
+        "milk-allergy-10",
+        "child-caffeine",
+        "milk-allergy-12",
+        "fat",
+        "milk-allergy-14",
+        "milk-allergy-15"
+      ]
+    },
+    {
+      "id": "mantenerse-activo",
+      "title": {
+        "es": "Mantenerse activo",
+        "en": "Staying active"
+      },
+      "articles": [
+        "feed-child-athlete-1",
+        "diet-cerebral-palsy-2",
+        "arfid-3",
+        "breastfeed-eating-4",
+        "article-7-5-ejercicios-en-casa",
+        "bmi-reports-6",
+        "breastfeed-eating-7",
+        "bmi-reports-8",
+        "milk-allergy-9",
+        "milk-allergy-10",
+        "feeding-families-11",
+        "milk-allergy-12",
+        "milk-allergy-13",
+        "milk-allergy-14",
+        "bmi-reports-15"
+      ]
+    },
+    {
+      "id": "problemas-de-peso-y-alimentacion",
+      "title": {
+        "es": "Problemas de peso y alimentación",
+        "en": "Weight and eating problems"
+      },
+      "articles": [
+        "arfid-1",
+        "milk-allergy-2",
+        "arfid-3",
+        "breastfeed-eating-4",
+        "milk-allergy-5",
+        "milk-allergy-6",
+        "anorexia",
+        "bulimia",
+        "binge-eating",
+        "safe-veggies",
+        "milk-allergy-11",
+        "milk-allergy-12",
+        "picky-eater-13",
+        "milk-allergy-14",
+        "milk-allergy-15"
+      ]
+    }
+  ]
+}

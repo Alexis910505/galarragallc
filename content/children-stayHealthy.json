@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:34.459Z",
+  "category": "children",
+  "topic": "stayHealthy",
+  "title": {
+    "es": "Mantenerse sano",
+    "en": "Staying Healthy"
+  },
+  "description": {
+    "es": "Entérate de qué manera cuidar de tu cuerpo, comer sano y mantenerte en forma.",
+    "en": "Find out how to take care of your body, eat healthy, and stay fit."
+  },
+  "subtopics": [
+    {
+      "id": "tratar-bien-al-cuerpo",
+      "title": {
+        "es": "Tratar bien al cuerpo",
+        "en": "Treat your body well"
+      },
+      "articles": [
+        "alcohol",
+        "glasses",
+        "teeth-care",
+        "ear-care",
+        "htbw-main-page",
+        "dehydration",
+        "guide-shots",
+        "look-at-cooking",
+        "hearing-test",
+        "bad-breath",
+        "not-tired",
+        "overweight",
+        "sleepwalking",
+        "smoking",
+        "fit-kid",
+        "gaining-weight",
+        "cant-sleep",
+        "colds"
+      ]
+    },
+    {
+      "id": "mantenerse-en-forma-y-divertirse",
+      "title": {
+        "es": "Mantenerse en forma y divertirse",
+        "en": "Staying fit and having fun"
+      },
+      "articles": [
+        "sport-safety",
+        "pressure",
+        "dehydration-3",
+        "steroids",
+        "sports-physicals",
+        "yoga-stress",
+        "fitness-nutrition-center",
+        "overweight-8",
+        "fit-kid-9",
+        "gaining-weight-10",
+        "work-it-out",
+        "asthma-sports",
+        "no-sports"
+      ]
+    },
+    {
+      "id": "alimentos-fabulosos",
+      "title": {
+        "es": "Alimentos fabulosos",
+        "en": "Fabulous foods"
+      },
+      "articles": [
+        "not-tired-1",
+        "look-at-cooking-2",
+        "egg-allergy",
+        "food-allergies",
+        "fat",
+        "school-lunches",
+        "calorie",
+        "look-at-cooking-8",
+        "caffeine",
+        "labels",
+        "read-a-recipe",
+        "breakfast",
+        "ecoli",
+        "safe-in-kitchen",
+        "look-at-cooking-15",
+        "food-poisoning",
+        "5-seconds",
+        "minerals",
+        "fitness-nutrition-center-19",
+        "go-slow-whoa",
+        "vitamin",
+        "water",
+        "cholesterol",
+        "carb",
+        "no-sports-25"
+      ]
+    },
+    {
+      "id": "preguntas-sobre-el-peso",
+      "title": {
+        "es": "Preguntas sobre el peso",
+        "en": "Questions about weight"
+      },
+      "articles": [
+        "fit-kid-1"
+      ]
+    }
+  ]
+}

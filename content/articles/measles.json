@@ -1,0 +1,22 @@
+{
+  "id": "measles",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Sarampión",
+    "description": "El sarampión es una enfermedad viral muy contagiosa. Los síntomas incluyen fiebre alta, erupción característica y tos. Puede causar complicaciones serias. La vacunación previene la enfermedad. El tratamiento es de apoyo."
+  },
+  "en": {
+    "title": "Measles",
+    "description": "Measles is a very contagious viral disease. Symptoms include high fever, characteristic rash, and cough. It can cause serious complications. Vaccination prevents the disease. Treatment is supportive."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/measles.html",
+      "en": "https://kidshealth.org/en/parents/measles.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.889Z"
+}

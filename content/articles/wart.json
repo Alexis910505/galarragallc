@@ -1,0 +1,22 @@
+{
+  "id": "wart",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "infecciones-de-la-piel",
+  "es": {
+    "title": "Verrugas",
+    "description": "Las verrugas son crecimientos de la piel causados por el virus del papiloma humano. Son comunes en niños. La mayoría desaparecen solas. El tratamiento puede incluir medicamentos tópicos o procedimientos médicos. La prevención incluye buena higiene."
+  },
+  "en": {
+    "title": "Warts",
+    "description": "Warts are skin growths caused by human papillomavirus. They're common in children. Most disappear on their own. Treatment may include topical medications or medical procedures. Prevention includes good hygiene."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/wart.html",
+      "en": "https://kidshealth.org/en/parents/wart.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.888Z"
+}

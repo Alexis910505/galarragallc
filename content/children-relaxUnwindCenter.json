@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T16:36:37.721Z",
+  "category": "children",
+  "topic": "relaxUnwindCenter",
+  "title": {
+    "es": "Centro de reducción del estrés",
+    "en": "Relax & Unwind Center"
+  },
+  "description": {
+    "es": "La vida te enfrenta a situaciones estresantes, desde exámenes en la escuela hasta peleas con tus amigos. Aprende a controlar las situaciones y solucionar problemas.",
+    "en": "Life brings you stressful situations, from school exams to fights with friends. Learn how to manage situations and solve problems."
+  },
+  "subtopics": [
+    {
+      "id": "ayudate",
+      "title": {
+        "es": "Ayúdate",
+        "en": "Help yourself"
+      },
+      "articles": [
+        "talk-feelings"
+      ]
+    },
+    {
+      "id": "tu-cuidado",
+      "title": {
+        "es": "Tu cuidado",
+        "en": "Your care"
+      },
+      "articles": [
+        "not-tired",
+        "fit-kid",
+        "work-it-out"
+      ]
+    }
+  ]
+}

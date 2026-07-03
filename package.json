@@ -17,12 +17,25 @@
     "typescript": "4.9.5"
   },
   "scripts": {
+    "prestart": "npm run build:content-bundle",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build:content-bundle": "node scripts/build-topic-bundle.js",
+    "build": "npm run build:content-bundle && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "export:content": "node scripts/export-content.js",
+    "fill:content": "node scripts/fill-content-json.js",
+    "complete:parents": "node scripts/complete-parents-content.js",
+    "fill:parents": "node scripts/fill-all-parents.js",
+    "complete:children": "node scripts/complete-children-content.js",
+    "fill:children": "node scripts/fill-all-children.js",
+    "fix:children": "node scripts/fix-remaining-children.js",
+    "complete:teenagers": "node scripts/complete-teenagers-content.js",
+    "fill:teenagers": "node scripts/fill-all-teenagers.js",
+    "fix:teenagers": "node scripts/fix-remaining-teenagers.js",
+    "fill:kidshealth": "node scripts/fill-kidshealth.js"
   },
   "eslintConfig": {
     "extends": [

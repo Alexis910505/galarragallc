@@ -1,0 +1,22 @@
+{
+  "id": "coronavirus-2",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "covid-19-y-coronavirus",
+  "es": {
+    "title": "COVID-19: Cuidados en casa",
+    "description": "Si tu hijo tiene COVID-19, manténlo aislado en casa. Monitorea los síntomas, mantén buena hidratación y descanso. Usa mascarillas en casa y desinfecta superficies. Consulta a un médico si los síntomas empeoran."
+  },
+  "en": {
+    "title": "COVID-19: Home care",
+    "description": "If your child has COVID-19, keep them isolated at home. Monitor symptoms, maintain good hydration and rest. Use masks at home and disinfect surfaces. Consult a doctor if symptoms worsen."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/coronavirus.html",
+      "en": "https://kidshealth.org/en/parents/coronavirus.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.892Z"
+}

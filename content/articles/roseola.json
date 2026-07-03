@@ -1,0 +1,22 @@
+{
+  "id": "roseola",
+  "category": "parents",
+  "topic": "infections",
+  "subtopicId": "enfermedades-virales-comunes",
+  "es": {
+    "title": "Roséola",
+    "description": "La roséola es una enfermedad viral común en niños menores de 2 años. Causa fiebre alta seguida de erupción rosada. Generalmente es leve y se resuelve sola. El tratamiento incluye medicamentos para la fiebre y descanso."
+  },
+  "en": {
+    "title": "Roseola",
+    "description": "Roseola is a common viral disease in children under 2 years. It causes high fever followed by pink rash. It's generally mild and resolves on its own. Treatment includes fever medications and rest."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/roseola.html",
+      "en": "https://kidshealth.org/en/parents/roseola.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:29:15.891Z"
+}

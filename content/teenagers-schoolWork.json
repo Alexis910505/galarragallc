@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "source": "kidshealth",
+  "exportedAt": "2026-07-03T18:30:28.142Z",
+  "category": "teenagers",
+  "topic": "schoolWork",
+  "title": {
+    "es": "Estudio y trabajo",
+    "en": "School, Jobs & Friends"
+  },
+  "description": {
+    "es": "¿Estás pensando en hacer trabajo voluntario? ¿Estás planificando tu vida después de la escuela secundaria? En esta sección encontrarás ayuda para hacer la tarea escolar, enfrentar a un bravucón, encontrar un trabajo de verano y mucho más.",
+    "en": "Are you thinking about volunteering? Are you planning your life after high school? In this section you'll find help with homework, dealing with a bully, finding a summer job, and much more."
+  },
+  "subtopics": [
+    {
+      "id": "conducir-de-manera-segura",
+      "title": {
+        "es": "Conducir de manera segura",
+        "en": "Safe driving"
+      },
+      "articles": [
+        "road-trip"
+      ]
+    },
+    {
+      "id": "buenos-amigos",
+      "title": {
+        "es": "Buenos amigos",
+        "en": "Good friends"
+      },
+      "articles": [
+        "understanding-others",
+        "addictions",
+        "making-friends-es",
+        "emotional-reactions",
+        "runaway",
+        "talking-about-suicide",
+        "help-obstacles",
+        "apologies",
+        "assertive",
+        "friend-diabetes",
+        "help-autism",
+        "friend-cuts",
+        "help-depressed-friend"
+      ]
+    },
+    {
+      "id": "trabajos-y-ser-voluntario",
+      "title": {
+        "es": "Trabajos y ser voluntario",
+        "en": "Jobs and volunteering"
+      },
+      "articles": [
+        "natural-disaster",
+        "babysit",
+        "donating-blood",
+        "rejection",
+        "volunteering",
+        "babysit-safety"
+      ]
+    },
+    {
+      "id": "consejos-para-la-escuela",
+      "title": {
+        "es": "Consejos para la escuela",
+        "en": "School tips"
+      },
+      "articles": [
+        "homework",
+        "online-research",
+        "test-anxiety",
+        "backpack",
+        "get-help-homework",
+        "goals-tips",
+        "nerves",
+        "school-counselors",
+        "testing-tips",
+        "take-notes",
+        "hospital-stays",
+        "starting-high-school",
+        "sickle-college",
+        "motivation",
+        "back-to-school",
+        "study-drugs",
+        "test-stress",
+        "focused",
+        "writing-papers",
+        "internet-safety",
+        "test-terror",
+        "adhd-tips",
+        "autism",
+        "school-concussions",
+        "meditation"
+      ]
+    },
+    {
+      "id": "consejos-sobre-el-estudio",
+      "title": {
+        "es": "Consejos sobre el estudio",
+        "en": "Study tips"
+      },
+      "articles": [
+        "homework-1",
+        "get-help-homework-2",
+        "testing-tips-3",
+        "take-notes-4",
+        "homework-help",
+        "focused-6",
+        "writing-papers-7",
+        "test-terror-8",
+        "meditation-9"
+      ]
+    }
+  ]
+}

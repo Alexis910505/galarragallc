@@ -1,0 +1,22 @@
+{
+  "id": "hepatitis-a",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Diarrea",
+    "description": "La diarrea es un síntoma común de infecciones gastrointestinales. Puede ser causada por virus, bacterias o parásitos. La deshidratación es la principal complicación. El tratamiento incluye rehidratación oral y dieta blanda."
+  },
+  "en": {
+    "title": "Diarrhea",
+    "description": "Hepatitis A is a viral liver infection transmitted through contaminated food or water. Symptoms include fatigue, nausea, and yellowing. Vaccination prevents the disease. Most people recover completely."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/hepatitis-a.html",
+      "en": "https://kidshealth.org/en/parents/hepatitis-a.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.301Z"
+}

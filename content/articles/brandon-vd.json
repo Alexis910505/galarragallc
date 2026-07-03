@@ -1,0 +1,22 @@
+{
+  "id": "brandon-vd",
+  "category": "teenagers",
+  "topic": "sports",
+  "subtopicId": "deportes-y-lesiones",
+  "es": {
+    "title": "Pérdida de peso: La historia de Brandon (video)",
+    "description": "Brandon tiene 17 años. En este video describe cómo llegó a pesar 140 libras durante su niñez y adolescencia, y de qué manera se hizo cargo de su peso y perdió 70 libras. El simple hecho de ir en bicicleta a la escuela le permitió a Brandon comenzar a perder peso, pero también lo inspiró para hacer cosas que jamás podría haber imaginado. En la actualidad, Brandon tiene mucha más confianza en sí mismo y se está entrenando para participar en un triatlón. Conoce su historia en este video."
+  },
+  "en": {
+    "title": "Weight loss: Brandon's story (video)",
+    "description": "Brandon is 17. In this video, he talks about gaining 140 pounds during his childhood and teen years, and how he took charge of his weight and lost 70 pounds. The simple act of riding his bike to school not only got Brandon on track for weight loss — it also inspired him to do things he couldn't have imagined doing before. Today, Brandon is a lot more confident — and he's training to take part in a triathlon. Check out his story in this video."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/teens/brandon-vd.html",
+      "en": "https://kidshealth.org/en/teens/brandon-vd.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:30:55.790Z"
+}

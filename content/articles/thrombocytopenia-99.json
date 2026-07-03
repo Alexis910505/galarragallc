@@ -1,0 +1,22 @@
+{
+  "id": "thrombocytopenia-99",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "corazon-y-vasos-sanguineos",
+  "es": {
+    "title": "Trombocitopenia",
+    "description": "¿Qué es la trombocitopenia? La trombocitopenia consiste en que hay una cantidad de plaquetas menor a la normal en el torrente sanguíneo. Las plaquetas son unas células diminutas e incoloras que contiene la sangre y que ayudan a que esta se coagule. Al igual que todas las células sanguíneas, las plaquetas se fabrican en la médula ósea (la parte esponjosa que hay en el interior de los huesos)."
+  },
+  "en": {
+    "title": "Thrombocytopenia",
+    "description": "Overview What Is Thrombocytopenia? Thrombocytopenia (throm-buh-sye-tuh-PEE-nee-uh) is when there aren't as many normal platelets in the blood as there should be. Platelets, also called thrombocytes (THROM-buh-sytes), are tiny colorless cells in the blood that help the blood clot. Like all blood cells, platelets are made in the bone marrow — the spongy inner part of bones."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/thrombocytopenia.html",
+      "en": "https://kidshealth.org/en/parents/thrombocytopenia.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:39:04.563Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cellulitis",
+  "category": "teenagers",
+  "topic": "infections",
+  "subtopicId": "infecciones-bacterianas-y-virales",
+  "es": {
+    "title": "Celulitis",
+    "description": "La celulitis es una infección bacteriana de la piel y tejidos subyacentes. Los síntomas incluyen enrojecimiento, hinchazón, calor y dolor. Requiere tratamiento con antibióticos. La celulitis facial requiere atención médica inmediata."
+  },
+  "en": {
+    "title": "Cellulitis",
+    "description": "Cellulitis is a bacterial infection of the skin and underlying tissues. Symptoms include redness, swelling, heat, and pain. It requires treatment with antibiotics. Facial cellulitis requires immediate medical attention."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/cellulitis.html",
+      "en": "https://kidshealth.org/en/parents/cellulitis.html"
+    }
+  },
+  "updatedAt": "2026-07-03T18:09:47.299Z"
+}

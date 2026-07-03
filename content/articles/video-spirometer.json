@@ -1,0 +1,22 @@
+{
+  "id": "video-spirometer",
+  "category": "teenagers",
+  "topic": "diseasesConditions",
+  "subtopicId": "alergias-asma-y-el-sistema-inmunologico",
+  "es": {
+    "title": "Obtención de un estudio de la respiración, espirometría (video)",
+    "description": "(Getting a Spirometry Test (Video)) La espirometría mide el nivel de funcionamiento de los pulmones para ayudar a los médicos a diagnosticar asma y otros problemas respiratorios. Este estudio es tan fácil como soplar las velas del pastel de cumpleaños."
+  },
+  "en": {
+    "title": "Getting a breathing study, spirometry (video)",
+    "description": "A spirometer measures how well your lungs work to help doctors diagnose asthma and other breathing problems. This test is as easy as blowing out your birthday candles."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/video-spirometer.html",
+      "en": "https://kidshealth.org/en/kids/video-spirometer.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:49:18.738Z"
+}

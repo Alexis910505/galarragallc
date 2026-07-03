@@ -1,0 +1,22 @@
+{
+  "id": "sickle-cell-anemia-46",
+  "category": "parents",
+  "topic": "diseasesConditions",
+  "subtopicId": "corazon-y-vasos-sanguineos",
+  "es": {
+    "title": "Enfermedad de células falciformes",
+    "description": "¿Qué es la enfermedad de células falciformes? La enfermedad de células falciformes es un grupo de afecciones en la que los glóbulos rojos no tienen la forma que deberían tener. Los glóbulos rojos usualmente tienen el aspecto de discos redondeados. Pero en la enfermedad de células falciformes, los glóbulos rojos son en forma de hoz o de luna creciente. Las células en forma de hoz pueden causar problemas dado que: • Son rígidas y pegajosas y bloquean los vasos sanguíneos pequeños al pagarse entre ellas. Esto impide que la sangre llegue adonde debería llegar, lo que puede generar dolor y lesiones en los órganos. • Estas células se descomponen más rápido que los glóbulos rojos normales. Esto conduce a una reducción en el número de glóbulos rojos que se denomina anemia."
+  },
+  "en": {
+    "title": "Sickle Cell Disease",
+    "description": "Overview What Is Sickle Cell Disease? Sickle cell disease, or SCD, is a group of conditions in which red blood cells are not shaped as they should be. Red blood cells normally look like round discs. But in sickle cell disease, they're shaped like sickles, or crescent moons, instead. Why Cell Shape Matters The sickle shaped cells cause problems because: • They are stiff and sticky and block small blood vessels when they get stuck together. This stops blood from moving as it should, which can lead to pain and organ damage. • They break down faster than normal red blood cells. That leads to too few red blood cells, a condition called anemia."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/sickle-cell-anemia.html",
+      "en": "https://kidshealth.org/en/parents/sickle-cell-anemia.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:38:45.934Z"
+}

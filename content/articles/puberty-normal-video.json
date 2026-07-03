@@ -1,0 +1,22 @@
+{
+  "id": "puberty-normal-video",
+  "category": "children",
+  "topic": "pubertyGrowth",
+  "subtopicId": "cosas-de-mujeres",
+  "es": {
+    "title": "Video: ¿Soy normal? (Las niñas y la pubertad)",
+    "description": "(Video: Am I Normal? (Girls and Puberty)) Las niñas tienen muchas preguntas sobre los cambios del cuerpo durante la pubertad. ¿Cuándo me crecerán los pechos? ¿Cuál es la edad \"normal\" para tener el primer período? ¡Mira este video para enterarte!"
+  },
+  "en": {
+    "title": "Video: Am I Normal? (Girls and Puberty)",
+    "description": "Girls have lots of questions about the body changes of puberty. When will my breasts grow? What's the \"normal\" age to get your first period? Watch this video and find out!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/puberty-normal-video.html",
+      "en": "https://kidshealth.org/en/kids/puberty-normal-video.html"
+    }
+  },
+  "updatedAt": "2026-07-03T16:38:19.754Z"
+}

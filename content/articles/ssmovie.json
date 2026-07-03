@@ -1,0 +1,22 @@
+{
+  "id": "ssmovie",
+  "category": "children",
+  "topic": "body",
+  "subtopicId": "articulos-y-videos",
+  "es": {
+    "title": "Video: Huesos",
+    "description": "Huesos conforman la estructura de tu cuerpo, permiten que te muevas de muchas formas diferentes, protegen tus órganos internos y hacen muchas cosas más. Si deseas saber más sobre tus hermosos huesos, este video es el lugar ideal para comenzar a obtener información."
+  },
+  "en": {
+    "title": "How Does the Skeletal System (Bones) Work? (Video)",
+    "description": "How Do Bones Work? And What Do Bones Do? If you want to know more about your beautiful bones, this movie is a great place to start!"
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/kids/ssmovie.html",
+      "en": "https://kidshealth.org/en/kids/ssmovie.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:02:35.607Z"
+}

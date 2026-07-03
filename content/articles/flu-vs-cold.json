@@ -1,0 +1,22 @@
+{
+  "id": "flu-vs-cold",
+  "category": "parents",
+  "topic": "generalHealth",
+  "subtopicId": "el-cuerpo-humano",
+  "es": {
+    "title": "Aparato reproductor masculino",
+    "description": "Los gérmenes son microorganismos que pueden causar enfermedades. Las bacterias son organismos unicelulares que pueden tratarse con antibióticos. Los virus requieren células huésped y no responden a los antibióticos. Los hongos y protozoos también pueden causar infecciones."
+  },
+  "en": {
+    "title": "Male reproductive system",
+    "description": "Germs are microorganisms that can cause disease. Bacteria are single-celled organisms that can be treated with antibiotics. Viruses require host cells and don't respond to antibiotics. Fungi and protozoa can also cause infections."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/flu-vs-cold.html",
+      "en": "https://kidshealth.org/en/parents/flu-vs-cold.html"
+    }
+  },
+  "updatedAt": "2026-07-03T14:41:00.102Z"
+}

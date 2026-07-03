@@ -1,0 +1,22 @@
+{
+  "id": "vaccine-12",
+  "category": "parents",
+  "topic": "doctorsHospitals",
+  "subtopicId": "vacunas",
+  "es": {
+    "title": "Las vacunas de su hijo",
+    "description": "Los bebés nacen con una protección contra algunas enfermedades porque sus madres les trasmiten anticuerpos (proteínas que ha fabricado su cuerpo para combatir enfermedades) antes de nacer. Los bebés amamantados siguen recibiendo más anticuerpos a través de la leche materna. Pero ambos tipos de protección solo son de carácter temporal. Y para algunas enfermedades, es posible que el bebé no reciba ningún anticuerpo protector durante el embarazo. Por eso es tan importante vacunar a los bebés a una edad temprana, antes de que se expongan a enfermedades. Una manera de crear inmunidad a algunas enfermedades (protección contra ellas) consiste en vacunarse. A veces esto se consigue usando pequeñas cantidades de los gérmenes, muertos o debilitados, que causan la enfermedad. Otras veces, la vacuna solo contiene un pequeño fragmento del germen, como una proteína o un fragmento de material genético. Los gérmenes pueden ser virus (como el virus del sarampión) o bacterias (como el neumococo). Las vacunas estimulan al sistema inmunitario a reaccionar como si se tratara de una infección real. El sistema inmunitario pelea con la “infección” y recuerda cuál es el germen que la causa. Así, podrá luchar contra ese germen si volviera a entrar en el cuerpo más adelante."
+  },
+  "en": {
+    "title": "Your Child's Vaccines",
+    "description": "Babies are born with protection against some diseases because their mothers pass antibodies (proteins made by the body to fight disease) to them before birth. Breastfed babies continue to get more antibodies in breast milk. But in both cases, the protection is temporary. And for some diseases, a baby might not get protective antibodies at all during the pregnancy. That’s why it’s so important to vaccinate babies early in life, before they're exposed to diseases. Vaccination is a way to create immunity to (protection from) some diseases. Sometimes this is done by using small amounts of a killed or weakened germ that causes the disease. Other times the vaccine is simply a small piece of the germ, such as a protein or a piece of its genetic material. Germs can be viruses (such as the measles virus) or bacteria (such as pneumococcus). Vaccines stimulate the immune system to react as if there were a real infection. It fights the \"infection\" and remembers the germ. Then, it can attack the germ if it enters the body later."
+  },
+  "source": {
+    "name": "kidshealth",
+    "urls": {
+      "es": "https://kidshealth.org/es/parents/vaccine.html",
+      "en": "https://kidshealth.org/en/parents/vaccine.html"
+    }
+  },
+  "updatedAt": "2026-07-03T17:20:51.275Z"
+}
